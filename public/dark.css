@@ -19,3 +19,5 @@ dialog{background:#141d17;color:#edf4ec;border:1px solid #34473b;box-shadow:0 30
 .hero{display:block;min-height:0}.hero-copy{padding:40px 48px}.hero-copy h1{font-size:64px;margin:22px 0}.hero-copy p{max-width:620px}.hero .button{margin-bottom:0}.benefits{justify-content:space-around}@media(max-width:760px){.hero-copy{padding:30px 26px}.hero-copy h1{font-size:46px;letter-spacing:-2px}.hero{min-height:0}.benefits{gap:16px;flex-wrap:wrap}}
 
 .card-swatches .bottle-choice{width:auto;height:auto;min-height:30px;border:1px solid #4b6b55;border-radius:5px;padding:5px 8px;font-size:11px;color:#d5eddb;background:#17271d}.card-swatches .bottle-choice[aria-pressed=true]{border-color:#86dfaa;background:#284331}.options .bottle-choice{gap:0}
+
+.delivery-schedule>.delivery-fee-note{font-size:17px;font-weight:700;line-height:1.5;color:#b6efc9;padding:10px 12px;border:1px solid #436a50;border-radius:8px;background:#203c2b}

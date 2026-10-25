@@ -1,4 +1,4 @@
-// Source snapshots and merchant inventory/pricing rules are documented in CATALOG-SOURCES.json.
+// Source snapshots and merchant stock/pricing policies: CATALOG-SOURCES.json.
 window.catalog = [
  {
   "id": "jordan-flight-court",
@@ -12007,174 +12007,963 @@ window.catalog = [
   ]
  },
  {
-  "id": "colourpop-fallen",
-  "name": "ColourPop Fallen Eyeshadow Palette",
-  "brand": "ColourPop",
-  "department": "Makeup",
-  "category": "Eyeshadow",
-  "audience": "Women",
-  "price": 3723,
-  "tag": "Brand-store selection",
-  "description": "Fall has range, and so do you.",
-  "sizeLabel": "Clothing size",
+  "id": "facecare-6720892141623",
+  "name": "Naturium Dew-Glow Moisturizer SPF 50",
+  "brand": "Naturium",
+  "department": "Face care",
+  "category": "Sunscreen",
+  "audience": "Unisex",
+  "price": 3762,
+  "tag": "Sunscreen",
+  "description": "Daily face moisturizer with SPF 50.",
+  "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "As pictured": {
+   "Standard - 1.7 fl oz": {
     "": {
-     "usd": 23,
-     "etb": 3723,
-     "sourceURL": "https://colourpop.com/products/fallen-15-pan-eyeshadow-palette?variant=42663566016594",
-     "sourceVariantID": "42663566016594",
-     "sourceSKU": "EyePalette-Fallen"
+     "usd": 22.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 3762,
+     "sourceURL": "https://naturium.com/products/dew-glow-moisturizer-spf-50-original?variant=40870872023095",
+     "sourceVariantID": "40870872023095",
+     "sourceSKU": "NATR-10056",
+     "availableAtSource": true,
+     "packageLabel": "Standard - 1.7 fl oz",
+     "sourceVariantTitle": "Standard - 1.7 fl oz"
     }
    }
   },
   "variants": {
-   "As pictured": [
-    "/images/catalog/c3cd3388cc32764bf3.jpg",
-    "/images/catalog/9b064e8d5b3b4f352a.jpg",
-    "/images/catalog/c5c7124fe3827f10ab.jpg",
-    "/images/catalog/67d75bc2c11648f4af.jpg",
-    "/images/catalog/423319e64d6be14b5f.jpg"
+   "Standard - 1.7 fl oz": [
+    "/images/catalog/e297e859b389380f08.webp"
    ]
   },
   "swatches": {
-   "As pictured": "#ad3140"
+   "Standard - 1.7 fl oz": "#d4c9b5"
   },
   "sourceURLs": {
-   "As pictured": "https://colourpop.com/products/fallen-15-pan-eyeshadow-palette"
+   "Standard - 1.7 fl oz": "https://naturium.com/products/dew-glow-moisturizer-spf-50-original"
   },
-  "ratings": {
-   "As pictured": {
-    "value": 4.9,
-    "count": 75,
-    "sourceURL": "https://colourpop.com/products/fallen-15-pan-eyeshadow-palette"
-   }
-  },
+  "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "As pictured"
+   "Standard - 1.7 fl oz"
   ],
   "images": [
-   "/images/catalog/c3cd3388cc32764bf3.jpg",
-   "/images/catalog/9b064e8d5b3b4f352a.jpg",
-   "/images/catalog/c5c7124fe3827f10ab.jpg",
-   "/images/catalog/67d75bc2c11648f4af.jpg",
-   "/images/catalog/423319e64d6be14b5f.jpg"
+   "/images/catalog/e297e859b389380f08.webp"
   ]
  },
  {
-  "id": "colourpop-espresso",
-  "name": "ColourPop Espresso Yourself",
-  "brand": "ColourPop",
-  "department": "Makeup",
-  "category": "Lip liner",
-  "audience": "Women",
-  "price": 3885,
-  "tag": "Brand-store selection",
-  "description": "Go deeper with the Espresso Yourself trio \u2014 Just Perfect, Iced Espresso, and Mochaccino, three blurred browns for every strength of your lip order.",
-  "sizeLabel": "Clothing size",
+  "id": "facecare-7657094611097",
+  "name": "EltaMD UV Clear Broad Spectrum SPF 46",
+  "brand": "EltaMD",
+  "department": "Face care",
+  "category": "Sunscreen",
+  "audience": "Unisex",
+  "price": 7866,
+  "tag": "Sunscreen",
+  "description": "One 1.7 oz bottle. Untinted facial sunscreen with broad-spectrum SPF 46.",
+  "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "As pictured": {
+   "1.7 oz": {
     "": {
-     "usd": 24,
-     "etb": 3885,
-     "sourceURL": "https://colourpop.com/products/espresso-yourself-cloud-whip-lip-liner-trio?variant=42663542521938",
-     "sourceVariantID": "42663542521938",
-     "sourceSKU": "Bundle-EspressoYourself"
+     "usd": 46.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 7866,
+     "sourceURL": "https://eltamd.com/products/uv-clear-broad-spectrum-spf-46?variant=43130780811417",
+     "sourceVariantID": "43130780811417",
+     "sourceSKU": "02500A-001",
+     "availableAtSource": true,
+     "packageLabel": "1.7 oz",
+     "sourceVariantTitle": "1.7 oz"
     }
    }
   },
   "variants": {
-   "As pictured": [
-    "/images/catalog/c6730e0298678456e5.jpg",
-    "/images/catalog/f929ed750e32e02473.jpg",
-    "/images/catalog/9b97d26cd9e76a9542.jpg",
-    "/images/catalog/d9da48d8f56228c9a6.jpg",
-    "/images/catalog/fb131d455554b8f762.jpg"
+   "1.7 oz": [
+    "/images/catalog/d1632e24ac70309e3a.webp"
    ]
   },
   "swatches": {
-   "As pictured": "#ad3140"
+   "1.7 oz": "#d4c9b5"
   },
   "sourceURLs": {
-   "As pictured": "https://colourpop.com/products/espresso-yourself-cloud-whip-lip-liner-trio"
+   "1.7 oz": "https://eltamd.com/products/uv-clear-broad-spectrum-spf-46"
   },
-  "ratings": {
-   "As pictured": {
-    "value": 4.9,
-    "count": 88,
-    "sourceURL": "https://colourpop.com/products/espresso-yourself-cloud-whip-lip-liner-trio"
-   }
-  },
+  "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "As pictured"
+   "1.7 oz"
   ],
   "images": [
-   "/images/catalog/c6730e0298678456e5.jpg",
-   "/images/catalog/f929ed750e32e02473.jpg",
-   "/images/catalog/9b97d26cd9e76a9542.jpg",
-   "/images/catalog/d9da48d8f56228c9a6.jpg",
-   "/images/catalog/fb131d455554b8f762.jpg"
+   "/images/catalog/d1632e24ac70309e3a.webp"
   ]
  },
  {
-  "id": "colourpop-gloss",
-  "name": "ColourPop Perfect 4 U",
-  "brand": "ColourPop",
-  "department": "Makeup",
-  "category": "Lip gloss",
+  "id": "facecare-7269697060962",
+  "name": "Supergoop! Unseen Sunscreen SPF 50",
+  "brand": "Supergoop!",
+  "department": "Face care",
+  "category": "Sunscreen",
   "audience": "Women",
-  "price": 3885,
-  "tag": "Brand-store selection",
-  "description": "Get 3 must-have Ultra Glossy Lip shades!",
-  "sizeLabel": "Clothing size",
+  "price": 6498,
+  "tag": "Sunscreen",
+  "description": "Clear facial sunscreen with SPF 50.",
+  "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "As pictured": {
+   "1.7 fl. oz.": {
     "": {
-     "usd": 24,
-     "etb": 3885,
-     "sourceURL": "https://colourpop.com/products/perfect-4-u-ultra-glossy-lip-set?variant=41239445864530",
-     "sourceVariantID": "41239445864530",
-     "sourceSKU": "Bundle-Perfect4U"
+     "usd": 38.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 6498,
+     "sourceURL": "https://supergoop.com/products/unseen-sunscreen-spf-50?variant=41610270802018",
+     "sourceVariantID": "41610270802018",
+     "sourceSKU": "8817",
+     "availableAtSource": true,
+     "packageLabel": "1.7 fl. oz.",
+     "sourceVariantTitle": "1.7 fl. oz."
     }
    }
   },
   "variants": {
-   "As pictured": [
-    "/images/catalog/5c4d40f9d50b624145.jpg",
-    "/images/catalog/77fb724273e6ed4b31.jpg",
-    "/images/catalog/0c01f529acc7f1d9aa.jpg",
-    "/images/catalog/907cf914c2dee2960a.jpg",
-    "/images/catalog/cc3c1426e9108953d8.jpg"
+   "1.7 fl. oz.": [
+    "/images/catalog/9278e29d8e6c867d16.webp"
    ]
   },
   "swatches": {
-   "As pictured": "#ad3140"
+   "1.7 fl. oz.": "#d4c9b5"
   },
   "sourceURLs": {
-   "As pictured": "https://colourpop.com/products/perfect-4-u-ultra-glossy-lip-set"
+   "1.7 fl. oz.": "https://supergoop.com/products/unseen-sunscreen-spf-50"
   },
-  "ratings": {
-   "As pictured": {
-    "value": 4.7,
-    "count": 10443,
-    "sourceURL": "https://colourpop.com/products/perfect-4-u-ultra-glossy-lip-set"
-   }
-  },
+  "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "As pictured"
+   "1.7 fl. oz."
   ],
   "images": [
-   "/images/catalog/5c4d40f9d50b624145.jpg",
-   "/images/catalog/77fb724273e6ed4b31.jpg",
-   "/images/catalog/0c01f529acc7f1d9aa.jpg",
-   "/images/catalog/907cf914c2dee2960a.jpg",
-   "/images/catalog/cc3c1426e9108953d8.jpg"
+   "/images/catalog/9278e29d8e6c867d16.webp"
+  ]
+ },
+ {
+  "id": "facecare-14990688223604",
+  "name": "Beauty of Joseon Dayscreen Moisturizer SPF 30",
+  "brand": "Beauty of Joseon",
+  "department": "Face care",
+  "category": "Sunscreen",
+  "audience": "Women",
+  "price": 3420,
+  "tag": "Sunscreen",
+  "description": "Daily face moisturizer and sunscreen with SPF 30.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "1-Pack": {
+    "": {
+     "usd": 20.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 3420,
+     "sourceURL": "https://beautyofjoseon.com/products/dayscreen-moisturizer-sunscreen-us?variant=54406320095604",
+     "sourceVariantID": "54406320095604",
+     "sourceSKU": "01BU030",
+     "availableAtSource": true,
+     "packageLabel": "1-Pack",
+     "sourceVariantTitle": "1-Pack"
+    }
+   }
+  },
+  "variants": {
+   "1-Pack": [
+    "/images/catalog/8eb4a46a617811f832.webp"
+   ]
+  },
+  "swatches": {
+   "1-Pack": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "1-Pack": "https://beautyofjoseon.com/products/dayscreen-moisturizer-sunscreen-us"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "1-Pack"
+  ],
+  "images": [
+   "/images/catalog/8eb4a46a617811f832.webp"
+  ]
+ },
+ {
+  "id": "facecare-7351297310775",
+  "name": "Naturium Multi-Calm Cream Cleanser",
+  "brand": "Naturium",
+  "department": "Face care",
+  "category": "Cleanser",
+  "audience": "Unisex",
+  "price": 3420,
+  "tag": "Cleanser",
+  "description": "Cream cleanser with colloidal oatmeal, glycerin and squalane.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard tube": {
+    "": {
+     "usd": 20.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 3420,
+     "sourceURL": "https://naturium.com/products/multi-calm-cream-cleanser-1?variant=41919815680055",
+     "sourceVariantID": "41919815680055",
+     "sourceSKU": "NATR-10143",
+     "availableAtSource": true,
+     "packageLabel": "Standard tube",
+     "sourceVariantTitle": "Default Title"
+    }
+   }
+  },
+  "variants": {
+   "Standard tube": [
+    "/images/catalog/fbbeabc50b14594d73.webp"
+   ]
+  },
+  "swatches": {
+   "Standard tube": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard tube": "https://naturium.com/products/multi-calm-cream-cleanser-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard tube"
+  ],
+  "images": [
+   "/images/catalog/fbbeabc50b14594d73.webp"
+  ]
+ },
+ {
+  "id": "facecare-7312924803237",
+  "name": "Beauty of Joseon Green Plum Refreshing Cleanser",
+  "brand": "Beauty of Joseon",
+  "department": "Face care",
+  "category": "Cleanser",
+  "audience": "Women",
+  "price": 3420,
+  "tag": "Cleanser",
+  "description": "Refreshing gel cleanser for your daily face-care routine.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "200 ml (6.76 FL. OZ.)": {
+    "": {
+     "usd": 20.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 3420,
+     "sourceURL": "https://beautyofjoseon.com/products/green-plum-refreshing-cleanser?variant=53445552210292",
+     "sourceVariantID": "53445552210292",
+     "sourceSKU": "99BC021",
+     "availableAtSource": true,
+     "packageLabel": "200 ml (6.76 FL. OZ.)",
+     "sourceVariantTitle": "200 ml (6.76 FL. OZ.)"
+    }
+   }
+  },
+  "variants": {
+   "200 ml (6.76 FL. OZ.)": [
+    "/images/catalog/64c487e39bfb98271b.webp"
+   ]
+  },
+  "swatches": {
+   "200 ml (6.76 FL. OZ.)": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "200 ml (6.76 FL. OZ.)": "https://beautyofjoseon.com/products/green-plum-refreshing-cleanser"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "200 ml (6.76 FL. OZ.)"
+  ],
+  "images": [
+   "/images/catalog/64c487e39bfb98271b.webp"
+  ]
+ },
+ {
+  "id": "facecare-15172597612912",
+  "name": "First Aid Beauty Ultra Gentle Pure Skin Face Cleanser",
+  "brand": "First Aid Beauty",
+  "department": "Face care",
+  "category": "Cleanser",
+  "audience": "Women",
+  "price": 4617,
+  "tag": "Cleanser",
+  "description": "A gentle facial cleanser for everyday cleansing.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "6 OZ": {
+    "": {
+     "usd": 27.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 4617,
+     "sourceURL": "https://www.firstaidbeauty.com/products/ultra-gentle-pure-skin-face-cleanser?variant=54012034318704",
+     "sourceVariantID": "54012034318704",
+     "sourceSKU": "40090",
+     "availableAtSource": true,
+     "packageLabel": "6 OZ",
+     "sourceVariantTitle": "6 OZ"
+    }
+   }
+  },
+  "variants": {
+   "6 OZ": [
+    "/images/catalog/6a93e4950d1c2f3867.webp"
+   ]
+  },
+  "swatches": {
+   "6 OZ": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "6 OZ": "https://www.firstaidbeauty.com/products/ultra-gentle-pure-skin-face-cleanser"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "6 OZ"
+  ],
+  "images": [
+   "/images/catalog/6a93e4950d1c2f3867.webp"
+  ]
+ },
+ {
+  "id": "facecare-7037906518085",
+  "name": "Skinfix Gentle Gel Ceramide + Ectoin Cleanser",
+  "brand": "Skinfix",
+  "department": "Face care",
+  "category": "Cleanser",
+  "audience": "Women",
+  "price": 5130,
+  "tag": "Cleanser",
+  "description": "Gel cleanser with ceramides and ectoin.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "5 oz": {
+    "": {
+     "usd": 30.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 5130,
+     "sourceURL": "https://skinfix.com/products/barrier-ectoin-ceramide-gentle-gel-cleanser?variant=43430404816965",
+     "sourceVariantID": "43430404816965",
+     "sourceSKU": "000468F-01",
+     "availableAtSource": true,
+     "packageLabel": "5 oz",
+     "sourceVariantTitle": "5 oz"
+    }
+   }
+  },
+  "variants": {
+   "5 oz": [
+    "/images/catalog/8129e306e5b1e4bd02.webp"
+   ]
+  },
+  "swatches": {
+   "5 oz": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "5 oz": "https://skinfix.com/products/barrier-ectoin-ceramide-gentle-gel-cleanser"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "5 oz"
+  ],
+  "images": [
+   "/images/catalog/8129e306e5b1e4bd02.webp"
+  ]
+ },
+ {
+  "id": "facecare-2082272936005",
+  "name": "Skinfix Triple Lipid-Peptide Cream",
+  "brand": "Skinfix",
+  "department": "Face care",
+  "category": "Moisturizer",
+  "audience": "Unisex",
+  "price": 9234,
+  "tag": "Moisturizer",
+  "description": "Rich face cream with lipids and peptides.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Full 1.7 oz": {
+    "": {
+     "usd": 54.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9234,
+     "sourceURL": "https://skinfix.com/products/lipid-peptide-cream?variant=19409094115397",
+     "sourceVariantID": "19409094115397",
+     "sourceSKU": "000312F-01",
+     "availableAtSource": true,
+     "packageLabel": "Full 1.7 oz",
+     "sourceVariantTitle": "Full 1.7 oz"
+    }
+   }
+  },
+  "variants": {
+   "Full 1.7 oz": [
+    "/images/catalog/0a9f46e6fcc60bd843.webp"
+   ]
+  },
+  "swatches": {
+   "Full 1.7 oz": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Full 1.7 oz": "https://skinfix.com/products/lipid-peptide-cream"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Full 1.7 oz"
+  ],
+  "images": [
+   "/images/catalog/0a9f46e6fcc60bd843.webp"
+  ]
+ },
+ {
+  "id": "facecare-4579011788855",
+  "name": "Naturium Plant Ceramide Rich Moisture Cream",
+  "brand": "Naturium",
+  "department": "Face care",
+  "category": "Moisturizer",
+  "audience": "Women",
+  "price": 4275,
+  "tag": "Moisturizer",
+  "description": "A rich daily face moisturizer with plant-derived ceramides.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard - 1.7 oz": {
+    "": {
+     "usd": 25.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 4275,
+     "sourceURL": "https://naturium.com/products/plant-ceramide-rich-moisture-cream?variant=40215083974711",
+     "sourceVariantID": "40215083974711",
+     "sourceSKU": "NATR-10017",
+     "availableAtSource": true,
+     "packageLabel": "Standard - 1.7 oz",
+     "sourceVariantTitle": "Standard - 1.7 oz"
+    }
+   }
+  },
+  "variants": {
+   "Standard - 1.7 oz": [
+    "/images/catalog/e5ce2996f805f503c5.webp"
+   ]
+  },
+  "swatches": {
+   "Standard - 1.7 oz": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard - 1.7 oz": "https://naturium.com/products/plant-ceramide-rich-moisture-cream"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard - 1.7 oz"
+  ],
+  "images": [
+   "/images/catalog/e5ce2996f805f503c5.webp"
+  ]
+ },
+ {
+  "id": "facecare-4559300689975",
+  "name": "DRMTLGY Peptide Night Cream",
+  "brand": "DRMTLGY",
+  "department": "Face care",
+  "category": "Moisturizer",
+  "audience": "Women",
+  "price": 7866,
+  "tag": "Moisturizer",
+  "description": "A moisturizing night cream with peptides and ceramides.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard jar": {
+    "": {
+     "usd": 46.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 7866,
+     "sourceURL": "https://www.drmtlgy.com/products/peptide-night-cream?variant=32082739724343",
+     "sourceVariantID": "32082739724343",
+     "sourceSKU": "2482",
+     "availableAtSource": true,
+     "packageLabel": "Standard jar",
+     "sourceVariantTitle": "Default Title"
+    }
+   }
+  },
+  "variants": {
+   "Standard jar": [
+    "/images/catalog/9a199ee0c5c4eb55d0.webp"
+   ]
+  },
+  "swatches": {
+   "Standard jar": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard jar": "https://www.drmtlgy.com/products/peptide-night-cream"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard jar"
+  ],
+  "images": [
+   "/images/catalog/9a199ee0c5c4eb55d0.webp"
+  ]
+ },
+ {
+  "id": "facecare-14649156501872",
+  "name": "First Aid Beauty Hydrating Dewy Gel Cream Moisturizer with Hyaluronic Acid + Ceramides",
+  "brand": "First Aid Beauty",
+  "department": "Face care",
+  "category": "Moisturizer",
+  "audience": "Women",
+  "price": 6498,
+  "tag": "Moisturizer",
+  "description": "Lightweight gel-cream with hyaluronic acid and ceramides.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard jar": {
+    "": {
+     "usd": 38.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 6498,
+     "sourceURL": "https://www.firstaidbeauty.com/products/hydrating-dewy-gel-cream-moisturizer-with-hyaluronic-acid-ceramides?variant=51729877827952",
+     "sourceVariantID": "51729877827952",
+     "sourceSKU": "36627",
+     "availableAtSource": true,
+     "packageLabel": "Standard jar",
+     "sourceVariantTitle": "Default Title"
+    }
+   }
+  },
+  "variants": {
+   "Standard jar": [
+    "/images/catalog/6cdda9f602bd0343ba.webp"
+   ]
+  },
+  "swatches": {
+   "Standard jar": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard jar": "https://www.firstaidbeauty.com/products/hydrating-dewy-gel-cream-moisturizer-with-hyaluronic-acid-ceramides"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard jar"
+  ],
+  "images": [
+   "/images/catalog/6cdda9f602bd0343ba.webp"
+  ]
+ },
+ {
+  "id": "facecare-4391311474743",
+  "name": "Naturium Vitamin C Complex Serum",
+  "brand": "Naturium",
+  "department": "Face care",
+  "category": "Serum",
+  "audience": "Women",
+  "price": 3591,
+  "tag": "Serum",
+  "description": "Vitamin C facial serum for a brighter-looking complexion.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard - 1.0 fl oz": {
+    "": {
+     "usd": 21.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 3591,
+     "sourceURL": "https://naturium.com/products/vitamin-c-complex-serum?variant=40215064215607",
+     "sourceVariantID": "40215064215607",
+     "sourceSKU": "NATR-10161",
+     "availableAtSource": true,
+     "packageLabel": "Standard - 1.0 fl oz",
+     "sourceVariantTitle": "Standard - 1.0 fl oz"
+    }
+   }
+  },
+  "variants": {
+   "Standard - 1.0 fl oz": [
+    "/images/catalog/03d9d384f1a81790df.webp"
+   ]
+  },
+  "swatches": {
+   "Standard - 1.0 fl oz": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard - 1.0 fl oz": "https://naturium.com/products/vitamin-c-complex-serum"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard - 1.0 fl oz"
+  ],
+  "images": [
+   "/images/catalog/03d9d384f1a81790df.webp"
+  ]
+ },
+ {
+  "id": "facecare-6722825683120",
+  "name": "cocokind Ceramide Barrier Serum",
+  "brand": "cocokind",
+  "department": "Face care",
+  "category": "Serum",
+  "audience": "Women",
+  "price": 3762,
+  "tag": "Serum",
+  "description": "A hydrating serum with ceramides and lipids.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard bottle": {
+    "": {
+     "usd": 22.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 3762,
+     "sourceURL": "https://www.cocokind.com/products/ceramide-barrier-serum?variant=43111161168048",
+     "sourceVariantID": "43111161168048",
+     "sourceSKU": "FG60042",
+     "availableAtSource": true,
+     "packageLabel": "Standard bottle",
+     "sourceVariantTitle": "Default Title"
+    }
+   }
+  },
+  "variants": {
+   "Standard bottle": [
+    "/images/catalog/f2d6fae17eb05dd890.webp"
+   ]
+  },
+  "swatches": {
+   "Standard bottle": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard bottle": "https://www.cocokind.com/products/ceramide-barrier-serum"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard bottle"
+  ],
+  "images": [
+   "/images/catalog/f2d6fae17eb05dd890.webp"
+  ]
+ },
+ {
+  "id": "facecare-7773304961",
+  "name": "DRMTLGY Vitamin C E + F",
+  "brand": "DRMTLGY",
+  "department": "Face care",
+  "category": "Serum",
+  "audience": "Women",
+  "price": 11799,
+  "tag": "Serum",
+  "description": "Facial serum combining vitamins C and E with ferulic acid.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard bottle": {
+    "": {
+     "usd": 69.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 11799,
+     "sourceURL": "https://www.drmtlgy.com/products/advanced-c-e-ferulic?variant=25060734273",
+     "sourceVariantID": "25060734273",
+     "sourceSKU": "5522",
+     "availableAtSource": true,
+     "packageLabel": "Standard bottle",
+     "sourceVariantTitle": "Default Title"
+    }
+   }
+  },
+  "variants": {
+   "Standard bottle": [
+    "/images/catalog/934048c3ea3e0cfd6a.webp"
+   ]
+  },
+  "swatches": {
+   "Standard bottle": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard bottle": "https://www.drmtlgy.com/products/advanced-c-e-ferulic"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard bottle"
+  ],
+  "images": [
+   "/images/catalog/934048c3ea3e0cfd6a.webp"
+  ]
+ },
+ {
+  "id": "facecare-6773503230021",
+  "name": "Skinfix Triple Lipid Activating Serum",
+  "brand": "Skinfix",
+  "department": "Face care",
+  "category": "Serum",
+  "audience": "Women",
+  "price": 11799,
+  "tag": "Serum",
+  "description": "A lipid facial serum for your hydration routine.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Full 1 oz": {
+    "": {
+     "usd": 69.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 11799,
+     "sourceURL": "https://skinfix.com/products/barrier-niacinamide-serum?variant=42769650319429",
+     "sourceVariantID": "42769650319429",
+     "sourceSKU": "000441F-01",
+     "availableAtSource": true,
+     "packageLabel": "Full 1 oz",
+     "sourceVariantTitle": "Full 1 oz"
+    }
+   }
+  },
+  "variants": {
+   "Full 1 oz": [
+    "/images/catalog/b4323d2f5e3f766a59.webp"
+   ]
+  },
+  "swatches": {
+   "Full 1 oz": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Full 1 oz": "https://skinfix.com/products/barrier-niacinamide-serum"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Full 1 oz"
+  ],
+  "images": [
+   "/images/catalog/b4323d2f5e3f766a59.webp"
+  ]
+ },
+ {
+  "id": "facecare-1378689679460",
+  "name": "cocokind Rosewater Facial Toner",
+  "brand": "cocokind",
+  "department": "Face care",
+  "category": "Toner",
+  "audience": "Women",
+  "price": 3078,
+  "tag": "Toner",
+  "description": "A rosewater facial toner for a refreshing daily step.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "120 ml / 4 fl oz": {
+    "": {
+     "usd": 18.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 3078,
+     "sourceURL": "https://www.cocokind.com/products/rosewater-toner?variant=40460958171312",
+     "sourceVariantID": "40460958171312",
+     "sourceSKU": "FG05061",
+     "availableAtSource": true,
+     "packageLabel": "120 ml / 4 fl oz",
+     "sourceVariantTitle": "Default Title"
+    }
+   }
+  },
+  "variants": {
+   "120 ml / 4 fl oz": [
+    "/images/catalog/6ab66926a9d2a0b0a0.webp"
+   ]
+  },
+  "swatches": {
+   "120 ml / 4 fl oz": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "120 ml / 4 fl oz": "https://www.cocokind.com/products/rosewater-toner"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "120 ml / 4 fl oz"
+  ],
+  "images": [
+   "/images/catalog/6ab66926a9d2a0b0a0.webp"
+  ]
+ },
+ {
+  "id": "facecare-7507428016181",
+  "name": "First Aid Beauty Hydrating Toner with Squalane + Oats",
+  "brand": "First Aid Beauty",
+  "department": "Face care",
+  "category": "Toner",
+  "audience": "Women",
+  "price": 4104,
+  "tag": "Toner",
+  "description": "Hydrating facial toner with squalane and oats.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard bottle": {
+    "": {
+     "usd": 24.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 4104,
+     "sourceURL": "https://www.firstaidbeauty.com/products/hydrating-toner-with-squalane-oats?variant=43383252975669",
+     "sourceVariantID": "43383252975669",
+     "sourceSKU": "36018",
+     "availableAtSource": true,
+     "packageLabel": "Standard bottle",
+     "sourceVariantTitle": "Default Title"
+    }
+   }
+  },
+  "variants": {
+   "Standard bottle": [
+    "/images/catalog/7ed50a1d25e1be48e7.webp"
+   ]
+  },
+  "swatches": {
+   "Standard bottle": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard bottle": "https://www.firstaidbeauty.com/products/hydrating-toner-with-squalane-oats"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard bottle"
+  ],
+  "images": [
+   "/images/catalog/7ed50a1d25e1be48e7.webp"
+  ]
+ },
+ {
+  "id": "facecare-6929400201271",
+  "name": "Naturium Vitamin C Super Eye Cream Plus",
+  "brand": "Naturium",
+  "department": "Face care",
+  "category": "Eye care",
+  "audience": "Women",
+  "price": 3420,
+  "tag": "Eye care",
+  "description": "Eye cream formulated with vitamin C, retinol and hyaluronic acid.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Standard tube": {
+    "": {
+     "usd": 20.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 3420,
+     "sourceURL": "https://naturium.com/products/vitamin-c-super-eye-cream-plus?variant=40575684149303",
+     "sourceVariantID": "40575684149303",
+     "sourceSKU": "NATR-10093",
+     "availableAtSource": true,
+     "packageLabel": "Standard tube",
+     "sourceVariantTitle": "Default Title"
+    }
+   }
+  },
+  "variants": {
+   "Standard tube": [
+    "/images/catalog/dd0f5f2b20c8fc6f12.webp"
+   ]
+  },
+  "swatches": {
+   "Standard tube": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Standard tube": "https://naturium.com/products/vitamin-c-super-eye-cream-plus"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Standard tube"
+  ],
+  "images": [
+   "/images/catalog/dd0f5f2b20c8fc6f12.webp"
+  ]
+ },
+ {
+  "id": "facecare-2082269429829",
+  "name": "Skinfix Triple Lipid-Boost 360\u00b0 Eye",
+  "brand": "Skinfix",
+  "department": "Face care",
+  "category": "Eye care",
+  "audience": "Women",
+  "price": 7524,
+  "tag": "Eye care",
+  "description": "A moisturizing eye cream for your daily face-care routine.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "Full 0.5 oz": {
+    "": {
+     "usd": 44.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 7524,
+     "sourceURL": "https://skinfix.com/products/lipid-boost-360-eye?variant=42769724080197",
+     "sourceVariantID": "42769724080197",
+     "sourceSKU": "000314F-01",
+     "availableAtSource": true,
+     "packageLabel": "Full 0.5 oz",
+     "sourceVariantTitle": "Full 0.5 oz"
+    }
+   }
+  },
+  "variants": {
+   "Full 0.5 oz": [
+    "/images/catalog/4e7d24632b12b8cb0a.webp"
+   ]
+  },
+  "swatches": {
+   "Full 0.5 oz": "#d4c9b5"
+  },
+  "sourceURLs": {
+   "Full 0.5 oz": "https://skinfix.com/products/lipid-boost-360-eye"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Full 0.5 oz"
+  ],
+  "images": [
+   "/images/catalog/4e7d24632b12b8cb0a.webp"
   ]
  },
  {

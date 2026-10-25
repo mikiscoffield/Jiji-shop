@@ -5,7 +5,7 @@
   "source": "https://open.er-api.com/v6/latest/USD",
   "publishedAt": "Sun, 25 Oct 2026 00:02:31 +0000",
   "rounding": "nearest whole ETB, half up",
-  "excludes": "Shipping, tax, import charges and local delivery",
+  "excludes": "Source currency conversion is a quote reference, not an import/tax calculation. Storefront customer delivery is 0 ETB, covered by Jiji.",
   "USD_EUR": 0.892628,
   "etbPerCurrency": {
    "USD": 161.874143,
@@ -11985,141 +11985,6 @@
    "stockBasis": "Merchant confirms S, M, L and XL in own stock"
   },
   {
-   "id": "colourpop-fallen",
-   "brand": "ColourPop",
-   "department": "Makeup",
-   "audience": "Women",
-   "sourceHost": "https://colourpop.com",
-   "sourceProductIDs": [
-    "7653445664850"
-   ],
-   "sourceProducts": [
-    {
-     "id": "7653445664850",
-     "title": "Fallen Eyeshadow Palette",
-     "url": "https://colourpop.com/products/fallen-15-pan-eyeshadow-palette",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
-    "As pictured": {
-     "": {
-      "usd": 23,
-      "etb": 3723,
-      "sourceURL": "https://colourpop.com/products/fallen-15-pan-eyeshadow-palette?variant=42663566016594",
-      "sourceVariantID": "42663566016594",
-      "sourceSKU": "EyePalette-Fallen"
-     }
-    }
-   },
-   "ratings": {
-    "As pictured": {
-     "value": 4.9,
-     "count": 75,
-     "sourceURL": "https://colourpop.com/products/fallen-15-pan-eyeshadow-palette"
-    }
-   },
-   "photos": {
-    "As pictured": [
-     "/images/catalog/c3cd3388cc32764bf3.jpg",
-     "/images/catalog/9b064e8d5b3b4f352a.jpg",
-     "/images/catalog/c5c7124fe3827f10ab.jpg",
-     "/images/catalog/67d75bc2c11648f4af.jpg",
-     "/images/catalog/423319e64d6be14b5f.jpg"
-    ]
-   }
-  },
-  {
-   "id": "colourpop-espresso",
-   "brand": "ColourPop",
-   "department": "Makeup",
-   "audience": "Women",
-   "sourceHost": "https://colourpop.com",
-   "sourceProductIDs": [
-    "7653439242322"
-   ],
-   "sourceProducts": [
-    {
-     "id": "7653439242322",
-     "title": "Espresso Yourself",
-     "url": "https://colourpop.com/products/espresso-yourself-cloud-whip-lip-liner-trio",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
-    "As pictured": {
-     "": {
-      "usd": 24,
-      "etb": 3885,
-      "sourceURL": "https://colourpop.com/products/espresso-yourself-cloud-whip-lip-liner-trio?variant=42663542521938",
-      "sourceVariantID": "42663542521938",
-      "sourceSKU": "Bundle-EspressoYourself"
-     }
-    }
-   },
-   "ratings": {
-    "As pictured": {
-     "value": 4.9,
-     "count": 88,
-     "sourceURL": "https://colourpop.com/products/espresso-yourself-cloud-whip-lip-liner-trio"
-    }
-   },
-   "photos": {
-    "As pictured": [
-     "/images/catalog/c6730e0298678456e5.jpg",
-     "/images/catalog/f929ed750e32e02473.jpg",
-     "/images/catalog/9b97d26cd9e76a9542.jpg",
-     "/images/catalog/d9da48d8f56228c9a6.jpg",
-     "/images/catalog/fb131d455554b8f762.jpg"
-    ]
-   }
-  },
-  {
-   "id": "colourpop-gloss",
-   "brand": "ColourPop",
-   "department": "Makeup",
-   "audience": "Women",
-   "sourceHost": "https://colourpop.com",
-   "sourceProductIDs": [
-    "7397778096210"
-   ],
-   "sourceProducts": [
-    {
-     "id": "7397778096210",
-     "title": "Perfect 4 U",
-     "url": "https://colourpop.com/products/perfect-4-u-ultra-glossy-lip-set",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
-    "As pictured": {
-     "": {
-      "usd": 24,
-      "etb": 3885,
-      "sourceURL": "https://colourpop.com/products/perfect-4-u-ultra-glossy-lip-set?variant=41239445864530",
-      "sourceVariantID": "41239445864530",
-      "sourceSKU": "Bundle-Perfect4U"
-     }
-    }
-   },
-   "ratings": {
-    "As pictured": {
-     "value": 4.7,
-     "count": 10443,
-     "sourceURL": "https://colourpop.com/products/perfect-4-u-ultra-glossy-lip-set"
-    }
-   },
-   "photos": {
-    "As pictured": [
-     "/images/catalog/5c4d40f9d50b624145.jpg",
-     "/images/catalog/77fb724273e6ed4b31.jpg",
-     "/images/catalog/0c01f529acc7f1d9aa.jpg",
-     "/images/catalog/907cf914c2dee2960a.jpg",
-     "/images/catalog/cc3c1426e9108953d8.jpg"
-    ]
-   }
-  },
-  {
    "id": "herschel-heritage",
    "brand": "Herschel",
    "department": "Bags",
@@ -13088,6 +12953,746 @@
    },
    "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
    "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "facecare-6720892141623",
+   "brand": "Naturium",
+   "department": "Face care",
+   "audience": "Unisex",
+   "sourceHost": "https://naturium.com",
+   "sourceProductIDs": [
+    "6720892141623"
+   ],
+   "sourceProducts": [
+    {
+     "id": "6720892141623",
+     "title": "Dew-Glow Moisturizer SPF 50",
+     "url": "https://naturium.com/products/dew-glow-moisturizer-spf-50-original",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard - 1.7 fl oz": {
+     "": {
+      "usd": 22.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 3762,
+      "sourceURL": "https://naturium.com/products/dew-glow-moisturizer-spf-50-original?variant=40870872023095",
+      "sourceVariantID": "40870872023095",
+      "sourceSKU": "NATR-10056",
+      "availableAtSource": true,
+      "packageLabel": "Standard - 1.7 fl oz",
+      "sourceVariantTitle": "Standard - 1.7 fl oz"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Standard - 1.7 fl oz",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-7657094611097",
+   "brand": "EltaMD",
+   "department": "Face care",
+   "audience": "Unisex",
+   "sourceHost": "https://eltamd.com",
+   "sourceProductIDs": [
+    "7657094611097"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7657094611097",
+     "title": "UV Clear Broad Spectrum SPF 46",
+     "url": "https://eltamd.com/products/uv-clear-broad-spectrum-spf-46",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "1.7 oz": {
+     "": {
+      "usd": 46.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 7866,
+      "sourceURL": "https://eltamd.com/products/uv-clear-broad-spectrum-spf-46?variant=43130780811417",
+      "sourceVariantID": "43130780811417",
+      "sourceSKU": "02500A-001",
+      "availableAtSource": true,
+      "packageLabel": "1.7 oz",
+      "sourceVariantTitle": "1.7 oz"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "1.7 oz",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-7269697060962",
+   "brand": "Supergoop!",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://supergoop.com",
+   "sourceProductIDs": [
+    "7269697060962"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7269697060962",
+     "title": "Unseen Sunscreen SPF 50",
+     "url": "https://supergoop.com/products/unseen-sunscreen-spf-50",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "1.7 fl. oz.": {
+     "": {
+      "usd": 38.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 6498,
+      "sourceURL": "https://supergoop.com/products/unseen-sunscreen-spf-50?variant=41610270802018",
+      "sourceVariantID": "41610270802018",
+      "sourceSKU": "8817",
+      "availableAtSource": true,
+      "packageLabel": "1.7 fl. oz.",
+      "sourceVariantTitle": "1.7 fl. oz."
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "1.7 fl. oz.",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-14990688223604",
+   "brand": "Beauty of Joseon",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://beautyofjoseon.com",
+   "sourceProductIDs": [
+    "14990688223604"
+   ],
+   "sourceProducts": [
+    {
+     "id": "14990688223604",
+     "title": "Dayscreen Moisturizer SPF 30",
+     "url": "https://beautyofjoseon.com/products/dayscreen-moisturizer-sunscreen-us",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "1-Pack": {
+     "": {
+      "usd": 20.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 3420,
+      "sourceURL": "https://beautyofjoseon.com/products/dayscreen-moisturizer-sunscreen-us?variant=54406320095604",
+      "sourceVariantID": "54406320095604",
+      "sourceSKU": "01BU030",
+      "availableAtSource": true,
+      "packageLabel": "1-Pack",
+      "sourceVariantTitle": "1-Pack"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "1-Pack",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-7351297310775",
+   "brand": "Naturium",
+   "department": "Face care",
+   "audience": "Unisex",
+   "sourceHost": "https://naturium.com",
+   "sourceProductIDs": [
+    "7351297310775"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7351297310775",
+     "title": "Multi-Calm Cream Cleanser",
+     "url": "https://naturium.com/products/multi-calm-cream-cleanser-1",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard tube": {
+     "": {
+      "usd": 20.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 3420,
+      "sourceURL": "https://naturium.com/products/multi-calm-cream-cleanser-1?variant=41919815680055",
+      "sourceVariantID": "41919815680055",
+      "sourceSKU": "NATR-10143",
+      "availableAtSource": true,
+      "packageLabel": "Standard tube",
+      "sourceVariantTitle": "Default Title"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Default Title",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-7312924803237",
+   "brand": "Beauty of Joseon",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://beautyofjoseon.com",
+   "sourceProductIDs": [
+    "7312924803237"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7312924803237",
+     "title": "Green Plum Refreshing Cleanser",
+     "url": "https://beautyofjoseon.com/products/green-plum-refreshing-cleanser",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "200 ml (6.76 FL. OZ.)": {
+     "": {
+      "usd": 20.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 3420,
+      "sourceURL": "https://beautyofjoseon.com/products/green-plum-refreshing-cleanser?variant=53445552210292",
+      "sourceVariantID": "53445552210292",
+      "sourceSKU": "99BC021",
+      "availableAtSource": true,
+      "packageLabel": "200 ml (6.76 FL. OZ.)",
+      "sourceVariantTitle": "200 ml (6.76 FL. OZ.)"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "200 ml (6.76 FL. OZ.)",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-15172597612912",
+   "brand": "First Aid Beauty",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://www.firstaidbeauty.com",
+   "sourceProductIDs": [
+    "15172597612912"
+   ],
+   "sourceProducts": [
+    {
+     "id": "15172597612912",
+     "title": "Ultra Gentle Pure Skin Face Cleanser",
+     "url": "https://www.firstaidbeauty.com/products/ultra-gentle-pure-skin-face-cleanser",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "6 OZ": {
+     "": {
+      "usd": 27.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 4617,
+      "sourceURL": "https://www.firstaidbeauty.com/products/ultra-gentle-pure-skin-face-cleanser?variant=54012034318704",
+      "sourceVariantID": "54012034318704",
+      "sourceSKU": "40090",
+      "availableAtSource": true,
+      "packageLabel": "6 OZ",
+      "sourceVariantTitle": "6 OZ"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "6 OZ",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-7037906518085",
+   "brand": "Skinfix",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://skinfix.com",
+   "sourceProductIDs": [
+    "7037906518085"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7037906518085",
+     "title": "Gentle Gel Ceramide + Ectoin Cleanser",
+     "url": "https://skinfix.com/products/barrier-ectoin-ceramide-gentle-gel-cleanser",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "5 oz": {
+     "": {
+      "usd": 30.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 5130,
+      "sourceURL": "https://skinfix.com/products/barrier-ectoin-ceramide-gentle-gel-cleanser?variant=43430404816965",
+      "sourceVariantID": "43430404816965",
+      "sourceSKU": "000468F-01",
+      "availableAtSource": true,
+      "packageLabel": "5 oz",
+      "sourceVariantTitle": "5 oz"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "5 oz",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-2082272936005",
+   "brand": "Skinfix",
+   "department": "Face care",
+   "audience": "Unisex",
+   "sourceHost": "https://skinfix.com",
+   "sourceProductIDs": [
+    "2082272936005"
+   ],
+   "sourceProducts": [
+    {
+     "id": "2082272936005",
+     "title": "Triple Lipid-Peptide Cream",
+     "url": "https://skinfix.com/products/lipid-peptide-cream",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Full 1.7 oz": {
+     "": {
+      "usd": 54.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 9234,
+      "sourceURL": "https://skinfix.com/products/lipid-peptide-cream?variant=19409094115397",
+      "sourceVariantID": "19409094115397",
+      "sourceSKU": "000312F-01",
+      "availableAtSource": true,
+      "packageLabel": "Full 1.7 oz",
+      "sourceVariantTitle": "Full 1.7 oz"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Full 1.7 oz",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-4579011788855",
+   "brand": "Naturium",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://naturium.com",
+   "sourceProductIDs": [
+    "4579011788855"
+   ],
+   "sourceProducts": [
+    {
+     "id": "4579011788855",
+     "title": "Plant Ceramide Rich Moisture Cream",
+     "url": "https://naturium.com/products/plant-ceramide-rich-moisture-cream",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard - 1.7 oz": {
+     "": {
+      "usd": 25.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 4275,
+      "sourceURL": "https://naturium.com/products/plant-ceramide-rich-moisture-cream?variant=40215083974711",
+      "sourceVariantID": "40215083974711",
+      "sourceSKU": "NATR-10017",
+      "availableAtSource": true,
+      "packageLabel": "Standard - 1.7 oz",
+      "sourceVariantTitle": "Standard - 1.7 oz"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Standard - 1.7 oz",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-4559300689975",
+   "brand": "DRMTLGY",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://www.drmtlgy.com",
+   "sourceProductIDs": [
+    "4559300689975"
+   ],
+   "sourceProducts": [
+    {
+     "id": "4559300689975",
+     "title": "Peptide Night Cream",
+     "url": "https://www.drmtlgy.com/products/peptide-night-cream",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard jar": {
+     "": {
+      "usd": 46.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 7866,
+      "sourceURL": "https://www.drmtlgy.com/products/peptide-night-cream?variant=32082739724343",
+      "sourceVariantID": "32082739724343",
+      "sourceSKU": "2482",
+      "availableAtSource": true,
+      "packageLabel": "Standard jar",
+      "sourceVariantTitle": "Default Title"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Default Title",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-14649156501872",
+   "brand": "First Aid Beauty",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://www.firstaidbeauty.com",
+   "sourceProductIDs": [
+    "14649156501872"
+   ],
+   "sourceProducts": [
+    {
+     "id": "14649156501872",
+     "title": "Hydrating Dewy Gel Cream Moisturizer with Hyaluronic Acid + Ceramides",
+     "url": "https://www.firstaidbeauty.com/products/hydrating-dewy-gel-cream-moisturizer-with-hyaluronic-acid-ceramides",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard jar": {
+     "": {
+      "usd": 38.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 6498,
+      "sourceURL": "https://www.firstaidbeauty.com/products/hydrating-dewy-gel-cream-moisturizer-with-hyaluronic-acid-ceramides?variant=51729877827952",
+      "sourceVariantID": "51729877827952",
+      "sourceSKU": "36627",
+      "availableAtSource": true,
+      "packageLabel": "Standard jar",
+      "sourceVariantTitle": "Default Title"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Default Title",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-4391311474743",
+   "brand": "Naturium",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://naturium.com",
+   "sourceProductIDs": [
+    "4391311474743"
+   ],
+   "sourceProducts": [
+    {
+     "id": "4391311474743",
+     "title": "Vitamin C Complex Serum",
+     "url": "https://naturium.com/products/vitamin-c-complex-serum",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard - 1.0 fl oz": {
+     "": {
+      "usd": 21.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 3591,
+      "sourceURL": "https://naturium.com/products/vitamin-c-complex-serum?variant=40215064215607",
+      "sourceVariantID": "40215064215607",
+      "sourceSKU": "NATR-10161",
+      "availableAtSource": true,
+      "packageLabel": "Standard - 1.0 fl oz",
+      "sourceVariantTitle": "Standard - 1.0 fl oz"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Standard - 1.0 fl oz",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-6722825683120",
+   "brand": "cocokind",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://www.cocokind.com",
+   "sourceProductIDs": [
+    "6722825683120"
+   ],
+   "sourceProducts": [
+    {
+     "id": "6722825683120",
+     "title": "ceramide barrier serum",
+     "url": "https://www.cocokind.com/products/ceramide-barrier-serum",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard bottle": {
+     "": {
+      "usd": 22.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 3762,
+      "sourceURL": "https://www.cocokind.com/products/ceramide-barrier-serum?variant=43111161168048",
+      "sourceVariantID": "43111161168048",
+      "sourceSKU": "FG60042",
+      "availableAtSource": true,
+      "packageLabel": "Standard bottle",
+      "sourceVariantTitle": "Default Title"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Default Title",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-7773304961",
+   "brand": "DRMTLGY",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://www.drmtlgy.com",
+   "sourceProductIDs": [
+    "7773304961"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7773304961",
+     "title": "Vitamin C E + F",
+     "url": "https://www.drmtlgy.com/products/advanced-c-e-ferulic",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard bottle": {
+     "": {
+      "usd": 69.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 11799,
+      "sourceURL": "https://www.drmtlgy.com/products/advanced-c-e-ferulic?variant=25060734273",
+      "sourceVariantID": "25060734273",
+      "sourceSKU": "5522",
+      "availableAtSource": true,
+      "packageLabel": "Standard bottle",
+      "sourceVariantTitle": "Default Title"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Default Title",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-6773503230021",
+   "brand": "Skinfix",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://skinfix.com",
+   "sourceProductIDs": [
+    "6773503230021"
+   ],
+   "sourceProducts": [
+    {
+     "id": "6773503230021",
+     "title": "Triple Lipid Activating Serum",
+     "url": "https://skinfix.com/products/barrier-niacinamide-serum",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Full 1 oz": {
+     "": {
+      "usd": 69.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 11799,
+      "sourceURL": "https://skinfix.com/products/barrier-niacinamide-serum?variant=42769650319429",
+      "sourceVariantID": "42769650319429",
+      "sourceSKU": "000441F-01",
+      "availableAtSource": true,
+      "packageLabel": "Full 1 oz",
+      "sourceVariantTitle": "Full 1 oz"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Full 1 oz",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-1378689679460",
+   "brand": "cocokind",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://www.cocokind.com",
+   "sourceProductIDs": [
+    "1378689679460"
+   ],
+   "sourceProducts": [
+    {
+     "id": "1378689679460",
+     "title": "rosewater facial toner",
+     "url": "https://www.cocokind.com/products/rosewater-toner",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "120 ml / 4 fl oz": {
+     "": {
+      "usd": 18.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 3078,
+      "sourceURL": "https://www.cocokind.com/products/rosewater-toner?variant=40460958171312",
+      "sourceVariantID": "40460958171312",
+      "sourceSKU": "FG05061",
+      "availableAtSource": true,
+      "packageLabel": "120 ml / 4 fl oz",
+      "sourceVariantTitle": "Default Title"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Default Title",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-7507428016181",
+   "brand": "First Aid Beauty",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://www.firstaidbeauty.com",
+   "sourceProductIDs": [
+    "7507428016181"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7507428016181",
+     "title": "Hydrating Toner with Squalane + Oats",
+     "url": "https://www.firstaidbeauty.com/products/hydrating-toner-with-squalane-oats",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard bottle": {
+     "": {
+      "usd": 24.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 4104,
+      "sourceURL": "https://www.firstaidbeauty.com/products/hydrating-toner-with-squalane-oats?variant=43383252975669",
+      "sourceVariantID": "43383252975669",
+      "sourceSKU": "36018",
+      "availableAtSource": true,
+      "packageLabel": "Standard bottle",
+      "sourceVariantTitle": "Default Title"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Default Title",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-6929400201271",
+   "brand": "Naturium",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://naturium.com",
+   "sourceProductIDs": [
+    "6929400201271"
+   ],
+   "sourceProducts": [
+    {
+     "id": "6929400201271",
+     "title": "Vitamin C Super Eye Cream Plus",
+     "url": "https://naturium.com/products/vitamin-c-super-eye-cream-plus",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Standard tube": {
+     "": {
+      "usd": 20.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 3420,
+      "sourceURL": "https://naturium.com/products/vitamin-c-super-eye-cream-plus?variant=40575684149303",
+      "sourceVariantID": "40575684149303",
+      "sourceSKU": "NATR-10093",
+      "availableAtSource": true,
+      "packageLabel": "Standard tube",
+      "sourceVariantTitle": "Default Title"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Default Title",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
+  },
+  {
+   "id": "facecare-2082269429829",
+   "brand": "Skinfix",
+   "department": "Face care",
+   "audience": "Women",
+   "sourceHost": "https://skinfix.com",
+   "sourceProductIDs": [
+    "2082269429829"
+   ],
+   "sourceProducts": [
+    {
+     "id": "2082269429829",
+     "title": "Triple Lipid-Boost 360\u00b0 Eye",
+     "url": "https://skinfix.com/products/lipid-boost-360-eye",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "Full 0.5 oz": {
+     "": {
+      "usd": 44.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 7524,
+      "sourceURL": "https://skinfix.com/products/lipid-boost-360-eye?variant=42769724080197",
+      "sourceVariantID": "42769724080197",
+      "sourceSKU": "000314F-01",
+      "availableAtSource": true,
+      "packageLabel": "Full 0.5 oz",
+      "sourceVariantTitle": "Full 0.5 oz"
+     }
+    }
+   },
+   "pricingPolicy": "Source USD \u00d7190, less 10%, rounded once to whole ETB; final price must stay within 3,000\u201320,000 ETB.",
+   "sourceVariantTitle": "Full 0.5 oz",
+   "photographyNote": "Exact selected variant-featured product photo when available; otherwise official standard product photograph."
   }
  ],
  "images": [
@@ -14818,141 +15423,6 @@
    "height": 1100,
    "sha256": "1d19309ad3d11584dac3a2b4207db399e642d85099a832cd429be6f77e29d8e1",
    "bytes": 30564
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_ProductStylized.jpg?v=1790630892",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_ProductStylized.jpg?v=1790630892&width=1000",
-   "local": "/images/catalog/c3cd3388cc32764bf3.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "7abf6a16f765a8f164027151de1dc4b319076cf320108b198ba5c9bd0e803acf",
-   "bytes": 252494
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_ECOM.jpg?v=1790630889",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_ECOM.jpg?v=1790630889&width=1000",
-   "local": "/images/catalog/9b064e8d5b3b4f352a.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "b3f810ce9efb3a9c2c2fef469b875f16ad6f797247435356d4e0d040a0be60b3",
-   "bytes": 205748
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_Model_FullFace_Medium_97db5111-c40d-4406-b7bf-36849f2188c0.jpg?v=1790630890",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_Model_FullFace_Medium_97db5111-c40d-4406-b7bf-36849f2188c0.jpg?v=1790630890&width=1000",
-   "local": "/images/catalog/c5c7124fe3827f10ab.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "38218177c1fc6f3f0ac3156a5c6e47d4a178552f95b17cb3a600727e91f74fe8",
-   "bytes": 202374
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_Macro_Eye_Deep.jpg?v=1790630890",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_Macro_Eye_Deep.jpg?v=1790630890&width=1000",
-   "local": "/images/catalog/67d75bc2c11648f4af.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "111e818e9de710eeea8ee10ee1350fe6ba15e34fb86fd249fafec0c4e3cca3e5",
-   "bytes": 374123
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_Macro_Eye_Fair.jpg?v=1790630890",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/FallCollection_EyeshadowPalette_Fallen_Macro_Eye_Fair.jpg?v=1790630890&width=1000",
-   "local": "/images/catalog/423319e64d6be14b5f.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "fed5c4741f583ef1b6b2878a27c58bd965b55e0f40cc0339426339f388aa5247",
-   "bytes": 297985
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_ProductStylized.jpg?v=1789144560",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_ProductStylized.jpg?v=1789144560&width=1000",
-   "local": "/images/catalog/c6730e0298678456e5.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "61d4c897eaea49a2e8ecdaacd329ab494e10f33e7e70317e82564a67ed644937",
-   "bytes": 68591
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_ECOM.jpg?v=1789144559",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_ECOM.jpg?v=1789144559&width=1000",
-   "local": "/images/catalog/f929ed750e32e02473.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "7fcb8c2c9073aba56ba17e432f34ab7b1e2910022b5daa28e5988eb4a3b022e4",
-   "bytes": 66351
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_IcedEspresso_MacroLip_Swatch_Grid.jpg?v=1789144559",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_IcedEspresso_MacroLip_Swatch_Grid.jpg?v=1789144559&width=1000",
-   "local": "/images/catalog/9b97d26cd9e76a9542.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "95cf4705bf503d8de3639ec59a371d5e5e26e7733f6160481bdb452ed9c5d496",
-   "bytes": 255087
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_JustPerfect_MacroLip_Swatch_Grid.jpg?v=1789144559",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_JustPerfect_MacroLip_Swatch_Grid.jpg?v=1789144559&width=1000",
-   "local": "/images/catalog/d9da48d8f56228c9a6.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "f37e2daa1f92865b54913653344d3c474d1746cf1dfebab230ff759581c290a0",
-   "bytes": 217601
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_Mochaccino_MacroLip_Swatch_Grid.jpg?v=1789144559",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/CloudWhipLipLiner_Bundle_EspressoYourself_Mochaccino_MacroLip_Swatch_Grid.jpg?v=1789144559&width=1000",
-   "local": "/images/catalog/fb131d455554b8f762.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "00ed20a223a8ab1fd18523b7e5f778fe47d01c308b79f96a107854d334c13d2f",
-   "bytes": 215926
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Perfect-4-U-Ultra-Lip-Bundle-Option-2_876cd063-3c26-4e06-8bbf-5cc6e98f2e81.jpg?v=1729267015",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Perfect-4-U-Ultra-Lip-Bundle-Option-2_876cd063-3c26-4e06-8bbf-5cc6e98f2e81.jpg?v=1729267015&width=1000",
-   "local": "/images/catalog/5c4d40f9d50b624145.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "2e9ccf9538482b03824a876183e537231ed67f93970cf0ae4c270be20baf36ea",
-   "bytes": 155938
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Perfect-4-U-UGL-Bundle-Lip-Grid_23707e9f-f660-4e7d-8e10-bc58c9b539cb.jpg?v=1729551583",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Perfect-4-U-UGL-Bundle-Lip-Grid_23707e9f-f660-4e7d-8e10-bc58c9b539cb.jpg?v=1729551583&width=1000",
-   "local": "/images/catalog/77fb724273e6ed4b31.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "140427a9d565fad9a4dafd5b0e3e6fe73e319dde636ff9c1f587f384adb35904",
-   "bytes": 227542
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Pink-Plz-UBL-Bundle_1f8fea05-8760-4f91-8dcd-6065a81b1030.jpg?v=1729551583",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Pink-Plz-UBL-Bundle_1f8fea05-8760-4f91-8dcd-6065a81b1030.jpg?v=1729551583&width=1000",
-   "local": "/images/catalog/0c01f529acc7f1d9aa.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "5e8ea616ccbddc25158495821f68223eb5325de46eb0d4b32e28b677270f4ce6",
-   "bytes": 90395
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Perfect-4-U-Ultra-Lip-Bundle-Option-2_a596f8f8-c464-4be5-aadb-db289fd2a7b5.jpg?v=1729551583",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Perfect-4-U-Ultra-Lip-Bundle-Option-2_a596f8f8-c464-4be5-aadb-db289fd2a7b5.jpg?v=1729551583&width=1000",
-   "local": "/images/catalog/907cf914c2dee2960a.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "e7827581d773163c78fbf60ca276c3842f1d01d1a42ed2b77cd310c07b340057",
-   "bytes": 123687
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Perfect-4-U-Ultra-Lip-Bundle-Option-1_2aaec150-95c1-4284-96c1-e2708b7d0330.jpg?v=1729551583",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/1338/0845/files/Perfect-4-U-Ultra-Lip-Bundle-Option-1_2aaec150-95c1-4284-96c1-e2708b7d0330.jpg?v=1729551583&width=1000",
-   "local": "/images/catalog/cc3c1426e9108953d8.jpg",
-   "width": 1000,
-   "height": 1000,
-   "sha256": "c55d76b14ae47e0805656182296fc667d691a5dcda113f03aaa7d8d3c6b03da5",
-   "bytes": 149617
   },
   {
    "sourceURL": "https://cdn.shopify.com/s/files/1/0662/0541/7724/files/11868-05711-os-01-1LgNiBUw.jpg?v=1792532846",
@@ -17707,6 +18177,186 @@
    "height": 900,
    "sha256": "9cd84a14f2995938269a878877b6c6c970ebe1d3851489b6eb3e737223b28cdf",
    "bytes": 52276
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/Green-Plum-Refreshing-Cleanser_Beauty-of-Joseon_6912865-52398207009140.jpg?v=1770612024",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/Green-Plum-Refreshing-Cleanser_Beauty-of-Joseon_6912865-52398207009140.jpg?v=1770612024&width=1100&format=webp",
+   "local": "/images/catalog/64c487e39bfb98271b.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "64c487e39bfb98271b0d1b8c609af9132b6ddfcc819210010434c5248f6de07a",
+   "bytes": 14020
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0615/7352/9653/files/DewyGelCream-2oz-Lead-FAB-US_5432a6a7-b84b-4786-9ded-0866911de150.png?v=1777662408",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0615/7352/9653/files/DewyGelCream-2oz-Lead-FAB-US_5432a6a7-b84b-4786-9ded-0866911de150.png?v=1777662408&width=1100&format=webp",
+   "local": "/images/catalog/6cdda9f602bd0343ba.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "6cdda9f602bd0343bade0d9cb1aca37029f94927095fc056866392a907cf80de",
+   "bytes": 63244
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR-10143_Multi-Calm-Cream-Cleanser_front_capon_bonebkgd_4ab01808-1886-477b-9c76-fa53b9cdbfd0.webp?v=1773876729",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR-10143_Multi-Calm-Cream-Cleanser_front_capon_bonebkgd_4ab01808-1886-477b-9c76-fa53b9cdbfd0.webp?v=1773876729&width=1100&format=webp",
+   "local": "/images/catalog/fbbeabc50b14594d73.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "fbbeabc50b14594d7334594ccded040a7303c48aa464ac484e7ebe7bdd5a5d88",
+   "bytes": 30816
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/1462/0006/files/Peptide_Night_Cream.jpg?v=1777067460",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/1462/0006/files/Peptide_Night_Cream.jpg?v=1777067460&width=1100&format=webp",
+   "local": "/images/catalog/9a199ee0c5c4eb55d0.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "9a199ee0c5c4eb55d0a7ad0491a3395026b6decef2578af6d0ab6178e0f51086",
+   "bytes": 28374
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0615/7352/9653/files/OLD_OatToner-4.5oz-Lead-FAB-US.png?v=1777662310",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0615/7352/9653/files/OLD_OatToner-4.5oz-Lead-FAB-US.png?v=1777662310&width=1100&format=webp",
+   "local": "/images/catalog/7ed50a1d25e1be48e7.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "7ed50a1d25e1be48e7d1b9375ad1b6d88ce343664787494779ece350ef59573b",
+   "bytes": 50136
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0051/6033/7477/files/GentleGelCleanser_DTC_PDP_1copy.png?v=1780361603",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0051/6033/7477/files/GentleGelCleanser_DTC_PDP_1copy.png?v=1780361603&width=1100&format=webp",
+   "local": "/images/catalog/8129e306e5b1e4bd02.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "8129e306e5b1e4bd02333afc2dc8c5d5e59ecd52017d368a70854335d7c77ef5",
+   "bytes": 33042
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/1503/5658/files/Unseen_PDP_Image_Allure_Seal_2025.png?v=1758030958",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/1503/5658/files/Unseen_PDP_Image_Allure_Seal_2025.png?v=1758030958&width=1100&format=webp",
+   "local": "/images/catalog/9278e29d8e6c867d16.webp",
+   "width": 1100,
+   "height": 1495,
+   "sha256": "9278e29d8e6c867d165f18e4fe1451ad961a8db3a3021a9ba9d569638d20e7bf",
+   "bytes": 57028
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/03_0626__-_US.jpg?v=1782713443",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/03_0626__-_US.jpg?v=1782713443&width=1100&format=webp",
+   "local": "/images/catalog/8eb4a46a617811f832.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "8eb4a46a617811f832a8081012d64752c980200c29f03173ca3a5c98ee366f9e",
+   "bytes": 40894
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0051/6033/7477/files/TripleLipid-PeptideCream_DTC-PDP_Hero_98d6b241-86f5-40c1-94be-b21f8dfd25dc.png?v=1762439491",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0051/6033/7477/files/TripleLipid-PeptideCream_DTC-PDP_Hero_98d6b241-86f5-40c1-94be-b21f8dfd25dc.png?v=1762439491&width=1100&format=webp",
+   "local": "/images/catalog/0a9f46e6fcc60bd843.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "0a9f46e6fcc60bd843628873aed9c047dab8a09a82da7b093d9600fd32c8f71e",
+   "bytes": 27100
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0603/2741/products/ceramide-barrier-serum-144387.png?v=1762439703",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0603/2741/products/ceramide-barrier-serum-144387.png?v=1762439703&width=1100&format=webp",
+   "local": "/images/catalog/f2d6fae17eb05dd890.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "f2d6fae17eb05dd890130c381b86d8f73d696fb250e4889fa367a902a8b103b3",
+   "bytes": 28016
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0051/6033/7477/files/TLAS_DTC_PDP_1.png?v=1791420857",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0051/6033/7477/files/TLAS_DTC_PDP_1.png?v=1791420857&width=1100&format=webp",
+   "local": "/images/catalog/b4323d2f5e3f766a59.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "b4323d2f5e3f766a592d11dc53f7b495da844abb36e4b46c5469ebcb326214db",
+   "bytes": 19100
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0051/6033/7477/files/TripleLipid-Boost360Eye_DTC-PDP_Hero.png?v=1762439489",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0051/6033/7477/files/TripleLipid-Boost360Eye_DTC-PDP_Hero.png?v=1762439489&width=1100&format=webp",
+   "local": "/images/catalog/4e7d24632b12b8cb0a.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "4e7d24632b12b8cb0a801fef3ef12662010780fc4fbf43aecbcc2c271f6cdcc1",
+   "bytes": 28046
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR_Vit_C_Eye_Cream_Cap_On_Front_bonebkgd.webp?v=1774296339",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR_Vit_C_Eye_Cream_Cap_On_Front_bonebkgd.webp?v=1774296339&width=1100&format=webp",
+   "local": "/images/catalog/dd0f5f2b20c8fc6f12.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "dd0f5f2b20c8fc6f12ab91563cad430234add32c836b0c7fe845491c8b7b2fbf",
+   "bytes": 13964
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/1462/0006/files/Vitamin_CE_F-01.jpg?v=1777068039",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/1462/0006/files/Vitamin_CE_F-01.jpg?v=1777068039&width=1100&format=webp",
+   "local": "/images/catalog/934048c3ea3e0cfd6a.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "934048c3ea3e0cfd6ae4856cf7542e02e9c0669bd0cc9fab528c37abdc783cc4",
+   "bytes": 28296
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0603/2741/products/rosewater-facial-toner-189987.png?v=1762439517",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0603/2741/products/rosewater-facial-toner-189987.png?v=1762439517&width=1100&format=webp",
+   "local": "/images/catalog/6ab66926a9d2a0b0a0.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "6ab66926a9d2a0b0a092c40403fd823dd09a30a7a51f517ee4d7cdfa70250db2",
+   "bytes": 36928
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR_Catalog_PCRM-Cream-CapOn.webp?v=1774292215",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR_Catalog_PCRM-Cream-CapOn.webp?v=1774292215&width=1100&format=webp",
+   "local": "/images/catalog/e5ce2996f805f503c5.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "e5ce2996f805f503c5f462a63ff27c26e65e028de66ef4d3fb066d4095557b99",
+   "bytes": 13718
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR_VitaminC_ComplexSerum_brighter_Front_CapOn_2_ecomm.webp?v=1774291207",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR_VitaminC_ComplexSerum_brighter_Front_CapOn_2_ecomm.webp?v=1774291207&width=1100&format=webp",
+   "local": "/images/catalog/03d9d384f1a81790df.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "03d9d384f1a81790dfc3168d677efd2b93e38eb3d6167bf79929d4f844ef05be",
+   "bytes": 13474
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR_DewGlow_SPF50_Front_CapOn_bonebkgd.webp?v=1774295804",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0105/2265/6823/files/NATR_DewGlow_SPF50_Front_CapOn_bonebkgd.webp?v=1774295804&width=1100&format=webp",
+   "local": "/images/catalog/e297e859b389380f08.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "e297e859b389380f0802dc4eddcb3cf8ea296c98da3ab9fd78bcfe460e458096",
+   "bytes": 20386
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0615/7352/9653/files/NEWPureSkinFaceCleanserLEAD6oz.png?v=1783696128",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0615/7352/9653/files/NEWPureSkinFaceCleanserLEAD6oz.png?v=1783696128&width=1100&format=webp",
+   "local": "/images/catalog/6a93e4950d1c2f3867.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "6a93e4950d1c2f3867959040d8dccef66592a82468bec51abc31552ed6a882ca",
+   "bytes": 134428
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0467/8120/2585/files/EltaMD_Virtual_Bundles_052026_7.png?v=1792516960",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0467/8120/2585/files/EltaMD_Virtual_Bundles_052026_7.png?v=1792516960&width=1100&format=webp",
+   "local": "/images/catalog/d1632e24ac70309e3a.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "d1632e24ac70309e3a0843c8f6d7d43013b698b120ef51d0ae14e8df96471f9f",
+   "bytes": 44188
   }
  ],
  "fragrancePricing": {
@@ -17722,5 +18372,32 @@
    "https://fragrancelord.com",
    "https://www.olfactoryfactoryllc.com"
   ]
+ },
+ "faceCarePricing": {
+  "sourceCurrency": "USD",
+  "usdEtbRate": 190,
+  "discountPercent": 10,
+  "effectiveEtbPerUsd": 171,
+  "minEtb": 3000,
+  "maxEtb": 20000,
+  "rounding": "Round once at the end to nearest whole birr, half up",
+  "origin": "Merchant instruction; same calculation as fragrances",
+  "sourceCurrencyCheckedAt": "2026-10-25",
+  "sourceHosts": [
+   "https://naturium.com",
+   "https://eltamd.com",
+   "https://supergoop.com",
+   "https://beautyofjoseon.com",
+   "https://skinfix.com",
+   "https://www.firstaidbeauty.com",
+   "https://www.drmtlgy.com",
+   "https://www.cocokind.com"
+  ]
+ },
+ "deliveryPolicy": {
+  "customerDeliveryFeeEtb": 0,
+  "paidBy": "Jiji",
+  "scope": "All delivery fees",
+  "display": "Below Change delivery date on both delivery and payment screens"
  }
 }

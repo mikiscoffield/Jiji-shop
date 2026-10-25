@@ -4,7 +4,7 @@
 
 Merchant’s explicit rule: **ETB = USD × 190 × 0.90 = USD × 171**, rounded once at the end to the nearest whole birr. This is the requested merchant pricing rate, not the market FX rate used by other departments. No arbitrary price floor or premium adjustment applies to fragrances. public/fragrance-pricing.mjs and the catalog tests enforce the rule and the $200 exclusion.
 
-Volumes and concentrations identify the selected offer. Samples, decants, tester/no-box offers and refill-only containers are excluded. Retailer photographs can represent several bottle volumes; the selected ml amount is explicit. Prices are dated snapshots, not live quotes; shipping, taxes, import and local delivery are separate. These maintainer source links are not exposed in the customer shop. Actual published product ratings are retained when available; no review scores or review counts are invented.
+Volumes and concentrations identify the selected offer. Samples, decants, tester/no-box offers and refill-only containers are excluded. Retailer photographs can represent several bottle volumes; the selected ml amount is explicit. Prices are dated snapshots, not live quotes; source shipping, tax and import inputs are not a cost calculation. Customer delivery fees are covered by Jiji. These maintainer source links are not exposed in the customer shop. Actual published product ratings are retained when available; no review scores or review counts are invented.
 
 | Product | Concentration | Bottle | Source USD | ETB | Source variant |
 |---|---|---|---:|---:|---|

@@ -1,3 +1,4 @@
+import {faceCarePriceEtb} from '../public/face-care-pricing.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
@@ -32,7 +33,7 @@ vm.runInNewContext(fs.readFileSync(new URL('../public/catalog.js',import.meta.ur
 const catalog=JSON.parse(JSON.stringify(context.window.catalog));
 const audit=JSON.parse(fs.readFileSync(new URL('../CATALOG-SOURCES.json',import.meta.url),'utf8'));
 test('all categories and at least fifteen men’s and fifteen women’s shoes have traceable branded offers',()=>{
- for(const department of ['Shoes','Clothes','Fragrances','Makeup','Bags','Accessories'])assert.ok(catalog.some(p=>p.department===department));
+ for(const department of ['Shoes','Clothes','Fragrances','Face care','Bags','Accessories'])assert.ok(catalog.some(p=>p.department===department));
  for(const audience of ['Men','Women'])assert.ok(catalog.filter(p=>p.department==='Shoes'&&p.audience===audience).length>=15);
  assert.equal(new Set(catalog.map(p=>p.id)).size,catalog.length);
  for(const p of catalog){
@@ -42,11 +43,12 @@ test('all categories and at least fifteen men’s and fifteen women’s shoes ha
    assert.ok(p.variants[color].length>0,p.id+' '+color);
    assert.ok(p.swatches[color]);
    for(const [size,offer] of Object.entries(p.offers[color])){
-    assert.ok(offer.etb>=(p.department==='Fragrances'?10000:p.department==='Shoes'?4000:p.department==='Clothes'?(p.audience==='Men'?2125:2500):3500)&&offer.etb<=(p.department==='Fragrances'?45000:p.department==='Shoes'?10000:p.department==='Clothes'?7000:8000));
+    assert.ok(offer.etb>=(p.department==='Face care'?3000:p.department==='Fragrances'?10000:p.department==='Shoes'?4000:p.department==='Clothes'?(p.audience==='Men'?2125:2500):3500)&&offer.etb<=(p.department==='Face care'?20000:p.department==='Fragrances'?45000:p.department==='Shoes'?10000:p.department==='Clothes'?7000:8000));
     const amount=offer.amount ?? offer.usd;
     const rate=offer.currency?audit.fx.etbPerCurrency[offer.currency]:audit.fx.USD_ETB;
     const base=Math.round(amount*rate);
-    if(p.department==='Fragrances'){assert.equal(offer.etb,fragrancePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
+    if(p.department==='Face care'){assert.equal(offer.etb,faceCarePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
+    else if(p.department==='Fragrances'){assert.equal(offer.etb,fragrancePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
     else if(p.department==='Clothes'&&p.audience==='Men'){assert.equal(offer.discountPercent,15);assert.equal(offer.baseEtb,base);assert.equal(offer.etb,Math.round(base*.85));}
     else if(p.department==='Clothes'&&p.audience==='Women'){assert.equal(offer.etb,Math.max(base,offer.merchantPriceFloorEtb||0));}
     else assert.equal(offer.etb,base);
@@ -119,4 +121,12 @@ test('merchant EU sizes are enabled for every shoe color without inventing sourc
    }
   }
  }
+});
+
+test('Face care replaces Makeup with a complete mostly-women’s skincare edit',()=>{
+ assert.ok(catalog.every(p=>p.department!=='Makeup'));
+ const products=catalog.filter(p=>p.department==='Face care');assert.equal(products.length,20);
+ assert.ok(products.filter(p=>p.audience==='Women').length/products.length>=.75);
+ for(const category of ['Sunscreen','Moisturizer','Cleanser','Serum','Toner','Eye care'])assert.ok(products.some(p=>p.category===category));
+ for(const p of products)for(const color of p.colors){const offer=selectedOffer(p,color);assert.equal(offer.availableAtSource,true);assert.ok(offer.sourceVariantTitle);assert.equal(offer.etb,faceCarePriceEtb(offer.usd));}
 });

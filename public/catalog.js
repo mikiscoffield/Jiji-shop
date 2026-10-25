@@ -13268,7 +13268,7 @@ window.catalog = [
   "audience": "Unisex",
   "price": 3528,
   "tag": "Cleanser",
-  "description": "CeraVe Pore Deep Cleansing Gel Foaming Cleanser \u2013 Anti-Imperfections 8oz/236ml. Choose the listed package.",
+  "description": "A foaming face wash that removes dirt and extra oil. Helps clean pores and leaves skin feeling fresh. Made for skin that is oily or prone to blemishes.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13308,6 +13308,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/4d006aa86f0754b01a.webp"
+  ],
+  "descriptionPoints": [
+   "A foaming face wash that removes dirt and extra oil.",
+   "Helps clean pores and leaves skin feeling fresh.",
+   "Made for skin that is oily or prone to blemishes."
   ]
  },
  {
@@ -13319,7 +13324,7 @@ window.catalog = [
   "audience": "Unisex",
   "price": 3454,
   "tag": "Cleanser",
-  "description": "CeraVe Hydrating Oil Cleanser, Makeup Remover & Cleanser 8oz/236ml. Choose the listed package.",
+  "description": "An oil-based cleanser that removes makeup and daily dirt. Helps clean skin without leaving it feeling dry or tight. A gentle choice for a cleansing routine focused on moisture.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13359,6 +13364,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/9b63867113607dd1b5.webp"
+  ],
+  "descriptionPoints": [
+   "An oil-based cleanser that removes makeup and daily dirt.",
+   "Helps clean skin without leaving it feeling dry or tight.",
+   "A gentle choice for a cleansing routine focused on moisture."
   ]
  },
  {
@@ -13370,7 +13380,7 @@ window.catalog = [
   "audience": "Unisex",
   "price": 4208,
   "tag": "Moisturizer",
-  "description": "CeraVe Moisturising Cream 12oz/340g. Choose the listed package.",
+  "description": "A rich cream that adds moisture to dry skin. Helps support the skin\u2019s protective barrier. Can be used on the face and body.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13409,6 +13419,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/a03b52faab853b4893.webp"
+  ],
+  "descriptionPoints": [
+   "A rich cream that adds moisture to dry skin.",
+   "Helps support the skin\u2019s protective barrier.",
+   "Can be used on the face and body."
   ]
  },
  {
@@ -13420,7 +13435,7 @@ window.catalog = [
   "audience": "Women",
   "price": 5301,
   "tag": "Moisturizer",
-  "description": "La Roche-Posay Toleriane Dermallergo Cream. Choose the listed package.",
+  "description": "A face cream for sensitive skin that feels dry or uncomfortable. Adds moisture and helps skin feel soothed. Use as the moisturizing step in your face-care routine.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13459,6 +13474,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/f1d34d40a2b6200e18.webp"
+  ],
+  "descriptionPoints": [
+   "A face cream for sensitive skin that feels dry or uncomfortable.",
+   "Adds moisture and helps skin feel soothed.",
+   "Use as the moisturizing step in your face-care routine."
   ]
  },
  {
@@ -13470,7 +13490,7 @@ window.catalog = [
   "audience": "Women",
   "price": 4788,
   "tag": "Moisturizer",
-  "description": "La Roche-Posay Effaclar MAT Moisturizer. Choose the listed package.",
+  "description": "A face moisturizer made for oily skin. Helps reduce the look of shine for a more matte finish. Adds moisture without the feel of a rich, heavy cream.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13509,6 +13529,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/ab80ddd9c79d0b8851.webp"
+  ],
+  "descriptionPoints": [
+   "A face moisturizer made for oily skin.",
+   "Helps reduce the look of shine for a more matte finish.",
+   "Adds moisture without the feel of a rich, heavy cream."
   ]
  },
  {
@@ -13520,7 +13545,7 @@ window.catalog = [
   "audience": "Women",
   "price": 9388,
   "tag": "Sunscreen",
-  "description": "La Roche-Posay Anthelios UVAIR Tinted Serum Sunscreen SPF50+ Deep. Choose the listed package.",
+  "description": "A tinted face sunscreen with SPF 50+ sun protection. The deep tint adds light color to the skin. Apply generously before sun exposure and reapply as directed on the label.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13559,6 +13584,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/4a9d6bba634cda40a5.webp"
+  ],
+  "descriptionPoints": [
+   "A tinted face sunscreen with SPF 50+ sun protection.",
+   "The deep tint adds light color to the skin.",
+   "Apply generously before sun exposure and reapply as directed on the label."
   ]
  },
  {
@@ -13570,7 +13600,7 @@ window.catalog = [
   "audience": "Women",
   "price": 5130,
   "tag": "Sunscreen",
-  "description": "La Roche-Posay Anthelios Hydrating Cream SPF50+ and After-Sun Milk. Choose the listed package.",
+  "description": "A set with SPF 50+ sunscreen and after-sun milk. The sunscreen helps protect skin from the sun. The after-sun milk adds moisture after time outdoors. Reapply sunscreen as directed; after-sun milk does not replace sunscreen.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13609,6 +13639,12 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/3b676d8df296e799d3.webp"
+  ],
+  "descriptionPoints": [
+   "A set with SPF 50+ sunscreen and after-sun milk.",
+   "The sunscreen helps protect skin from the sun.",
+   "The after-sun milk adds moisture after time outdoors.",
+   "Reapply sunscreen as directed; after-sun milk does not replace sunscreen."
   ]
  },
  {
@@ -13620,7 +13656,7 @@ window.catalog = [
   "audience": "Women",
   "price": 6667,
   "tag": "Serum",
-  "description": "La Roche-Posay Hyalu B5 Suractive Pure Hyaluronic Acid Serum. Choose the listed package.",
+  "description": "A hyaluronic acid face serum that adds moisture. Helps dry skin look smoother and feel more plump. Use before your moisturizer and follow the package directions.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13659,6 +13695,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/e90b9bb68b1344fa67.webp"
+  ],
+  "descriptionPoints": [
+   "A hyaluronic acid face serum that adds moisture.",
+   "Helps dry skin look smoother and feel more plump.",
+   "Use before your moisturizer and follow the package directions."
   ]
  },
  {
@@ -13670,7 +13711,7 @@ window.catalog = [
   "audience": "Women",
   "price": 2993,
   "tag": "Moisturizer",
-  "description": "La Roche-Posay Cicaplast Balm B5+. Choose the listed package.",
+  "description": "A rich balm for skin that feels dry, rough or uncomfortable. Helps soothe skin and support its protective barrier. Apply to clean, dry skin as directed on the package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13711,6 +13752,11 @@ window.catalog = [
   "images": [
    "/images/catalog/8676b5cd99510043b1.webp",
    "/images/catalog/fa09101130cf390b41.webp"
+  ],
+  "descriptionPoints": [
+   "A rich balm for skin that feels dry, rough or uncomfortable.",
+   "Helps soothe skin and support its protective barrier.",
+   "Apply to clean, dry skin as directed on the package."
   ]
  },
  {
@@ -13722,7 +13768,7 @@ window.catalog = [
   "audience": "Women",
   "price": 3762,
   "tag": "Moisturizer",
-  "description": "La Roche-Posay Toleriane Soothing Protective Skincare cream. Choose the listed package.",
+  "description": "A daily face cream that adds moisture. Helps soothe sensitive skin that feels tight or uncomfortable. Leaves skin feeling softer and more comfortable.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13761,6 +13807,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/80e3021e047818899f.webp"
+  ],
+  "descriptionPoints": [
+   "A daily face cream that adds moisture.",
+   "Helps soothe sensitive skin that feels tight or uncomfortable.",
+   "Leaves skin feeling softer and more comfortable."
   ]
  },
  {
@@ -13772,7 +13823,7 @@ window.catalog = [
   "audience": "Women",
   "price": 3181,
   "tag": "Cleanser",
-  "description": "Bioderma Sensibio H2O Micellar Water Makeup Remover Sensitive Skin 16.7 OZ. Choose the listed package.",
+  "description": "A micellar water that removes makeup and daily dirt. Made for sensitive skin. Apply with a cotton pad and gently wipe; avoid rubbing hard.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13813,6 +13864,11 @@ window.catalog = [
   "images": [
    "/images/catalog/6708ec4e390b2c7a33.webp",
    "/images/catalog/9a66553954144752b6.webp"
+  ],
+  "descriptionPoints": [
+   "A micellar water that removes makeup and daily dirt.",
+   "Made for sensitive skin.",
+   "Apply with a cotton pad and gently wipe; avoid rubbing hard."
   ]
  },
  {
@@ -13824,7 +13880,7 @@ window.catalog = [
   "audience": "Women",
   "price": 3013,
   "tag": "Cleanser",
-  "description": "Bioderma Sebium H2O Micelle Solution Combination & Oily Skin 16.91 OZ. Choose the listed package.",
+  "description": "A micellar cleansing water for combination and oily skin. Removes makeup, dirt and extra oil. Apply with a cotton pad as directed on the bottle.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13865,6 +13921,11 @@ window.catalog = [
   "images": [
    "/images/catalog/fa30b4604c79d304b9.webp",
    "/images/catalog/0fd02905f9231e859d.webp"
+  ],
+  "descriptionPoints": [
+   "A micellar cleansing water for combination and oily skin.",
+   "Removes makeup, dirt and extra oil.",
+   "Apply with a cotton pad as directed on the bottle."
   ]
  },
  {
@@ -13876,7 +13937,7 @@ window.catalog = [
   "audience": "Women",
   "price": 6149,
   "tag": "Moisturizer",
-  "description": "Bioderma Sebium Hydra Ultra Moisturizing Compensation Care 1.33 OZ Set of 2. Choose the listed package.",
+  "description": "A face moisturizer for skin that feels dry or tight. Helps restore comfort when oil-control routines leave skin feeling dry. This listing includes two tubes.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13917,6 +13978,11 @@ window.catalog = [
   "images": [
    "/images/catalog/237da0931654cd0aeb.webp",
    "/images/catalog/9f2b33c16236628996.webp"
+  ],
+  "descriptionPoints": [
+   "A face moisturizer for skin that feels dry or tight.",
+   "Helps restore comfort when oil-control routines leave skin feeling dry.",
+   "This listing includes two tubes."
   ]
  },
  {
@@ -13928,7 +13994,7 @@ window.catalog = [
   "audience": "Women",
   "price": 2001,
   "tag": "Moisturizer",
-  "description": "Bioderma Cicabio Soothing Repairing Cream 1.33 OZ. Choose the listed package.",
+  "description": "A cream for skin that feels dry or irritated. Helps soothe discomfort and support the skin\u2019s protective barrier. Use on clean skin as directed on the package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -13969,6 +14035,11 @@ window.catalog = [
   "images": [
    "/images/catalog/6f50b934ee3e5b07b9.webp",
    "/images/catalog/83b1989f24b43d2ab1.webp"
+  ],
+  "descriptionPoints": [
+   "A cream for skin that feels dry or irritated.",
+   "Helps soothe discomfort and support the skin\u2019s protective barrier.",
+   "Use on clean skin as directed on the package."
   ]
  },
  {
@@ -13980,7 +14051,7 @@ window.catalog = [
   "audience": "Women",
   "price": 5814,
   "tag": "Cleanser",
-  "description": "Avene Cleanance Cleansing Gel. Choose the listed package.",
+  "description": "A cleansing gel for oily or blemish-prone skin. Washes away dirt and extra oil. Massage onto wet skin, rinse, and follow with moisturizer.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -14021,6 +14092,11 @@ window.catalog = [
   "images": [
    "/images/catalog/e9656db9e21c791383.webp",
    "/images/catalog/7bf1dc759be43a749f.webp"
+  ],
+  "descriptionPoints": [
+   "A cleansing gel for oily or blemish-prone skin.",
+   "Washes away dirt and extra oil.",
+   "Massage onto wet skin, rinse, and follow with moisturizer."
   ]
  },
  {
@@ -14032,7 +14108,7 @@ window.catalog = [
   "audience": "Women",
   "price": 6498,
   "tag": "Moisturizer",
-  "description": "Av\u00e8ne Hydrance Aqua-Gel. Choose the listed package.",
+  "description": "A light gel moisturizer that adds water-based moisture. Helps dehydrated skin feel softer and more comfortable. A fresh gel texture for your daily face-care routine.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -14071,6 +14147,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/d04332365dc72eb0a2.webp"
+  ],
+  "descriptionPoints": [
+   "A light gel moisturizer that adds water-based moisture.",
+   "Helps dehydrated skin feel softer and more comfortable.",
+   "A fresh gel texture for your daily face-care routine."
   ]
  },
  {
@@ -14082,7 +14163,7 @@ window.catalog = [
   "audience": "Women",
   "price": 6669,
   "tag": "Serum",
-  "description": "Avene Hydrance BOOST Concentrated Hydrating Serum. Choose the listed package.",
+  "description": "A concentrated serum that adds moisture to dehydrated skin. Helps skin feel softer and look smoother. Use before your face cream, following the package directions.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -14121,6 +14202,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/624cffba109b3ff950.webp"
+  ],
+  "descriptionPoints": [
+   "A concentrated serum that adds moisture to dehydrated skin.",
+   "Helps skin feel softer and look smoother.",
+   "Use before your face cream, following the package directions."
   ]
  },
  {
@@ -14132,7 +14218,7 @@ window.catalog = [
   "audience": "Women",
   "price": 8465,
   "tag": "Eye care",
-  "description": "Avene Retrinal Eyes Advanced 3-In-1 Eye Cream. Choose the listed package.",
+  "description": "An eye cream for the skin around the eyes. Helps improve the look of fine lines, puffiness and dark circles. Use a small amount as directed and keep it out of the eyes.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -14173,6 +14259,11 @@ window.catalog = [
   "images": [
    "/images/catalog/5e20f8604162eedf56.webp",
    "/images/catalog/8b2be20b4e60e4cb05.webp"
+  ],
+  "descriptionPoints": [
+   "An eye cream for the skin around the eyes.",
+   "Helps improve the look of fine lines, puffiness and dark circles.",
+   "Use a small amount as directed and keep it out of the eyes."
   ]
  },
  {
@@ -14184,7 +14275,7 @@ window.catalog = [
   "audience": "Women",
   "price": 2394,
   "tag": "Face mist",
-  "description": "Avene Thermal Spring Water Spray. Choose the listed package.",
+  "description": "A fine water mist that refreshes the skin. Helps soothe skin that feels hot, dry or uncomfortable. Spray onto skin as directed; it does not replace moisturizer or sunscreen.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -14225,6 +14316,11 @@ window.catalog = [
   "images": [
    "/images/catalog/14ed693dbd020d25ab.webp",
    "/images/catalog/e894d9dd4ade41a028.webp"
+  ],
+  "descriptionPoints": [
+   "A fine water mist that refreshes the skin.",
+   "Helps soothe skin that feels hot, dry or uncomfortable.",
+   "Spray onto skin as directed; it does not replace moisturizer or sunscreen."
   ]
  },
  {
@@ -14236,7 +14332,7 @@ window.catalog = [
   "audience": "Women",
   "price": 5985,
   "tag": "Moisturizer",
-  "description": "Av\u00e8ne Hydrance Light Hydrating Emulsion. Choose the listed package.",
+  "description": "A lightweight face moisturizer. Adds moisture without the heavy feel of a rich cream. Made for normal to combination skin that feels dehydrated.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
@@ -14275,6 +14371,11 @@ window.catalog = [
   ],
   "images": [
    "/images/catalog/30529d0291b0a283b6.webp"
+  ],
+  "descriptionPoints": [
+   "A lightweight face moisturizer.",
+   "Adds moisture without the heavy feel of a rich cream.",
+   "Made for normal to combination skin that feels dehydrated."
   ]
  },
  {

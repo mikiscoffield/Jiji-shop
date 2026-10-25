@@ -2,7 +2,7 @@
 
 ## Current premium-theme revision
 
-The current build contains **55,538,016 bytes (55.54 MB)** across 678 files. Images account for **54,952,434 bytes (54.95 MB)** across 662 files. Previous transfer measurements below describe the earlier 42-product catalog, not the current 205-product catalog. Monthly account usage is not publicly accessible.
+The current build contains **55,544,233 bytes (55.54 MB)** across 678 files. Images account for **54,952,434 bytes (54.95 MB)** across 662 files. Previous transfer measurements below describe the earlier 42-product catalog, not the current 205-product catalog. Monthly account usage is not publicly accessible.
 
 ## Previous deployment benchmark
 

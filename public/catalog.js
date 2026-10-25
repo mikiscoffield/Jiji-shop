@@ -1,4 +1,4 @@
-// Source photo/price snapshot: 25 October 2026. Merchant stock and retail pricing are documented in CATALOG-SOURCES.json.
+// Source snapshot: 25 October 2026. Merchant stock and pricing policies: CATALOG-SOURCES.json.
 window.catalog = [
  {
   "id": "jordan-flight-court",
@@ -10318,6 +10318,751 @@ window.catalog = [
    "/images/catalog/572756566d3ec7ae13.webp"
   ],
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
+ },
+ {
+  "id": "fragrance-7149737508898",
+  "name": "Dior Sauvage",
+  "brand": "Dior",
+  "department": "Fragrances",
+  "category": "Parfum",
+  "audience": "Men",
+  "price": 23472,
+  "tag": "Parfum",
+  "description": "Fresh citrus, sandalwood and a warm resinous finish.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "60 ml \u00b7 Parfum": {
+    "": {
+     "usd": 145.0,
+     "etb": 23472,
+     "sourceURL": "https://fragrancelord.com/products/christian-dior-sauvage-parfum-1?variant=47551194890538",
+     "sourceVariantID": "47551194890538",
+     "sourceSKU": "3348901486392",
+     "availableAtSource": true,
+     "bottleMl": 60,
+     "concentration": "Parfum"
+    }
+   }
+  },
+  "variants": {
+   "60 ml \u00b7 Parfum": [
+    "/images/catalog/505cb235f4a147a3ba.webp"
+   ]
+  },
+  "swatches": {
+   "60 ml \u00b7 Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "60 ml \u00b7 Parfum": "https://fragrancelord.com/products/christian-dior-sauvage-parfum-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "60 ml \u00b7 Parfum"
+  ],
+  "images": [
+   "/images/catalog/505cb235f4a147a3ba.webp"
+  ]
+ },
+ {
+  "id": "fragrance-8905832431914",
+  "name": "Prada Paradoxe",
+  "brand": "Prada",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Women",
+  "price": 19425,
+  "tag": "Eau de Parfum",
+  "description": "A contemporary floral fragrance in the signature triangular bottle.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "90 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 120.0,
+     "etb": 19425,
+     "sourceURL": "https://fragrancelord.com/products/prada-prada-paradoxe-eau-de-parfum-spray?variant=47584537149738",
+     "sourceVariantID": "47584537149738",
+     "sourceSKU": "3614273760164",
+     "availableAtSource": true,
+     "bottleMl": 90,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "90 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/be0468c06d6700dfca.webp"
+   ]
+  },
+  "swatches": {
+   "90 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "90 ml \u00b7 Eau de Parfum": "https://fragrancelord.com/products/prada-prada-paradoxe-eau-de-parfum-spray"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "90 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/be0468c06d6700dfca.webp"
+  ]
+ },
+ {
+  "id": "fragrance-8270299595050",
+  "name": "Yves Saint Laurent Libre Intense",
+  "brand": "Yves Saint Laurent",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Women",
+  "price": 19263,
+  "tag": "Eau de Parfum",
+  "description": "An intense floral fragrance with a warm, elegant character.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "50 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 119.0,
+     "etb": 19263,
+     "sourceURL": "https://fragrancelord.com/products/yves-saint-laurent-libre-intense-eau-de-parfum?variant=49313236386090",
+     "sourceVariantID": "49313236386090",
+     "sourceSKU": "3614273069540",
+     "availableAtSource": true,
+     "bottleMl": 50,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "50 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/8b0c8c5897e989d358.webp"
+   ]
+  },
+  "swatches": {
+   "50 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "50 ml \u00b7 Eau de Parfum": "https://fragrancelord.com/products/yves-saint-laurent-libre-intense-eau-de-parfum"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "50 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/8b0c8c5897e989d358.webp"
+  ]
+ },
+ {
+  "id": "fragrance-6980108124194",
+  "name": "Tom Ford Ombr\u00e9 Leather",
+  "brand": "Tom Ford",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Unisex",
+  "price": 25900,
+  "tag": "Eau de Parfum",
+  "description": "A distinctive leather fragrance with a rich, modern character.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "50 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 160.0,
+     "etb": 25900,
+     "sourceURL": "https://fragrancelord.com/products/tom-fordombre-leather-eau-de-parfum-spray?variant=50886274023722",
+     "sourceVariantID": "50886274023722",
+     "sourceSKU": "888066075138",
+     "availableAtSource": true,
+     "bottleMl": 50,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "50 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/e198ae6b22e778d122.webp"
+   ]
+  },
+  "swatches": {
+   "50 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "50 ml \u00b7 Eau de Parfum": "https://fragrancelord.com/products/tom-fordombre-leather-eau-de-parfum-spray"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "50 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/e198ae6b22e778d122.webp"
+  ]
+ },
+ {
+  "id": "fragrance-7214912667707",
+  "name": "Giorgio Armani Acqua di Gi\u00f2",
+  "brand": "Giorgio Armani",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Men",
+  "price": 10522,
+  "tag": "Eau de Parfum",
+  "description": "A fresh aquatic fragrance. Refillable bottle; this is the filled fragrance, not a refill pouch.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "125 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 65.0,
+     "etb": 10522,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/giorgio-armani-acqua-di-gio-edp-refillable-men?variant=41547158749243",
+     "sourceVariantID": "41547158749243",
+     "sourceSKU": "B09TPWLDC3-FBM",
+     "availableAtSource": true,
+     "bottleMl": 125,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "125 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/649c2adc41bb26b9aa.webp"
+   ]
+  },
+  "swatches": {
+   "125 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "125 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/giorgio-armani-acqua-di-gio-edp-refillable-men"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "125 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/649c2adc41bb26b9aa.webp"
+  ]
+ },
+ {
+  "id": "fragrance-7226626113595",
+  "name": "Yves Saint Laurent Y",
+  "brand": "Yves Saint Laurent",
+  "department": "Fragrances",
+  "category": "Eau de Toilette",
+  "audience": "Men",
+  "price": 10522,
+  "tag": "Eau de Toilette",
+  "description": "A crisp, contemporary fragrance for everyday wear.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "60 ml \u00b7 Eau de Toilette": {
+    "": {
+     "usd": 65.0,
+     "etb": 10522,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/yves-saint-laurent-y-eau-de-toilette-1?variant=42588160294971",
+     "sourceVariantID": "42588160294971",
+     "sourceSKU": "YSL-Y60-EDT",
+     "availableAtSource": true,
+     "bottleMl": 60,
+     "concentration": "Eau de Toilette"
+    }
+   }
+  },
+  "variants": {
+   "60 ml \u00b7 Eau de Toilette": [
+    "/images/catalog/80f56d1f81744702b3.webp"
+   ]
+  },
+  "swatches": {
+   "60 ml \u00b7 Eau de Toilette": "#c8ae78"
+  },
+  "sourceURLs": {
+   "60 ml \u00b7 Eau de Toilette": "https://www.olfactoryfactoryllc.com/products/yves-saint-laurent-y-eau-de-toilette-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "60 ml \u00b7 Eau de Toilette"
+  ],
+  "images": [
+   "/images/catalog/80f56d1f81744702b3.webp"
+  ]
+ },
+ {
+  "id": "fragrance-6957527040059",
+  "name": "Tom Ford Costa Azzurra",
+  "brand": "Tom Ford",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Unisex",
+  "price": 20234,
+  "tag": "Eau de Parfum",
+  "description": "A coastal-inspired fragrance with a polished woody character.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "100 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 159.0,
+     "etb": 25738,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/tom-ford-costa-azzurra-eau-de-parfum?variant=40704216367163",
+     "sourceVariantID": "40704216367163",
+     "sourceSKU": "TF-CA100",
+     "availableAtSource": true,
+     "bottleMl": 100,
+     "concentration": "Eau de Parfum"
+    }
+   },
+   "50 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 125.0,
+     "etb": 20234,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/tom-ford-costa-azzurra-eau-de-parfum?variant=40704216399931",
+     "sourceVariantID": "40704216399931",
+     "sourceSKU": "TF-CA50",
+     "availableAtSource": true,
+     "bottleMl": 50,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "100 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/589509b7f237965ff5.webp"
+   ],
+   "50 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/589509b7f237965ff5.webp"
+   ]
+  },
+  "swatches": {
+   "100 ml \u00b7 Eau de Parfum": "#c8ae78",
+   "50 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "100 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/tom-ford-costa-azzurra-eau-de-parfum",
+   "50 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/tom-ford-costa-azzurra-eau-de-parfum"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "100 ml \u00b7 Eau de Parfum",
+   "50 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/589509b7f237965ff5.webp"
+  ]
+ },
+ {
+  "id": "fragrance-7229769547835",
+  "name": "Tom Ford Oud Min\u00e9rale",
+  "brand": "Tom Ford",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Unisex",
+  "price": 16026,
+  "tag": "Eau de Parfum",
+  "description": "An ocean-inspired woody fragrance.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "50 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 99.0,
+     "etb": 16026,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/tom-ford-oud-minerale?variant=41600827621435",
+     "sourceVariantID": "41600827621435",
+     "sourceSKU": "TF-OM50",
+     "availableAtSource": true,
+     "bottleMl": 50,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "50 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/3e02c88a2c01adf4ae.webp"
+   ]
+  },
+  "swatches": {
+   "50 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "50 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/tom-ford-oud-minerale"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "50 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/3e02c88a2c01adf4ae.webp"
+  ]
+ },
+ {
+  "id": "fragrance-7007143854139",
+  "name": "Parfums de Marly Delina",
+  "brand": "Parfums de Marly",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Women",
+  "price": 33184,
+  "tag": "Eau de Parfum",
+  "description": "A luxurious floral fragrance in the signature pink bottle.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "75 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 205.0,
+     "etb": 33184,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-delina?variant=40848591880251",
+     "sourceVariantID": "40848591880251",
+     "sourceSKU": "PDM-DE75",
+     "availableAtSource": true,
+     "bottleMl": 75,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "75 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/50447688b6c69cfce0.webp"
+   ]
+  },
+  "swatches": {
+   "75 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "75 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-delina"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "75 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/50447688b6c69cfce0.webp"
+  ]
+ },
+ {
+  "id": "fragrance-6957507412027",
+  "name": "Parfums de Marly Oriana",
+  "brand": "Parfums de Marly",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Women",
+  "price": 25738,
+  "tag": "Eau de Parfum",
+  "description": "A soft floral gourmand fragrance with a refined sweet character.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "75 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 205.0,
+     "etb": 33184,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-oriana-eau-de-parfum?variant=40704166887483",
+     "sourceVariantID": "40704166887483",
+     "sourceSKU": "PDM-O75",
+     "availableAtSource": true,
+     "bottleMl": 75,
+     "concentration": "Eau de Parfum"
+    }
+   },
+   "30 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 159.0,
+     "etb": 25738,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-oriana-eau-de-parfum?variant=41078039576635",
+     "sourceVariantID": "41078039576635",
+     "sourceSKU": "PDM-O30",
+     "availableAtSource": true,
+     "bottleMl": 30,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "75 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/153bcce9c30b02c839.webp"
+   ],
+   "30 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/153bcce9c30b02c839.webp"
+   ]
+  },
+  "swatches": {
+   "75 ml \u00b7 Eau de Parfum": "#c8ae78",
+   "30 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "75 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-oriana-eau-de-parfum",
+   "30 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-oriana-eau-de-parfum"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "75 ml \u00b7 Eau de Parfum",
+   "30 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/153bcce9c30b02c839.webp"
+  ]
+ },
+ {
+  "id": "fragrance-7215487287355",
+  "name": "Parfums de Marly Altha\u00efr",
+  "brand": "Parfums de Marly",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Men",
+  "price": 37069,
+  "tag": "Eau de Parfum",
+  "description": "Bourbon vanilla, orange blossom and warm woody notes.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "125 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 229.0,
+     "etb": 37069,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-althair?variant=41549562576955",
+     "sourceVariantID": "41549562576955",
+     "sourceSKU": "PDM-ALT125",
+     "availableAtSource": true,
+     "bottleMl": 125,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "125 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/6fec31a90064eafd45.webp"
+   ]
+  },
+  "swatches": {
+   "125 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "125 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-althair"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "125 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/6fec31a90064eafd45.webp"
+  ]
+ },
+ {
+  "id": "fragrance-6957448233019",
+  "name": "Initio Oud for Greatness",
+  "brand": "Initio",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Unisex",
+  "price": 24119,
+  "tag": "Eau de Parfum",
+  "description": "An expressive oud fragrance with a bold, elegant character.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "90 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 225.0,
+     "etb": 36422,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/initio-oud-for-greatness?variant=40704043548731",
+     "sourceVariantID": "40704043548731",
+     "sourceSKU": "IPP-OFG90",
+     "availableAtSource": true,
+     "bottleMl": 90,
+     "concentration": "Eau de Parfum"
+    }
+   },
+   "50 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 149.0,
+     "etb": 24119,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/initio-oud-for-greatness?variant=43094836740155",
+     "sourceVariantID": "43094836740155",
+     "sourceSKU": "IPP-OFG50",
+     "availableAtSource": true,
+     "bottleMl": 50,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "90 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/6873ce2793b0eff842.webp"
+   ],
+   "50 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/5bf01dfcbaf76eb14e.webp"
+   ]
+  },
+  "swatches": {
+   "90 ml \u00b7 Eau de Parfum": "#c8ae78",
+   "50 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "90 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/initio-oud-for-greatness",
+   "50 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/initio-oud-for-greatness"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "90 ml \u00b7 Eau de Parfum",
+   "50 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/6873ce2793b0eff842.webp",
+   "/images/catalog/5bf01dfcbaf76eb14e.webp"
+  ]
+ },
+ {
+  "id": "fragrance-6957489258555",
+  "name": "Initio Side Effect",
+  "brand": "Initio",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Unisex",
+  "price": 33832,
+  "tag": "Eau de Parfum",
+  "description": "Cinnamon, rum and tobacco with warm sandalwood.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "90 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 209.0,
+     "etb": 33832,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/initio-side-effect?variant=40704134021179",
+     "sourceVariantID": "40704134021179",
+     "sourceSKU": "IPP-SE90",
+     "availableAtSource": true,
+     "bottleMl": 90,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "90 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/8d3e58ff76517fa4ef.webp"
+   ]
+  },
+  "swatches": {
+   "90 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "90 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/initio-side-effect"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "90 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/8d3e58ff76517fa4ef.webp"
+  ]
+ },
+ {
+  "id": "fragrance-9427650740522",
+  "name": "Valentino Donna Born in Roma Green Stravaganza",
+  "brand": "Valentino",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Women",
+  "price": 16187,
+  "tag": "Eau de Parfum",
+  "description": "A vibrant floral fragrance from the Born in Roma collection.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "50 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 100.0,
+     "etb": 16187,
+     "sourceURL": "https://fragrancelord.com/products/valentino-valentino-donna-born-in-roma-green-stravaganza-eau-de-parfum-spray?variant=50354392662314",
+     "sourceVariantID": "50354392662314",
+     "sourceSKU": "3614274024753",
+     "availableAtSource": true,
+     "bottleMl": 50,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "50 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/ba7e0f8c2b771d3b7d.webp"
+   ]
+  },
+  "swatches": {
+   "50 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "50 ml \u00b7 Eau de Parfum": "https://fragrancelord.com/products/valentino-valentino-donna-born-in-roma-green-stravaganza-eau-de-parfum-spray"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "50 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/ba7e0f8c2b771d3b7d.webp"
+  ]
+ },
+ {
+  "id": "fragrance-7594594041915",
+  "name": "Dior Dioriviera",
+  "brand": "Dior",
+  "department": "Fragrances",
+  "category": "Eau de Parfum",
+  "audience": "Unisex",
+  "price": 32373,
+  "tag": "Eau de Parfum",
+  "description": "An elegant fragrance from La Collection Priv\u00e9e Christian Dior.",
+  "sizeLabel": "Bottle size",
+  "sizes": [],
+  "offers": {
+   "125 ml \u00b7 Eau de Parfum": {
+    "": {
+     "usd": 199.99,
+     "etb": 32373,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/christian-dior-dioriviera?variant=43481606225979",
+     "sourceVariantID": "43481606225979",
+     "sourceSKU": "CD-DI125",
+     "availableAtSource": true,
+     "bottleMl": 125,
+     "concentration": "Eau de Parfum"
+    }
+   }
+  },
+  "variants": {
+   "125 ml \u00b7 Eau de Parfum": [
+    "/images/catalog/cd5ae2d51ef4b6ca53.webp"
+   ]
+  },
+  "swatches": {
+   "125 ml \u00b7 Eau de Parfum": "#c8ae78"
+  },
+  "sourceURLs": {
+   "125 ml \u00b7 Eau de Parfum": "https://www.olfactoryfactoryllc.com/products/christian-dior-dioriviera"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "125 ml \u00b7 Eau de Parfum"
+  ],
+  "images": [
+   "/images/catalog/cd5ae2d51ef4b6ca53.webp"
+  ]
  },
  {
   "id": "colourpop-fallen",

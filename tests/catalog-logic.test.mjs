@@ -30,7 +30,7 @@ vm.runInNewContext(fs.readFileSync(new URL('../public/catalog.js',import.meta.ur
 const catalog=JSON.parse(JSON.stringify(context.window.catalog));
 const audit=JSON.parse(fs.readFileSync(new URL('../CATALOG-SOURCES.json',import.meta.url),'utf8'));
 test('all categories and at least fifteen men’s and fifteen women’s shoes have traceable branded offers',()=>{
- for(const department of ['Shoes','Clothes','Makeup','Bags','Accessories'])assert.ok(catalog.some(p=>p.department===department));
+ for(const department of ['Shoes','Clothes','Fragrances','Makeup','Bags','Accessories'])assert.ok(catalog.some(p=>p.department===department));
  for(const audience of ['Men','Women'])assert.ok(catalog.filter(p=>p.department==='Shoes'&&p.audience===audience).length>=15);
  assert.equal(new Set(catalog.map(p=>p.id)).size,catalog.length);
  for(const p of catalog){
@@ -40,7 +40,7 @@ test('all categories and at least fifteen men’s and fifteen women’s shoes ha
    assert.ok(p.variants[color].length>0,p.id+' '+color);
    assert.ok(p.swatches[color]);
    for(const [size,offer] of Object.entries(p.offers[color])){
-    assert.ok(offer.etb>=(p.department==='Shoes'?4000:p.department==='Clothes'?(p.audience==='Men'?2125:2500):3500)&&offer.etb<=(p.department==='Shoes'?10000:p.department==='Clothes'?7000:8000));
+    assert.ok(offer.etb>=(p.department==='Fragrances'?10000:p.department==='Shoes'?4000:p.department==='Clothes'?(p.audience==='Men'?2125:2500):3500)&&offer.etb<=(p.department==='Fragrances'?45000:p.department==='Shoes'?10000:p.department==='Clothes'?7000:8000));
     const amount=offer.amount ?? offer.usd;
     const rate=offer.currency?audit.fx.etbPerCurrency[offer.currency]:audit.fx.USD_ETB;
     const base=Math.round(amount*rate);
@@ -86,4 +86,17 @@ test('fashion edits remove all clothing T-shirts and keep at least 85% of women�
  assert.ok(women.filter(p=>['Dresses','Skirts'].includes(p.category)).length/women.length>=.85);
  assert.ok(clothes.filter(p=>p.audience==='Men').every(p=>['Jackets','Hoodies','Pants'].includes(p.category)));
  assert.ok(women.every(p=>p.price>=6000&&p.price<=7000));
+});
+
+test('fifteen branded fragrances have full-bottle volume, concentration and traceable available offers',()=>{
+ const fragrances=catalog.filter(p=>p.department==='Fragrances');assert.equal(fragrances.length,15);
+ for(const p of fragrances){
+  assert.deepEqual(p.sizes,[]);
+  for(const color of p.colors){
+   const offer=selectedOffer(p,color);assert.ok(offer);assert.ok(selectionIsAvailable(p,{color}));
+   assert.ok(offer.bottleMl>=30&&offer.bottleMl<=250);assert.ok(color.includes(offer.bottleMl+' ml'));
+   assert.equal(offer.concentration,p.category);assert.equal(offer.availableAtSource,true);
+   assert.ok(offer.etb>=10000&&offer.etb<=45000);
+  }
+ }
 });

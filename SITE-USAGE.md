@@ -1,8 +1,8 @@
 # Render site usage
 
-## Current fashion revision
+## Current fragrance revision
 
-The current build contains **52,037,414 bytes (52.04 MB)** across 502 files. Images account for **51,653,805 bytes (51.65 MB)** across 493 files. Previous transfer measurements below describe the earlier 42-product catalog, not the current 98-product catalog. Monthly account usage is not publicly accessible.
+The current build contains **52,724,154 bytes (52.72 MB)** across 518 files. Images account for **52,319,671 bytes (52.32 MB)** across 509 files. Previous transfer measurements below describe the earlier 42-product catalog, not the current 113-product catalog. Monthly account usage is not publicly accessible.
 
 ## Previous deployment benchmark
 

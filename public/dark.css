@@ -14,3 +14,8 @@ dialog{background:#141d17;color:#edf4ec;border:1px solid #34473b;box-shadow:0 30
 .options button:disabled{opacity:.3;cursor:not-allowed;border-style:dashed}
 
 .import-request{display:flex;align-items:center;justify-content:space-between;gap:28px;margin:24px 0;padding:30px;border:1px solid #477d5b;background:linear-gradient(120deg,#183b28,#13251b);border-radius:16px}.import-request h2{font-size:27px;letter-spacing:-.7px;margin:12px 0;color:#f1faef}.import-request p{font-size:16px;line-height:1.7;color:#cce0d1;max-width:650px;margin:0}.import-request .button{flex-shrink:0;font-size:14px;max-width:100%}@media(max-width:760px){.import-request{flex-direction:column;align-items:stretch;padding:24px 20px;gap:22px}.import-request h2{font-size:25px}.import-request .button{gap:12px;text-align:center}}
+
+/* Text-only introduction leads directly into Amazon import help. */
+.hero{display:block;min-height:0}.hero-copy{padding:40px 48px}.hero-copy h1{font-size:64px;margin:22px 0}.hero-copy p{max-width:620px}.hero .button{margin-bottom:0}.benefits{justify-content:space-around}@media(max-width:760px){.hero-copy{padding:30px 26px}.hero-copy h1{font-size:46px;letter-spacing:-2px}.hero{min-height:0}.benefits{gap:16px;flex-wrap:wrap}}
+
+.card-swatches .bottle-choice{width:auto;height:auto;min-height:30px;border:1px solid #4b6b55;border-radius:5px;padding:5px 8px;font-size:11px;color:#d5eddb;background:#17271d}.card-swatches .bottle-choice[aria-pressed=true]{border-color:#86dfaa;background:#284331}.options .bottle-choice{gap:0}

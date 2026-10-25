@@ -1,8 +1,8 @@
 # Jiji Shop
 
-English-only dark storefront for Ethiopia and Telegram Mini App @jijietbot. Prices are in ETB. No cart, database, analytics or server-side customer-data storage. All five departments remain: Shoes, Clothes, Makeup, Bags and Accessories.
+English-only dark storefront for Ethiopia and Telegram Mini App @jijietbot. Prices are in ETB. No cart, database, analytics or server-side customer-data storage. All six departments remain: Shoes, Clothes, Fragrances, Makeup, Bags and Accessories.
 
-The catalog contains 98 products: 30 shoes (15 men’s and 15 women’s), 60 clothing styles (30 per audience), three makeup products, two bags and three accessories. Clothing styles alternate men/women. Women: 26 dresses or skirts (86.7%), two fashion tops, one tailored pant and one blazer. Men: nine jackets, eleven hoodies and ten pants styles. No clothing T-shirts remain. The owner confirms S/M/L/XL from their own stock; source retailer availability is recorded separately where captured.
+The catalog contains 113 products: 30 shoes (15 men’s and 15 women’s), 60 clothing styles (30 per audience), 15 fragrances, three makeup products, two bags and three accessories. Clothing styles alternate men/women. Women: 26 dresses or skirts (86.7%), two fashion tops, one tailored pant and one blazer. Men: nine jackets, eleven hoodies and ten pants styles. No clothing T-shirts remain. The owner confirms S/M/L/XL from their own stock; source retailer availability is recorded separately where captured.
 
 ## Development
 
@@ -10,7 +10,7 @@ Use Node.js 24. No app dependencies are required. Run `npm run dev` (port 3000 o
 
 ## Catalog, sizing and prices
 
-Edit public/catalog.js and keep CATALOG-SOURCES.json consistent. department controls the five departments; category describes the style; audience controls Men/Women/Unisex filters. Brand filters are scoped to the chosen department. Every color has its own original product photos, offers and source references. No external store links appear in the customer UI. Real checked source ratings are retained where available; no consumer reviews are fabricated.
+Edit public/catalog.js and keep CATALOG-SOURCES.json consistent. department controls the six departments; category describes the style; audience controls Men/Women/Unisex filters. Brand filters are scoped to the chosen department. Every color has its own original product photos, offers and source references. No external store links appear in the customer UI. Real checked source ratings are retained where available; no consumer reviews are fabricated.
 
 Shoes stay within 4,000–10,000 ETB; only three models reach 9,500 ETB. European labels map to original source SKU size keys through public/shoe-sizing.mjs and public/size-charts.mjs. SIZING.md and SIZE-CHART-SOURCES.json document conversion charts and clearly marked approximations. All whole EU sizes 35–47 are visible; unavailable source sizes are disabled. Do not invent source stock or exact size conversions.
 
@@ -38,4 +38,10 @@ BotFather: /setmenubutton → @jijietbot → Open shop → the Render HTTPS URL.
 
 ## Validation and usage
 
-`npm test` runs 19 checks including catalog/source-photo hashes, exact prices and discount calculations, clothing counts/size coverage, no T-shirts, the women’s dress/skirt proportion, European labels and calendar boundaries. Browser checks cover galleries, import CTA, universal refund notice, delivery/payment and mobile layout. See IMAGE-SOURCES.md for provenance and SITE-USAGE.md for storage/transfer distinctions. Public site measurements cannot reveal the workspace’s actual monthly Render billing totals.
+`npm test` runs 20 checks including catalog/source-photo hashes, exact prices and discount calculations, clothing counts/size coverage, no T-shirts, the women’s dress/skirt proportion, European labels and calendar boundaries. Browser checks cover galleries, import CTA, universal refund notice, delivery/payment and mobile layout. See IMAGE-SOURCES.md for provenance and SITE-USAGE.md for storage/transfer distinctions. Public site measurements cannot reveal the workspace’s actual monthly Render billing totals.
+
+## Fragrances and homepage
+
+Fragrances appears immediately after Clothes in navigation. The 15 designer/niche fragrances have full-bottle offers between 10,000 and 45,000 ETB, priced from checked USD listings using the stored FX snapshot. Volume and concentration are explicit bottle choices; samples, decants, testers and refill-only offers are excluded. Bottle selection updates the image and exact checkout price. Original bottle media can be representative across sizes; the selected milliliter amount is stated in every option and checkout. FRAGRANCE-SOURCES.md lists source sizes, prices and references. Other 98 product records are unchanged.
+
+The homepage introduction is text only: the shoe picture, “A fresh point of view” feature and hero note are removed. Amazon-to-Ethiopia is the next section directly after Explore the collection. The benefits no longer show the shoe price range. The help button reads “Talk to Jiji Admin” and still opens the same Telegram account.

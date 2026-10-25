@@ -15951,34 +15951,34 @@
    "condition": "New retail listing; pre-owned listings excluded."
   },
   {
-   "id": "watch-9049537249340",
-   "brand": "Seiko",
+   "id": "watch-8897109459004",
+   "brand": "Fossil",
    "department": "Watches & Sunglasses",
    "category": "Watches",
    "audience": "Men",
    "sourceHost": "https://shop.simon.com",
    "sourceProductIDs": [
-    "9049537249340"
+    "8897109459004"
    ],
    "sourceProducts": [
     {
-     "id": "9049537249340",
-     "title": "Seiko Men's Series 5 Black Dial Watch",
-     "url": "https://shop.simon.com/products/seiko-mens-series-5-black-dial-watch-5",
+     "id": "8897109459004",
+     "title": "Fossil Men's Crosby Black Dial Watch",
+     "url": "https://shop.simon.com/products/fossil-mens-crosby-black-dial-watch-1",
      "currency": "USD"
     }
    ],
    "offers": {
     "black": {
      "": {
-      "usd": 179.89,
+      "usd": 133.83,
       "usdEtbRate": 190,
       "discountPercent": 10,
-      "baseEtb": 34179.1,
-      "etb": 30761,
-      "sourceURL": "https://shop.simon.com/products/seiko-mens-series-5-black-dial-watch-5?variant=46045087105084",
-      "sourceVariantID": "46045087105084",
-      "sourceSKU": "dsco-1296314967",
+      "baseEtb": 25427.7,
+      "etb": 22885,
+      "sourceURL": "https://shop.simon.com/products/fossil-mens-crosby-black-dial-watch-1?variant=44546226225212",
+      "sourceVariantID": "44546226225212",
+      "sourceSKU": "dsco-1296315706",
       "sourceVariantTitle": "black",
       "availableAtSource": true,
       "itemKind": "Watches"
@@ -23844,6 +23844,15 @@
    "height": 733,
    "sha256": "4949a425d35f986d7aa9d6deceb6adaff8df6a42c56cb58d4bb7b0c951cd6bda",
    "bytes": 17140
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0291/4536/6588/files/dae44a22ca114d63a48d1fe7122a2e04_a396d818-1bea-4cae-812e-f659dc394c70.jpg?v=1781145357",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0291/4536/6588/files/dae44a22ca114d63a48d1fe7122a2e04_a396d818-1bea-4cae-812e-f659dc394c70.jpg?v=1781145357&width=1100&format=webp",
+   "local": "/images/catalog/459bd7620c400754ac.webp",
+   "width": 1100,
+   "height": 1100,
+   "sha256": "459bd7620c400754ac5b74c29fa379f0f7c54d9327f1ce9090717fe232f45bbd",
+   "bytes": 61560
   }
  ],
  "fragrancePricing": {

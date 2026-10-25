@@ -1,6 +1,6 @@
 # Premium bags, watches and sunglasses — 25 October 2026
 
-All 75 previous listings were replaced. Bags: Coach, Kate Spade, Michael Kors, Longchamp, Marc Jacobs and Tory Burch (six brands). Watches: Seiko, Citizen, Bulova, Tissot, Wenger, Fossil and Skagen. Sunglasses: Ferragamo, MCM, Roberto Cavalli, Karl Lagerfeld, Coach, Kate Spade, Michael Kors, Calvin Klein and Ralph Lauren, favoring classic dark business/aviator/rectangle styles rather than sport wraps or novelty frames.
+All 75 previous listings were replaced. Bags: Coach, Kate Spade, Michael Kors, Longchamp, Marc Jacobs and Tory Burch (six brands). Watches: Citizen, Bulova, Tissot, Wenger, Fossil and Skagen. Sunglasses: Ferragamo, MCM, Roberto Cavalli, Karl Lagerfeld, Coach, Kate Spade, Michael Kors, Calvin Klein and Ralph Lauren, favoring classic dark business/aviator/rectangle styles rather than sport wraps or novelty frames.
 
 The owner explicitly kept the previous USD caps and chose premium alternatives. Bags remain $20–$200; watches at most $200; sunglasses at most $100. No Rolex was listed at an implausible budget price. The Tissot PRX listing is distinguished from unrelated Mathey-Tissot models.
 
@@ -43,7 +43,7 @@ Every selected source variant was available and inside the caps at capture. Sour
 | Coach Outlet Mini Payton Bag | Handbags | silver/maple | $99.00 | 16,929 | [Source SKU](https://shop.simon.com/products/coach-outlet-mini-payton-bag?variant=44016619585596) |
 | Coach Outlet Mini Carey Crossbody Bag In Signature Canvas | Handbags | gold/walnut/black | $139.00 | 23,769 | [Source SKU](https://shop.simon.com/products/coach-outlet-mini-carey-crossbody-bag-in-signature-canvas-1?variant=44752934207548) |
 | Coach Outlet Mini Carey Crossbody Bag In Signature Canvas | Handbags | gold/tan/brown | $139.00 | 23,769 | [Source SKU](https://shop.simon.com/products/coach-outlet-mini-carey-crossbody-bag-in-signature-canvas-1?variant=45446796312636) |
-| Seiko Men's Series 5 Black Dial Watch | Watches | black | $179.89 | 30,761 | [Source SKU](https://shop.simon.com/products/seiko-mens-series-5-black-dial-watch-5?variant=46045087105084) |
+| Fossil Men's Crosby Black Dial Watch | Watches | black | $133.83 | 22,885 | [Source SKU](https://shop.simon.com/products/fossil-mens-crosby-black-dial-watch-1?variant=44546226225212) |
 | Ferragamo Men's 62Mm Sunglasses | Sunglasses | Black | $69.99 | 11,968 | [Source SKU](https://www.bluefly.com/products/10007_1111808082?variant=52509752000644) |
 | Citizen Eco-Drive Classic Ivory Dial Mens Watch | Watches | brown | $179.34 | 30,667 | [Source SKU](https://shop.simon.com/products/citizen-eco-drive-classic-ivory-dial-mens-watch-1?variant=45991386251324) |
 | MCM Dark Ruthenium Rectangle MCM113S 069 Sunglasses | Sunglasses | Dark Ruthenium | $97.00 | 16,587 | [Source SKU](https://www.bluefly.com/products/10019_mcm91180?variant=51108840702084) |

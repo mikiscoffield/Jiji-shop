@@ -4,7 +4,7 @@ English-only dark static storefront for Ethiopia and Telegram Mini App @jijietbo
 
 ## Current curation
 
-All 95 bags, watches, sunglasses and face-care listings were replaced in the latest revision. Bags span six established brands: Coach, Kate Spade, Michael Kors, Longchamp, Marc Jacobs and Tory Burch. Watches use Seiko, Citizen, Bulova, Tissot, Wenger, Fossil and Skagen. Sunglasses favor classic dark aviator, rectangle and business styles from Ferragamo, MCM, Roberto Cavalli, Karl Lagerfeld, Coach, Kate Spade, Michael Kors, Calvin Klein and Ralph Lauren. Sport wraps, transparent chunky frames and novelty colors were removed from this selection.
+All 95 bags, watches, sunglasses and face-care listings were replaced in the latest revision. Bags span six established brands: Coach, Kate Spade, Michael Kors, Longchamp, Marc Jacobs and Tory Burch. Watches use Citizen, Bulova, Tissot, Wenger, Fossil and Skagen. Sunglasses favor classic dark aviator, rectangle and business styles from Ferragamo, MCM, Roberto Cavalli, Karl Lagerfeld, Coach, Kate Spade, Michael Kors, Calvin Klein and Ralph Lauren. Sport wraps, transparent chunky frames and novelty colors were removed from this selection.
 
 Face care uses CeraVe, La Roche-Posay, Bioderma and Avène, with cleansers, moisturizers, sun protection, serums, eye care and a facial mist. Products with different pack sizes or multi-item sets are labeled explicitly. The women’s edit is merchandising, not a claim that skincare formulas can only be used by women. Source listings, availability, package/variant IDs and photographs are documented in CATALOG-SOURCES.json, ACCESSORY-SOURCES.md and FACE-CARE-SOURCES.md.
 
@@ -43,3 +43,5 @@ Node.js 24; no app dependencies. `npm run dev` starts port 3000 (or PORT). `npm 
 Render: free Static Site, repository mikiscoffield/Jiji-shop, branch main, empty Root Directory, Build Command `npm run build`, Publish Directory `dist`. render.yaml describes the service. Verify actual live file hashes at https://jiji-shop.onrender.com/ after a push; CDN caching can briefly retain older files. SITE-USAGE.md distinguishes file footprint from account bandwidth totals.
 
 BotFather: /setmenubutton → @jijietbot → Open shop → the Render HTTPS URL. Never put a bot token in public files. Telegram SDK readiness/expansion is optional; ordinary browser use also works.
+
+The storefront uses a warm charcoal, champagne gold and ivory theme with serif headings. The homepage describes premium products directly imported from the USA to Ethiopia. The Seiko Series 5 was replaced with the Fossil Crosby Black Dial Watch ($133.83 source price; 22,885 ETB under USD ×171).

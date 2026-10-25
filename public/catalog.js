@@ -15745,28 +15745,28 @@ window.catalog = [
   ]
  },
  {
-  "id": "watch-9049537249340",
-  "name": "Seiko Men's Series 5 Black Dial Watch",
-  "brand": "Seiko",
+  "id": "watch-8897109459004",
+  "name": "Fossil Men's Crosby Black Dial Watch",
+  "brand": "Fossil",
   "department": "Watches & Sunglasses",
   "category": "Watches",
   "audience": "Men",
-  "price": 30761,
+  "price": 22885,
   "tag": "Watches",
-  "description": "A Seiko timepiece. Case and strap details are shown in the product name.",
+  "description": "A classic black dial with a stainless steel case and bracelet. Quartz movement, mineral crystal and a 42 mm case.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
    "black": {
     "": {
-     "usd": 179.89,
+     "usd": 133.83,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "baseEtb": 34179.1,
-     "etb": 30761,
-     "sourceURL": "https://shop.simon.com/products/seiko-mens-series-5-black-dial-watch-5?variant=46045087105084",
-     "sourceVariantID": "46045087105084",
-     "sourceSKU": "dsco-1296314967",
+     "baseEtb": 25427.7,
+     "etb": 22885,
+     "sourceURL": "https://shop.simon.com/products/fossil-mens-crosby-black-dial-watch-1?variant=44546226225212",
+     "sourceVariantID": "44546226225212",
+     "sourceSKU": "dsco-1296315706",
      "sourceVariantTitle": "black",
      "availableAtSource": true,
      "itemKind": "Watches"
@@ -15775,14 +15775,14 @@ window.catalog = [
   },
   "variants": {
    "black": [
-    "/images/catalog/ff580734ee3b31194f.webp"
+    "/images/catalog/459bd7620c400754ac.webp"
    ]
   },
   "swatches": {
    "black": "#222326"
   },
   "sourceURLs": {
-   "black": "https://shop.simon.com/products/seiko-mens-series-5-black-dial-watch-5"
+   "black": "https://shop.simon.com/products/fossil-mens-crosby-black-dial-watch-1"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
@@ -15790,7 +15790,7 @@ window.catalog = [
    "black"
   ],
   "images": [
-   "/images/catalog/ff580734ee3b31194f.webp"
+   "/images/catalog/459bd7620c400754ac.webp"
   ]
  },
  {

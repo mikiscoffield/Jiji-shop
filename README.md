@@ -1,36 +1,50 @@
 # Jiji Shop
 
-An English-only, mobile-first shoe storefront for Ethiopia and Telegram Mini Apps. Twelve men's, women's and unisex styles with 14 locally bundled photographic assets, Nike/Adidas/New Balance filters, search, EU size selection, and ETB prices from 3,500 to 6,000. No cart, database, analytics, customer address collection, or browser storage.
+An English-only static storefront for Ethiopia and Telegram Mini Apps. Categories: **Shoes, Clothes, Makeup, Bags, Accessories**. There are 28 products, including 22 shoe styles. The 10 latest shoe additions include six mainly black styles, plus dark olive, burgundy/black, white/teal and brown options. Shoe prices remain 3,500–6,000 ETB. Other departments retain their own ETB prices.
+
+No cart, database, analytics or customer data storage. Delivery details are entered before payment and held temporarily in page memory. They reach the seller only when the customer explicitly copies and pastes the order into Telegram.
 
 ## Run and build
 
-Use Node.js 24. There are no package dependencies to install.
+Use Node.js 24. No dependency installation is needed.
 
 ```sh
 npm run dev
 npm run build
 ```
 
-The server uses port 3000 (or PORT). The build copies public/ to dist/. Use the existing checkout; cloud tasks are already isolated, so do not create a worktree unless explicitly requested. Running servers must restart in future tasks.
+The development server uses port 3000 (or PORT); the build copies public/ to dist/. Use the existing checkout. Each cloud task is isolated, so do not create a worktree unless requested. Restart the development server in future tasks.
 
-## Catalog
+## Catalog and filters
 
-Edit public/catalog.js. Each product declares a brand, audience, descriptive name, ETB shop price, sizes, and a `variants` object mapping color labels to matching image arrays. Only offer colors with real matching product photos; do not use CSS filters to invent colors. The White/Mint Nike Course style currently has two photographic color variants. Other styles offer their single photographed color. Click a color swatch on its card or in its details to switch the image. Selecting a color resets its gallery, and checkout uses the selected EU size/color. More real angles can be added to each variant's image array.
+Edit public/catalog.js. `department` controls the five product categories; `category` describes a style within a department; `audience` is Men, Women or Unisex. Audience and brand filters work within the selected department. Switching departments resets the brand filter so a shoe brand cannot hide bags or beauty products.
 
-The old placeholder catalog and drawn shoe illustrations have been removed. Source notes and limitations are in IMAGE-SOURCES.md. Product model names, supplier USD prices, star ratings, inventory, authenticity, and availability were not independently verified. No Amazon or review claims are displayed. Confirm real stock, exact sizes, product sourcing and image permissions before accepting money. Brand names refer to pictured designs, not affiliation. Prices are the requested ETB shop prices, not verified supplier quotes.
+Products declare ETB shop prices, sizes, and `variants` mapping color labels to arrays of matching image paths. Add actual photographs of a color or angle; do not simulate product colors with filters. White/Mint on Nike Course switches between real photographs of the same design. Other products show only their photographed color. Formal burgundy lace-ups and brown boots include two photographic views. Shoes use EU sizes, clothing uses letter sizes, and beauty/bags/accessories can have no size selection.
 
-## Payment
+IMAGE-SOURCES.md documents the 32 bundled photographic assets and limitations. Product titles are descriptive, not verified manufacturer model names. Supplier USD prices, reviews, inventory and authenticity were not independently verified. Confirm actual stock, sizes, sourcing and usage permissions before accepting payments; no supplier or rating claims are displayed.
 
-Customers select their EU size and pictured color, confirm stock/delivery with @ChristianAbe, view Telebirr instructions, and send their payment screenshot manually. The public receiving number is 0953610009, account holder Lykun. The number copy button works in HTTPS/secure contexts and gives manual-copy guidance if clipboard access is denied. Payment verification and delivery arrangements are handled by the seller on https://t.me/christianabe. Opening Telegram does not submit an order, attach a screenshot, or confirm payment. There is no Telebirr API integration.
+## Delivery and payment
 
-## Render free static hosting
+After selecting a product's size/color, the customer must complete delivery details before opening Telebirr instructions:
 
-Connect mikiscoffield/Jiji-shop in Render under New → Static Site. Select main, leave Root Directory empty, set Build Command to `npm run build` and Publish Directory to `dist`, and deploy. render.yaml also describes this static service. This requires no paid web server. GitHub pushes can trigger auto-deploy if enabled. Deployment status must be checked on Render; pushing code does not prove a deployment succeeded.
+- Required: recipient name, Ethiopian mobile number, region, city/town, sub-city/woreda/area, street/house/building address.
+- Optional: nearby landmark and delivery instructions.
+- Ethiopian numbers beginning with 09, 07, +2519, +2517, 002519 or 002517 are accepted; spaces, parentheses and hyphens are normalized.
 
-## Telegram
+The form uses no network submission, database, localStorage or sessionStorage. Browser autocomplete is disabled. Inputs are validated, trimmed, and displayed as escaped text. Delivery state stays in memory until a different product is opened or the page is left/reloaded; the pagehide handler clears delivery/payment content. This does not control platform-level browser or operating-system behavior.
 
-In the official @BotFather, send /setmenubutton, choose @jijietbot, enter Open shop as the button title, and paste the Render HTTPS URL. Do not put a bot token in this static site. Test the menu in Telegram after deployment. The optional Telegram SDK signals readiness and expands the view. Browsing also works without it.
+The payment screen reviews the chosen product, size, color and ETB amount, lets customers edit delivery information, and provides **Copy order & delivery details**. Customers paste those details into https://t.me/christianabe and attach their payment screenshot. Clipboard access happens only on a copy-button click. If blocked, the order text is selectable for manual copying. Addresses are not included in Telegram URLs.
 
-## Verify
+Telebirr receiving number: **0953610009**, holder **Lykun**. Delivery cost must be confirmed separately. The number copy button requires a secure context and falls back to manual-copy guidance. Payment verification is manual. Opening Telegram does not submit an order, attach an image, or verify payment. There is no Telebirr API integration.
 
-Check all product images load on desktop and phone; search/filter by audience and brand; switch the Nike Course White/Mint swatches on both its card and detail dialog; verify EU size is required; verify checkout carries the selected color, size and ETB amount; check copy and Telegram links. No real payment is needed for testing. The UI and build were checked locally; a live Render URL and Telegram in-app flow require separate validation.
+## Deploy to Render
+
+Connect mikiscoffield/Jiji-shop under **New → Static Site**, select **main**, leave Root Directory empty, set Build Command to `npm run build` and Publish Directory to `dist`. Deploy as a free static site. render.yaml also describes the static service. Pushes can trigger Render auto-deploy when enabled; confirm actual deployment status in Render.
+
+## Connect Telegram
+
+In official @BotFather, use /setmenubutton, choose @jijietbot, name the button Open shop, and paste the Render HTTPS URL. Do not put a bot token in the static site. The optional Telegram SDK signals readiness and expands the app; browsing also works without it. Verify in Telegram after deployment.
+
+## Verification
+
+Local browser checks exercised all five departments and all 28 products' image paths, audience/brand/search filtering, White/Mint photo switching, shoe/clothing size selection and sizeless beauty checkout, required delivery fields, invalid/valid Ethiopian numbers, edit/review/copy flow, safe display of markup-like input, no delivery data in network URLs or browser storage, no delivery persistence after reload, and layouts at 320–1440 px. Build and syntax checks also passed. A live Render deployment and Telegram app flow require their own checks.

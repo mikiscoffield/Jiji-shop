@@ -1,42 +1,43 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#087b44">
-  <meta name="description" content="Discover fashion, beauty and everyday finds at Jiji Shop Ethiopia.">
-  <title>Jiji Shop — Your next favorite find</title>
-  <link rel="stylesheet" href="/style.css">
-  <script src="https://telegram.org/js/telegram-web-app.js" defer></script>
-  <script src="/catalog.js" defer></script>
-  <script src="/app.js" defer></script>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+ <meta name="theme-color" content="#087b44">
+ <meta name="description" content="Find your next pair at Jiji Shop Ethiopia. Shop men's and women's sneakers, running shoes, and everyday styles. Prices in ETB, payment with Telebirr.">
+ <title>Jiji Shop — Make your next move</title>
+ <link rel="stylesheet" href="/style.css">
+ <script src="https://telegram.org/js/telegram-web-app.js" defer></script>
+ <script src="/catalog.js" defer></script>
+ <script src="/app.js" defer></script>
 </head>
 <body>
-  <div class="topline">A little style. A little beauty. A lot to love.</div>
-  <header class="header wrap">
-    <a class="logo" href="/" aria-label="Jiji Shop home">Jiji<span>Shop</span><i></i></a>
-    <span class="location">⌖ <span>Made for your everyday, Ethiopia</span></span>
-    <span class="header-currency">ETHIOPIA · ETB</span>
-  </header>
-  <main class="wrap">
-    <section class="hero">
-      <div class="hero-copy"><span class="eyebrow">YOUR EVERYDAY, UPGRADED</span><h1>Good finds.<br>Great style.<br><em>All you.</em></h1><p>Fresh looks, beauty essentials, and the little things you’ll love. Discover your next favorite.</p><a class="button" href="#collection"><span>Explore the collection</span> →</a><div class="hero-note"><span>✦</span> <span>Style, thoughtfully picked.</span></div></div>
-      <div class="hero-image"><img src="/images/heels-1.svg" alt="Original illustration of classic heels"><div class="image-label"><span>THE LITTLE STYLE EDIT</span><strong>Everyday, elevated.</strong></div><div class="circle-badge">JIJI SHOP<br>✦<br>STYLE EDIT</div></div>
-    </section>
-    <div class="benefits"><span>◈ <span>Thoughtfully selected</span></span><span>◉ <span>Pay with Telebirr</span></span><span>→ <span>Personal help on Telegram</span></span></div>
-    <section id="collection" class="collection">
-      <div class="section-heading"><div><span class="eyebrow">FIND YOUR FAVORITES</span><h2>The collection</h2></div><span class="collection-note">A little something for every side of you.</span></div>
-      <div class="browse"><nav id="categories" aria-label="Product categories"></nav><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Find something you love…" aria-label="Search products"></label></div>
-      <div class="preview-note"><span>◌</span><span>Preview collection · Sample photos and prices. These items are not available to order yet.</span></div>
-      <div class="results"><span id="result-count" aria-live="polite"></span><span>PICKED FOR YOU</span></div>
-      <div id="products" class="products"></div>
-      <p id="empty" hidden>No finds just yet. Try another search or category.</p>
-    </section>
-    <section class="help"><div><span class="eyebrow">WE’RE RIGHT HERE</span><h2>A little help finding your favorite?</h2><p>Ask about styles, sizes, or what’s coming next.</p></div><a class="button light" href="https://t.me/christianabe" target="_blank" rel="noopener noreferrer"><span>Let’s talk on Telegram</span> →</a></section>
-  </main>
-  <footer class="wrap"><a class="logo" href="/">Jiji<span>Shop</span><i></i></a><p>Your everyday, a little more you.</p><span>ETHIOPIA · ETB</span></footer>
-  <dialog id="product-dialog"><button class="close" data-close="product-dialog" aria-label="Close product">×</button><div id="product-detail"></div></dialog>
-  <dialog id="payment-dialog"><button class="close" data-close="payment-dialog" aria-label="Close payment">×</button><div id="payment-detail"></div></dialog>
-  <div id="toast" role="status"></div>
+ <div class="topline">YOUR NEXT PAIR, YOUR NEXT MOVE <span>✦</span> ETHIOPIA · PRICES IN ETB</div>
+ <header class="header wrap">
+  <a class="logo" href="/" aria-label="Jiji Shop home">Jiji<span>Shop</span><i></i></a>
+  <nav class="header-nav" aria-label="Main navigation"><a href="#collection">The collection</a><a href="#how-it-works">How to order</a></nav>
+  <a class="contact-link" href="https://t.me/christianabe" target="_blank" rel="noopener noreferrer">Let’s talk <span aria-hidden="true"><svg class="arrow-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 19 19 5M5 5h14v14"/></svg></span></a>
+ </header>
+ <main class="wrap">
+  <section class="hero">
+   <div class="hero-copy"><span class="eyebrow"><span class="small-dot"></span> THE SNEAKER EDIT</span><h1>Good shoes.<br>Great moves.<br><em>All you.</em></h1><p>Fresh colors. Iconic silhouettes. Find the pair that goes wherever your day takes you.</p><a class="button" href="#collection">Find your next pair <span aria-hidden="true"><svg class="arrow-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 19 19 5M5 5h14v14"/></svg></span></a><div class="hero-note"><span class="note-line"></span> FOR HIM. FOR HER. FOR YOUR EVERYDAY.</div></div>
+   <div class="hero-image"><span class="hero-type" aria-hidden="true">MOVE.</span><span class="hero-orbit" aria-hidden="true"></span><img src="/images/shoes/big-shoe1.png" alt="Nike sneaker with taupe panels, plum accents, and a sculpted white sole" width="610" height="502" fetchpriority="high"><div class="hero-caption"><span>COLOR OUTSIDE THE LINES</span><strong>A fresh point of view.</strong></div><div class="circle-badge">THE<br><b>JIJI</b><br>SHOE EDIT</div></div>
+  </section>
+  <div class="benefits"><span><b>01</b> Men’s & women’s styles</span><span><b>02</b> 3,500–6,000 ETB</span><span><b>03</b> Pay with Telebirr</span></div>
+  <section id="collection" class="collection">
+   <div class="section-heading"><div><span class="eyebrow">FIND YOUR STRIDE</span><h2>A pair for every version of you.</h2></div><span class="collection-note">Bold colors. Everyday classics.<br>Your rotation starts here.</span></div>
+   <div class="browse"><nav id="categories" aria-label="Shoe collections"></nav><div class="browse-tools"><label class="brand-filter"><span class="sr-only">Filter by brand</span><select id="brand"><option value="">All brands</option><option>Nike</option><option>Adidas</option><option>New Balance</option></select></label><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find your pair…" aria-label="Search shoes"></label></div></div>
+   <div class="results"><span id="result-count" aria-live="polite"></span><span>THE EVERYDAY ROTATION</span></div>
+   <div id="products" class="products"></div>
+   <p id="empty" hidden>No shoes match that search. Try another color, brand, or collection.</p>
+   <div class="collection-footnote">Your fit comes first. Confirm your size, availability, and delivery cost with us on Telegram before payment.</div>
+  </section>
+  <section id="how-it-works" class="how-it-works"><div><span class="eyebrow">NO CART. NO COMPLICATIONS.</span><h2>From your next find<br>to your next step.</h2></div><ol><li><span>01</span><div><h3>Find your pair</h3><p>Explore the collection. Pick the pictured color and your EU size.</p></div></li><li><span>02</span><div><h3>Check the details</h3><p>Message us to confirm availability and arrange your delivery.</p></div></li><li><span>03</span><div><h3>Pay & send your screenshot</h3><p>Pay with Telebirr, then send your receipt and shoe details on Telegram.</p></div></li></ol></section>
+  <section class="help"><div><span class="eyebrow">LET’S FIND YOUR FIT</span><h2>A little help with your next pair?</h2><p>Sizes, colors, delivery — we’re one message away.</p></div><a class="button light" href="https://t.me/christianabe" target="_blank" rel="noopener noreferrer">Talk to @ChristianAbe <span aria-hidden="true"><svg class="arrow-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 19 19 5M5 5h14v14"/></svg></span></a></section>
+ </main>
+ <footer class="wrap"><div><a class="logo" href="/">Jiji<span>Shop</span><i></i></a><p>Your everyday. A little more you.</p></div><span>ETHIOPIA · ETB · TELEBIRR</span><p class="brand-note">Independent shop. Brand names identify the pictured styles; no brand affiliation is implied.</p></footer>
+ <dialog id="product-dialog" aria-label="Shoe details"><button class="close" data-close="product-dialog" aria-label="Close shoe details">×</button><div id="product-detail"></div></dialog>
+ <dialog id="payment-dialog" aria-label="Telebirr payment instructions"><button class="close" data-close="payment-dialog" aria-label="Close payment">×</button><div id="payment-detail"></div></dialog>
+ <div id="toast" role="status"></div>
 </body>
 </html>

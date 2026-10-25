@@ -44,4 +44,4 @@ Render: free Static Site, repository mikiscoffield/Jiji-shop, branch main, empty
 
 BotFather: /setmenubutton → @jijietbot → Open shop → the Render HTTPS URL. Never put a bot token in public files. Telegram SDK readiness/expansion is optional; ordinary browser use also works.
 
-The storefront uses a warm charcoal, champagne gold and ivory theme with serif headings. The homepage describes premium products directly imported from the USA to Ethiopia. The Seiko Series 5 was replaced with the Fossil Crosby Black Dial Watch ($133.83 source price; 22,885 ETB under USD ×171).
+The storefront uses a signature Jiji green, deep forest and white theme with layered gradients and shadowed buttons with serif headings. The homepage describes premium products directly imported from the USA to Ethiopia. The Seiko Series 5 was replaced with the Fossil Crosby Black Dial Watch ($133.83 source price; 22,885 ETB under USD ×171).

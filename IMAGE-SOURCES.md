@@ -44,4 +44,4 @@ Every category now uses USD ×190 ×0.90 = USD ×171. The earlier men’s additi
 
 ## Premium theme revision
 
-The Fossil Crosby Black Dial Watch replaces the Seiko Series 5, using the actual Shop Simon listing photograph and available USD variant quote. Its downloaded photograph and SHA-256 are recorded in CATALOG-SOURCES.json. Product photographs retain their original colors under the champagne-and-charcoal theme.
+The Fossil Crosby Black Dial Watch replaces the Seiko Series 5, using the actual Shop Simon listing photograph and available USD variant quote. Its downloaded photograph and SHA-256 are recorded in CATALOG-SOURCES.json. Product photographs retain their original colors under the green-gradient theme.

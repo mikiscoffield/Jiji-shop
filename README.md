@@ -1,74 +1,41 @@
 # Jiji Shop
 
-An English-only static storefront for Ethiopia and Telegram Mini Apps. All five departments remain: **Shoes, Clothes, Makeup, Bags, Accessories**. The catalog has 98 products: 30 shoes (15 men’s and 15 women’s), 60 clothing styles (30 men’s and 30 women’s), three makeup products, two bags and three accessories. Men’s/women’s styles are interleaved within each department. Clothing includes jackets, hoodies, dresses, skirts, pants, tops and a blazer. All 30 shoe records and the other eight products are unchanged by the clothing expansion. Original source photos, exact variants and prices are documented in CATALOG-SOURCES.json.
+English-only dark storefront for Ethiopia and Telegram Mini App @jijietbot. Prices are in ETB. No cart, database, analytics or server-side customer-data storage. All five departments remain: Shoes, Clothes, Makeup, Bags and Accessories.
 
-The shop uses a charcoal/mint dark theme, including dialogs, inputs and the delivery-date calendar. Original product photography keeps its colors. No cart, database, analytics or customer data storage. Delivery details are entered before payment and held temporarily in page memory. Customers share their contact and delivery details directly in Telegram; the website does not send them automatically.
+The catalog contains 98 products: 30 shoes (15 men’s and 15 women’s), 60 clothing styles (30 per audience), three makeup products, two bags and three accessories. Clothing styles alternate men/women. Women: 26 dresses or skirts (86.7%), two fashion tops, one tailored pant and one blazer. Men: nine jackets, eleven hoodies and ten pants styles. No clothing T-shirts remain. The owner confirms S/M/L/XL from their own stock; source retailer availability is recorded separately where captured.
 
-## Run and build
+## Development
 
-Use Node.js 24. No dependency installation is needed.
+Use Node.js 24. No app dependencies are required. Run `npm run dev` (port 3000 or PORT), `npm test`, `npm run build`, and `npm run measure`. The build copies public/ to dist/. Use the existing checkout; do not create a worktree unless requested. Restart the development server in future tasks.
 
-```sh
-npm run dev
-npm run build
-```
+## Catalog, sizing and prices
 
-The development server uses port 3000 (or PORT); the build copies public/ to dist/. Use the existing checkout. Each cloud task is isolated, so do not create a worktree unless requested. Restart the development server in future tasks.
+Edit public/catalog.js and keep CATALOG-SOURCES.json consistent. department controls the five departments; category describes the style; audience controls Men/Women/Unisex filters. Brand filters are scoped to the chosen department. Every color has its own original product photos, offers and source references. No external store links appear in the customer UI. Real checked source ratings are retained where available; no consumer reviews are fabricated.
 
-## Catalog and filters
+Shoes stay within 4,000–10,000 ETB; only three models reach 9,500 ETB. European labels map to original source SKU size keys through public/shoe-sizing.mjs and public/size-charts.mjs. SIZING.md and SIZE-CHART-SOURCES.json document conversion charts and clearly marked approximations. All whole EU sizes 35–47 are visible; unavailable source sizes are disabled. Do not invent source stock or exact size conversions.
 
-Edit public/catalog.js. `department` controls the five product categories; `category` describes a style within a department; `audience` is Men, Women or Unisex. Audience and brand filters work within the selected department. Switching departments resets the brand filter so a shoe brand cannot hide bags or beauty products.
+Every men’s clothing offer is 15% below its converted base ETB price, rounded to the nearest birr. baseEtb and discountPercent preserve the calculation. Women’s clothes use premium merchant retail pricing: the maximum of the converted source price and a 6,000 ETB floor, within the existing 7,000 ETB ceiling. merchantPriceFloorEtb documents this. Original USD prices remain separate and unchanged; the public ETB price is the merchant’s retail price. Source snapshots are dated 25 October 2026, not live quotes. Import, shipping, tax and delivery costs are not implied by a source price.
 
-Products declare actual brand model names, color-specific image galleries, `offers` indexed by color and size, and a `sizeLabel`. **Footwear displays European sizes** through public/shoe-sizing.mjs while retaining original source-size keys internally for exact pricing. Nine West and Steve Madden use their published charts; additional Nike, Jordan, Adidas and Reebok charts are in public/size-charts.mjs. Sizes outside verified tables are marked approximate. SIZING.md records the mappings and limitations. Only variants that were available in the fetched brand-store snapshot and fit the price range are offered; this is not confirmation of the seller’s Ethiopian inventory. Changing color updates both available sizes and price. An unavailable previous size is cleared. The exact selected color/size offer supplies the amount at payment. Size-free products use an empty size key.
+Clothing sizes appear S, M, L, XL for every color. The owner’s stock determines clothing availability. For shoes, exact selected color/size offers supply checkout prices. Selecting a color updates its photo gallery, size choices and price, clearing an unavailable previous selection. Size-free items use an empty size key.
 
-`CATALOG-SOURCES.json` records each official source URL, source product/variant IDs, source USD price, converted ETB price, review score/count where available, image URLs, file hashes and capture date. Prices were checked on **25 October 2026** and converted at **1 USD = 161.874143 ETB**, using https://open.er-api.com/v6/latest/USD (published 25 October 2026). Amounts are rounded to the nearest whole birr. All current offers fall within 4,000–10,000 ETB for shoes (other categories retain their existing prices). No shipping, tax, import charge or local delivery fee is included. Prices are static dated snapshots; they do not auto-refresh or establish a guaranteed supplier quote. Recheck sourcing and seller stock before taking payment.
+## Checkout and communication
 
-`public/catalog-logic.mjs` centralizes size availability, exact offer selection and price ranges. Cards show “From” only where the listed offers have different prices. Customer-facing brand/store links are removed. Source listing URLs and exact variant IDs remain in the maintainer audit only. Review stars are shown only for a colorway with a checked aggregate rating in the source structured data. Review counts remain visible; missing ratings are omitted.
+Continue to delivery shows a one-second preparing state, then a one-second “Order details ready” notice. It does not claim a persistent order was saved. Closing the item cancels the transition. Every product’s delivery checkout prominently shows the requested fit-refund policy: “Does not fit? Get a refund within 7 days. If your item does not fit, return it within 7 days of delivery for a refund. The item must be unused.” The seller handles returns/refunds manually.
 
-There are **245 locally bundled brand images** (248 catalog references because a few images are shared). Galleries contain real matching colors and angles, up to five photos per color. Multi-color image association uses source variant image IDs and manufacturer color image codes. Unrelated angles and simulated recoloring are not used. All obsolete placeholder/demo images were removed. IMAGE-SOURCES.md describes provenance and the limits of photo-based verification.
+Delivery asks for recipient name, Ethiopian mobile number, city/town and optional instructions. No region, subcity, street or landmark fields. Inputs stay in page memory; there is no browser storage, server submission or Telegram URL containing customer details. Inputs are escaped and validated, and pagehide clears the checkout state. No order-copy button is present.
 
-## Delivery and payment
+The default delivery day is tomorrow in Africa/Addis_Ababa. Change delivery date opens a calendar for tomorrow or later. Gregorian and Ethiopian dates stay synchronized on delivery/payment screens. Editing keeps the day; opening another item resets it.
 
-After selecting a product's size/color, the customer must complete delivery details before opening Telebirr instructions:
+Payment shows the selected-color photo above the exact ETB price, Telebirr **0953610009**, holder **Lykun**, and a number-copy button. Bold 22 px instructions ask customers to pay this number and send the screenshot using the button below. The Telegram button goes to https://t.me/christianabe; larger text says the seller will contact them on Telegram to confirm payment. This is manual payment verification, not an API integration.
 
-- Required: recipient name, Ethiopian mobile number, and city/town.
-- Optional: delivery instructions. Region, sub-city, street address and landmark fields are removed.
-- Ethiopian numbers beginning with 09, 07, +2519, +2517, 002519 or 002517 are accepted; spaces, parentheses and hyphens are normalized.
+The homepage contains a prominent Amazon-to-Ethiopia import request section for any product. Its button opens https://t.me/christianabe so customers can send the Amazon product link themselves. The footer’s former independent-shop paragraph is removed.
 
-The on-screen privacy paragraph and availability-confirmation prompts have been removed as requested. Data handling is unchanged: the form uses no network submission, database, localStorage or sessionStorage. Browser autocomplete is disabled. Inputs are validated, trimmed, and displayed as escaped text. Delivery state stays in memory until a different product is opened or the page is left/reloaded; the pagehide handler clears delivery/payment content. This does not control platform-level browser or operating-system behavior.
+## Deploy
 
-After a valid item selection, **Continue to delivery** is disabled for one second and shows a preparing state. A brief **Order details ready** message then appears for one second before opening the form. It deliberately does not claim an order was saved: the static site has no persistent order system. Closing the product or dismissing the notice cancels the transition. Editing existing delivery details opens the form immediately.
+Render: New → Static Site, repository mikiscoffield/Jiji-shop, branch main, empty Root Directory, Build Command `npm run build`, Publish Directory `dist`. render.yaml describes the static service. Pushes trigger deployment when auto-deploy is enabled; verify actual live files at https://jiji-shop.onrender.com/. CDN caching can briefly retain the preceding version.
 
-Both delivery and payment default to **Delivery will be tomorrow**, with Gregorian and Ethiopian dates in English. **Change delivery date** opens a native calendar (or a focusable date input where showPicker is unsupported). Customers may choose tomorrow or any later date. Both calendar labels and the order review update together; the chosen day persists when editing delivery and resets for a different product. Invalid/past dates are rejected. public/delivery-date.mjs uses Ethiopia's local date for the default/minimum and formats a chosen ISO day in UTC to avoid device-timezone shifts. A page reload clears the selection.
+BotFather: /setmenubutton → @jijietbot → Open shop → the Render HTTPS URL. Never put a bot token in public files. The Telegram SDK signals readiness and expands the Mini App; ordinary browser use also works.
 
-The payment screen shows a photograph of the selected color above its exact ETB price, and reviews the European size, color, chosen delivery day and entered details. Customers can edit delivery or change the day there. There is no order-copy button. Customers send their screenshot and item/contact details directly to https://t.me/christianabe. The website sends no contact details or address in Telegram URLs. The separate Telebirr number-copy button remains. Below the screenshot button, larger text says “We will contact you on Telegram and confirm the payment.” This describes a manual seller reply, not automated messaging or payment verification.
+## Validation and usage
 
-Telebirr receiving number: **0953610009**, holder **Lykun**. Delivery cost must be confirmed separately. The number copy button requires a secure context and falls back to manual-copy guidance. Payment verification is manual. Opening Telegram does not submit an order, attach an image, or verify payment. There is no Telebirr API integration.
-
-## Deploy to Render
-
-Connect mikiscoffield/Jiji-shop under **New → Static Site**, select **main**, leave Root Directory empty, set Build Command to `npm run build` and Publish Directory to `dist`. Deploy as a free static site. render.yaml also describes the static service. Pushes can trigger Render auto-deploy when enabled; confirm actual deployment status in Render.
-
-## Connect Telegram
-
-In official @BotFather, use /setmenubutton, choose @jijietbot, name the button Open shop, and paste the Render HTTPS URL. Do not put a bot token in the static site. The optional Telegram SDK signals readiness and expands the app; browsing also works without it. Verify in Telegram after deployment.
-
-## Verification
-
-`npm test` runs 18 checks covering source offer/image integrity, exact prices, European display mappings without changing priced source SKUs, approximate-label marking, clothing sizes, calendar boundaries, customer-chosen dates and invalid/past date rejection. `npm run build` produces the Render static output.
-
-Browser checks verified the dark theme and layouts from 320–1440 px, all 42 products retained, European labels in product/delivery/payment, no retailer links or removed copy, selected-color photo above the price, larger Telegram confirmation, tomorrow by default, date changes on delivery and payment with both calendars synchronized, editing/new-item resets, invalid dates blocked, no stale-order exceptions, number copying, no browser storage, and no JavaScript errors. Earlier category/color/price/source-image checks remain covered by the catalog tests and prior browser checks. A GitHub push does not establish a successful Render or Telegram deployment; verify the actual live URL separately.
-
-## Shoe catalog update — 25 October 2026
-
-The 30 shoes alternate 15 men’s and 15 women’s styles. Men: Nike, Jordan, Adidas and Reebok. Women: Steve Madden, Nine West, Adidas and Reebok, including six boots, six heels, flat sandals and two sneakers. All 12 non-shoe product records are unchanged. Shoes cost 4,000–10,000 ETB; only three models reach 9,500 ETB. USD/EUR source prices, variant availability, photos and actual published reviews are dated snapshots in CATALOG-SOURCES.json. No reviews are fabricated. See SITE-USAGE.md for deployment footprint and bandwidth limits.
-
-## Clothing, returns and payment update
-
-All 60 clothing styles cost 2,500–7,000 ETB. Every listed color offers exactly S, M, L and XL, verified available at the source snapshot. Clothing choices appear in that order. Sources include Reebok, Steve Madden, Shoe Palace and Sneaker Politics; each original listing and variant is retained in the audit. No ratings are invented for the new clothes. Source stock does not establish the merchant’s local inventory.
-
-Shoe sizing shows every whole EU size from 35–47 alongside exact converted source sizes. Missing sizes are visibly disabled and labeled unavailable; selecting a disabled size cannot proceed to payment. No source offers or priced SKU IDs were fabricated.
-
-After continuing to delivery for shoes, a prominent green notice says: “Not the right size? You have 7 days. If your shoes do not fit, return them within 7 days of delivery for a refund. The shoes must be unused.” This is the shop owner’s requested policy; processing refunds remains manual. It does not claim clothes have the same return policy.
-
-Below the Telebirr number, bold 22 px text says: “Pay to this Telebirr number, then send your payment screenshot using the button below.” The existing Telegram button, recipient and selected-color photo remain.
+`npm test` runs 19 checks including catalog/source-photo hashes, exact prices and discount calculations, clothing counts/size coverage, no T-shirts, the women’s dress/skirt proportion, European labels and calendar boundaries. Browser checks cover galleries, import CTA, universal refund notice, delivery/payment and mobile layout. See IMAGE-SOURCES.md for provenance and SITE-USAGE.md for storage/transfer distinctions. Public site measurements cannot reveal the workspace’s actual monthly Render billing totals.

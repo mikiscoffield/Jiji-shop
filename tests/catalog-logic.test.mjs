@@ -40,10 +40,13 @@ test('all categories and at least fifteen men’s and fifteen women’s shoes ha
    assert.ok(p.variants[color].length>0,p.id+' '+color);
    assert.ok(p.swatches[color]);
    for(const [size,offer] of Object.entries(p.offers[color])){
-    assert.ok(offer.etb>=(p.department==='Shoes'?4000:p.department==='Clothes'?2500:3500)&&offer.etb<=(p.department==='Shoes'?10000:p.department==='Clothes'?7000:8000));
+    assert.ok(offer.etb>=(p.department==='Shoes'?4000:p.department==='Clothes'?(p.audience==='Men'?2125:2500):3500)&&offer.etb<=(p.department==='Shoes'?10000:p.department==='Clothes'?7000:8000));
     const amount=offer.amount ?? offer.usd;
     const rate=offer.currency?audit.fx.etbPerCurrency[offer.currency]:audit.fx.USD_ETB;
-    assert.equal(offer.etb,Math.round(amount*rate));
+    const base=Math.round(amount*rate);
+    if(p.department==='Clothes'&&p.audience==='Men'){assert.equal(offer.discountPercent,15);assert.equal(offer.baseEtb,base);assert.equal(offer.etb,Math.round(base*.85));}
+    else if(p.department==='Clothes'&&p.audience==='Women'){assert.equal(offer.etb,Math.max(base,offer.merchantPriceFloorEtb||0));}
+    else assert.equal(offer.etb,base);
     assert.equal(offer.sourceURL.startsWith(record.sourceHost+'/products/'),true);
     assert.equal(new URL(offer.sourceURL).searchParams.get('variant'),offer.sourceVariantID);
     assert.deepEqual(offer,record.offers[color][size]);
@@ -74,4 +77,13 @@ test('clothing includes thirty styles per audience and all four sizes for every 
   assert.deepEqual(product.sizes,['S','M','L','XL']);
   for(const color of product.colors)assert.deepEqual(availableSizes(product,color),['S','M','L','XL']);
  }
+});
+
+test('fashion edits remove all clothing T-shirts and keep at least 85% of women’s styles as dresses or skirts',()=>{
+ const clothes=catalog.filter(p=>p.department==='Clothes');
+ assert.ok(clothes.every(p=>!/(?:t-shirt|t shirt|tee\b)/i.test(p.name)));
+ const women=clothes.filter(p=>p.audience==='Women');
+ assert.ok(women.filter(p=>['Dresses','Skirts'].includes(p.category)).length/women.length>=.85);
+ assert.ok(clothes.filter(p=>p.audience==='Men').every(p=>['Jackets','Hoodies','Pants'].includes(p.category)));
+ assert.ok(women.every(p=>p.price>=6000&&p.price<=7000));
 });

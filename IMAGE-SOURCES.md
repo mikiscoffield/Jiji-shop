@@ -11,3 +11,9 @@ All source links stay in maintainer records. The customer UI has no external sto
 ## Clothing expansion
 
 The catalog now contains 98 products, including 60 clothes: 30 men’s and 30 women’s. All four letter sizes S/M/L/XL were checked as available for every included color, within 2,500–7,000 ETB at the existing dated USD/ETB rate. Source storefronts: Reebok, Steve Madden, Shoe Palace and Sneaker Politics. Added brands include Nike, Jordan, Adidas, Carhartt WIP, Billionaire Boys Club, Pleasures, Maison Article, Original Sin and Kenny Scharf x Shoe Palace. No Chinese marketplace sources were used. All shoe records and non-clothing records were preserved. There are now 515 unique locally bundled catalog photographs; the audit contains all hashes and dimensions. Prior counts above describe the earlier shoe deployment.
+
+## Current fashion revision
+
+Women now have 26 dresses/skirts and four tailored pieces. Men have only jackets, hoodies and pants. Added women’s sources are the US storefronts bebe.com and windsorstore.com, alongside Steve Madden; streetwear is sourced from Shoe Palace. Multi-color listings use variant-featured images or explicit color tokens to associate photos with the correct selected color. No image recoloring or synthetic product photographs are used. Source media is served through Shopify CDN and downloaded locally with verified TLS.
+
+Clothing stock follows the owner’s confirmation of all four letter sizes. Source availability is distinct from this merchant stock. Men’s displayed ETB prices carry a 15% merchant discount on converted base prices. Women’s displayed ETB prices use a 6,000 ETB retail floor while keeping the 7,000 ETB ceiling; the original foreign source amounts remain in the audit. These merchant prices must not be described as exact currency conversions. The current audit contains 493 unique photographs. Prior counts and pricing descriptions above are historical snapshots superseded by this section.

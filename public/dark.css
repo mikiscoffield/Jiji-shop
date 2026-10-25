@@ -12,3 +12,5 @@ dialog{background:#141d17;color:#edf4ec;border:1px solid #34473b;box-shadow:0 30
 .return-notice strong{display:block;font-size:20px;line-height:1.4}.return-notice p{font-size:16px;line-height:1.65;margin:8px 0 0;color:#d1e4d7}
 #payment-dialog .payment-instructions{font-size:22px;font-weight:750;line-height:1.5;color:#f1fff5;margin:24px 0}
 .options button:disabled{opacity:.3;cursor:not-allowed;border-style:dashed}
+
+.import-request{display:flex;align-items:center;justify-content:space-between;gap:28px;margin:24px 0;padding:30px;border:1px solid #477d5b;background:linear-gradient(120deg,#183b28,#13251b);border-radius:16px}.import-request h2{font-size:27px;letter-spacing:-.7px;margin:12px 0;color:#f1faef}.import-request p{font-size:16px;line-height:1.7;color:#cce0d1;max-width:650px;margin:0}.import-request .button{flex-shrink:0;font-size:14px;max-width:100%}@media(max-width:760px){.import-request{flex-direction:column;align-items:stretch;padding:24px 20px;gap:22px}.import-request h2{font-size:25px}.import-request .button{gap:12px;text-align:center}}

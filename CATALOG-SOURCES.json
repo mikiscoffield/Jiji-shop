@@ -32,6 +32,87 @@
    ],
    "offers": {
     "Malachite/Sail": {
+     "38": {
+      "amount": 59.97,
+      "currency": "USD",
+      "usd": 59.97,
+      "etb": 9708,
+      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 59.97,
+      "currency": "USD",
+      "usd": 59.97,
+      "etb": 9708,
+      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 59.97,
+      "currency": "USD",
+      "usd": 59.97,
+      "etb": 9708,
+      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 59.97,
+      "currency": "USD",
+      "usd": 59.97,
+      "etb": 9708,
+      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 59.97,
+      "currency": "USD",
+      "usd": 59.97,
+      "etb": 9708,
+      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 59.97,
+      "currency": "USD",
+      "usd": 59.97,
+      "etb": 9708,
+      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 59.97,
+      "currency": "USD",
+      "usd": 59.97,
+      "etb": 9708,
+      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
+    "Malachite/Sail": {
      "8": {
       "amount": 59.97,
       "currency": "USD",
@@ -87,7 +168,33 @@
       "sourceSKU": "20956357"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Malachite/Sail": {
+     "sourceSize": "8",
+     "offer": {
+      "amount": 59.97,
+      "currency": "USD",
+      "usd": 59.97,
+      "etb": 9708,
+      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail?variant=42987572232398",
+      "sourceVariantID": "42987572232398",
+      "sourceSKU": "20956365"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "steve-madden-aria",
@@ -108,6 +215,98 @@
    ],
    "offers": {
     "Black": {
+     "35": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
+    "Black": {
      "11": {
       "amount": 49.99,
       "currency": "USD",
@@ -127,7 +326,34 @@
       "sourceSKU": "ARIA"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Black": {
+     "sourceSize": "11",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/aria-black?variant=39608558026885",
+      "sourceVariantID": "39608558026885",
+      "sourceSKU": "ARIA"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "nike-book-1-rattlesnake",
@@ -148,6 +374,87 @@
    ],
    "offers": {
     "White/Orewood Brown/Burnt Sunrise/Black": {
+     "38": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
+    "White/Orewood Brown/Burnt Sunrise/Black": {
      "8": {
       "amount": 49.98,
       "currency": "USD",
@@ -158,7 +465,33 @@
       "sourceSKU": "20927102"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "White/Orewood Brown/Burnt Sunrise/Black": {
+     "sourceSize": "8",
+     "offer": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black?variant=42574749565134",
+      "sourceVariantID": "42574749565134",
+      "sourceSKU": "20927102"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "steve-madden-luni",
@@ -178,6 +511,98 @@
     }
    ],
    "offers": {
+    "Black Multi": {
+     "35": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black Multi": {
      "6": {
       "amount": 39.99,
@@ -261,7 +686,34 @@
       "sourceSKU": "LUNI"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Black Multi": {
+     "sourceSize": "6",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi?variant=41693244948613",
+      "sourceVariantID": "41693244948613",
+      "sourceSKU": "LUNI"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "nike-c1ty",
@@ -282,6 +734,87 @@
    ],
    "offers": {
     "Safety Orange/Cosmic Clay/Black/Summit White": {
+     "38": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
+    "Safety Orange/Cosmic Clay/Black/Summit White": {
      "8": {
       "amount": 49.98,
       "currency": "USD",
@@ -292,7 +825,33 @@
       "sourceSKU": "20960685"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Safety Orange/Cosmic Clay/Black/Summit White": {
+     "sourceSize": "8",
+     "offer": {
+      "amount": 49.98,
+      "currency": "USD",
+      "usd": 49.98,
+      "etb": 8090,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white?variant=42979775447246",
+      "sourceVariantID": "42979775447246",
+      "sourceSKU": "20960685"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "steve-madden-pammy",
@@ -319,6 +878,188 @@
     }
    ],
    "offers": {
+    "Black": {
+     "35": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    },
+    "Taupe": {
+     "35": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black": {
      "11": {
       "amount": 39.99,
@@ -413,7 +1154,46 @@
       "sourceSKU": "PAMMY"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Black": {
+     "sourceSize": "11",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-black?variant=41063017578629",
+      "sourceVariantID": "41063017578629",
+      "sourceSKU": "PAMMY"
+     }
+    },
+    "Taupe": {
+     "sourceSize": "6",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe?variant=41134376419461",
+      "sourceVariantID": "41134376419461",
+      "sourceSKU": "PAMMY"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "nike-field-general",
@@ -433,6 +1213,87 @@
     }
    ],
    "offers": {
+    "University Blue/Gum Medium Brown/White": {
+     "38": {
+      "amount": 49.97,
+      "currency": "USD",
+      "usd": 49.97,
+      "etb": 8089,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.97,
+      "currency": "USD",
+      "usd": 49.97,
+      "etb": 8089,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.97,
+      "currency": "USD",
+      "usd": 49.97,
+      "etb": 8089,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.97,
+      "currency": "USD",
+      "usd": 49.97,
+      "etb": 8089,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.97,
+      "currency": "USD",
+      "usd": 49.97,
+      "etb": 8089,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 49.97,
+      "currency": "USD",
+      "usd": 49.97,
+      "etb": 8089,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 49.97,
+      "currency": "USD",
+      "usd": 49.97,
+      "etb": 8089,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "University Blue/Gum Medium Brown/White": {
      "8": {
       "amount": 49.97,
@@ -507,7 +1368,33 @@
       "sourceSKU": "20974172"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "University Blue/Gum Medium Brown/White": {
+     "sourceSize": "8",
+     "offer": {
+      "amount": 49.97,
+      "currency": "USD",
+      "usd": 49.97,
+      "etb": 8089,
+      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white?variant=43028268122318",
+      "sourceVariantID": "43028268122318",
+      "sourceSKU": "20974183"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "nine-west-folowe",
@@ -534,6 +1421,188 @@
     }
    ],
    "offers": {
+    "Light Blue Patent": {
+     "35": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    },
+    "Leopard Print Sequin": {
+     "35": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Light Blue Patent": {
      "5": {
       "amount": 39.99,
@@ -700,7 +1769,46 @@
       "sourceSKU": "199277606227"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Light Blue Patent": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04?variant=45157474172972",
+      "sourceVariantID": "45157474172972",
+      "sourceSKU": "199277714014"
+     }
+    },
+    "Leopard Print Sequin": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01?variant=44747947376684",
+      "sourceVariantID": "44747947376684",
+      "sourceSKU": "199277606234"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "adidas-jabbar-low",
@@ -727,6 +1835,166 @@
     }
    ],
    "offers": {
+    "Grey / White": {
+     "38": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    },
+    "Blush / White": {
+     "38": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "Grey / White": {
      "5.5": {
       "amount": 50.0,
@@ -758,7 +2026,45 @@
       "sourceSKU": "JS0806-7.5"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Grey / White": {
+     "sourceSize": "5.5",
+     "offer": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807?variant=51706079478101",
+      "sourceVariantID": "51706079478101",
+      "sourceSKU": "JS0807-5.5"
+     }
+    },
+    "Blush / White": {
+     "sourceSize": "6.5",
+     "offer": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806?variant=51706085933397",
+      "sourceVariantID": "51706085933397",
+      "sourceSKU": "JS0806-6.5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "steve-madden-deputy",
@@ -779,6 +2085,98 @@
    ],
    "offers": {
     "Chestnut Suede": {
+     "35": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
+    "Chestnut Suede": {
      "8": {
       "amount": 49.99,
       "currency": "USD",
@@ -798,7 +2196,34 @@
       "sourceSKU": "DEPUTY"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Chestnut Suede": {
+     "sourceSize": "8",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede?variant=41450604593285",
+      "sourceVariantID": "41450604593285",
+      "sourceSKU": "DEPUTY"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "adidas-mundial-team-x-sns",
@@ -818,6 +2243,87 @@
     }
    ],
    "offers": {
+    "As pictured": {
+     "38": {
+      "amount": 45.0,
+      "currency": "EUR",
+      "usd": 50.412938,
+      "etb": 8161,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 45.0,
+      "currency": "EUR",
+      "usd": 50.412938,
+      "etb": 8161,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 45.0,
+      "currency": "EUR",
+      "usd": 50.412938,
+      "etb": 8161,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 45.0,
+      "currency": "EUR",
+      "usd": 50.412938,
+      "etb": 8161,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 45.0,
+      "currency": "EUR",
+      "usd": 50.412938,
+      "etb": 8161,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 45.0,
+      "currency": "EUR",
+      "usd": 50.412938,
+      "etb": 8161,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 45.0,
+      "currency": "EUR",
+      "usd": 50.412938,
+      "etb": 8161,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "As pictured": {
      "4.5": {
       "amount": 45.0,
@@ -865,7 +2371,33 @@
       "sourceSKU": "JI3994-6.5"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "As pictured": {
+     "sourceSize": "4.5",
+     "offer": {
+      "amount": 45.0,
+      "currency": "EUR",
+      "usd": 50.412938,
+      "etb": 8161,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994?variant=50491127038293",
+      "sourceVariantID": "50491127038293",
+      "sourceSKU": "JI3994-4.5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "nine-west-hanni",
@@ -885,6 +2417,98 @@
     }
    ],
    "offers": {
+    "Silver": {
+     "35": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Silver": {
      "5": {
       "amount": 54.99,
@@ -950,7 +2574,34 @@
       "sourceSKU": "198756023173"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Silver": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01?variant=43998664622124",
+      "sourceVariantID": "43998664622124",
+      "sourceSKU": "198756023036"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "adidas-jabbar-low-x-bruce-lee",
@@ -971,6 +2622,87 @@
    ],
    "offers": {
     "As pictured": {
+     "38": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
+    "As pictured": {
      "12.5": {
       "amount": 50.0,
       "currency": "EUR",
@@ -981,7 +2713,33 @@
       "sourceSKU": "JR1597-12.5"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "As pictured": {
+     "sourceSize": "12.5",
+     "offer": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "usd": 56.014376,
+      "etb": 9067,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597?variant=51981399884117",
+      "sourceVariantID": "51981399884117",
+      "sourceSKU": "JR1597-12.5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "steve-madden-wylder",
@@ -1002,6 +2760,98 @@
    ],
    "offers": {
     "Brown Leather": {
+     "35": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
+    "Brown Leather": {
      "7": {
       "amount": 29.99,
       "currency": "USD",
@@ -1012,7 +2862,34 @@
       "sourceSKU": "WYLDER"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Brown Leather": {
+     "sourceSize": "7",
+     "offer": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather?variant=40620960514181",
+      "sourceVariantID": "40620960514181",
+      "sourceSKU": "WYLDER"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-viva-speed",
@@ -1046,6 +2923,245 @@
     }
    ],
    "offers": {
+    "Black/Black/Grey": {
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    },
+    "Grey 4/Grey 5/Black": {
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    },
+    "Army Green/White/Gum": {
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black/Black/Grey": {
      "7": {
       "amount": 39.99,
@@ -1340,7 +3456,57 @@
       "sourceSKU": "100272591-13"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Black/Black/Grey": {
+     "sourceSize": "7",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108?variant=66930294817072",
+      "sourceVariantID": "66930294817072",
+      "sourceSKU": "100266547-7"
+     }
+    },
+    "Grey 4/Grey 5/Black": {
+     "sourceSize": "7",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108?variant=66930297209136",
+      "sourceVariantID": "66930297209136",
+      "sourceSKU": "100272598-7"
+     }
+    },
+    "Army Green/White/Gum": {
+     "sourceSize": "6.5",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108?variant=66930302320944",
+      "sourceVariantID": "66930302320944",
+      "sourceSKU": "100272591-6.5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "steve-madden-solita",
@@ -1361,6 +3527,98 @@
    ],
    "offers": {
     "Blue Multi": {
+     "35": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
+    "Blue Multi": {
      "5": {
       "amount": 39.99,
       "currency": "USD",
@@ -1371,7 +3629,34 @@
       "sourceSKU": "SOLITA"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Blue Multi": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi?variant=40401271128197",
+      "sourceVariantID": "40401271128197",
+      "sourceSKU": "SOLITA"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-cityride-2",
@@ -1398,6 +3683,166 @@
     }
    ],
    "offers": {
+    "Black/Black/Grey": {
+     "38": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    },
+    "Navy/White/Blue": {
+     "38": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black/Black/Grey": {
      "9": {
       "amount": 29.99,
@@ -1582,7 +4027,45 @@
       "sourceSKU": "100271439-14"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Black/Black/Grey": {
+     "sourceSize": "9",
+     "offer": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087?variant=67251218743600",
+      "sourceVariantID": "67251218743600",
+      "sourceSKU": "100271440-9"
+     }
+    },
+    "Navy/White/Blue": {
+     "sourceSize": "6.5",
+     "offer": {
+      "amount": 29.99,
+      "currency": "USD",
+      "usd": 29.99,
+      "etb": 4855,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087?variant=67251222380848",
+      "sourceVariantID": "67251222380848",
+      "sourceSKU": "100271439-6.5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "steve-madden-diablo",
@@ -1602,6 +4085,98 @@
     }
    ],
    "offers": {
+    "Taupe Suede": {
+     "35": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Taupe Suede": {
      "6": {
       "amount": 49.99,
@@ -1676,7 +4251,34 @@
       "sourceSKU": "DIABLO"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Taupe Suede": {
+     "sourceSize": "6",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede?variant=41257526067333",
+      "sourceVariantID": "41257526067333",
+      "sourceSKU": "DIABLO"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-nfx-trainer-2",
@@ -1696,6 +4298,87 @@
     }
    ],
    "offers": {
+    "Black/Grey 6": {
+     "38": {
+      "amount": 60.0,
+      "currency": "USD",
+      "usd": 60.0,
+      "etb": 9712,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 60.0,
+      "currency": "USD",
+      "usd": 60.0,
+      "etb": 9712,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 60.0,
+      "currency": "USD",
+      "usd": 60.0,
+      "etb": 9712,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 60.0,
+      "currency": "USD",
+      "usd": 60.0,
+      "etb": 9712,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 60.0,
+      "currency": "USD",
+      "usd": 60.0,
+      "etb": 9712,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 60.0,
+      "currency": "USD",
+      "usd": 60.0,
+      "etb": 9712,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 60.0,
+      "currency": "USD",
+      "usd": 60.0,
+      "etb": 9712,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black/Grey 6": {
      "7": {
       "amount": 60.0,
@@ -1806,7 +4489,33 @@
       "sourceSKU": "100262516-13"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Black/Grey 6": {
+     "sourceSize": "7",
+     "offer": {
+      "amount": 60.0,
+      "currency": "USD",
+      "usd": 60.0,
+      "etb": 9712,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114?variant=50516697579824",
+      "sourceVariantID": "50516697579824",
+      "sourceSKU": "100262516-7"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "nine-west-palomma",
@@ -1833,6 +4542,188 @@
     }
    ],
    "offers": {
+    "Lime Green Patent": {
+     "35": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    },
+    "Coral Patent": {
+     "35": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Lime Green Patent": {
      "5": {
       "amount": 54.99,
@@ -2017,7 +4908,46 @@
       "sourceSKU": "199790170151"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Lime Green Patent": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01?variant=45273951698988",
+      "sourceVariantID": "45273951698988",
+      "sourceSKU": "199790207666"
+     }
+    },
+    "Coral Patent": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01?variant=45273958613036",
+      "sourceVariantID": "45273958613036",
+      "sourceSKU": "199790170281"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-bb-1000",
@@ -2037,6 +4967,87 @@
     }
    ],
    "offers": {
+    "Espresso": {
+     "38": {
+      "amount": 55.0,
+      "currency": "USD",
+      "usd": 55.0,
+      "etb": 8903,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 55.0,
+      "currency": "USD",
+      "usd": 55.0,
+      "etb": 8903,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 55.0,
+      "currency": "USD",
+      "usd": 55.0,
+      "etb": 8903,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 55.0,
+      "currency": "USD",
+      "usd": 55.0,
+      "etb": 8903,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 55.0,
+      "currency": "USD",
+      "usd": 55.0,
+      "etb": 8903,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 55.0,
+      "currency": "USD",
+      "usd": 55.0,
+      "etb": 8903,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 55.0,
+      "currency": "USD",
+      "usd": 55.0,
+      "etb": 8903,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "Espresso": {
      "5": {
       "amount": 55.0,
@@ -2183,7 +5194,33 @@
       "sourceSKU": "100273305-13"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Espresso": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 55.0,
+      "currency": "USD",
+      "usd": 55.0,
+      "etb": 8903,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543?variant=66901315584304",
+      "sourceVariantID": "66901315584304",
+      "sourceSKU": "100273305-5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "nine-west-velo",
@@ -2203,6 +5240,98 @@
     }
    ],
    "offers": {
+    "Black": {
+     "35": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black": {
      "9": {
       "amount": 59.99,
@@ -2259,7 +5388,34 @@
       "sourceSKU": "197648097223"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Black": {
+     "sourceSize": "9",
+     "offer": {
+      "amount": 59.99,
+      "currency": "USD",
+      "usd": 59.99,
+      "etb": 9711,
+      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01?variant=41197091717164",
+      "sourceVariantID": "41197091717164",
+      "sourceSKU": "197648097162"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-flexagon-energy-4",
@@ -2286,6 +5442,166 @@
     }
    ],
    "offers": {
+    "Core Black/Pewter/Cold Grey 6": {
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    },
+    "Vector Navy/White/Hoops Blue": {
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "Core Black/Pewter/Cold Grey 6": {
      "6": {
       "amount": 49.99,
@@ -2326,7 +5642,45 @@
       "sourceSKU": "100033358-11.5"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Core Black/Pewter/Cold Grey 6": {
+     "sourceSize": "6",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302?variant=50216065663280",
+      "sourceVariantID": "50216065663280",
+      "sourceSKU": "100033356-6"
+     }
+    },
+    "Vector Navy/White/Hoops Blue": {
+     "sourceSize": "11.5",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099?variant=50215557562672",
+      "sourceVariantID": "50215557562672",
+      "sourceSKU": "100033358-11.5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "nine-west-gritt",
@@ -2346,6 +5700,98 @@
     }
    ],
    "offers": {
+    "Platino": {
+     "35": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Platino": {
      "5": {
       "amount": 54.99,
@@ -2456,7 +5902,34 @@
       "sourceSKU": "199277956681"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Platino": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01?variant=45273945767980",
+      "sourceVariantID": "45273945767980",
+      "sourceSKU": "199277956643"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-walk-ultra-7-dmx-max",
@@ -2483,6 +5956,166 @@
     }
    ],
    "offers": {
+    "Black/Cold Grey 5/Collegiate Royal": {
+     "38": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    },
+    "White/Collegiate Navy/Collegiate Royal": {
+     "38": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black/Cold Grey 5/Collegiate Royal": {
      "7": {
       "amount": 54.99,
@@ -2712,7 +6345,45 @@
       "sourceSKU": "100271984-14"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Black/Cold Grey 5/Collegiate Royal": {
+     "sourceSize": "7",
+     "offer": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902?variant=66901340193072",
+      "sourceVariantID": "66901340193072",
+      "sourceSKU": "100271983-7"
+     }
+    },
+    "White/Collegiate Navy/Collegiate Royal": {
+     "sourceSize": "7.5",
+     "offer": {
+      "amount": 54.99,
+      "currency": "USD",
+      "usd": 54.99,
+      "etb": 8901,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902?variant=66907386380592",
+      "sourceVariantID": "66907386380592",
+      "sourceSKU": "100271984-7.5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "steve-madden-larina",
@@ -2733,6 +6404,98 @@
    ],
    "offers": {
     "Champagne": {
+     "35": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
+    "Champagne": {
      "8.5": {
       "amount": 39.99,
       "currency": "USD",
@@ -2743,7 +6506,34 @@
       "sourceSKU": "LARINA-R"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Champagne": {
+     "sourceSize": "8.5",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne?variant=41364261601413",
+      "sourceVariantID": "41364261601413",
+      "sourceSKU": "LARINA-R"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-phase-advantage",
@@ -2763,6 +6553,87 @@
     }
    ],
    "offers": {
+    "Black/White": {
+     "38": {
+      "amount": 44.99,
+      "currency": "USD",
+      "usd": 44.99,
+      "etb": 7283,
+      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 44.99,
+      "currency": "USD",
+      "usd": 44.99,
+      "etb": 7283,
+      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 44.99,
+      "currency": "USD",
+      "usd": 44.99,
+      "etb": 7283,
+      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 44.99,
+      "currency": "USD",
+      "usd": 44.99,
+      "etb": 7283,
+      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 44.99,
+      "currency": "USD",
+      "usd": 44.99,
+      "etb": 7283,
+      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 44.99,
+      "currency": "USD",
+      "usd": 44.99,
+      "etb": 7283,
+      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 44.99,
+      "currency": "USD",
+      "usd": 44.99,
+      "etb": 7283,
+      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black/White": {
      "4": {
       "amount": 44.99,
@@ -2927,7 +6798,33 @@
       "sourceSKU": "100266569-13"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "Black/White": {
+     "sourceSize": "4",
+     "offer": {
+      "amount": 44.99,
+      "currency": "USD",
+      "usd": 44.99,
+      "etb": 7283,
+      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes?variant=67923620299056",
+      "sourceVariantID": "67923620299056",
+      "sourceSKU": "100266569-4"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-zig-futaura-1-0",
@@ -2954,6 +6851,188 @@
     }
    ],
    "offers": {
+    "Black/Black/Pink": {
+     "35": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    },
+    "Elemental Pink/Chalk": {
+     "35": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
     "Black/Black/Pink": {
      "5": {
       "amount": 49.99,
@@ -3192,7 +7271,46 @@
       "sourceSKU": "100279887-11"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "Black/Black/Pink": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296?variant=67377494425904",
+      "sourceVariantID": "67377494425904",
+      "sourceSKU": "100279884-5"
+     }
+    },
+    "Elemental Pink/Chalk": {
+     "sourceSize": "5",
+     "offer": {
+      "amount": 49.99,
+      "currency": "USD",
+      "usd": 49.99,
+      "etb": 8092,
+      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296?variant=67377490657584",
+      "sourceVariantID": "67377490657584",
+      "sourceSKU": "100279887-5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "reebok-run-lxs",
@@ -3212,6 +7330,87 @@
     }
    ],
    "offers": {
+    "White/Night Black/Gum": {
+     "38": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     },
+     "43": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "43"
+     },
+     "44": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "44"
+     }
+    }
+   },
+   "sourceOffers": {
     "White/Night Black/Gum": {
      "4": {
       "amount": 39.99,
@@ -3367,7 +7566,33 @@
       "sourceSKU": "100279323-13"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Men's",
+   "priceReferences": {
+    "White/Night Black/Gum": {
+     "sourceSize": "4",
+     "offer": {
+      "amount": 39.99,
+      "currency": "USD",
+      "usd": 39.99,
+      "etb": 6473,
+      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512?variant=66907430420784",
+      "sourceVariantID": "66907430420784",
+      "sourceSKU": "100279323-4"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "adidas-blanc-x-sporty-rich",
@@ -3388,6 +7613,98 @@
    ],
    "offers": {
     "As pictured": {
+     "35": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "35"
+     },
+     "36": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "36"
+     },
+     "37": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "37"
+     },
+     "38": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "38"
+     },
+     "39": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "39"
+     },
+     "40": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "40"
+     },
+     "41": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "41"
+     },
+     "42": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+      "sourceVariantID": null,
+      "sourceSKU": null,
+      "stockBasis": "merchant",
+      "euSize": "42"
+     }
+    }
+   },
+   "sourceOffers": {
+    "As pictured": {
      "8.5": {
       "amount": 42.0,
       "currency": "EUR",
@@ -3398,7 +7715,34 @@
       "sourceSKU": "JP8560-8.5"
      }
     }
-   }
+   },
+   "sourceSizeLabel": "US Women's",
+   "priceReferences": {
+    "As pictured": {
+     "sourceSize": "8.5",
+     "offer": {
+      "amount": 42.0,
+      "currency": "EUR",
+      "usd": 47.052075,
+      "etb": 7617,
+      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560?variant=50826255597909",
+      "sourceVariantID": "50826255597909",
+      "sourceSKU": "JP8560-8.5"
+     }
+    }
+   },
+   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability",
+   "merchantEuSizes": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ],
+   "pricingPolicy": "Same color price across merchant-offered EU sizes, based on the lowest previously listed source-size quote; original source quotes retained in sourceOffers and priceReferences."
   },
   {
    "id": "clothing-7635846136014",
@@ -8008,7 +12352,9 @@
     "60 ml \u00b7 Parfum": {
      "": {
       "usd": 145.0,
-      "etb": 23472,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 24795,
       "sourceURL": "https://fragrancelord.com/products/christian-dior-sauvage-parfum-1?variant=47551194890538",
       "sourceVariantID": "47551194890538",
       "sourceSKU": "3348901486392",
@@ -8018,7 +12364,83 @@
      }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-9497945506090",
+   "brand": "Dior",
+   "department": "Fragrances",
+   "audience": "Women",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "9497945506090"
+   ],
+   "sourceProducts": [
+    {
+     "id": "9497945506090",
+     "title": "Christian Dior Poison Girl Eau de Toilette Spray",
+     "url": "https://fragrancelord.com/products/christian-dior-poison-girl-eau-de-toilette-spray",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "100 ml \u00b7 Eau de Toilette": {
+     "": {
+      "usd": 105.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 17955,
+      "sourceURL": "https://fragrancelord.com/products/christian-dior-poison-girl-eau-de-toilette-spray?variant=49299442073898",
+      "sourceVariantID": "49299442073898",
+      "sourceSKU": "3348901345736",
+      "availableAtSource": true,
+      "bottleMl": 100,
+      "concentration": "Eau de Toilette"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-9491703562538",
+   "brand": "Dior",
+   "department": "Fragrances",
+   "audience": "Men",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "9491703562538"
+   ],
+   "sourceProducts": [
+    {
+     "id": "9491703562538",
+     "title": "Christian Dior Dior Homme Sport Eau de Toilette Spray",
+     "url": "https://fragrancelord.com/products/christian-dior-dior-homme-sport-eau-de-toilette-spray",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "125 ml \u00b7 Eau de Toilette": {
+     "": {
+      "usd": 142.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 24282,
+      "sourceURL": "https://fragrancelord.com/products/christian-dior-dior-homme-sport-eau-de-toilette-spray?variant=49286442287402",
+      "sourceVariantID": "49286442287402",
+      "sourceSKU": "3348901580069",
+      "availableAtSource": true,
+      "bottleMl": 125,
+      "concentration": "Eau de Toilette"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   },
   {
    "id": "fragrance-8905832431914",
@@ -8041,7 +12463,9 @@
     "90 ml \u00b7 Eau de Parfum": {
      "": {
       "usd": 120.0,
-      "etb": 19425,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 20520,
       "sourceURL": "https://fragrancelord.com/products/prada-prada-paradoxe-eau-de-parfum-spray?variant=47584537149738",
       "sourceVariantID": "47584537149738",
       "sourceSKU": "3614273760164",
@@ -8051,7 +12475,9 @@
      }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   },
   {
    "id": "fragrance-8270299595050",
@@ -8074,7 +12500,9 @@
     "50 ml \u00b7 Eau de Parfum": {
      "": {
       "usd": 119.0,
-      "etb": 19263,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 20349,
       "sourceURL": "https://fragrancelord.com/products/yves-saint-laurent-libre-intense-eau-de-parfum?variant=49313236386090",
       "sourceVariantID": "49313236386090",
       "sourceSKU": "3614273069540",
@@ -8084,73 +12512,9 @@
      }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
-  },
-  {
-   "id": "fragrance-6980108124194",
-   "brand": "Tom Ford",
-   "department": "Fragrances",
-   "audience": "Unisex",
-   "sourceHost": "https://fragrancelord.com",
-   "sourceProductIDs": [
-    "6980108124194"
-   ],
-   "sourceProducts": [
-    {
-     "id": "6980108124194",
-     "title": "Tom Ford Ombre Leather Eau de Parfum Spray",
-     "url": "https://fragrancelord.com/products/tom-fordombre-leather-eau-de-parfum-spray",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
-    "50 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 160.0,
-      "etb": 25900,
-      "sourceURL": "https://fragrancelord.com/products/tom-fordombre-leather-eau-de-parfum-spray?variant=50886274023722",
-      "sourceVariantID": "50886274023722",
-      "sourceSKU": "888066075138",
-      "availableAtSource": true,
-      "bottleMl": 50,
-      "concentration": "Eau de Parfum"
-     }
-    }
-   },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
-  },
-  {
-   "id": "fragrance-7214912667707",
-   "brand": "Giorgio Armani",
-   "department": "Fragrances",
-   "audience": "Men",
-   "sourceHost": "https://www.olfactoryfactoryllc.com",
-   "sourceProductIDs": [
-    "7214912667707"
-   ],
-   "sourceProducts": [
-    {
-     "id": "7214912667707",
-     "title": "Giorgio Armani - Acqua Di Gio EDP (Refillable) Men",
-     "url": "https://www.olfactoryfactoryllc.com/products/giorgio-armani-acqua-di-gio-edp-refillable-men",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
-    "125 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 65.0,
-      "etb": 10522,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/giorgio-armani-acqua-di-gio-edp-refillable-men?variant=41547158749243",
-      "sourceVariantID": "41547158749243",
-      "sourceSKU": "B09TPWLDC3-FBM",
-      "availableAtSource": true,
-      "bottleMl": 125,
-      "concentration": "Eau de Parfum"
-     }
-    }
-   },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   },
   {
    "id": "fragrance-7226626113595",
@@ -8173,7 +12537,9 @@
     "60 ml \u00b7 Eau de Toilette": {
      "": {
       "usd": 65.0,
-      "etb": 10522,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 11115,
       "sourceURL": "https://www.olfactoryfactoryllc.com/products/yves-saint-laurent-y-eau-de-toilette-1?variant=42588160294971",
       "sourceVariantID": "42588160294971",
       "sourceSKU": "YSL-Y60-EDT",
@@ -8183,7 +12549,83 @@
      }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-7214912438331",
+   "brand": "Yves Saint Laurent",
+   "department": "Fragrances",
+   "audience": "Men",
+   "sourceHost": "https://www.olfactoryfactoryllc.com",
+   "sourceProductIDs": [
+    "7214912438331"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7214912438331",
+     "title": "Yves Saint Laurent - La Nuit De L'homme Le Parfum",
+     "url": "https://www.olfactoryfactoryllc.com/products/ysl-la-nuit-de-lhomme-le-parfum-edp",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "100 ml \u00b7 Eau de Parfum": {
+     "": {
+      "usd": 95.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 16245,
+      "sourceURL": "https://www.olfactoryfactoryllc.com/products/ysl-la-nuit-de-lhomme-le-parfum-edp?variant=41547158487099",
+      "sourceVariantID": "41547158487099",
+      "sourceSKU": "B004H0YML2-FBM",
+      "availableAtSource": true,
+      "bottleMl": 100,
+      "concentration": "Eau de Parfum"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-6980108124194",
+   "brand": "Tom Ford",
+   "department": "Fragrances",
+   "audience": "Unisex",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "6980108124194"
+   ],
+   "sourceProducts": [
+    {
+     "id": "6980108124194",
+     "title": "Tom Ford Ombre Leather Eau de Parfum Spray",
+     "url": "https://fragrancelord.com/products/tom-fordombre-leather-eau-de-parfum-spray",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "50 ml \u00b7 Eau de Parfum": {
+     "": {
+      "usd": 160.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 27360,
+      "sourceURL": "https://fragrancelord.com/products/tom-fordombre-leather-eau-de-parfum-spray?variant=50886274023722",
+      "sourceVariantID": "50886274023722",
+      "sourceSKU": "888066075138",
+      "availableAtSource": true,
+      "bottleMl": 50,
+      "concentration": "Eau de Parfum"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   },
   {
    "id": "fragrance-6957527040059",
@@ -8206,7 +12648,9 @@
     "100 ml \u00b7 Eau de Parfum": {
      "": {
       "usd": 159.0,
-      "etb": 25738,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 27189,
       "sourceURL": "https://www.olfactoryfactoryllc.com/products/tom-ford-costa-azzurra-eau-de-parfum?variant=40704216367163",
       "sourceVariantID": "40704216367163",
       "sourceSKU": "TF-CA100",
@@ -8214,87 +12658,350 @@
       "bottleMl": 100,
       "concentration": "Eau de Parfum"
      }
-    },
-    "50 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 125.0,
-      "etb": 20234,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/tom-ford-costa-azzurra-eau-de-parfum?variant=40704216399931",
-      "sourceVariantID": "40704216399931",
-      "sourceSKU": "TF-CA50",
-      "availableAtSource": true,
-      "bottleMl": 50,
-      "concentration": "Eau de Parfum"
-     }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   },
   {
-   "id": "fragrance-7229769547835",
+   "id": "fragrance-7004962553890",
    "brand": "Tom Ford",
    "department": "Fragrances",
    "audience": "Unisex",
-   "sourceHost": "https://www.olfactoryfactoryllc.com",
+   "sourceHost": "https://fragrancelord.com",
    "sourceProductIDs": [
-    "7229769547835"
+    "7004962553890"
    ],
    "sourceProducts": [
     {
-     "id": "7229769547835",
-     "title": "Tom Ford - Oud Minerale",
-     "url": "https://www.olfactoryfactoryllc.com/products/tom-ford-oud-minerale",
+     "id": "7004962553890",
+     "title": "Tom Ford Cafe Rose Eau De Parfum Spray",
+     "url": "https://fragrancelord.com/products/tom-ford-cafe-rose-eau-de-parfum",
      "currency": "USD"
     }
    ],
    "offers": {
     "50 ml \u00b7 Eau de Parfum": {
      "": {
-      "usd": 99.0,
-      "etb": 16026,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/tom-ford-oud-minerale?variant=41600827621435",
-      "sourceVariantID": "41600827621435",
-      "sourceSKU": "TF-OM50",
+      "usd": 190.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 32490,
+      "sourceURL": "https://fragrancelord.com/products/tom-ford-cafe-rose-eau-de-parfum?variant=49293030785322",
+      "sourceVariantID": "49293030785322",
+      "sourceSKU": "888066144575",
       "availableAtSource": true,
       "bottleMl": 50,
       "concentration": "Eau de Parfum"
      }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   },
   {
-   "id": "fragrance-7007143854139",
-   "brand": "Parfums de Marly",
+   "id": "fragrance-7214912667707",
+   "brand": "Giorgio Armani",
    "department": "Fragrances",
-   "audience": "Women",
+   "audience": "Men",
    "sourceHost": "https://www.olfactoryfactoryllc.com",
    "sourceProductIDs": [
-    "7007143854139"
+    "7214912667707"
    ],
    "sourceProducts": [
     {
-     "id": "7007143854139",
-     "title": "Parfums De Marly - Delina",
-     "url": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-delina",
+     "id": "7214912667707",
+     "title": "Giorgio Armani - Acqua Di Gio EDP (Refillable) Men",
+     "url": "https://www.olfactoryfactoryllc.com/products/giorgio-armani-acqua-di-gio-edp-refillable-men",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "125 ml \u00b7 Eau de Parfum": {
+     "": {
+      "usd": 65.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 11115,
+      "sourceURL": "https://www.olfactoryfactoryllc.com/products/giorgio-armani-acqua-di-gio-edp-refillable-men?variant=41547158749243",
+      "sourceVariantID": "41547158749243",
+      "sourceSKU": "B09TPWLDC3-FBM",
+      "availableAtSource": true,
+      "bottleMl": 125,
+      "concentration": "Eau de Parfum"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-10043814969642",
+   "brand": "Giorgio Armani",
+   "department": "Fragrances",
+   "audience": "Men",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "10043814969642"
+   ],
+   "sourceProducts": [
+    {
+     "id": "10043814969642",
+     "title": "Giorgio Armani Emporio Armani Stronger With You Pour Homme Parfum Spray",
+     "url": "https://fragrancelord.com/products/giorgio-armani-emporio-armani-stronger-with-you-parfum-spray",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "100 ml \u00b7 Parfum": {
+     "": {
+      "usd": 120.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 20520,
+      "sourceURL": "https://fragrancelord.com/products/giorgio-armani-emporio-armani-stronger-with-you-parfum-spray?variant=51160726667562",
+      "sourceVariantID": "51160726667562",
+      "sourceSKU": "3614274219579",
+      "availableAtSource": true,
+      "bottleMl": 100,
+      "concentration": "Parfum"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-8333270221098",
+   "brand": "Valentino",
+   "department": "Fragrances",
+   "audience": "Women",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "8333270221098"
+   ],
+   "sourceProducts": [
+    {
+     "id": "8333270221098",
+     "title": "Valentino Donna Born in Roma Eau De Parfum Spray",
+     "url": "https://fragrancelord.com/products/valentino-valentino-donna-born-in-roma-eau-de-parfum-spray",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "100 ml \u00b7 Eau de Parfum": {
+     "": {
+      "usd": 155.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 26505,
+      "sourceURL": "https://fragrancelord.com/products/valentino-valentino-donna-born-in-roma-eau-de-parfum-spray?variant=45253584388394",
+      "sourceVariantID": "45253584388394",
+      "sourceSKU": "3614272761445",
+      "availableAtSource": true,
+      "bottleMl": 100,
+      "concentration": "Eau de Parfum"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-9427680723242",
+   "brand": "Valentino",
+   "department": "Fragrances",
+   "audience": "Men",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "9427680723242"
+   ],
+   "sourceProducts": [
+    {
+     "id": "9427680723242",
+     "title": "Valentino Valentino Uomo Born in Roma Green Stravaganza Eau de Toilette Spray",
+     "url": "https://fragrancelord.com/products/valentino-valentino-uomo-born-in-roma-green-stravaganza-eau-de-toilette-spray",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "100 ml \u00b7 Eau de Toilette": {
+     "": {
+      "usd": 110.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 18810,
+      "sourceURL": "https://fragrancelord.com/products/valentino-valentino-uomo-born-in-roma-green-stravaganza-eau-de-toilette-spray?variant=49074818679082",
+      "sourceVariantID": "49074818679082",
+      "sourceSKU": "3614274024807",
+      "availableAtSource": true,
+      "bottleMl": 100,
+      "concentration": "Eau de Toilette"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-8424378761514",
+   "brand": "Gucci",
+   "department": "Fragrances",
+   "audience": "Women",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "8424378761514"
+   ],
+   "sourceProducts": [
+    {
+     "id": "8424378761514",
+     "title": "Gucci Flora Gorgeous Gardenia Eau De parfum Spray",
+     "url": "https://fragrancelord.com/products/gucci-flora-gorgeous-gardenia",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "50 ml \u00b7 Eau de Parfum": {
+     "": {
+      "usd": 70.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 11970,
+      "sourceURL": "https://fragrancelord.com/products/gucci-flora-gorgeous-gardenia?variant=49288277852458",
+      "sourceVariantID": "49288277852458",
+      "sourceSKU": "3616302022489",
+      "availableAtSource": true,
+      "bottleMl": 50,
+      "concentration": "Eau de Parfum"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-8010007511338",
+   "brand": "Versace",
+   "department": "Fragrances",
+   "audience": "Women",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "8010007511338"
+   ],
+   "sourceProducts": [
+    {
+     "id": "8010007511338",
+     "title": "Versace Bright Crystal  Eau de Toilette Spray",
+     "url": "https://fragrancelord.com/products/versace-bright-crystal-eau-de-toilette-spray",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "90 ml \u00b7 Eau de Toilette": {
+     "": {
+      "usd": 60.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 10260,
+      "sourceURL": "https://fragrancelord.com/products/versace-bright-crystal-eau-de-toilette-spray?variant=43805744038186",
+      "sourceVariantID": "43805744038186",
+      "sourceSKU": "8011003993826",
+      "availableAtSource": true,
+      "bottleMl": 90,
+      "concentration": "Eau de Toilette"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-9492104511786",
+   "brand": "Carolina Herrera",
+   "department": "Fragrances",
+   "audience": "Men",
+   "sourceHost": "https://fragrancelord.com",
+   "sourceProductIDs": [
+    "9492104511786"
+   ],
+   "sourceProducts": [
+    {
+     "id": "9492104511786",
+     "title": "Carolina Herrera Bad Boy Le Parfum Eau De Parfum Spray",
+     "url": "https://fragrancelord.com/products/carolina-herrera-bad-boy-le-parfum-eau-de-parfum-spray",
+     "currency": "USD"
+    }
+   ],
+   "offers": {
+    "50 ml \u00b7 Eau de Parfum": {
+     "": {
+      "usd": 68.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 11628,
+      "sourceURL": "https://fragrancelord.com/products/carolina-herrera-bad-boy-le-parfum-eau-de-parfum-spray?variant=49287958397226",
+      "sourceVariantID": "49287958397226",
+      "sourceSKU": "8411061991909",
+      "availableAtSource": true,
+      "bottleMl": 50,
+      "concentration": "Eau de Parfum"
+     }
+    }
+   },
+   "ratings": {},
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
+  },
+  {
+   "id": "fragrance-7007054856251",
+   "brand": "Parfums de Marly",
+   "department": "Fragrances",
+   "audience": "Men",
+   "sourceHost": "https://www.olfactoryfactoryllc.com",
+   "sourceProductIDs": [
+    "7007054856251"
+   ],
+   "sourceProducts": [
+    {
+     "id": "7007054856251",
+     "title": "Parfums De Marly - Sedley",
+     "url": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-sedley",
      "currency": "USD"
     }
    ],
    "offers": {
     "75 ml \u00b7 Eau de Parfum": {
      "": {
-      "usd": 205.0,
-      "etb": 33184,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-delina?variant=40848591880251",
-      "sourceVariantID": "40848591880251",
-      "sourceSKU": "PDM-DE75",
+      "usd": 169.0,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 28899,
+      "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-sedley?variant=40885980790843",
+      "sourceVariantID": "40885980790843",
+      "sourceSKU": "PDM-SDE75",
       "availableAtSource": true,
       "bottleMl": 75,
       "concentration": "Eau de Parfum"
      }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "ratings": {
+    "75 ml \u00b7 Eau de Parfum": {
+     "value": 4.666666666,
+     "count": 3,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-sedley"
+    }
+   },
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   },
   {
    "id": "fragrance-6957507412027",
@@ -8314,22 +13021,12 @@
     }
    ],
    "offers": {
-    "75 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 205.0,
-      "etb": 33184,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-oriana-eau-de-parfum?variant=40704166887483",
-      "sourceVariantID": "40704166887483",
-      "sourceSKU": "PDM-O75",
-      "availableAtSource": true,
-      "bottleMl": 75,
-      "concentration": "Eau de Parfum"
-     }
-    },
     "30 ml \u00b7 Eau de Parfum": {
      "": {
       "usd": 159.0,
-      "etb": 25738,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 27189,
       "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-oriana-eau-de-parfum?variant=41078039576635",
       "sourceVariantID": "41078039576635",
       "sourceSKU": "PDM-O30",
@@ -8339,40 +13036,15 @@
      }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
-  },
-  {
-   "id": "fragrance-7215487287355",
-   "brand": "Parfums de Marly",
-   "department": "Fragrances",
-   "audience": "Men",
-   "sourceHost": "https://www.olfactoryfactoryllc.com",
-   "sourceProductIDs": [
-    "7215487287355"
-   ],
-   "sourceProducts": [
-    {
-     "id": "7215487287355",
-     "title": "Parfums de Marly - Althair",
-     "url": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-althair",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
-    "125 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 229.0,
-      "etb": 37069,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-althair?variant=41549562576955",
-      "sourceVariantID": "41549562576955",
-      "sourceSKU": "PDM-ALT125",
-      "availableAtSource": true,
-      "bottleMl": 125,
-      "concentration": "Eau de Parfum"
-     }
+   "ratings": {
+    "30 ml \u00b7 Eau de Parfum": {
+     "value": 4.54,
+     "count": 13,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/parfums-de-marly-oriana-eau-de-parfum"
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   },
   {
    "id": "fragrance-6957448233019",
@@ -8392,22 +13064,12 @@
     }
    ],
    "offers": {
-    "90 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 225.0,
-      "etb": 36422,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/initio-oud-for-greatness?variant=40704043548731",
-      "sourceVariantID": "40704043548731",
-      "sourceSKU": "IPP-OFG90",
-      "availableAtSource": true,
-      "bottleMl": 90,
-      "concentration": "Eau de Parfum"
-     }
-    },
     "50 ml \u00b7 Eau de Parfum": {
      "": {
       "usd": 149.0,
-      "etb": 24119,
+      "usdEtbRate": 190,
+      "discountPercent": 10,
+      "etb": 25479,
       "sourceURL": "https://www.olfactoryfactoryllc.com/products/initio-oud-for-greatness?variant=43094836740155",
       "sourceVariantID": "43094836740155",
       "sourceSKU": "IPP-OFG50",
@@ -8417,106 +13079,15 @@
      }
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
-  },
-  {
-   "id": "fragrance-6957489258555",
-   "brand": "Initio",
-   "department": "Fragrances",
-   "audience": "Unisex",
-   "sourceHost": "https://www.olfactoryfactoryllc.com",
-   "sourceProductIDs": [
-    "6957489258555"
-   ],
-   "sourceProducts": [
-    {
-     "id": "6957489258555",
-     "title": "Initio - Side Effect",
-     "url": "https://www.olfactoryfactoryllc.com/products/initio-side-effect",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
-    "90 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 209.0,
-      "etb": 33832,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/initio-side-effect?variant=40704134021179",
-      "sourceVariantID": "40704134021179",
-      "sourceSKU": "IPP-SE90",
-      "availableAtSource": true,
-      "bottleMl": 90,
-      "concentration": "Eau de Parfum"
-     }
-    }
-   },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
-  },
-  {
-   "id": "fragrance-9427650740522",
-   "brand": "Valentino",
-   "department": "Fragrances",
-   "audience": "Women",
-   "sourceHost": "https://fragrancelord.com",
-   "sourceProductIDs": [
-    "9427650740522"
-   ],
-   "sourceProducts": [
-    {
-     "id": "9427650740522",
-     "title": "Valentino Valentino Donna Born in Roma Green Stravaganza Eau De Parfum Spray",
-     "url": "https://fragrancelord.com/products/valentino-valentino-donna-born-in-roma-green-stravaganza-eau-de-parfum-spray",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
+   "ratings": {
     "50 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 100.0,
-      "etb": 16187,
-      "sourceURL": "https://fragrancelord.com/products/valentino-valentino-donna-born-in-roma-green-stravaganza-eau-de-parfum-spray?variant=50354392662314",
-      "sourceVariantID": "50354392662314",
-      "sourceSKU": "3614274024753",
-      "availableAtSource": true,
-      "bottleMl": 50,
-      "concentration": "Eau de Parfum"
-     }
+     "value": 4.6,
+     "count": 5,
+     "sourceURL": "https://www.olfactoryfactoryllc.com/products/initio-oud-for-greatness"
     }
    },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
-  },
-  {
-   "id": "fragrance-7594594041915",
-   "brand": "Dior",
-   "department": "Fragrances",
-   "audience": "Unisex",
-   "sourceHost": "https://www.olfactoryfactoryllc.com",
-   "sourceProductIDs": [
-    "7594594041915"
-   ],
-   "sourceProducts": [
-    {
-     "id": "7594594041915",
-     "title": "Christian Dior - Dioriviera",
-     "url": "https://www.olfactoryfactoryllc.com/products/christian-dior-dioriviera",
-     "currency": "USD"
-    }
-   ],
-   "offers": {
-    "125 ml \u00b7 Eau de Parfum": {
-     "": {
-      "usd": 199.99,
-      "etb": 32373,
-      "sourceURL": "https://www.olfactoryfactoryllc.com/products/christian-dior-dioriviera?variant=43481606225979",
-      "sourceVariantID": "43481606225979",
-      "sourceSKU": "CD-DI125",
-      "availableAtSource": true,
-      "bottleMl": 125,
-      "concentration": "Eau de Parfum"
-     }
-    }
-   },
-   "photographyNote": "Retailer bottle photograph; selected volume is stated explicitly. No sample or decant pictures intentionally included."
+   "pricingPolicy": "Verified source USD below $200 \u00d7190, less 10%, rounded once to whole ETB.",
+   "photographyNote": "Retailer full-size product photo may represent more than one volume; selected ml amount is explicit."
   }
  ],
  "images": [
@@ -12985,15 +17556,6 @@
    "bytes": 39420
   },
   {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Sept2026DRow-11.jpg?v=1792291908",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Sept2026DRow-11.jpg?v=1792291908&width=1100&format=webp",
-   "local": "/images/catalog/cd5ae2d51ef4b6ca53.webp",
-   "width": 1100,
-   "height": 1100,
-   "sha256": "cd5ae2d51ef4b6ca532cb2b117dac0358e491bc46ab57f2727f2525e78f63853",
-   "bytes": 30474
-  },
-  {
    "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITE_PHOTOS_12_02503255-eaa5-41a8-bd19-a9b3372a6991.png?v=1727246297",
    "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITE_PHOTOS_12_02503255-eaa5-41a8-bd19-a9b3372a6991.png?v=1727246297&width=1100&format=webp",
    "local": "/images/catalog/8b0c8c5897e989d358.webp",
@@ -13001,42 +17563,6 @@
    "height": 900,
    "sha256": "8b0c8c5897e989d358893c457300eeb7fb5f594dd8f57c1dfc65d9c5495555d4",
    "bytes": 86232
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/05-27-12.jpg?v=1780130084",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/05-27-12.jpg?v=1780130084&width=1100&format=webp",
-   "local": "/images/catalog/6fec31a90064eafd45.webp",
-   "width": 832,
-   "height": 832,
-   "sha256": "6fec31a90064eafd454ed0f9d04de98b43e03a73f6c4dd5869bd2fbdb0e4d026",
-   "bytes": 33142
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Parfums_De_Marly_-_Delina.jpg?v=1752908088",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Parfums_De_Marly_-_Delina.jpg?v=1752908088&width=1100&format=webp",
-   "local": "/images/catalog/50447688b6c69cfce0.webp",
-   "width": 1024,
-   "height": 1024,
-   "sha256": "50447688b6c69cfce051c58c747fee7f57ee0c70996f333e1f24601c91f6ca60",
-   "bytes": 43486
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/3_8_dd8f3106-50cd-4848-8f5c-bc8d1b733ccd.png?v=1723443230",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/3_8_dd8f3106-50cd-4848-8f5c-bc8d1b733ccd.png?v=1723443230&width=1100&format=webp",
-   "local": "/images/catalog/ba7e0f8c2b771d3b7d.webp",
-   "width": 900,
-   "height": 900,
-   "sha256": "ba7e0f8c2b771d3b7dd1f54c6d12b90fa10704dca919646d1fa8855d95d52e32",
-   "bytes": 64654
-  },
-  {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/OM_generic.webp?v=1705607694",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/OM_generic.webp?v=1705607694&width=1100&format=webp",
-   "local": "/images/catalog/3e02c88a2c01adf4ae.webp",
-   "width": 700,
-   "height": 700,
-   "sha256": "3e02c88a2c01adf4ae264ddc17348da8b9fc9d45f7a32b6dde40a63997dba23c",
-   "bytes": 44298
   },
   {
    "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/F08-20.jpg?v=1785498032",
@@ -13075,15 +17601,6 @@
    "bytes": 65338
   },
   {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A06-33.jpg?v=1787215424",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A06-33.jpg?v=1787215424&width=1100&format=webp",
-   "local": "/images/catalog/6873ce2793b0eff842.webp",
-   "width": 1100,
-   "height": 1100,
-   "sha256": "6873ce2793b0eff842b7baa5abbbd1b3ebbf6b9fc52dee6a6a3d0dc95af60246",
-   "bytes": 53552
-  },
-  {
    "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/3_35d34832-7d83-4611-af36-850f87ecfeac.png?v=1708752909",
    "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/3_35d34832-7d83-4611-af36-850f87ecfeac.png?v=1708752909&width=1100&format=webp",
    "local": "/images/catalog/be0468c06d6700dfca.webp",
@@ -13093,13 +17610,117 @@
    "bytes": 21568
   },
   {
-   "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/F08-4_1.jpg?v=1779793309",
-   "downloadURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/F08-4_1.jpg?v=1779793309&width=1100&format=webp",
-   "local": "/images/catalog/8d3e58ff76517fa4ef.webp",
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C10-2.jpg?v=1780902722",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C10-2.jpg?v=1780902722&width=1100&format=webp",
+   "local": "/images/catalog/166d78f5202cdfa45f.webp",
    "width": 1100,
    "height": 1100,
-   "sha256": "8d3e58ff76517fa4ef48935377e7ca70570cede582e231ed43958d470caeafe9",
-   "bytes": 32910
+   "sha256": "166d78f5202cdfa45f77d851f583d2475fa259d66f755dd7ff327d3aa9f66401",
+   "bytes": 28182
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/3_1_fbefe523-3983-4f9d-9230-546ae6d65338.png?v=1726905118",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/3_1_fbefe523-3983-4f9d-9230-546ae6d65338.png?v=1726905118&width=1100&format=webp",
+   "local": "/images/catalog/8de82ebb29afb6fc85.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "8de82ebb29afb6fc851c1e2a22fd9484b3c8ee83deb96f4620de6b9d7994c9de",
+   "bytes": 91836
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/4_9_4e444c35-af3a-4fa9-96ea-f1ae56ff73af.png?v=1723446472",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/4_9_4e444c35-af3a-4fa9-96ea-f1ae56ff73af.png?v=1723446472&width=1100&format=webp",
+   "local": "/images/catalog/3ca298d8fe4371cb82.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "3ca298d8fe4371cb82ee5530aa43c643690d5cb268095d0d7bca9f19457f72fa",
+   "bytes": 56240
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITE_PHOTOS_3_3608e95f-5982-4027-b971-193ee3066579.png?v=1723888801",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITE_PHOTOS_3_3608e95f-5982-4027-b971-193ee3066579.png?v=1723888801&width=1100&format=webp",
+   "local": "/images/catalog/d77ec9bf6b73829169.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "d77ec9bf6b738291699cb8d2a11855963238bc4d378e625806c21c757de17ec6",
+   "bytes": 21852
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITE_PHOTOS_34_8101c4e0-e869-4077-9a33-e3074bdac162.png?v=1763828914",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITE_PHOTOS_34_8101c4e0-e869-4077-9a33-e3074bdac162.png?v=1763828914&width=1100&format=webp",
+   "local": "/images/catalog/0aa5d808ec054cae88.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "0aa5d808ec054cae8812f666a5172d22d6acf2d39364a144cdc217188807b2ac",
+   "bytes": 73826
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/3_2_658fc155-0944-4f00-ac40-950c96e92cc7.png?v=1726657451",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/3_2_658fc155-0944-4f00-ac40-950c96e92cc7.png?v=1726657451&width=1100&format=webp",
+   "local": "/images/catalog/7ff1c708c53b73f72b.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "7ff1c708c53b73f72bd324c62cf65cee02a838c411a638e30f2460605f9e9ddf",
+   "bytes": 20032
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/2_7_174d75a5-6c17-4bed-9448-78a05386b868.png?v=1759458456",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/2_7_174d75a5-6c17-4bed-9448-78a05386b868.png?v=1759458456&width=1100&format=webp",
+   "local": "/images/catalog/69d12cb35a6b2ab6fb.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "69d12cb35a6b2ab6fba5d848f82fa7e220af6d257dc89fdc82c4ab6303f32d89",
+   "bytes": 10286
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/pdm_24.jpg?v=1741258680",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/pdm_24.jpg?v=1741258680&width=1100&format=webp",
+   "local": "/images/catalog/fafb84d6e8acdabc9e.webp",
+   "width": 1024,
+   "height": 1024,
+   "sha256": "fafb84d6e8acdabc9e844d4fa1e32cd72218a57c43deccae2ecc16bf59903819",
+   "bytes": 26754
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITEPHOTOS_27_232d6ea9-2738-437a-a5b0-4b34a69899ad.png?v=1771319751",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITEPHOTOS_27_232d6ea9-2738-437a-a5b0-4b34a69899ad.png?v=1771319751&width=1100&format=webp",
+   "local": "/images/catalog/52dfd0cabc0087177c.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "52dfd0cabc0087177cc293c4d03dbfe29b691f5744f547d9115ca380e620cf1a",
+   "bytes": 22718
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/2_3_e4676619-1703-4cb5-96a5-0c3681bf6c4d.png?v=1765543248",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/2_3_e4676619-1703-4cb5-96a5-0c3681bf6c4d.png?v=1765543248&width=1100&format=webp",
+   "local": "/images/catalog/3e70210e7d7b2e9e0c.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "3e70210e7d7b2e9e0c5906fb84b63bd161b11e1e3c1a68180836078e9540eb91",
+   "bytes": 60832
+  },
+  {
+   "sourceURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITE_PHOTOS_36_bd422b9b-1106-4042-814a-79125e5affdc.png?v=1763829601",
+   "downloadURL": "https://cdn.shopify.com/s/files/1/0554/9382/0450/files/WEBSITE_PHOTOS_36_bd422b9b-1106-4042-814a-79125e5affdc.png?v=1763829601&width=1100&format=webp",
+   "local": "/images/catalog/9cd84a14f299593826.webp",
+   "width": 900,
+   "height": 900,
+   "sha256": "9cd84a14f2995938269a878877b6c6c970ebe1d3851489b6eb3e737223b28cdf",
+   "bytes": 52276
   }
- ]
+ ],
+ "fragrancePricing": {
+  "sourceCurrency": "USD",
+  "usdMaximumExclusive": 200,
+  "usdEtbRate": 190,
+  "discountPercent": 10,
+  "effectiveEtbPerUsd": 171,
+  "rounding": "Round once at the end to nearest whole ETB, half up",
+  "origin": "Explicit merchant instruction, not the market exchange rate used by other departments",
+  "sourceCurrencyCheckedAt": "2026-10-25",
+  "sourceHosts": [
+   "https://fragrancelord.com",
+   "https://www.olfactoryfactoryllc.com"
+  ]
+ }
 }

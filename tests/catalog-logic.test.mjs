@@ -3,6 +3,8 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import vm from 'node:vm';
 import crypto from 'node:crypto';
+import { fragrancePriceEtb } from '../public/fragrance-pricing.mjs';
+import { displaySize } from '../public/shoe-sizing.mjs';
 import { availableSizes, selectedOffer, priceRange, selectionIsAvailable } from '../public/catalog-logic.mjs';
 
 const example = { colors:['Black','Blue'], offers:{
@@ -44,7 +46,8 @@ test('all categories and at least fifteen men’s and fifteen women’s shoes ha
     const amount=offer.amount ?? offer.usd;
     const rate=offer.currency?audit.fx.etbPerCurrency[offer.currency]:audit.fx.USD_ETB;
     const base=Math.round(amount*rate);
-    if(p.department==='Clothes'&&p.audience==='Men'){assert.equal(offer.discountPercent,15);assert.equal(offer.baseEtb,base);assert.equal(offer.etb,Math.round(base*.85));}
+    if(p.department==='Fragrances'){assert.equal(offer.etb,fragrancePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
+    else if(p.department==='Clothes'&&p.audience==='Men'){assert.equal(offer.discountPercent,15);assert.equal(offer.baseEtb,base);assert.equal(offer.etb,Math.round(base*.85));}
     else if(p.department==='Clothes'&&p.audience==='Women'){assert.equal(offer.etb,Math.max(base,offer.merchantPriceFloorEtb||0));}
     else assert.equal(offer.etb,base);
     assert.equal(offer.sourceURL.startsWith(record.sourceHost+'/products/'),true);
@@ -88,15 +91,32 @@ test('fashion edits remove all clothing T-shirts and keep at least 85% of women�
  assert.ok(women.every(p=>p.price>=6000&&p.price<=7000));
 });
 
-test('fifteen branded fragrances have full-bottle volume, concentration and traceable available offers',()=>{
- const fragrances=catalog.filter(p=>p.department==='Fragrances');assert.equal(fragrances.length,15);
+test('twenty branded fragrances have full-bottle volume, concentration and traceable available offers',()=>{
+ const fragrances=catalog.filter(p=>p.department==='Fragrances');assert.equal(fragrances.length,20);
  for(const p of fragrances){
   assert.deepEqual(p.sizes,[]);
   for(const color of p.colors){
    const offer=selectedOffer(p,color);assert.ok(offer);assert.ok(selectionIsAvailable(p,{color}));
    assert.ok(offer.bottleMl>=30&&offer.bottleMl<=250);assert.ok(color.includes(offer.bottleMl+' ml'));
    assert.equal(offer.concentration,p.category);assert.equal(offer.availableAtSource,true);
-   assert.ok(offer.etb>=10000&&offer.etb<=45000);
+   assert.ok(offer.usd<200);assert.equal(offer.etb,fragrancePriceEtb(offer.usd));assert.ok(offer.etb>=10000&&offer.etb<34200);
+  }
+ }
+});
+
+test('merchant EU sizes are enabled for every shoe color without inventing source variant IDs',()=>{
+ for(const shoe of catalog.filter(p=>p.department==='Shoes')){
+  const expected=Array.from({length:shoe.audience==='Men'?7:8},(_,i)=>String(i+(shoe.audience==='Men'?38:35)));
+  assert.deepEqual(shoe.sizes,expected);assert.equal(shoe.sizeSystem,'EU');
+  const record=audit.products.find(p=>p.id===shoe.id);
+  for(const color of shoe.colors){
+   assert.deepEqual(availableSizes(shoe,color),expected);
+   const reference=record.priceReferences[color];assert.ok(reference.offer.sourceVariantID);assert.ok(record.sourceOffers[color][reference.sourceSize]);
+   for(const size of expected){
+    const offer=selectedOffer(shoe,color,size);assert.equal(offer.stockBasis,'merchant');assert.equal(offer.sourceVariantID,null);
+    assert.equal(offer.etb,reference.offer.etb);assert.equal(displaySize(shoe,size),size);
+    assert.equal(selectionIsAvailable(shoe,{color,size}),true);
+   }
   }
  }
 });

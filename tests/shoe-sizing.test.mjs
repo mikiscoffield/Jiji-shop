@@ -33,3 +33,8 @@ test('new Nike, Jordan and Adidas labels use published retailer charts',()=>{
  assert.equal(displaySize({department:'Shoes',brand:'Nike',audience:'Women'},'W5.5'),'36');
  assert.equal(displaySize({department:'Shoes',brand:'Adidas',audience:'Men'},'7.5'),'40 ⅔');
 });
+
+test('merchant EU sizing uses the offered EU number directly',()=>{
+ const shoe={department:'Shoes',sizeSystem:'EU',audience:'Men',brand:'Nike'};
+ assert.equal(displaySize(shoe,'42'),'42');assert.equal(sizeSystemText(shoe),'EU sizing');
+});

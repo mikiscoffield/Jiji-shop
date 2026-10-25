@@ -2,7 +2,7 @@
 
 ## Current fragrance revision
 
-The current build contains **52,724,154 bytes (52.72 MB)** across 518 files. Images account for **52,319,671 bytes (52.32 MB)** across 509 files. Previous transfer measurements below describe the earlier 42-product catalog, not the current 113-product catalog. Monthly account usage is not publicly accessible.
+The current build contains **52,898,863 bytes (52.90 MB)** across 523 files. Images account for **52,481,989 bytes (52.48 MB)** across 513 files. Previous transfer measurements below describe the earlier 42-product catalog, not the current 118-product catalog. Monthly account usage is not publicly accessible.
 
 ## Previous deployment benchmark
 

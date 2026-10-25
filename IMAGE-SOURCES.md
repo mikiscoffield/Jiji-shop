@@ -21,3 +21,9 @@ Clothing stock follows the owner’s confirmation of all four letter sizes. Sour
 ## Fragrance expansion
 
 The current catalog has 113 products including 15 fragrances. Bottle photographs and exact full-size offers come from Fragrance Lord and Olfactory Factory LLC, US storefronts checked to use USD. FRAGRANCE-SOURCES.md records every offered volume, concentration, source amount and converted ETB price. Only source-available retail full bottles between 10,000 and 45,000 ETB were included; samples, decants, tester/no-box offers and refill-only containers were excluded. Images associated with travel sprays or samples were not borrowed as bottle views. The retailer’s generic full-bottle photograph can represent multiple volumes, so the selected ml amount is explicit in the option and checkout. Source photos/prices do not independently authenticate physical inventory. All original 98 product records are unchanged. The audit now has 509 unique locally bundled photos.
+
+## Current size and fragrance revision
+
+The active catalog now has 118 products including 20 full-bottle fragrances. Every fragrance source quote is below $200 USD and is converted with the owner’s explicit formula USD ×190 ×0.90, rounded once at the end. This supersedes previous fragrance prices; other department price rules are preserved. FRAGRANCE-SOURCES.md lists all selected bottle/concentration offers. Genuine published ratings are included where available, never fabricated. Source inventory was checked for the selected fragrance variants at capture time.
+
+Shoe sizes are now merchant-offered EU 38–44 for men and 35–42 for women across all colors. These sizes are not claimed to match source retailer stock. Original source shoe variants and quotes are retained separately in the audit, and merchant EU offers do not invent source SKU IDs. Clothing S/M/L/XL remains fully available from the owner’s confirmed stock. Earlier size and count descriptions above are historical snapshots.

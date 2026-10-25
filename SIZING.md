@@ -1,21 +1,13 @@
-# European size display
+# Store shoe sizes
 
-The storefront shows European shoe-size labels. It retains each original source size as an internal option key so the existing source variant, availability, and price stay attached to the same product. It does not invent additional sizes or change source inventory. Clothing keeps its letter sizes.
+The owner requested all common sizes selectable for every color, capped at EU 44 for men and EU 42 for women. The shop now offers **EU 38–44 for men** and **EU 35–42 for women**, all enabled for every shoe/color. There is no verified claim of 95% population coverage. All clothing colors retain S, M, L and XL from the owner’s earlier stock confirmation.
 
-`public/shoe-sizing.mjs` handles the display only. `public/catalog-logic.mjs` still selects the original source offer. Payment and the order review show the European label, never the internal US option key.
+Products with sizeSystem EU use these EU numbers directly. Their buttons, delivery summary and payment review display the same number; no US conversion is applied. Merchant sizes are separate from source retailer availability. A merchant size’s offer does not assert a matching external SKU: sourceVariantID and sourceSKU are null. The audit retains original sourceOffers (original US size/variant IDs) and a per-color priceReferences quote. The color’s shop price stays the same across all offered EU sizes. This records the merchant’s requested offering, not independent verification of physical inventory or fit.
 
-## Brand charts
+## Archived source conversions
 
-Nine West women's conversions were read from the product page's Size Chart (also linked by the brand under https://ninewest.com/pages/size-guide). Examples: source 7.5 → EU 38, 8 → EU 38.5, 8.5 → EU 39, 9 → EU 40.
+public/shoe-sizing.mjs and public/size-charts.mjs preserve legacy source conversions for maintenance. SIZE-CHART-SOURCES.json records retailer-chart context. Nine West women’s examples: US 7.5 → EU 38, 8 → 38.5, 8.5 → 39, 9 → 40. The source is the brand’s product-page Size Chart and https://ninewest.com/pages/size-guide.
 
-Steve Madden women's conversions were read from the embedded Women's Size Conversions table on https://www.stevemadden.com/products/distortion-gold-glitter. Its ranges are preserved: source 6 → EU 36–37, 8 → EU 38–39, 9.5 → EU 40. Do not silently replace a brand-provided range with an exact single size.
+Steve Madden women’s conversions were read from the embedded Women’s Size Conversions table at https://www.stevemadden.com/products/distortion-gold-glitter. Ranges are preserved in the legacy helper: US 6 → EU 36–37, 8 → 38–39, 9.5 → 40. Nike, Jordan, Adidas and Reebok charts were read from Sneakersnstuff product size tables. Legacy source sizes outside verified tables remain explicitly approximate. Those helpers do not reinterpret the newly offered merchant EU numbers.
 
-These source URLs are maintainer references only and are not linked from the customer-facing shop.
-
-## Additional published retailer charts
-
-public/size-charts.mjs contains Nike, Jordan, Adidas and Reebok US/EU tables read from Sneakersnstuff’s published brand charts. SIZE-CHART-SOURCES.json records the source context. For example, Nike men’s US 8 displays EU 41; Adidas men’s US 7.5 displays EU 40 ⅔. Original source SKU sizes remain unchanged. These are general brand conversions, not model-specific fit guarantees.
-
-## Approximate conversions
-
-If any offered size falls outside a verified chart, the UI explicitly says **EU sizing (approx.)**. The fallback is source men’s numeric size + 33 or women’s + 31. No unavailable sizes are invented.
+Maintainer source links do not appear in the customer storefront.

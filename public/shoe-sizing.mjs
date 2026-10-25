@@ -47,7 +47,7 @@ function chartFor(product){
  return product.euSizeMap || retailerSizeCharts[product.brand]?.[product.audience] || (product.audience==='Women'?brandCharts[product.brand]:null);
 }
 export function displaySize(product, sourceSize) {
- if(product.department!=='Shoes')return sourceSize;
+ if(product.department!=='Shoes'||product.sizeSystem==='EU')return sourceSize;
  const wide=/ Wide$/.test(sourceSize);
  const base=baseSize(sourceSize);
  const mapped=chartFor(product)?.[base];
@@ -57,6 +57,7 @@ export function displaySize(product, sourceSize) {
 }
 export function sizeSystemText(product) {
  if(product.department!=='Shoes')return 'Clothing size';
+ if(product.sizeSystem==='EU')return 'EU sizing';
  const chart=chartFor(product);
  const sizes=product.sizes || [];
  // Some published guides cover only part of a brand's full range.

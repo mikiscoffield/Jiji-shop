@@ -29,9 +29,9 @@ const context={window:{}};
 vm.runInNewContext(fs.readFileSync(new URL('../public/catalog.js',import.meta.url),'utf8'),context);
 const catalog=JSON.parse(JSON.stringify(context.window.catalog));
 const audit=JSON.parse(fs.readFileSync(new URL('../CATALOG-SOURCES.json',import.meta.url),'utf8'));
-test('all categories and at least ten men’s and ten women’s shoes have traceable branded offers',()=>{
+test('all categories and at least fifteen men’s and fifteen women’s shoes have traceable branded offers',()=>{
  for(const department of ['Shoes','Clothes','Makeup','Bags','Accessories'])assert.ok(catalog.some(p=>p.department===department));
- for(const audience of ['Men','Women'])assert.ok(catalog.filter(p=>p.department==='Shoes'&&p.audience===audience).length>=10);
+ for(const audience of ['Men','Women'])assert.ok(catalog.filter(p=>p.department==='Shoes'&&p.audience===audience).length>=15);
  assert.equal(new Set(catalog.map(p=>p.id)).size,catalog.length);
  for(const p of catalog){
   const record=audit.products.find(r=>r.id===p.id);assert.ok(record,p.id);
@@ -40,8 +40,10 @@ test('all categories and at least ten men’s and ten women’s shoes have trace
    assert.ok(p.variants[color].length>0,p.id+' '+color);
    assert.ok(p.swatches[color]);
    for(const [size,offer] of Object.entries(p.offers[color])){
-    assert.ok(offer.etb>=3500&&offer.etb<=8000);
-    assert.equal(offer.etb,Math.round(offer.usd*audit.fx.USD_ETB));
+    assert.ok(offer.etb>=(p.department==='Shoes'?4000:3500)&&offer.etb<=(p.department==='Shoes'?10000:8000));
+    const amount=offer.amount ?? offer.usd;
+    const rate=offer.currency?audit.fx.etbPerCurrency[offer.currency]:audit.fx.USD_ETB;
+    assert.equal(offer.etb,Math.round(amount*rate));
     assert.equal(offer.sourceURL.startsWith(record.sourceHost+'/products/'),true);
     assert.equal(new URL(offer.sourceURL).searchParams.get('variant'),offer.sourceVariantID);
     assert.deepEqual(offer,record.offers[color][size]);
@@ -58,4 +60,9 @@ test('every catalog photograph matches the recorded downloaded brand image',()=>
   const bytes=fs.readFileSync(new URL('../public'+image,import.meta.url));
   assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'),record.sha256,image);
  }
+});
+
+test('only a few shoe models reach the upper price band',()=>{
+ const high=catalog.filter(p=>p.department==='Shoes'&&Object.values(p.offers).some(sizes=>Object.values(sizes).some(offer=>offer.etb>=9500)));
+ assert.ok(high.length<=3,high.map(p=>p.id).join(', '));
 });

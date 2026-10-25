@@ -12,8 +12,10 @@ Steve Madden women's conversions were read from the embedded Women's Size Conver
 
 These source URLs are maintainer references only and are not linked from the customer-facing shop.
 
+## Additional published retailer charts
+
+public/size-charts.mjs contains Nike, Jordan, Adidas and Reebok US/EU tables read from Sneakersnstuff’s published brand charts. SIZE-CHART-SOURCES.json records the source context. For example, Nike men’s US 8 displays EU 41; Adidas men’s US 7.5 displays EU 40 ⅔. Original source SKU sizes remain unchanged. These are general brand conversions, not model-specific fit guarantees.
+
 ## Approximate conversions
 
-A manufacturer-specific European chart was not verified for the current Reebok and Lugz products. Reebok's US guide publishes US sizes and foot measurements; the European chart routes checked were unavailable. The Lugz chart routes checked did not provide a European table.
-
-For these products the UI explicitly says **EU sizing (approx.)**. The current general display conversion is source men's numeric size + 33 and source women's numeric size + 31. Wide labels are retained. This is an estimate, not an official manufacturer conversion or fit guarantee. Replace these estimates with verified model/brand charts when available; do not present them as exact. Source offer keys and source variant IDs remain unchanged.
+If any offered size falls outside a verified chart, the UI explicitly says **EU sizing (approx.)**. The fallback is source men’s numeric size + 33 or women’s + 31. No unavailable sizes are invented.

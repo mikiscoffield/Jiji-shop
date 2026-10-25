@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-25",
+  "charts": "public/size-charts.mjs",
+  "source": "Published US/EU brand tables embedded in Sneakersnstuff product pages",
+  "sources": {
+    "Nike Men": "https://www.sneakersnstuff.com (Nike men\u2019s product size table)",
+    "Nike Women": "https://www.sneakersnstuff.com",
+    "Jordan Men": "https://www.sneakersnstuff.com",
+    "Adidas Men": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
+    "Adidas Women": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
+    "Reebok Men": "https://www.sneakersnstuff.com (Workout Plus product size table)"
+  },
+  "notes": "Brand-wide display charts; not model fit guarantees. Uncovered sizes use an explicitly marked approximation. See SIZING.md for existing Nine West and Steve Madden tables."
+}

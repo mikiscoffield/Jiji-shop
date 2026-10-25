@@ -1,0 +1,3 @@
+import {readdir,stat} from 'node:fs/promises';
+async function walk(dir){const entries=await readdir(dir,{withFileTypes:true});return (await Promise.all(entries.map(e=>e.isDirectory()?walk(`${dir}/${e.name}`):`${dir}/${e.name}`))).flat();}
+const files=await walk('dist');const sizes=await Promise.all(files.map(async path=>({path,bytes:(await stat(path)).size})));const images=sizes.filter(f=>/\.(webp|png|jpe?g|svg)$/i.test(f.path));console.log(JSON.stringify({files:sizes.length,totalBytes:sizes.reduce((n,f)=>n+f.bytes,0),images:images.length,imageBytes:images.reduce((n,f)=>n+f.bytes,0)},null,2));

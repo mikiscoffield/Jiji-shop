@@ -20,7 +20,7 @@ function refreshDetails({updateSizes=true}={}){
  if(sizes&&updateSizes)sizes.innerHTML=sizeButtons();
  $('.detail-price').textContent=priceText(current,selection.color,selection.size);
  const rating=current.ratings[selection.color];
- $('#source-info').innerHTML=rating?`<span class="brand-rating">★ ${rating.value.toFixed(1)} / 5 <span>(${rating.count.toLocaleString('en')} reviews)</span></span>`:'';
+ $('#source-info').innerHTML=rating?`<span class="brand-rating">★ ${rating.value.toFixed(1)} / 5 <span>(${rating.count.toLocaleString('en')} published reviews)</span></span>`:'';
 }
 function colorButtons(product, context) {
  return product.colors.map(color=>`<button type="button" class="swatch ${context==='detail'?'detail-swatch':''}" data-${context==='card'?'card-color':'option'}="${context==='card'?product.id:'color'}" data-value="${escapeHTML(color)}" aria-label="${escapeHTML(color)}" aria-pressed="false" title="${escapeHTML(color)}"><span style="--swatch:${product.swatches[color]}"></span>${context==='detail'?escapeHTML(color):''}</button>`).join('');

@@ -1,3 +1,4 @@
+import { retailerSizeCharts } from './size-charts.mjs';
 // Brand conversion charts are recorded in SIZING.md. Original SKU sizes remain internal.
 const brandCharts = {
  "Nine West": {
@@ -39,19 +40,26 @@ const brandCharts = {
   "14": "43\u201344"
  }
 };
+function baseSize(sourceSize){
+ return sourceSize.replace(/ Wide$/,'').replace(/^US\s*/i,'').replace(/^[MW](?=\d)/i,'').trim();
+}
+function chartFor(product){
+ return product.euSizeMap || retailerSizeCharts[product.brand]?.[product.audience] || (product.audience==='Women'?brandCharts[product.brand]:null);
+}
 export function displaySize(product, sourceSize) {
  if(product.department!=='Shoes')return sourceSize;
  const wide=/ Wide$/.test(sourceSize);
- const base=sourceSize.replace(/ Wide$/,'');
- const chart=product.audience==='Women'?brandCharts[product.brand]:null;
- const mapped=chart?.[base];
- // When a brand publishes no EU chart, show an explicitly approximate conversion.
- // This changes display only; the original offer/SKU and its price are preserved.
+ const base=baseSize(sourceSize);
+ const mapped=chartFor(product)?.[base];
  const approximate=Number(base)+(product.audience==='Women'?31:33);
  const label=mapped ?? (Number.isFinite(approximate)?String(approximate):base);
  return label+(wide?' Wide':'');
 }
 export function sizeSystemText(product) {
  if(product.department!=='Shoes')return 'Clothing size';
- return product.audience==='Women'&&brandCharts[product.brand]?'EU sizing':'EU sizing (approx.)';
+ const chart=chartFor(product);
+ const sizes=product.sizes || [];
+ // Some published guides cover only part of a brand's full range.
+ const covered=chart && (sizes.length?sizes.every(size=>chart[baseSize(size)]):true);
+ return covered?'EU sizing':'EU sizing (approx.)';
 }

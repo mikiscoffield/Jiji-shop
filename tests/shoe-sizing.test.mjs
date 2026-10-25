@@ -26,3 +26,10 @@ test('letter-based clothing sizes remain unchanged',()=>{
  assert.equal(displaySize(shirt,'M'),'M');
  assert.equal(sizeSystemText(shirt),'Clothing size');
 });
+
+test('new Nike, Jordan and Adidas labels use published retailer charts',()=>{
+ assert.equal(displaySize({department:'Shoes',brand:'Nike',audience:'Men'},'8'),'41');
+ assert.equal(displaySize({department:'Shoes',brand:'Jordan',audience:'Men'},'9'),'42.5');
+ assert.equal(displaySize({department:'Shoes',brand:'Nike',audience:'Women'},'W5.5'),'36');
+ assert.equal(displaySize({department:'Shoes',brand:'Adidas',audience:'Men'},'7.5'),'40 ⅔');
+});

@@ -9,7 +9,7 @@
  <link rel="stylesheet" href="/style.css">
  <script src="https://telegram.org/js/telegram-web-app.js" defer></script>
  <script src="/catalog.js" defer></script>
- <script src="/app.js" defer></script>
+ <script src="/app.js" type="module"></script>
 </head>
 <body>
  <div class="topline">YOUR EVERYDAY, A LITTLE MORE YOU <span>✦</span> ETHIOPIA · PRICES IN ETB</div>
@@ -32,11 +32,12 @@
    <p id="empty" hidden>No products match that search. Try another color, brand, or category.</p>
    <div class="collection-footnote">Your fit comes first. Confirm your size, availability, and delivery cost with us on Telegram before payment.</div>
   </section>
-  <section id="how-it-works" class="how-it-works"><div><span class="eyebrow">NO CART. NO COMPLICATIONS.</span><h2>From your next find<br>to your next step.</h2></div><ol><li><span>01</span><div><h3>Find your favorite</h3><p>Explore the collection. Choose a category, then select your color and size where available.</p></div></li><li><span>02</span><div><h3>Add your delivery details</h3><p>Enter your name, phone number, and address before payment. Confirm availability and delivery cost with us.</p></div></li><li><span>03</span><div><h3>Pay & send your screenshot</h3><p>Pay with Telebirr, then copy your order and delivery details into Telegram with your receipt.</p></div></li></ol></section>
+  <section id="how-it-works" class="how-it-works"><div><span class="eyebrow">NO CART. NO COMPLICATIONS.</span><h2>From your next find<br>to your next step.</h2></div><ol><li><span>01</span><div><h3>Find your favorite</h3><p>Explore the collection. Choose a category, then select your color and size where available.</p></div></li><li><span>02</span><div><h3>Add your delivery details</h3><p>Enter your name, phone number, and city/town before payment. Confirm availability and delivery cost with us.</p></div></li><li><span>03</span><div><h3>Pay & send your screenshot</h3><p>Pay with Telebirr, then send your screenshot and contact details on Telegram.</p></div></li></ol></section>
   <section class="help"><div><span class="eyebrow">LET’S FIND YOUR FAVORITE</span><h2>A little help with your next find?</h2><p>Sizes, colors, delivery — we’re one message away.</p></div><a class="button light" href="https://t.me/christianabe" target="_blank" rel="noopener noreferrer">Talk to @ChristianAbe <span aria-hidden="true"><svg class="arrow-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 19 19 5M5 5h14v14"/></svg></span></a></section>
  </main>
  <footer class="wrap"><div><a class="logo" href="/">Jiji<span>Shop</span><i></i></a><p>Your everyday. A little more you.</p></div><span>ETHIOPIA · ETB · TELEBIRR</span><p class="brand-note">Independent shop. Brand names identify the pictured styles; no brand affiliation is implied.</p></footer>
  <dialog id="product-dialog" aria-label="Product details"><button class="close" data-close="product-dialog" aria-label="Close product details">×</button><div id="product-detail"></div></dialog>
+ <dialog id="transition-dialog" aria-label="Order details ready"><div role="status">✓ Order details ready</div></dialog>
  <dialog id="delivery-dialog" aria-label="Delivery details"><button class="close" data-close="delivery-dialog" aria-label="Close delivery form">×</button><div id="delivery-detail"></div></dialog>
  <dialog id="payment-dialog" aria-label="Telebirr payment instructions"><button class="close" data-close="payment-dialog" aria-label="Close payment">×</button><div id="payment-detail"></div></dialog>
  <div id="toast" role="status"></div>

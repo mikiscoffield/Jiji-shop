@@ -1,5 +1,6 @@
+import { getDeliveryDates } from './delivery-date.mjs';
 const categories = ['All finds', 'Shoes', 'Clothes', 'Makeup', 'Bags', 'Accessories'];
-let category = 'All finds', current = null, selection = {}, gallery = [], activeImage = 0, deliveryDetails = null;
+let category = 'All finds', current = null, selection = {}, gallery = [], activeImage = 0, deliveryDetails = null, deliveryTransition = 0;
 const $ = selector => document.querySelector(selector);
 const money = number => new Intl.NumberFormat('en-ET').format(number) + ' ETB';
 const escapeHTML = value => String(value).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -41,25 +42,55 @@ function openProduct(id,color){
 const deliveryFields = [
  {key:'name',label:'Recipient full name',placeholder:'Full name',required:true,max:100},
  {key:'phone',label:'Phone number',placeholder:'09… / 07… / +251…',required:true,max:30,type:'tel'},
- {key:'region',label:'Region / city administration',placeholder:'e.g. Addis Ababa or Oromia',required:true,max:80},
  {key:'city',label:'City / town',placeholder:'Your city or town',required:true,max:80},
- {key:'area',label:'Sub-city / woreda / area',placeholder:'Your local area',required:true,max:120},
- {key:'address',label:'Street / house / building',placeholder:'Enough detail to find your address',required:true,max:240},
- {key:'landmark',label:'Nearby landmark',placeholder:'Optional — a nearby place or landmark',max:160},
- {key:'notes',label:'Delivery instructions',placeholder:'Optional — gate, floor, or directions',max:400,multiline:true}
+ {key:'notes',label:'Delivery instructions',placeholder:'Optional — delivery preferences or directions',max:400,multiline:true}
 ];
+function deliverySchedule(){
+ const dates=getDeliveryDates();
+ return `<div class="delivery-schedule"><strong>Delivery will be tomorrow</strong><span><b>Gregorian:</b> <time datetime="${dates.iso}">${dates.gregorian}</time></span><span><b>Ethiopian:</b> ${dates.ethiopian}</span></div>`;
+}
+const pause = milliseconds => new Promise(resolve=>setTimeout(resolve,milliseconds));
+async function beginDelivery(){
+ if(current.sizes.length&&!selection.size){$('#selection-error').textContent='Please select your size to continue.';return;}
+ const button=$('#checkout');
+ if(button.disabled)return;
+ const original=button.innerHTML;
+ const token=++deliveryTransition;
+ const product=current;
+ button.disabled=true;
+ button.setAttribute('aria-busy','true');
+ button.textContent='Preparing delivery…';
+ try{
+  await pause(1000);
+  if(token!==deliveryTransition||current!==product||!$('#product-dialog').open)return;
+  $('#transition-dialog').showModal();
+  await pause(1000);
+  if(token!==deliveryTransition||current!==product||!$('#product-dialog').open||!$('#transition-dialog').open)return;
+  $('#transition-dialog').close();
+  delivery();
+ }finally{
+  button.disabled=false;
+  button.removeAttribute('aria-busy');
+  button.innerHTML=original;
+ }
+}
+$('#transition-dialog').addEventListener('cancel',()=>{deliveryTransition++;});
+$('#product-dialog').addEventListener('close',()=>{
+ deliveryTransition++;
+ if($('#transition-dialog').open)$('#transition-dialog').close();
+});
 function delivery(){
  if(current.sizes.length&&!selection.size){$('#selection-error').textContent='Please select your size to continue.';return;}
- $('#delivery-detail').innerHTML=`<span class="eyebrow">YOUR ORDER · DELIVERY DETAILS</span><h2>Where should it go?</h2><p class="muted">${escapeHTML(current.name)} · ${escapeHTML(selection.color)}${selection.size?' · '+escapeHTML(selection.size):''} · ${money(current.price)}</p><form id="delivery-form" method="dialog" autocomplete="off"><div class="delivery-fields">${deliveryFields.map(field=>`<label class="delivery-field ${field.multiline?'wide':''}" for="delivery-${field.key}"><span>${field.label}${field.required?' <span aria-hidden="true">*</span>':' <span class="optional">(optional)</span>'}</span>${field.multiline?`<textarea id="delivery-${field.key}" name="${field.key}" rows="3" maxlength="${field.max}" placeholder="${field.placeholder}" autocomplete="off">${escapeHTML(deliveryDetails?.[field.key]||'')}</textarea>`:`<input id="delivery-${field.key}" name="${field.key}" type="${field.type||'text'}" ${field.required?'required':''} maxlength="${field.max}" placeholder="${field.placeholder}" value="${escapeHTML(deliveryDetails?.[field.key]||'')}" autocomplete="off">`}</label>`).join('')}</div><p class="delivery-privacy">These details stay only on this open page. They are not saved or sent automatically. On the next screen, copy your order details and paste them in Telegram with your payment screenshot.</p><div class="delivery-actions"><button type="button" class="back-button" data-close="delivery-dialog">Back to item</button><button type="submit" class="button">Continue to Telebirr →</button></div></form>`;
+ $('#delivery-detail').innerHTML=`<span class="eyebrow">YOUR ORDER · DELIVERY DETAILS</span><h2>Where should it go?</h2><p class="muted">${escapeHTML(current.name)} · ${escapeHTML(selection.color)}${selection.size?' · '+escapeHTML(selection.size):''} · ${money(current.price)}</p>${deliverySchedule()}<form id="delivery-form" method="dialog" autocomplete="off"><div class="delivery-fields">${deliveryFields.map(field=>`<label class="delivery-field ${field.multiline?'wide':''}" for="delivery-${field.key}"><span>${field.label}${field.required?' <span aria-hidden="true">*</span>':' <span class="optional">(optional)</span>'}</span>${field.multiline?`<textarea id="delivery-${field.key}" name="${field.key}" rows="3" maxlength="${field.max}" placeholder="${field.placeholder}" autocomplete="off">${escapeHTML(deliveryDetails?.[field.key]||'')}</textarea>`:`<input id="delivery-${field.key}" name="${field.key}" type="${field.type||'text'}" ${field.required?'required':''} maxlength="${field.max}" placeholder="${field.placeholder}" value="${escapeHTML(deliveryDetails?.[field.key]||'')}" autocomplete="off">`}</label>`).join('')}</div><p class="delivery-privacy">These details stay only on this open page. They are not saved or sent automatically. Share your contact and delivery information directly with @ChristianAbe in Telegram when sending your payment screenshot.</p><div class="delivery-actions"><button type="button" class="back-button" data-close="delivery-dialog">Back to item</button><button type="submit" class="button">Continue to Telebirr →</button></div></form>`;
  $('#delivery-dialog').showModal();
  $('#delivery-name').focus();
 }
 function orderText(){
- return ['JIJI SHOP ORDER',current.name,...(selection.size?[(current.department==='Shoes'?'EU size: ':'Size: ')+selection.size]:[]),'Color: '+selection.color,'Item price: '+money(current.price),'Delivery cost: confirm with seller','', 'DELIVERY DETAILS',...deliveryFields.filter(field=>deliveryDetails[field.key]).map(field=>field.label+': '+deliveryDetails[field.key])].join('\n');
+ return ['JIJI SHOP ORDER',current.name,...(selection.size?[(current.department==='Shoes'?'EU size: ':'Size: ')+selection.size]:[]),'Color: '+selection.color,'Item price: '+money(current.price),'Delivery: tomorrow', 'Gregorian date: '+getDeliveryDates().gregorian, 'Ethiopian date: '+getDeliveryDates().ethiopian, 'Delivery cost: confirm with seller','', 'DELIVERY DETAILS',...deliveryFields.filter(field=>deliveryDetails[field.key]).map(field=>field.label+': '+deliveryDetails[field.key])].join('\n');
 }
 function payment(){
  if(!deliveryDetails){delivery();return;}
- $('#payment-detail').innerHTML=`<div class="payment-icon">◉</div><span class="eyebrow">YOUR ORDER · PAYMENT</span><h2>Pay with Telebirr</h2><div class="order-summary"><strong>${escapeHTML(current.name)}</strong><span>${selection.size?(current.department==='Shoes'?'EU ':'')+escapeHTML(selection.size)+' · ':''}${escapeHTML(selection.color)}</span><b>${money(current.price)}</b></div><details class="delivery-review"><summary>Review your order & delivery</summary><pre id="order-text" tabindex="0"></pre></details><button id="edit-delivery" class="edit-delivery">Edit delivery details</button><p class="availability-note">Confirm availability and any delivery cost with the seller before sending money. This amount is the item price.</p><p>Account holder: <strong>Lykun</strong></p><div class="phone"><strong>0953610009</strong><button id="copy-phone">Copy number</button></div><p class="muted">Check the recipient name in Telebirr before confirming. Payment is verified manually.</p><button id="copy-order" class="button full copy-order">Copy order & delivery details</button><a class="button full" href="https://t.me/christianabe" target="_blank" rel="noopener noreferrer">Send screenshot on Telegram →</a><p class="muted">Copy and paste your order details into Telegram, then attach your payment screenshot. Your address and phone number are not sent automatically. Opening Telegram does not submit an order or confirm payment.</p>`;
+ $('#payment-detail').innerHTML=`<div class="payment-icon">◉</div><span class="eyebrow">YOUR ORDER · PAYMENT</span><h2>Pay with Telebirr</h2><div class="order-summary"><strong>${escapeHTML(current.name)}</strong><span>${selection.size?(current.department==='Shoes'?'EU ':'')+escapeHTML(selection.size)+' · ':''}${escapeHTML(selection.color)}</span><b>${money(current.price)}</b></div>${deliverySchedule()}<details class="delivery-review"><summary>Review your order & delivery</summary><pre id="order-text" tabindex="0"></pre></details><button id="edit-delivery" class="edit-delivery">Edit delivery details</button><p class="availability-note">Confirm availability and any delivery cost with the seller before sending money. This amount is the item price.</p><p>Account holder: <strong>Lykun</strong></p><div class="phone"><strong>0953610009</strong><button id="copy-phone">Copy number</button></div><p class="muted">Check the recipient name in Telebirr before confirming. Payment is verified manually.</p><a class="button full" href="https://t.me/christianabe" target="_blank" rel="noopener noreferrer">Send screenshot on Telegram →</a><p class="muted">Send your payment screenshot, item details, phone number, and city/town to @ChristianAbe. These details are not sent automatically. Opening Telegram does not submit an order or confirm payment.</p>`;
  $('#order-text').textContent=orderText();
  $('#payment-dialog').showModal();
 }
@@ -92,9 +123,8 @@ document.addEventListener('click',async event=>{
  if(button.dataset.cardColor){const product=catalog.find(item=>item.id===button.dataset.cardColor);const card=button.closest('.product-card');const image=card.querySelector('img');image.src=product.variants[button.dataset.value][0];image.alt=product.name+' — '+button.dataset.value;card.querySelectorAll('.swatch').forEach(swatch=>swatch.setAttribute('aria-pressed',String(swatch===button)));}
  if(button.dataset.image!==undefined){activeImage=Number(button.dataset.image);$('#main-photo').src=gallery[activeImage];$('.thumbnails').querySelectorAll('button').forEach(item=>item.setAttribute('aria-pressed',String(item===button)));}
  if(button.dataset.option){selection[button.dataset.option]=button.dataset.value;if(button.dataset.option==='color')setGallery(current.variants[button.dataset.value],button.dataset.value);document.querySelectorAll(`[data-option="${button.dataset.option}"]`).forEach(item=>item.setAttribute('aria-pressed',String(item===button)));$('#selection-error').textContent='';}
- if(button.id==='checkout')delivery();
+ if(button.id==='checkout')await beginDelivery();
  if(button.id==='edit-delivery'){$('#payment-dialog').close();delivery();}
- if(button.id==='copy-order'){try{await navigator.clipboard.writeText(orderText());$('#toast').textContent='Order details copied — paste them in Telegram';setTimeout(()=>$('#toast').textContent='',3500);}catch{const review=$('.delivery-review');review.open=true;$('#order-text').focus();button.textContent='Select and copy the order details above';}}
  if(button.id==='copy-phone'){try{await navigator.clipboard.writeText('0953610009');$('#toast').textContent='Telebirr number copied';setTimeout(()=>$('#toast').textContent='',2500);}catch{button.textContent='Select the number above to copy';}}
 });
 $('#search').addEventListener('input',render);
@@ -106,6 +136,8 @@ window.Telegram?.WebApp?.expand();
 render();
 
 window.addEventListener('pagehide',()=>{
+ deliveryTransition++;
+ if($('#transition-dialog').open)$('#transition-dialog').close();
  deliveryDetails=null;
  selection={};
  for(const dialog of document.querySelectorAll('dialog'))if(dialog.open)dialog.close();

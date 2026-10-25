@@ -40,7 +40,7 @@ test('all categories and at least fifteen men’s and fifteen women’s shoes ha
    assert.ok(p.variants[color].length>0,p.id+' '+color);
    assert.ok(p.swatches[color]);
    for(const [size,offer] of Object.entries(p.offers[color])){
-    assert.ok(offer.etb>=(p.department==='Shoes'?4000:3500)&&offer.etb<=(p.department==='Shoes'?10000:8000));
+    assert.ok(offer.etb>=(p.department==='Shoes'?4000:p.department==='Clothes'?2500:3500)&&offer.etb<=(p.department==='Shoes'?10000:p.department==='Clothes'?7000:8000));
     const amount=offer.amount ?? offer.usd;
     const rate=offer.currency?audit.fx.etbPerCurrency[offer.currency]:audit.fx.USD_ETB;
     assert.equal(offer.etb,Math.round(amount*rate));
@@ -65,4 +65,13 @@ test('every catalog photograph matches the recorded downloaded brand image',()=>
 test('only a few shoe models reach the upper price band',()=>{
  const high=catalog.filter(p=>p.department==='Shoes'&&Object.values(p.offers).some(sizes=>Object.values(sizes).some(offer=>offer.etb>=9500)));
  assert.ok(high.length<=3,high.map(p=>p.id).join(', '));
+});
+
+// The clothing expansion must retain the requested price and size contract for every color.
+test('clothing includes thirty styles per audience and all four sizes for every color',()=>{
+ for(const audience of ['Men','Women'])assert.equal(catalog.filter(p=>p.department==='Clothes'&&p.audience===audience).length,30);
+ for(const product of catalog.filter(p=>p.department==='Clothes')){
+  assert.deepEqual(product.sizes,['S','M','L','XL']);
+  for(const color of product.colors)assert.deepEqual(availableSizes(product,color),['S','M','L','XL']);
+ }
 });

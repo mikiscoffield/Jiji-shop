@@ -1,5 +1,5 @@
 export function availableSizes(product, color) {
- return Object.keys(product.offers[color] || {}).filter(Boolean).sort((a,b)=>a.localeCompare(b,'en',{numeric:true}));
+ return Object.keys(product.offers[color] || {}).filter(Boolean).sort((a,b)=>product.department==='Clothes'?['S','M','L','XL'].indexOf(a)-['S','M','L','XL'].indexOf(b):a.localeCompare(b,'en',{numeric:true}));
 }
 export function selectedOffer(product, color, size = '') {
  return product.offers[color]?.[size || ''] || null;

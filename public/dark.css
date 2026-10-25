@@ -6,3 +6,9 @@ dialog{background:#141d17;color:#edf4ec;border:1px solid #34473b;box-shadow:0 30
 .card-info h3{font-size:15px}.card-info strong{font-size:16px}.product-category{font-size:10px}.results{font-size:12px}.search input{font-size:13px}.source-info:empty{display:none}fieldset legend{font-size:13px}.size-note{font-size:11px}
 @media(max-width:700px){.card-info h3{font-size:13px;min-height:55px}.card-info strong{font-size:15px}.product-category{font-size:8px}.results{font-size:10px}}
 .hero-caption{bottom:0;left:0;right:0;padding:24px 28px 18px;background:linear-gradient(0deg,#172c20f5,#172c20a6,transparent)}@media(max-width:700px){.hero-caption{padding:22px 22px 15px}}
+
+.return-notice{display:flex;gap:14px;align-items:flex-start;padding:20px;margin:22px 0;border:1px solid #428363;border-radius:16px;background:linear-gradient(135deg,#18382a,#12231b);color:#effbf3}
+.return-notice-icon{display:grid;place-items:center;width:40px;height:40px;flex-shrink:0;border-radius:50%;background:#76dfaa;color:#102319;font-size:26px}
+.return-notice strong{display:block;font-size:20px;line-height:1.4}.return-notice p{font-size:16px;line-height:1.65;margin:8px 0 0;color:#d1e4d7}
+#payment-dialog .payment-instructions{font-size:22px;font-weight:750;line-height:1.5;color:#f1fff5;margin:24px 0}
+.options button:disabled{opacity:.3;cursor:not-allowed;border-style:dashed}

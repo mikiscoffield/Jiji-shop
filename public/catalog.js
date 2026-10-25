@@ -4508,106 +4508,2730 @@ window.catalog = [
   "price": 7617
  },
  {
-  "id": "reebok-cropped-hoodie",
-  "name": "Reebok Women's Cropped Full-Zip Hoodie",
-  "brand": "Reebok",
+  "id": "clothing-7635846136014",
+  "name": "Maison Article Plaid Zip-Up Flannel Jacket",
+  "brand": "Maison Article",
   "department": "Clothes",
-  "category": "Hoodies",
-  "audience": "Women",
-  "price": 4855,
-  "tag": "Brand-store selection",
-  "description": "A cozy cropped hoodie with an embroidered logo.",
+  "category": "Jackets",
+  "audience": "Men",
+  "price": 3234,
+  "tag": "Style edit",
+  "description": "Jackets for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
-   "XS",
    "S",
    "M",
    "L",
    "XL"
   ],
   "offers": {
-   "Grey Heather": {
-    "XS": {
-     "usd": 29.99,
-     "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-grey-heather-178156?variant=66709080965424",
-     "sourceVariantID": "66709080965424",
-     "sourceSKU": "100288239-XS"
+   "Red/Beige": {
+    "S": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige?variant=43262373822670",
+     "sourceVariantID": "43262373822670",
+     "sourceSKU": "21116169"
     },
+    "M": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige?variant=43262373855438",
+     "sourceVariantID": "43262373855438",
+     "sourceSKU": "21116168"
+    },
+    "L": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige?variant=43262373888206",
+     "sourceVariantID": "43262373888206",
+     "sourceSKU": "21116167"
+    },
+    "XL": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige?variant=43262373920974",
+     "sourceVariantID": "43262373920974",
+     "sourceSKU": "21116170"
+    }
+   }
+  },
+  "variants": {
+   "Red/Beige": [
+    "/images/catalog/a70acca4e61dbdda22.webp",
+    "/images/catalog/3b241c36f558abfa95.webp",
+    "/images/catalog/48a3e125a8b0e4df52.webp",
+    "/images/catalog/f6695b5afa4fae12e6.webp"
+   ]
+  },
+  "swatches": {
+   "Red/Beige": "#a73140"
+  },
+  "sourceURLs": {
+   "Red/Beige": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Red/Beige"
+  ],
+  "images": [
+   "/images/catalog/a70acca4e61dbdda22.webp",
+   "/images/catalog/3b241c36f558abfa95.webp",
+   "/images/catalog/48a3e125a8b0e4df52.webp",
+   "/images/catalog/f6695b5afa4fae12e6.webp"
+  ]
+ },
+ {
+  "id": "clothing-7229507502213",
+  "name": "Steve Madden Mariane Dress Midnight",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Dresses",
+  "audience": "Women",
+  "price": 5661,
+  "tag": "Style edit",
+  "description": "Dresses for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Midnight": {
+    "S": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb15332-midnight?variant=41478253478021",
+     "sourceVariantID": "41478253478021",
+     "sourceSKU": "SB15332"
+    },
+    "M": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb15332-midnight?variant=41478253510789",
+     "sourceVariantID": "41478253510789",
+     "sourceSKU": "SB15332"
+    },
+    "L": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb15332-midnight?variant=41478253543557",
+     "sourceVariantID": "41478253543557",
+     "sourceSKU": "SB15332"
+    },
+    "XL": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb15332-midnight?variant=41478253576325",
+     "sourceVariantID": "41478253576325",
+     "sourceSKU": "SB15332"
+    }
+   },
+   "Chocolate": {
+    "S": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb15353-chocolate?variant=41478251184261",
+     "sourceVariantID": "41478251184261",
+     "sourceSKU": "SB15353"
+    },
+    "M": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb15353-chocolate?variant=41478251217029",
+     "sourceVariantID": "41478251217029",
+     "sourceSKU": "SB15353"
+    },
+    "L": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb15353-chocolate?variant=41478251249797",
+     "sourceVariantID": "41478251249797",
+     "sourceSKU": "SB15353"
+    },
+    "XL": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb15353-chocolate?variant=41478251282565",
+     "sourceVariantID": "41478251282565",
+     "sourceSKU": "SB15353"
+    }
+   }
+  },
+  "variants": {
+   "Midnight": [
+    "/images/catalog/4fad0917437551cf89.webp",
+    "/images/catalog/6d4b8ff293038f72ec.webp",
+    "/images/catalog/38874adf4ef7deb7cb.webp",
+    "/images/catalog/ac82f4ee706255a17e.webp"
+   ],
+   "Chocolate": [
+    "/images/catalog/42d71aaf46ba099f29.webp",
+    "/images/catalog/a05d34a2c623ba7f10.webp",
+    "/images/catalog/a9f5967e4ab82d864a.webp",
+    "/images/catalog/1f5783745f2ac050cb.webp"
+   ]
+  },
+  "swatches": {
+   "Midnight": "#26374a",
+   "Chocolate": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Midnight": "https://www.stevemadden.com/products/sb15332-midnight",
+   "Chocolate": "https://www.stevemadden.com/products/sb15353-chocolate"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Midnight",
+   "Chocolate"
+  ],
+  "images": [
+   "/images/catalog/4fad0917437551cf89.webp",
+   "/images/catalog/6d4b8ff293038f72ec.webp",
+   "/images/catalog/38874adf4ef7deb7cb.webp",
+   "/images/catalog/ac82f4ee706255a17e.webp",
+   "/images/catalog/42d71aaf46ba099f29.webp",
+   "/images/catalog/a05d34a2c623ba7f10.webp",
+   "/images/catalog/a9f5967e4ab82d864a.webp",
+   "/images/catalog/1f5783745f2ac050cb.webp"
+  ]
+ },
+ {
+  "id": "clothing-7600731291854",
+  "name": "Maison Article Reversible Bomber Jacket",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Jackets",
+  "audience": "Men",
+  "price": 4853,
+  "tag": "Style edit",
+  "description": "Jackets for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black/Green": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green?variant=43132705046734",
+     "sourceVariantID": "43132705046734",
+     "sourceSKU": "21110479"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green?variant=43132705079502",
+     "sourceVariantID": "43132705079502",
+     "sourceSKU": "21110478"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green?variant=43132705112270",
+     "sourceVariantID": "43132705112270",
+     "sourceSKU": "21110477"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green?variant=43132705145038",
+     "sourceVariantID": "43132705145038",
+     "sourceSKU": "21110480"
+    }
+   },
+   "Purple/Grey": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey?variant=43127022452942",
+     "sourceVariantID": "43127022452942",
+     "sourceSKU": "21110491"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey?variant=43127022485710",
+     "sourceVariantID": "43127022485710",
+     "sourceSKU": "21110490"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey?variant=43127022518478",
+     "sourceVariantID": "43127022518478",
+     "sourceSKU": "21110489"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey?variant=43127022551246",
+     "sourceVariantID": "43127022551246",
+     "sourceSKU": "21110492"
+    }
+   },
+   "Olive/Orange": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange?variant=43127021666510",
+     "sourceVariantID": "43127021666510",
+     "sourceSKU": "21110485"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange?variant=43127021699278",
+     "sourceVariantID": "43127021699278",
+     "sourceSKU": "21110484"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange?variant=43127021732046",
+     "sourceVariantID": "43127021732046",
+     "sourceSKU": "21110483"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange?variant=43127021764814",
+     "sourceVariantID": "43127021764814",
+     "sourceSKU": "21110486"
+    }
+   }
+  },
+  "variants": {
+   "Black/Green": [
+    "/images/catalog/ddd5f631bdf84ba3ea.webp",
+    "/images/catalog/1af29628174f2640aa.webp",
+    "/images/catalog/b5b8a4d4eda09b671f.webp",
+    "/images/catalog/b337b2849a5b4a373a.webp"
+   ],
+   "Purple/Grey": [
+    "/images/catalog/37d696556120cd46a2.webp",
+    "/images/catalog/e76b79cd63d72652ac.webp",
+    "/images/catalog/8821c702f043d10cd4.webp",
+    "/images/catalog/3434b6fc6eb00368a6.webp"
+   ],
+   "Olive/Orange": [
+    "/images/catalog/5843f787569921f3a9.webp",
+    "/images/catalog/079ba5e9d9a6b3d91e.webp",
+    "/images/catalog/596a81c4c15db81b07.webp",
+    "/images/catalog/71564149a4c8f56a1e.webp"
+   ]
+  },
+  "swatches": {
+   "Black/Green": "#202124",
+   "Purple/Grey": "#85858b",
+   "Olive/Orange": "#dd7a3b"
+  },
+  "sourceURLs": {
+   "Black/Green": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green",
+   "Purple/Grey": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey",
+   "Olive/Orange": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black/Green",
+   "Purple/Grey",
+   "Olive/Orange"
+  ],
+  "images": [
+   "/images/catalog/ddd5f631bdf84ba3ea.webp",
+   "/images/catalog/1af29628174f2640aa.webp",
+   "/images/catalog/b5b8a4d4eda09b671f.webp",
+   "/images/catalog/b337b2849a5b4a373a.webp",
+   "/images/catalog/37d696556120cd46a2.webp",
+   "/images/catalog/e76b79cd63d72652ac.webp",
+   "/images/catalog/8821c702f043d10cd4.webp",
+   "/images/catalog/3434b6fc6eb00368a6.webp",
+   "/images/catalog/5843f787569921f3a9.webp",
+   "/images/catalog/079ba5e9d9a6b3d91e.webp",
+   "/images/catalog/596a81c4c15db81b07.webp",
+   "/images/catalog/71564149a4c8f56a1e.webp"
+  ]
+ },
+ {
+  "id": "clothing-7229507534981",
+  "name": "Steve Madden Tanisha Dress Port",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Dresses",
+  "audience": "Women",
+  "price": 5661,
+  "tag": "Style edit",
+  "description": "Dresses for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Port": {
+    "S": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb14323-port?variant=41478253707397",
+     "sourceVariantID": "41478253707397",
+     "sourceSKU": "SB14323"
+    },
+    "M": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb14323-port?variant=41478253740165",
+     "sourceVariantID": "41478253740165",
+     "sourceSKU": "SB14323"
+    },
+    "L": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb14323-port?variant=41478253772933",
+     "sourceVariantID": "41478253772933",
+     "sourceSKU": "SB14323"
+    },
+    "XL": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb14323-port?variant=41478253805701",
+     "sourceVariantID": "41478253805701",
+     "sourceSKU": "SB14323"
+    }
+   }
+  },
+  "variants": {
+   "Port": [
+    "/images/catalog/e80abd225c6bab998c.webp",
+    "/images/catalog/bbb6ea747cb88f27fe.webp",
+    "/images/catalog/7e4b3ddf4d9381101f.webp",
+    "/images/catalog/ca3e0dc7c05401d2d1.webp"
+   ]
+  },
+  "swatches": {
+   "Port": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Port": "https://www.stevemadden.com/products/sb14323-port"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Port"
+  ],
+  "images": [
+   "/images/catalog/e80abd225c6bab998c.webp",
+   "/images/catalog/bbb6ea747cb88f27fe.webp",
+   "/images/catalog/7e4b3ddf4d9381101f.webp",
+   "/images/catalog/ca3e0dc7c05401d2d1.webp"
+  ]
+ },
+ {
+  "id": "clothing-7611614101710",
+  "name": "Maison Article Western Puffer Jacket",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Jackets",
+  "audience": "Men",
+  "price": 4853,
+  "tag": "Style edit",
+  "description": "Jackets for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black?variant=43171873718478",
+     "sourceVariantID": "43171873718478",
+     "sourceSKU": "21110503"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black?variant=43171873751246",
+     "sourceVariantID": "43171873751246",
+     "sourceSKU": "21110502"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black?variant=43171873784014",
+     "sourceVariantID": "43171873784014",
+     "sourceSKU": "21110501"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black?variant=43171873816782",
+     "sourceVariantID": "43171873816782",
+     "sourceSKU": "21110504"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/7d705190d2e5db3bf4.webp",
+    "/images/catalog/c693f2aa8efc698332.webp",
+    "/images/catalog/79b89133b7a269b17e.webp",
+    "/images/catalog/1ef69668ef9ed97fa9.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/7d705190d2e5db3bf4.webp",
+   "/images/catalog/c693f2aa8efc698332.webp",
+   "/images/catalog/79b89133b7a269b17e.webp",
+   "/images/catalog/1ef69668ef9ed97fa9.webp"
+  ]
+ },
+ {
+  "id": "clothing-7139566125189",
+  "name": "Steve Madden Hailee Dress Wine",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Dresses",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Dresses for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Wine": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp308251-wine?variant=41176290689157",
+     "sourceVariantID": "41176290689157",
+     "sourceSKU": "BP308251"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp308251-wine?variant=41176290558085",
+     "sourceVariantID": "41176290558085",
+     "sourceSKU": "BP308251"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp308251-wine?variant=41176290590853",
+     "sourceVariantID": "41176290590853",
+     "sourceSKU": "BP308251"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp308251-wine?variant=41176290623621",
+     "sourceVariantID": "41176290623621",
+     "sourceSKU": "BP308251"
+    }
+   }
+  },
+  "variants": {
+   "Wine": [
+    "/images/catalog/37ad63a68e66d77657.webp",
+    "/images/catalog/e04bb2554fb027d260.webp",
+    "/images/catalog/74d1d4296a984c2577.webp",
+    "/images/catalog/f560d8127a0ba31a0f.webp"
+   ]
+  },
+  "swatches": {
+   "Wine": "#722f46"
+  },
+  "sourceURLs": {
+   "Wine": "https://www.stevemadden.com/products/bp308251-wine"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Wine"
+  ],
+  "images": [
+   "/images/catalog/37ad63a68e66d77657.webp",
+   "/images/catalog/e04bb2554fb027d260.webp",
+   "/images/catalog/74d1d4296a984c2577.webp",
+   "/images/catalog/f560d8127a0ba31a0f.webp"
+  ]
+ },
+ {
+  "id": "clothing-7635840434382",
+  "name": "Maison Article Hooded Flannel Jacket",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Jackets",
+  "audience": "Men",
+  "price": 3234,
+  "tag": "Style edit",
+  "description": "Jackets for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black/White": {
+    "S": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white?variant=43262321492174",
+     "sourceVariantID": "43262321492174",
+     "sourceSKU": "21116175"
+    },
+    "M": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white?variant=43262321524942",
+     "sourceVariantID": "43262321524942",
+     "sourceSKU": "21116174"
+    },
+    "L": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white?variant=43262321557710",
+     "sourceVariantID": "43262321557710",
+     "sourceSKU": "21116173"
+    },
+    "XL": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white?variant=43262321590478",
+     "sourceVariantID": "43262321590478",
+     "sourceSKU": "21116176"
+    }
+   }
+  },
+  "variants": {
+   "Black/White": [
+    "/images/catalog/ac7e8c0ab8eb80da2c.webp",
+    "/images/catalog/147a78cbb0c0ffdbbb.webp",
+    "/images/catalog/9a2bea0ab0a7b4e11d.webp",
+    "/images/catalog/69600f2d53d69b6c70.webp"
+   ]
+  },
+  "swatches": {
+   "Black/White": "#202124"
+  },
+  "sourceURLs": {
+   "Black/White": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black/White"
+  ],
+  "images": [
+   "/images/catalog/ac7e8c0ab8eb80da2c.webp",
+   "/images/catalog/147a78cbb0c0ffdbbb.webp",
+   "/images/catalog/9a2bea0ab0a7b4e11d.webp",
+   "/images/catalog/69600f2d53d69b6c70.webp"
+  ]
+ },
+ {
+  "id": "clothing-7159516135557",
+  "name": "Steve Madden Vivienne Studded Lace Dress Black",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Dresses",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Dresses for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp408452-black?variant=41237983395973",
+     "sourceVariantID": "41237983395973",
+     "sourceSKU": "BP408452"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp408452-black?variant=41237983297669",
+     "sourceVariantID": "41237983297669",
+     "sourceSKU": "BP408452"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp408452-black?variant=41237983232133",
+     "sourceVariantID": "41237983232133",
+     "sourceSKU": "BP408452"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp408452-black?variant=41237983264901",
+     "sourceVariantID": "41237983264901",
+     "sourceSKU": "BP408452"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/fc748f6729ec8b6b6a.webp",
+    "/images/catalog/259db1ac3c931bc9a6.webp",
+    "/images/catalog/7363d55450100cfcf5.webp",
+    "/images/catalog/17f3f8edefd89ede47.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.stevemadden.com/products/bp408452-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/fc748f6729ec8b6b6a.webp",
+   "/images/catalog/259db1ac3c931bc9a6.webp",
+   "/images/catalog/7363d55450100cfcf5.webp",
+   "/images/catalog/17f3f8edefd89ede47.webp"
+  ]
+ },
+ {
+  "id": "clothing-10066305581360",
+  "name": "Reebok Woven Jacket",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Jackets",
+  "audience": "Men",
+  "price": 3233,
+  "tag": "Style edit",
+  "description": "Jackets for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 19.97,
+     "etb": 3233,
+     "sourceURL": "https://www.reebok.com/products/reebok-woven-jacket-black-174114?variant=50554685292848",
+     "sourceVariantID": "50554685292848",
+     "sourceSKU": "100283193-S"
+    },
+    "M": {
+     "usd": 19.97,
+     "etb": 3233,
+     "sourceURL": "https://www.reebok.com/products/reebok-woven-jacket-black-174114?variant=50554685325616",
+     "sourceVariantID": "50554685325616",
+     "sourceSKU": "100283193-M"
+    },
+    "L": {
+     "usd": 19.97,
+     "etb": 3233,
+     "sourceURL": "https://www.reebok.com/products/reebok-woven-jacket-black-174114?variant=50554685358384",
+     "sourceVariantID": "50554685358384",
+     "sourceSKU": "100283193-L"
+    },
+    "XL": {
+     "usd": 19.97,
+     "etb": 3233,
+     "sourceURL": "https://www.reebok.com/products/reebok-woven-jacket-black-174114?variant=50554685391152",
+     "sourceVariantID": "50554685391152",
+     "sourceSKU": "100283193-XL"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/044a7a8fbfcf8062e8.webp",
+    "/images/catalog/ac5cab385ee35de51c.webp",
+    "/images/catalog/5a08f5283d7c887ed5.webp",
+    "/images/catalog/bb00016d5ccc8ae1bd.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.reebok.com/products/reebok-woven-jacket-black-174114"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/044a7a8fbfcf8062e8.webp",
+   "/images/catalog/ac5cab385ee35de51c.webp",
+   "/images/catalog/5a08f5283d7c887ed5.webp",
+   "/images/catalog/bb00016d5ccc8ae1bd.webp"
+  ]
+ },
+ {
+  "id": "clothing-7225297830021",
+  "name": "Steve Madden Sharlene Dress Chicory Coffee",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Dresses",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Dresses for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Chicory Coffee": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb15191-chicory-coffee?variant=41464414175365",
+     "sourceVariantID": "41464414175365",
+     "sourceSKU": "SB15191"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb15191-chicory-coffee?variant=41464414208133",
+     "sourceVariantID": "41464414208133",
+     "sourceSKU": "SB15191"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb15191-chicory-coffee?variant=41464414240901",
+     "sourceVariantID": "41464414240901",
+     "sourceSKU": "SB15191"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb15191-chicory-coffee?variant=41464414273669",
+     "sourceVariantID": "41464414273669",
+     "sourceSKU": "SB15191"
+    }
+   }
+  },
+  "variants": {
+   "Chicory Coffee": [
+    "/images/catalog/2630aacfd5d8c6c06a.webp",
+    "/images/catalog/a6b4a2e932da2cf485.webp",
+    "/images/catalog/82e9dc2d35daac6650.webp",
+    "/images/catalog/0d19d9233135ba3ce2.webp"
+   ]
+  },
+  "swatches": {
+   "Chicory Coffee": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Chicory Coffee": "https://www.stevemadden.com/products/sb15191-chicory-coffee"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Chicory Coffee"
+  ],
+  "images": [
+   "/images/catalog/2630aacfd5d8c6c06a.webp",
+   "/images/catalog/a6b4a2e932da2cf485.webp",
+   "/images/catalog/82e9dc2d35daac6650.webp",
+   "/images/catalog/0d19d9233135ba3ce2.webp"
+  ]
+ },
+ {
+  "id": "clothing-7695152120014",
+  "name": "Kenny Scharf x Shoe Palace SP x Kenny Scharf All Over Print Chore Washed Jacket",
+  "brand": "Kenny Scharf x Shoe Palace",
+  "department": "Clothes",
+  "category": "Jackets",
+  "audience": "Men",
+  "price": 3234,
+  "tag": "Style edit",
+  "description": "Jackets for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black/Multicolor": {
+    "S": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor?variant=43513837093070",
+     "sourceVariantID": "43513837093070",
+     "sourceSKU": "21148488"
+    },
+    "M": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor?variant=43513837125838",
+     "sourceVariantID": "43513837125838",
+     "sourceSKU": "21148487"
+    },
+    "L": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor?variant=43513837158606",
+     "sourceVariantID": "43513837158606",
+     "sourceSKU": "21148486"
+    },
+    "XL": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor?variant=43513837191374",
+     "sourceVariantID": "43513837191374",
+     "sourceSKU": "21148489"
+    }
+   }
+  },
+  "variants": {
+   "Black/Multicolor": [
+    "/images/catalog/99ca56525310910f8e.webp",
+    "/images/catalog/154ba31c655c61f582.webp",
+    "/images/catalog/cdb02f4e05dc3ac094.webp",
+    "/images/catalog/3844e14d3936d0cc13.webp"
+   ]
+  },
+  "swatches": {
+   "Black/Multicolor": "#202124"
+  },
+  "sourceURLs": {
+   "Black/Multicolor": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black/Multicolor"
+  ],
+  "images": [
+   "/images/catalog/99ca56525310910f8e.webp",
+   "/images/catalog/154ba31c655c61f582.webp",
+   "/images/catalog/cdb02f4e05dc3ac094.webp",
+   "/images/catalog/3844e14d3936d0cc13.webp"
+  ]
+ },
+ {
+  "id": "clothing-7310797373573",
+  "name": "Steve Madden Sereena Skirt Oilslick",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Skirts",
+  "audience": "Women",
+  "price": 5661,
+  "tag": "Style edit",
+  "description": "Skirts for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Oilslick": {
+    "S": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sc17086-oilslick?variant=41786336542853",
+     "sourceVariantID": "41786336542853",
+     "sourceSKU": "SC17086"
+    },
+    "M": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sc17086-oilslick?variant=41805349748869",
+     "sourceVariantID": "41805349748869",
+     "sourceSKU": "SC17086"
+    },
+    "L": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sc17086-oilslick?variant=41786336575621",
+     "sourceVariantID": "41786336575621",
+     "sourceSKU": "SC17086"
+    },
+    "XL": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sc17086-oilslick?variant=41786336608389",
+     "sourceVariantID": "41786336608389",
+     "sourceSKU": "SC17086"
+    }
+   }
+  },
+  "variants": {
+   "Oilslick": [
+    "/images/catalog/c99cc0dce544d50bef.webp",
+    "/images/catalog/b845aeeea7a75e098b.webp",
+    "/images/catalog/b9429ea3df00fbaa9c.webp",
+    "/images/catalog/1fdddc99ed0ee3bbfb.webp"
+   ]
+  },
+  "swatches": {
+   "Oilslick": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Oilslick": "https://www.stevemadden.com/products/sc17086-oilslick"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Oilslick"
+  ],
+  "images": [
+   "/images/catalog/c99cc0dce544d50bef.webp",
+   "/images/catalog/b845aeeea7a75e098b.webp",
+   "/images/catalog/b9429ea3df00fbaa9c.webp",
+   "/images/catalog/1fdddc99ed0ee3bbfb.webp"
+  ]
+ },
+ {
+  "id": "clothing-7706101088462",
+  "name": "Maison Article Rhinestone Denim Washed Pants",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Men",
+  "price": 5662,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black/Black": {
+    "S": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black?variant=43563533500622",
+     "sourceVariantID": "43563533500622",
+     "sourceSKU": "21148659"
+    },
+    "M": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black?variant=43563533533390",
+     "sourceVariantID": "43563533533390",
+     "sourceSKU": "21148658"
+    },
+    "L": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black?variant=43563533566158",
+     "sourceVariantID": "43563533566158",
+     "sourceSKU": "21148657"
+    },
+    "XL": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black?variant=43563533598926",
+     "sourceVariantID": "43563533598926",
+     "sourceSKU": "21148660"
+    }
+   }
+  },
+  "variants": {
+   "Black/Black": [
+    "/images/catalog/0a23c425d8e0338080.webp",
+    "/images/catalog/4ae798fe0e19dc428f.webp",
+    "/images/catalog/8c8a8f9fd03c344043.webp",
+    "/images/catalog/290398d923f94a8509.webp"
+   ]
+  },
+  "swatches": {
+   "Black/Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black/Black": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black/Black"
+  ],
+  "images": [
+   "/images/catalog/0a23c425d8e0338080.webp",
+   "/images/catalog/4ae798fe0e19dc428f.webp",
+   "/images/catalog/8c8a8f9fd03c344043.webp",
+   "/images/catalog/290398d923f94a8509.webp"
+  ]
+ },
+ {
+  "id": "clothing-7229507272837",
+  "name": "Steve Madden Lissandra Skirt Ivory",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Skirts",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Skirts for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Ivory": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb17375-ivory?variant=41478252200069",
+     "sourceVariantID": "41478252200069",
+     "sourceSKU": "SB17375"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb17375-ivory?variant=41478252232837",
+     "sourceVariantID": "41478252232837",
+     "sourceSKU": "SB17375"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb17375-ivory?variant=41478252265605",
+     "sourceVariantID": "41478252265605",
+     "sourceSKU": "SB17375"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb17375-ivory?variant=41478252298373",
+     "sourceVariantID": "41478252298373",
+     "sourceSKU": "SB17375"
+    }
+   }
+  },
+  "variants": {
+   "Ivory": [
+    "/images/catalog/5124997f214e1e4ad2.webp",
+    "/images/catalog/14f6c20aeea6c8f404.webp",
+    "/images/catalog/01849cdd3c6e50ef78.webp",
+    "/images/catalog/391d5e48a2554350c6.webp"
+   ]
+  },
+  "swatches": {
+   "Ivory": "#f0e7d4"
+  },
+  "sourceURLs": {
+   "Ivory": "https://www.stevemadden.com/products/sb17375-ivory"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Ivory"
+  ],
+  "images": [
+   "/images/catalog/5124997f214e1e4ad2.webp",
+   "/images/catalog/14f6c20aeea6c8f404.webp",
+   "/images/catalog/01849cdd3c6e50ef78.webp",
+   "/images/catalog/391d5e48a2554350c6.webp"
+  ]
+ },
+ {
+  "id": "clothing-7674193313998",
+  "name": "Maison Article Army Camo Cargo Pants",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Men",
+  "price": 3234,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Green/Brown": {
+    "S": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown?variant=43430602506446",
+     "sourceVariantID": "43430602506446",
+     "sourceSKU": "21138102"
+    },
+    "M": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown?variant=43430602539214",
+     "sourceVariantID": "43430602539214",
+     "sourceSKU": "21138101"
+    },
+    "L": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown?variant=43430602571982",
+     "sourceVariantID": "43430602571982",
+     "sourceSKU": "21138100"
+    },
+    "XL": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown?variant=43430602604750",
+     "sourceVariantID": "43430602604750",
+     "sourceSKU": "21138103"
+    }
+   }
+  },
+  "variants": {
+   "Green/Brown": [
+    "/images/catalog/8b465bfadf03d9223a.webp",
+    "/images/catalog/ecff1a1038d5936490.webp",
+    "/images/catalog/495986628ec9db6630.webp",
+    "/images/catalog/be52c4b84ee41206b5.webp"
+   ]
+  },
+  "swatches": {
+   "Green/Brown": "#77533c"
+  },
+  "sourceURLs": {
+   "Green/Brown": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Green/Brown"
+  ],
+  "images": [
+   "/images/catalog/8b465bfadf03d9223a.webp",
+   "/images/catalog/ecff1a1038d5936490.webp",
+   "/images/catalog/495986628ec9db6630.webp",
+   "/images/catalog/be52c4b84ee41206b5.webp"
+  ]
+ },
+ {
+  "id": "clothing-7266230108293",
+  "name": "Steve Madden Mirabel Skirt Mountain Green",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Skirts",
+  "audience": "Women",
+  "price": 5661,
+  "tag": "Style edit",
+  "description": "Skirts for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Mountain Green": {
+    "S": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb18376-mountain-green?variant=41596370583685",
+     "sourceVariantID": "41596370583685",
+     "sourceSKU": "SB18376"
+    },
+    "M": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb18376-mountain-green?variant=41596370616453",
+     "sourceVariantID": "41596370616453",
+     "sourceSKU": "SB18376"
+    },
+    "L": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb18376-mountain-green?variant=41596370649221",
+     "sourceVariantID": "41596370649221",
+     "sourceSKU": "SB18376"
+    },
+    "XL": {
+     "usd": 34.97,
+     "etb": 5661,
+     "sourceURL": "https://www.stevemadden.com/products/sb18376-mountain-green?variant=41596370681989",
+     "sourceVariantID": "41596370681989",
+     "sourceSKU": "SB18376"
+    }
+   }
+  },
+  "variants": {
+   "Mountain Green": [
+    "/images/catalog/396a5d76f0532878d5.webp",
+    "/images/catalog/3c01195cb280a9e414.webp",
+    "/images/catalog/483afe321097afc97f.webp",
+    "/images/catalog/614f6863b3ffe181a7.webp"
+   ]
+  },
+  "swatches": {
+   "Mountain Green": "#648c64"
+  },
+  "sourceURLs": {
+   "Mountain Green": "https://www.stevemadden.com/products/sb18376-mountain-green"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Mountain Green"
+  ],
+  "images": [
+   "/images/catalog/396a5d76f0532878d5.webp",
+   "/images/catalog/3c01195cb280a9e414.webp",
+   "/images/catalog/483afe321097afc97f.webp",
+   "/images/catalog/614f6863b3ffe181a7.webp"
+  ]
+ },
+ {
+  "id": "clothing-7674194067662",
+  "name": "Maison Article Solid Canvas Cargo Pants",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Men",
+  "price": 4853,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black?variant=43430605029582",
+     "sourceVariantID": "43430605029582",
+     "sourceSKU": "21138108"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black?variant=43430605062350",
+     "sourceVariantID": "43430605062350",
+     "sourceSKU": "21138107"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black?variant=43430605095118",
+     "sourceVariantID": "43430605095118",
+     "sourceSKU": "21138106"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black?variant=43430605127886",
+     "sourceVariantID": "43430605127886",
+     "sourceSKU": "21138109"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/b32a26d5f0d9fea76b.webp",
+    "/images/catalog/229437c893bf35018e.webp",
+    "/images/catalog/a36a19e92f770e3c60.webp",
+    "/images/catalog/198c8bd0721de58642.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/b32a26d5f0d9fea76b.webp",
+   "/images/catalog/229437c893bf35018e.webp",
+   "/images/catalog/a36a19e92f770e3c60.webp",
+   "/images/catalog/198c8bd0721de58642.webp"
+  ]
+ },
+ {
+  "id": "clothing-7159516233861",
+  "name": "Steve Madden Jayla Skirt Wine",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Skirts",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Skirts for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Wine": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp409341-wine?variant=41237983821957",
+     "sourceVariantID": "41237983821957",
+     "sourceSKU": "BP409341"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp409341-wine?variant=41237983953029",
+     "sourceVariantID": "41237983953029",
+     "sourceSKU": "BP409341"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp409341-wine?variant=41237983920261",
+     "sourceVariantID": "41237983920261",
+     "sourceSKU": "BP409341"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp409341-wine?variant=41237983854725",
+     "sourceVariantID": "41237983854725",
+     "sourceSKU": "BP409341"
+    }
+   }
+  },
+  "variants": {
+   "Wine": [
+    "/images/catalog/08dcdb542ddfd54cb3.webp",
+    "/images/catalog/62565da7a26e3f5cae.webp",
+    "/images/catalog/3245b9145e779f588e.webp",
+    "/images/catalog/85b55acc36732b0f74.webp"
+   ]
+  },
+  "swatches": {
+   "Wine": "#722f46"
+  },
+  "sourceURLs": {
+   "Wine": "https://www.stevemadden.com/products/bp409341-wine"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Wine"
+  ],
+  "images": [
+   "/images/catalog/08dcdb542ddfd54cb3.webp",
+   "/images/catalog/62565da7a26e3f5cae.webp",
+   "/images/catalog/3245b9145e779f588e.webp",
+   "/images/catalog/85b55acc36732b0f74.webp"
+  ]
+ },
+ {
+  "id": "clothing-7676401254606",
+  "name": "Maison Article Overdyed Camo Fleece Sweatpants",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Men",
+  "price": 4853,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Grey/Brown": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown?variant=43440124592334",
+     "sourceVariantID": "43440124592334",
+     "sourceSKU": "21146152"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown?variant=43440124625102",
+     "sourceVariantID": "43440124625102",
+     "sourceSKU": "21146151"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown?variant=43440124657870",
+     "sourceVariantID": "43440124657870",
+     "sourceSKU": "21146150"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown?variant=43440124690638",
+     "sourceVariantID": "43440124690638",
+     "sourceSKU": "21146153"
+    }
+   }
+  },
+  "variants": {
+   "Grey/Brown": [
+    "/images/catalog/cacafb371da93d623b.webp",
+    "/images/catalog/a06056c976bf032b4a.webp",
+    "/images/catalog/2f343c502418dbe1b0.webp",
+    "/images/catalog/bfd5d3c1158dd613ba.webp"
+   ]
+  },
+  "swatches": {
+   "Grey/Brown": "#85858b"
+  },
+  "sourceURLs": {
+   "Grey/Brown": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Grey/Brown"
+  ],
+  "images": [
+   "/images/catalog/cacafb371da93d623b.webp",
+   "/images/catalog/a06056c976bf032b4a.webp",
+   "/images/catalog/2f343c502418dbe1b0.webp",
+   "/images/catalog/bfd5d3c1158dd613ba.webp"
+  ]
+ },
+ {
+  "id": "clothing-7246379876485",
+  "name": "Steve Madden Vanny Skirt Walnut",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Skirts",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Skirts for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Walnut": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sa17412-walnut?variant=41529788891269",
+     "sourceVariantID": "41529788891269",
+     "sourceSKU": "SA17412"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sa17412-walnut?variant=41529788924037",
+     "sourceVariantID": "41529788924037",
+     "sourceSKU": "SA17412"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sa17412-walnut?variant=41529788956805",
+     "sourceVariantID": "41529788956805",
+     "sourceSKU": "SA17412"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sa17412-walnut?variant=41529788989573",
+     "sourceVariantID": "41529788989573",
+     "sourceSKU": "SA17412"
+    }
+   }
+  },
+  "variants": {
+   "Walnut": [
+    "/images/catalog/8091163a0382aaa9fe.webp",
+    "/images/catalog/768182cbe09b2999a7.webp",
+    "/images/catalog/69f44abbb5818ad23c.webp",
+    "/images/catalog/44a89f694256c9652e.webp"
+   ]
+  },
+  "swatches": {
+   "Walnut": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Walnut": "https://www.stevemadden.com/products/sa17412-walnut"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Walnut"
+  ],
+  "images": [
+   "/images/catalog/8091163a0382aaa9fe.webp",
+   "/images/catalog/768182cbe09b2999a7.webp",
+   "/images/catalog/69f44abbb5818ad23c.webp",
+   "/images/catalog/44a89f694256c9652e.webp"
+  ]
+ },
+ {
+  "id": "clothing-9959858667824",
+  "name": "Reebok Train Woven Unlined Pants",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Men",
+  "price": 6475,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882?variant=50145810219312",
+     "sourceVariantID": "50145810219312",
+     "sourceSKU": "100250922-S"
+    },
+    "M": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882?variant=50145810252080",
+     "sourceVariantID": "50145810252080",
+     "sourceSKU": "100250922-M"
+    },
+    "L": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882?variant=50145810284848",
+     "sourceVariantID": "50145810284848",
+     "sourceSKU": "100250922-L"
+    },
+    "XL": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882?variant=50145810317616",
+     "sourceVariantID": "50145810317616",
+     "sourceSKU": "100250922-XL"
+    }
+   },
+   "Vector Navy": {
+    "S": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882?variant=50145809695024",
+     "sourceVariantID": "50145809695024",
+     "sourceSKU": "100250923-S"
+    },
+    "M": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882?variant=50145809727792",
+     "sourceVariantID": "50145809727792",
+     "sourceSKU": "100250923-M"
+    },
+    "L": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882?variant=50145809760560",
+     "sourceVariantID": "50145809760560",
+     "sourceSKU": "100250923-L"
+    },
+    "XL": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882?variant=50145809793328",
+     "sourceVariantID": "50145809793328",
+     "sourceSKU": "100250923-XL"
+    }
+   },
+   "Grey 5": {
+    "S": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882?variant=50253825802544",
+     "sourceVariantID": "50253825802544",
+     "sourceSKU": "100256356-S"
+    },
+    "M": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882?variant=50253825835312",
+     "sourceVariantID": "50253825835312",
+     "sourceSKU": "100256356-M"
+    },
+    "L": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882?variant=50253825868080",
+     "sourceVariantID": "50253825868080",
+     "sourceSKU": "100256356-L"
+    },
+    "XL": {
+     "usd": 40.0,
+     "etb": 6475,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882?variant=50253825900848",
+     "sourceVariantID": "50253825900848",
+     "sourceSKU": "100256356-XL"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/0e2c25e2ef9318b8ff.webp",
+    "/images/catalog/146e82927728d9a23f.webp",
+    "/images/catalog/261f96498f66bc2b38.webp",
+    "/images/catalog/b0dace3fe4940e4c16.webp"
+   ],
+   "Vector Navy": [
+    "/images/catalog/56626ffa4894989cac.webp",
+    "/images/catalog/c8e16ca5884806ae9b.webp",
+    "/images/catalog/ec41aa73899ff55685.webp",
+    "/images/catalog/0c0c7929bcb2312e5e.webp"
+   ],
+   "Grey 5": [
+    "/images/catalog/a762f1c96677f97203.webp",
+    "/images/catalog/6edcc15d669b838352.webp",
+    "/images/catalog/0864fe3b37e2f2c3aa.webp",
+    "/images/catalog/221643fcf207264e94.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124",
+   "Vector Navy": "#a29a8c",
+   "Grey 5": "#85858b"
+  },
+  "sourceURLs": {
+   "Black": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882",
+   "Vector Navy": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882",
+   "Grey 5": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black",
+   "Vector Navy",
+   "Grey 5"
+  ],
+  "images": [
+   "/images/catalog/0e2c25e2ef9318b8ff.webp",
+   "/images/catalog/146e82927728d9a23f.webp",
+   "/images/catalog/261f96498f66bc2b38.webp",
+   "/images/catalog/b0dace3fe4940e4c16.webp",
+   "/images/catalog/56626ffa4894989cac.webp",
+   "/images/catalog/c8e16ca5884806ae9b.webp",
+   "/images/catalog/ec41aa73899ff55685.webp",
+   "/images/catalog/0c0c7929bcb2312e5e.webp",
+   "/images/catalog/a762f1c96677f97203.webp",
+   "/images/catalog/6edcc15d669b838352.webp",
+   "/images/catalog/0864fe3b37e2f2c3aa.webp",
+   "/images/catalog/221643fcf207264e94.webp"
+  ]
+ },
+ {
+  "id": "clothing-7225299239045",
+  "name": "Steve Madden Veada Knit Pants Black",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Women",
+  "price": 4855,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
     "S": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-grey-heather-178156?variant=66709080998192",
-     "sourceVariantID": "66709080998192",
-     "sourceSKU": "100288239-S"
+     "sourceURL": "https://www.stevemadden.com/products/sb07199-black?variant=41464421843077",
+     "sourceVariantID": "41464421843077",
+     "sourceSKU": "SB07199"
     },
     "M": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-grey-heather-178156?variant=66709081030960",
-     "sourceVariantID": "66709081030960",
-     "sourceSKU": "100288239-M"
+     "sourceURL": "https://www.stevemadden.com/products/sb07199-black?variant=41464421875845",
+     "sourceVariantID": "41464421875845",
+     "sourceSKU": "SB07199"
     },
     "L": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-grey-heather-178156?variant=66709081063728",
-     "sourceVariantID": "66709081063728",
-     "sourceSKU": "100288239-L"
+     "sourceURL": "https://www.stevemadden.com/products/sb07199-black?variant=41464421908613",
+     "sourceVariantID": "41464421908613",
+     "sourceSKU": "SB07199"
     },
     "XL": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-grey-heather-178156?variant=66709081096496",
-     "sourceVariantID": "66709081096496",
-     "sourceSKU": "100288239-XL"
+     "sourceURL": "https://www.stevemadden.com/products/sb07199-black?variant=41464421941381",
+     "sourceVariantID": "41464421941381",
+     "sourceSKU": "SB07199"
     }
-   },
-   "Alabaster": {
-    "XS": {
-     "usd": 29.99,
-     "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081424176",
-     "sourceVariantID": "66709081424176",
-     "sourceSKU": "100288240-XS"
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/ff7bcaa2435281c06b.webp",
+    "/images/catalog/798de6450601507a9a.webp",
+    "/images/catalog/7717b21fe84ce09286.webp",
+    "/images/catalog/952ad646fa0bc69be5.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.stevemadden.com/products/sb07199-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/ff7bcaa2435281c06b.webp",
+   "/images/catalog/798de6450601507a9a.webp",
+   "/images/catalog/7717b21fe84ce09286.webp",
+   "/images/catalog/952ad646fa0bc69be5.webp"
+  ]
+ },
+ {
+  "id": "clothing-15115617632560",
+  "name": "Reebok Relaxed Logo Joggers",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Men",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Light Grey Marl": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563?variant=66874650329392",
+     "sourceVariantID": "66874650329392",
+     "sourceSKU": "100267043-S"
     },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563?variant=66874650362160",
+     "sourceVariantID": "66874650362160",
+     "sourceSKU": "100267043-M"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563?variant=66874650394928",
+     "sourceVariantID": "66874650394928",
+     "sourceSKU": "100267043-L"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563?variant=66874650427696",
+     "sourceVariantID": "66874650427696",
+     "sourceSKU": "100267043-XL"
+    }
+   }
+  },
+  "variants": {
+   "Light Grey Marl": [
+    "/images/catalog/b289372755bdb3f912.webp",
+    "/images/catalog/4538b4d8c3ff8ea666.webp",
+    "/images/catalog/840d4bafe64cd7aa43.webp",
+    "/images/catalog/a8149ddf0ee6064f56.webp"
+   ]
+  },
+  "swatches": {
+   "Light Grey Marl": "#85858b"
+  },
+  "sourceURLs": {
+   "Light Grey Marl": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Light Grey Marl"
+  ],
+  "images": [
+   "/images/catalog/b289372755bdb3f912.webp",
+   "/images/catalog/4538b4d8c3ff8ea666.webp",
+   "/images/catalog/840d4bafe64cd7aa43.webp",
+   "/images/catalog/a8149ddf0ee6064f56.webp"
+  ]
+ },
+ {
+  "id": "clothing-10053384536368",
+  "name": "Reebok Lawn Club Jogger Pants",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Women",
+  "price": 4855,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Chalk": {
     "S": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081456944",
-     "sourceVariantID": "66709081456944",
-     "sourceSKU": "100288240-S"
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-lawn-club-jogger-pants-chalk-154038?variant=50505325379888",
+     "sourceVariantID": "50505325379888",
+     "sourceSKU": "100253730-S"
     },
     "M": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081489712",
-     "sourceVariantID": "66709081489712",
-     "sourceSKU": "100288240-M"
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-lawn-club-jogger-pants-chalk-154038?variant=50505325412656",
+     "sourceVariantID": "50505325412656",
+     "sourceSKU": "100253730-M"
     },
     "L": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081522480",
-     "sourceVariantID": "66709081522480",
-     "sourceSKU": "100288240-L"
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-lawn-club-jogger-pants-chalk-154038?variant=50505325445424",
+     "sourceVariantID": "50505325445424",
+     "sourceSKU": "100253730-L"
     },
     "XL": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081555248",
-     "sourceVariantID": "66709081555248",
-     "sourceSKU": "100288240-XL"
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-lawn-club-jogger-pants-chalk-154038?variant=50505325478192",
+     "sourceVariantID": "50505325478192",
+     "sourceSKU": "100253730-XL"
+    }
+   }
+  },
+  "variants": {
+   "Chalk": [
+    "/images/catalog/9bb3ef136a9e83efcb.webp",
+    "/images/catalog/6fa3d495ee9f766899.webp",
+    "/images/catalog/04f20969037d3436c2.webp",
+    "/images/catalog/0b671c979c07872def.webp"
+   ]
+  },
+  "swatches": {
+   "Chalk": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Chalk": "https://www.reebok.com/products/reebok-womens-lawn-club-jogger-pants-chalk-154038"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Chalk"
+  ],
+  "images": [
+   "/images/catalog/9bb3ef136a9e83efcb.webp",
+   "/images/catalog/6fa3d495ee9f766899.webp",
+   "/images/catalog/04f20969037d3436c2.webp",
+   "/images/catalog/0b671c979c07872def.webp"
+  ]
+ },
+ {
+  "id": "clothing-9959859061040",
+  "name": "Reebok Motion Joggers",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Men",
+  "price": 4045,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 24.99,
+     "etb": 4045,
+     "sourceURL": "https://www.reebok.com/products/reebok-motion-joggers-black-164127?variant=50145947812144",
+     "sourceVariantID": "50145947812144",
+     "sourceSKU": "100264804-S"
+    },
+    "M": {
+     "usd": 24.99,
+     "etb": 4045,
+     "sourceURL": "https://www.reebok.com/products/reebok-motion-joggers-black-164127?variant=50145947779376",
+     "sourceVariantID": "50145947779376",
+     "sourceSKU": "100264804-M"
+    },
+    "L": {
+     "usd": 24.99,
+     "etb": 4045,
+     "sourceURL": "https://www.reebok.com/products/reebok-motion-joggers-black-164127?variant=50145947746608",
+     "sourceVariantID": "50145947746608",
+     "sourceSKU": "100264804-L"
+    },
+    "XL": {
+     "usd": 24.99,
+     "etb": 4045,
+     "sourceURL": "https://www.reebok.com/products/reebok-motion-joggers-black-164127?variant=50145947844912",
+     "sourceVariantID": "50145947844912",
+     "sourceSKU": "100264804-XL"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/bc2c431010f91dffcd.webp",
+    "/images/catalog/330e8885f90a88300c.webp",
+    "/images/catalog/32b28e530a8096782e.webp",
+    "/images/catalog/7ad84b9bc36ec7c289.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.reebok.com/products/reebok-motion-joggers-black-164127"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/bc2c431010f91dffcd.webp",
+   "/images/catalog/330e8885f90a88300c.webp",
+   "/images/catalog/32b28e530a8096782e.webp",
+   "/images/catalog/7ad84b9bc36ec7c289.webp"
+  ]
+ },
+ {
+  "id": "clothing-10053384044848",
+  "name": "Reebok Wardrobe Essentials Sweat Pants",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Women",
+  "price": 4855,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Silver Marl": {
+    "S": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-silver-marl-154900?variant=50505322561840",
+     "sourceVariantID": "50505322561840",
+     "sourceSKU": "100253825-S"
+    },
+    "M": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-silver-marl-154900?variant=50505322594608",
+     "sourceVariantID": "50505322594608",
+     "sourceSKU": "100253825-M"
+    },
+    "L": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-silver-marl-154900?variant=50505322627376",
+     "sourceVariantID": "50505322627376",
+     "sourceSKU": "100253825-L"
+    },
+    "XL": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-silver-marl-154900?variant=50505322660144",
+     "sourceVariantID": "50505322660144",
+     "sourceSKU": "100253825-XL"
     }
    },
+   "Gentle Pink": {
+    "S": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-gentle-pink-154900?variant=50505322332464",
+     "sourceVariantID": "50505322332464",
+     "sourceSKU": "100253824-S"
+    },
+    "M": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-gentle-pink-154900?variant=50505322365232",
+     "sourceVariantID": "50505322365232",
+     "sourceSKU": "100253824-M"
+    },
+    "L": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-gentle-pink-154900?variant=50505322398000",
+     "sourceVariantID": "50505322398000",
+     "sourceSKU": "100253824-L"
+    },
+    "XL": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-gentle-pink-154900?variant=50505322430768",
+     "sourceVariantID": "50505322430768",
+     "sourceSKU": "100253824-XL"
+    }
+   }
+  },
+  "variants": {
+   "Silver Marl": [
+    "/images/catalog/7f5cb5ac681daafd0c.webp",
+    "/images/catalog/46837930dfb6d49655.webp",
+    "/images/catalog/599505c3aee4367228.webp",
+    "/images/catalog/7633350832d362306f.webp"
+   ],
+   "Gentle Pink": [
+    "/images/catalog/48c21992612bb4613d.webp",
+    "/images/catalog/eb55c90fb3585f5413.webp",
+    "/images/catalog/fb1a8a65a2dadc376d.webp",
+    "/images/catalog/f9551b6937ee230cce.webp"
+   ]
+  },
+  "swatches": {
+   "Silver Marl": "#bcc1c6",
+   "Gentle Pink": "#dcabb7"
+  },
+  "sourceURLs": {
+   "Silver Marl": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-silver-marl-154900",
+   "Gentle Pink": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-sweat-pants-gentle-pink-154900"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Silver Marl",
+   "Gentle Pink"
+  ],
+  "images": [
+   "/images/catalog/7f5cb5ac681daafd0c.webp",
+   "/images/catalog/46837930dfb6d49655.webp",
+   "/images/catalog/599505c3aee4367228.webp",
+   "/images/catalog/7633350832d362306f.webp",
+   "/images/catalog/48c21992612bb4613d.webp",
+   "/images/catalog/eb55c90fb3585f5413.webp",
+   "/images/catalog/fb1a8a65a2dadc376d.webp",
+   "/images/catalog/f9551b6937ee230cce.webp"
+  ]
+ },
+ {
+  "id": "clothing-8837914853582",
+  "name": "Maison Article Beaded Fleece Zip Up Washed Hoodie",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Hoodies",
+  "audience": "Men",
+  "price": 5662,
+  "tag": "Style edit",
+  "description": "Hoodies for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Beige/Beige": {
+    "S": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige?variant=48430355579086",
+     "sourceVariantID": "48430355579086",
+     "sourceSKU": "21148416"
+    },
+    "M": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige?variant=48430355611854",
+     "sourceVariantID": "48430355611854",
+     "sourceSKU": "21148415"
+    },
+    "L": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige?variant=48430355644622",
+     "sourceVariantID": "48430355644622",
+     "sourceSKU": "21148414"
+    },
+    "XL": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige?variant=48430355677390",
+     "sourceVariantID": "48430355677390",
+     "sourceSKU": "21148417"
+    }
+   },
+   "Black/Black": {
+    "S": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316454094",
+     "sourceVariantID": "48430316454094",
+     "sourceSKU": "21148410"
+    },
+    "M": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316486862",
+     "sourceVariantID": "48430316486862",
+     "sourceSKU": "21148409"
+    },
+    "L": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316519630",
+     "sourceVariantID": "48430316519630",
+     "sourceSKU": "21148408"
+    },
+    "XL": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316552398",
+     "sourceVariantID": "48430316552398",
+     "sourceSKU": "21148411"
+    }
+   }
+  },
+  "variants": {
+   "Beige/Beige": [
+    "/images/catalog/983d73e4cbb37c0e98.webp",
+    "/images/catalog/ba0bd2b7f02aeec4b8.webp",
+    "/images/catalog/5b52565aba47e1e0ab.webp",
+    "/images/catalog/90224d066dd6dfb601.webp"
+   ],
+   "Black/Black": [
+    "/images/catalog/7600a76e580f84e45a.webp",
+    "/images/catalog/cace0b8e5c734f5979.webp",
+    "/images/catalog/f7490061219e6289bd.webp",
+    "/images/catalog/efdd846ecd572ba3c6.webp"
+   ]
+  },
+  "swatches": {
+   "Beige/Beige": "#a29a8c",
+   "Black/Black": "#202124"
+  },
+  "sourceURLs": {
+   "Beige/Beige": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige",
+   "Black/Black": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Beige/Beige",
+   "Black/Black"
+  ],
+  "images": [
+   "/images/catalog/983d73e4cbb37c0e98.webp",
+   "/images/catalog/ba0bd2b7f02aeec4b8.webp",
+   "/images/catalog/5b52565aba47e1e0ab.webp",
+   "/images/catalog/90224d066dd6dfb601.webp",
+   "/images/catalog/7600a76e580f84e45a.webp",
+   "/images/catalog/cace0b8e5c734f5979.webp",
+   "/images/catalog/f7490061219e6289bd.webp",
+   "/images/catalog/efdd846ecd572ba3c6.webp"
+  ]
+ },
+ {
+  "id": "clothing-15115619139888",
+  "name": "Reebok High-Rise Printed Leggings",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Pants",
+  "audience": "Women",
+  "price": 5664,
+  "tag": "Style edit",
+  "description": "Pants for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 34.99,
+     "etb": 5664,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660323632",
+     "sourceVariantID": "66874660323632",
+     "sourceSKU": "100266283-S"
+    },
+    "M": {
+     "usd": 34.99,
+     "etb": 5664,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660356400",
+     "sourceVariantID": "66874660356400",
+     "sourceSKU": "100266283-M"
+    },
+    "L": {
+     "usd": 34.99,
+     "etb": 5664,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660389168",
+     "sourceVariantID": "66874660389168",
+     "sourceSKU": "100266283-L"
+    },
+    "XL": {
+     "usd": 34.99,
+     "etb": 5664,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660421936",
+     "sourceVariantID": "66874660421936",
+     "sourceSKU": "100266283-XL"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/f147124a949cfcbdc1.webp",
+    "/images/catalog/8cc54f37da1206b6d6.webp",
+    "/images/catalog/3f3b4e400d5a33021e.webp",
+    "/images/catalog/71fde92cc07893c731.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/f147124a949cfcbdc1.webp",
+   "/images/catalog/8cc54f37da1206b6d6.webp",
+   "/images/catalog/3f3b4e400d5a33021e.webp",
+   "/images/catalog/71fde92cc07893c731.webp"
+  ]
+ },
+ {
+  "id": "clothing-7706119733454",
+  "name": "Maison Article Rhinestone Wings Zip Up Hoodie",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Hoodies",
+  "audience": "Men",
+  "price": 4853,
+  "tag": "Style edit",
+  "description": "Hoodies for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black/Grey": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey?variant=43563630100686",
+     "sourceVariantID": "43563630100686",
+     "sourceSKU": "21148398"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey?variant=43563630133454",
+     "sourceVariantID": "43563630133454",
+     "sourceSKU": "21149052"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey?variant=43563630166222",
+     "sourceVariantID": "43563630166222",
+     "sourceSKU": "21149051"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey?variant=43563630198990",
+     "sourceVariantID": "43563630198990",
+     "sourceSKU": "21148399"
+    }
+   }
+  },
+  "variants": {
+   "Black/Grey": [
+    "/images/catalog/26d1c87a741ab817d1.webp",
+    "/images/catalog/53d90e65c65ddf7c9f.webp",
+    "/images/catalog/db53845b9936668cbd.webp",
+    "/images/catalog/69484877b50e98d4c9.webp"
+   ]
+  },
+  "swatches": {
+   "Black/Grey": "#202124"
+  },
+  "sourceURLs": {
+   "Black/Grey": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black/Grey"
+  ],
+  "images": [
+   "/images/catalog/26d1c87a741ab817d1.webp",
+   "/images/catalog/53d90e65c65ddf7c9f.webp",
+   "/images/catalog/db53845b9936668cbd.webp",
+   "/images/catalog/69484877b50e98d4c9.webp"
+  ]
+ },
+ {
+  "id": "clothing-7201690419333",
+  "name": "Steve Madden Serenea Blazer Marine",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Blazers",
+  "audience": "Women",
+  "price": 4855,
+  "tag": "Style edit",
+  "description": "Blazers for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Marine": {
+    "S": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/bp102758-marine?variant=41375747539077",
+     "sourceVariantID": "41375747539077",
+     "sourceSKU": "BP102758"
+    },
+    "M": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/bp102758-marine?variant=41375747571845",
+     "sourceVariantID": "41375747571845",
+     "sourceSKU": "BP102758"
+    },
+    "L": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/bp102758-marine?variant=41375747604613",
+     "sourceVariantID": "41375747604613",
+     "sourceSKU": "BP102758"
+    },
+    "XL": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/bp102758-marine?variant=41375747637381",
+     "sourceVariantID": "41375747637381",
+     "sourceSKU": "BP102758"
+    }
+   }
+  },
+  "variants": {
+   "Marine": [
+    "/images/catalog/5da94e8343c4034e2f.webp",
+    "/images/catalog/8fc1fd8362d0ba0d5c.webp",
+    "/images/catalog/5150f116b469da4fcd.webp",
+    "/images/catalog/572756566d3ec7ae13.webp"
+   ]
+  },
+  "swatches": {
+   "Marine": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Marine": "https://www.stevemadden.com/products/bp102758-marine"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Marine"
+  ],
+  "images": [
+   "/images/catalog/5da94e8343c4034e2f.webp",
+   "/images/catalog/8fc1fd8362d0ba0d5c.webp",
+   "/images/catalog/5150f116b469da4fcd.webp",
+   "/images/catalog/572756566d3ec7ae13.webp"
+  ]
+ },
+ {
+  "id": "clothing-7638883696846",
+  "name": "Maison Article Pullover Fleece Hoodie",
+  "brand": "Maison Article",
+  "department": "Clothes",
+  "category": "Hoodies",
+  "audience": "Men",
+  "price": 3234,
+  "tag": "Style edit",
+  "description": "Hoodies for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Olive": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive?variant=43287861952718",
+     "sourceVariantID": "43287861952718",
+     "sourceSKU": "21113005"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive?variant=43287861985486",
+     "sourceVariantID": "43287861985486",
+     "sourceSKU": "21113004"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive?variant=43287862018254",
+     "sourceVariantID": "43287862018254",
+     "sourceSKU": "21113003"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive?variant=43287862051022",
+     "sourceVariantID": "43287862051022",
+     "sourceSKU": "21113006"
+    }
+   },
+   "Grey": {
+    "S": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961600206",
+     "sourceVariantID": "43287961600206",
+     "sourceSKU": "21112991"
+    },
+    "M": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961632974",
+     "sourceVariantID": "43287961632974",
+     "sourceSKU": "21112990"
+    },
+    "L": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961665742",
+     "sourceVariantID": "43287961665742",
+     "sourceSKU": "21112989"
+    },
+    "XL": {
+     "usd": 19.98,
+     "etb": 3234,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961698510",
+     "sourceVariantID": "43287961698510",
+     "sourceSKU": "21112992"
+    }
+   },
+   "Stone": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone?variant=43287822074062",
+     "sourceVariantID": "43287822074062",
+     "sourceSKU": "21113019"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone?variant=43287822106830",
+     "sourceVariantID": "43287822106830",
+     "sourceSKU": "21113018"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone?variant=43287822139598",
+     "sourceVariantID": "43287822139598",
+     "sourceSKU": "21113017"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone?variant=43287822172366",
+     "sourceVariantID": "43287822172366",
+     "sourceSKU": "21113020"
+    }
+   }
+  },
+  "variants": {
+   "Olive": [
+    "/images/catalog/e00bd81439c48afe2a.webp",
+    "/images/catalog/beb53576c0942dea5c.webp",
+    "/images/catalog/43d9c64f73221ffa41.webp"
+   ],
+   "Grey": [
+    "/images/catalog/8980c8b310659ecbe6.webp",
+    "/images/catalog/9d0ce11317cbf0982f.webp",
+    "/images/catalog/7e6c352979d913aed4.webp"
+   ],
+   "Stone": [
+    "/images/catalog/74774e0062b62ad704.webp",
+    "/images/catalog/ec1b78e49533f1bb25.webp",
+    "/images/catalog/38b9cc65f3ba50ea54.webp"
+   ]
+  },
+  "swatches": {
+   "Olive": "#a29a8c",
+   "Grey": "#85858b",
+   "Stone": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Olive": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive",
+   "Grey": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey",
+   "Stone": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Olive",
+   "Grey",
+   "Stone"
+  ],
+  "images": [
+   "/images/catalog/e00bd81439c48afe2a.webp",
+   "/images/catalog/beb53576c0942dea5c.webp",
+   "/images/catalog/43d9c64f73221ffa41.webp",
+   "/images/catalog/8980c8b310659ecbe6.webp",
+   "/images/catalog/9d0ce11317cbf0982f.webp",
+   "/images/catalog/7e6c352979d913aed4.webp",
+   "/images/catalog/74774e0062b62ad704.webp",
+   "/images/catalog/ec1b78e49533f1bb25.webp",
+   "/images/catalog/38b9cc65f3ba50ea54.webp"
+  ]
+ },
+ {
+  "id": "clothing-15088144580912",
+  "name": "Reebok Cropped Full-Zip Hoodie",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Jackets",
+  "audience": "Women",
+  "price": 4855,
+  "tag": "Style edit",
+  "description": "Jackets for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
    "Metal Green": {
-    "XS": {
-     "usd": 29.99,
-     "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-metal-green-178156?variant=66709157609776",
-     "sourceVariantID": "66709157609776",
-     "sourceSKU": "100288241-XS"
-    },
     "S": {
      "usd": 29.99,
      "etb": 4855,
@@ -4637,14 +7261,37 @@ window.catalog = [
      "sourceSKU": "100288241-XL"
     }
    },
-   "Warped Blue": {
-    "XS": {
+   "Alabaster": {
+    "S": {
      "usd": 29.99,
      "etb": 4855,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-warped-blue-178156?variant=66709069332784",
-     "sourceVariantID": "66709069332784",
-     "sourceSKU": "100288237-XS"
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081456944",
+     "sourceVariantID": "66709081456944",
+     "sourceSKU": "100288240-S"
     },
+    "M": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081489712",
+     "sourceVariantID": "66709081489712",
+     "sourceSKU": "100288240-M"
+    },
+    "L": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081522480",
+     "sourceVariantID": "66709081522480",
+     "sourceSKU": "100288240-L"
+    },
+    "XL": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156?variant=66709081555248",
+     "sourceVariantID": "66709081555248",
+     "sourceSKU": "100288240-XL"
+    }
+   },
+   "Warped Blue": {
     "S": {
      "usd": 29.99,
      "etb": 4855,
@@ -4676,325 +7323,419 @@ window.catalog = [
    }
   },
   "variants": {
-   "Grey Heather": [
-    "/images/catalog/762043ef0df4ef91b7.jpg",
-    "/images/catalog/b68941a7bc927b58b2.jpg",
-    "/images/catalog/cda89e00fe53e49b82.jpg",
-    "/images/catalog/b3b4a284fc97bd597d.jpg"
+   "Metal Green": [
+    "/images/catalog/afcf6a2c10eeee1649.webp",
+    "/images/catalog/3ac9df83c4edf8f524.webp",
+    "/images/catalog/a8c4a1e693015f000f.webp",
+    "/images/catalog/9c704208c2eae52e2b.webp"
    ],
    "Alabaster": [
-    "/images/catalog/abfa4b8b5c2975fc88.jpg",
-    "/images/catalog/a0f24ba3eafa0cc60e.jpg",
-    "/images/catalog/e427f1d5f8db242733.jpg",
-    "/images/catalog/e58a29a291c0a6e83f.jpg"
-   ],
-   "Metal Green": [
-    "/images/catalog/48ac423745aee078df.jpg",
-    "/images/catalog/00426e017c397f6620.jpg",
-    "/images/catalog/5f69833695d46e01bd.jpg",
-    "/images/catalog/4c0c2723505f5a24ac.jpg"
+    "/images/catalog/ddfc95a20907a6f95c.webp",
+    "/images/catalog/00bb6fd4b1dad25872.webp",
+    "/images/catalog/3fbd5d2c3629fde6ed.webp",
+    "/images/catalog/9fc03a1b2df68f376e.webp"
    ],
    "Warped Blue": [
-    "/images/catalog/efdea461a57207c351.jpg",
-    "/images/catalog/19ec37788b9ae26014.jpg",
-    "/images/catalog/6d7aab045bf600405b.jpg",
-    "/images/catalog/7ad3b8b3a5e12fe9cd.jpg"
+    "/images/catalog/e80bf36797d81a0087.webp",
+    "/images/catalog/e98aa0c739c32e3dba.webp",
+    "/images/catalog/4530923946dd07f383.webp",
+    "/images/catalog/b32d18fba6499d801a.webp"
    ]
   },
   "swatches": {
-   "Grey Heather": "#787c80",
-   "Alabaster": "#f0ece3",
-   "Metal Green": "#73816a",
-   "Warped Blue": "#3d6387"
+   "Metal Green": "#648c64",
+   "Alabaster": "#a29a8c",
+   "Warped Blue": "#4b7694"
   },
   "sourceURLs": {
-   "Grey Heather": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-grey-heather-178156",
-   "Alabaster": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156",
    "Metal Green": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-metal-green-178156",
+   "Alabaster": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-alabaster-178156",
    "Warped Blue": "https://www.reebok.com/products/reebok-womens-cropped-full-zip-hoodie-warped-blue-178156"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Grey Heather",
-   "Alabaster",
    "Metal Green",
+   "Alabaster",
    "Warped Blue"
   ],
   "images": [
-   "/images/catalog/762043ef0df4ef91b7.jpg",
-   "/images/catalog/b68941a7bc927b58b2.jpg",
-   "/images/catalog/cda89e00fe53e49b82.jpg",
-   "/images/catalog/b3b4a284fc97bd597d.jpg",
-   "/images/catalog/abfa4b8b5c2975fc88.jpg",
-   "/images/catalog/a0f24ba3eafa0cc60e.jpg",
-   "/images/catalog/e427f1d5f8db242733.jpg",
-   "/images/catalog/e58a29a291c0a6e83f.jpg",
-   "/images/catalog/48ac423745aee078df.jpg",
-   "/images/catalog/00426e017c397f6620.jpg",
-   "/images/catalog/5f69833695d46e01bd.jpg",
-   "/images/catalog/4c0c2723505f5a24ac.jpg",
-   "/images/catalog/efdea461a57207c351.jpg",
-   "/images/catalog/19ec37788b9ae26014.jpg",
-   "/images/catalog/6d7aab045bf600405b.jpg",
-   "/images/catalog/7ad3b8b3a5e12fe9cd.jpg"
+   "/images/catalog/afcf6a2c10eeee1649.webp",
+   "/images/catalog/3ac9df83c4edf8f524.webp",
+   "/images/catalog/a8c4a1e693015f000f.webp",
+   "/images/catalog/9c704208c2eae52e2b.webp",
+   "/images/catalog/ddfc95a20907a6f95c.webp",
+   "/images/catalog/00bb6fd4b1dad25872.webp",
+   "/images/catalog/3fbd5d2c3629fde6ed.webp",
+   "/images/catalog/9fc03a1b2df68f376e.webp",
+   "/images/catalog/e80bf36797d81a0087.webp",
+   "/images/catalog/e98aa0c739c32e3dba.webp",
+   "/images/catalog/4530923946dd07f383.webp",
+   "/images/catalog/b32d18fba6499d801a.webp"
   ]
  },
  {
-  "id": "reebok-logo-tee",
-  "name": "Reebok Men's Relaxed Logo T-Shirt",
-  "brand": "Reebok",
+  "id": "clothing-7699715784910",
+  "name": "Original Sin Saint Washed Pullover Hoodie",
+  "brand": "Original Sin",
   "department": "Clothes",
-  "category": "T-shirts",
+  "category": "Hoodies",
   "audience": "Men",
-  "price": 4045,
-  "tag": "Brand-store selection",
-  "description": "A soft cotton tee with a logo graphic fresh from the archives.",
+  "price": 5662,
+  "tag": "Style edit",
+  "description": "Hoodies for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
    "S",
    "M",
    "L",
-   "XL",
-   "2XL"
+   "XL"
   ],
   "offers": {
-   "Light Grey Marl": {
+   "Black/Grey": {
     "S": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-light-grey-marl-165580?variant=66874647183664",
-     "sourceVariantID": "66874647183664",
-     "sourceSKU": "100267079-S"
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey?variant=43534256472270",
+     "sourceVariantID": "43534256472270",
+     "sourceSKU": "21148765"
     },
     "M": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-light-grey-marl-165580?variant=66874647216432",
-     "sourceVariantID": "66874647216432",
-     "sourceSKU": "100267079-M"
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey?variant=43534256505038",
+     "sourceVariantID": "43534256505038",
+     "sourceSKU": "21148764"
     },
     "L": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-light-grey-marl-165580?variant=66874647249200",
-     "sourceVariantID": "66874647249200",
-     "sourceSKU": "100267079-L"
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey?variant=43534256537806",
+     "sourceVariantID": "43534256537806",
+     "sourceSKU": "21148763"
     },
     "XL": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-light-grey-marl-165580?variant=66874647281968",
-     "sourceVariantID": "66874647281968",
-     "sourceSKU": "100267079-XL"
-    },
-    "2XL": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-light-grey-marl-165580?variant=66874647314736",
-     "sourceVariantID": "66874647314736",
-     "sourceSKU": "100267079-2XL"
-    }
-   },
-   "Vector Navy": {
-    "S": {
-     "usd": 35,
-     "etb": 5666,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-vector-navy-165580?variant=66874647576880",
-     "sourceVariantID": "66874647576880",
-     "sourceSKU": "100267078-S"
-    },
-    "M": {
-     "usd": 35,
-     "etb": 5666,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-vector-navy-165580?variant=66874647609648",
-     "sourceVariantID": "66874647609648",
-     "sourceSKU": "100267078-M"
-    },
-    "L": {
-     "usd": 35,
-     "etb": 5666,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-vector-navy-165580?variant=66874647642416",
-     "sourceVariantID": "66874647642416",
-     "sourceSKU": "100267078-L"
-    },
-    "XL": {
-     "usd": 35,
-     "etb": 5666,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-vector-navy-165580?variant=66874647675184",
-     "sourceVariantID": "66874647675184",
-     "sourceSKU": "100267078-XL"
-    },
-    "2XL": {
-     "usd": 35,
-     "etb": 5666,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-vector-navy-165580?variant=66874647707952",
-     "sourceVariantID": "66874647707952",
-     "sourceSKU": "100267078-2XL"
-    }
-   },
-   "White": {
-    "S": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-white-165580?variant=66874647380272",
-     "sourceVariantID": "66874647380272",
-     "sourceSKU": "100267077-S"
-    },
-    "M": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-white-165580?variant=66874647413040",
-     "sourceVariantID": "66874647413040",
-     "sourceSKU": "100267077-M"
-    },
-    "L": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-white-165580?variant=66874647445808",
-     "sourceVariantID": "66874647445808",
-     "sourceSKU": "100267077-L"
-    },
-    "XL": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-white-165580?variant=66874647478576",
-     "sourceVariantID": "66874647478576",
-     "sourceSKU": "100267077-XL"
-    },
-    "2XL": {
-     "usd": 24.99,
-     "etb": 4045,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-white-165580?variant=66874647511344",
-     "sourceVariantID": "66874647511344",
-     "sourceSKU": "100267077-2XL"
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey?variant=43534256570574",
+     "sourceVariantID": "43534256570574",
+     "sourceSKU": "21148766"
     }
    }
   },
   "variants": {
-   "Light Grey Marl": [
-    "/images/catalog/645e7eba7ee2405266.jpg",
-    "/images/catalog/7627c8b276dc121a76.jpg",
-    "/images/catalog/4d319ecef3fe192560.jpg",
-    "/images/catalog/3ec466b0fb4cfb99eb.jpg"
-   ],
-   "Vector Navy": [
-    "/images/catalog/d5c492332f9eae28e9.jpg"
-   ],
-   "White": [
-    "/images/catalog/68dabc4c3ea324ec8e.jpg",
-    "/images/catalog/65446c213587997dfa.jpg",
-    "/images/catalog/8f4daf4dbbcb203373.jpg",
-    "/images/catalog/69137accd48def55a2.jpg"
+   "Black/Grey": [
+    "/images/catalog/610db9efd98e454640.webp",
+    "/images/catalog/d9c599371990802751.webp",
+    "/images/catalog/53b9cd293c686a7079.webp",
+    "/images/catalog/bfed1e735fcd97d072.webp"
    ]
   },
   "swatches": {
-   "Light Grey Marl": "#787c80",
-   "Vector Navy": "#3d6387",
-   "White": "#f0ece3"
+   "Black/Grey": "#202124"
   },
   "sourceURLs": {
-   "Light Grey Marl": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-light-grey-marl-165580",
-   "Vector Navy": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-vector-navy-165580",
-   "White": "https://www.reebok.com/products/reebok-mens-relaxed-logo-t-shirt-white-165580"
+   "Black/Grey": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Light Grey Marl",
-   "Vector Navy",
-   "White"
+   "Black/Grey"
   ],
   "images": [
-   "/images/catalog/645e7eba7ee2405266.jpg",
-   "/images/catalog/7627c8b276dc121a76.jpg",
-   "/images/catalog/4d319ecef3fe192560.jpg",
-   "/images/catalog/3ec466b0fb4cfb99eb.jpg",
-   "/images/catalog/d5c492332f9eae28e9.jpg",
-   "/images/catalog/68dabc4c3ea324ec8e.jpg",
-   "/images/catalog/65446c213587997dfa.jpg",
-   "/images/catalog/8f4daf4dbbcb203373.jpg",
-   "/images/catalog/69137accd48def55a2.jpg"
+   "/images/catalog/610db9efd98e454640.webp",
+   "/images/catalog/d9c599371990802751.webp",
+   "/images/catalog/53b9cd293c686a7079.webp",
+   "/images/catalog/bfed1e735fcd97d072.webp"
   ]
  },
  {
-  "id": "reebok-leggings",
-  "name": "Reebok Women's High-Rise Printed Leggings",
+  "id": "clothing-10053384438064",
+  "name": "Reebok Wardrobe Essentials Retro Zip Top",
   "brand": "Reebok",
   "department": "Clothes",
-  "category": "Leggings",
+  "category": "Jackets",
   "audience": "Women",
-  "price": 5664,
-  "tag": "Brand-store selection",
-  "description": "Versatile training leggings with a subtle print.",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Jackets for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
-   "XS",
    "S",
    "M",
    "L",
-   "XL",
-   "2XL"
+   "XL"
+  ],
+  "offers": {
+   "Silver Marl": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-retro-zip-top-silver-marl-154903?variant=50505324822832",
+     "sourceVariantID": "50505324822832",
+     "sourceSKU": "100253829-S"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-retro-zip-top-silver-marl-154903?variant=50505324855600",
+     "sourceVariantID": "50505324855600",
+     "sourceSKU": "100253829-M"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-retro-zip-top-silver-marl-154903?variant=50505324888368",
+     "sourceVariantID": "50505324888368",
+     "sourceSKU": "100253829-L"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-retro-zip-top-silver-marl-154903?variant=50505324921136",
+     "sourceVariantID": "50505324921136",
+     "sourceSKU": "100253829-XL"
+    }
+   }
+  },
+  "variants": {
+   "Silver Marl": [
+    "/images/catalog/c30a1ed95621cd27bd.webp",
+    "/images/catalog/5a30a4f8213f2731fe.webp",
+    "/images/catalog/fc0df69b1ccab509ef.webp",
+    "/images/catalog/446540d5771c55549b.webp"
+   ]
+  },
+  "swatches": {
+   "Silver Marl": "#bcc1c6"
+  },
+  "sourceURLs": {
+   "Silver Marl": "https://www.reebok.com/products/reebok-womens-wardrobe-essentials-retro-zip-top-silver-marl-154903"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Silver Marl"
+  ],
+  "images": [
+   "/images/catalog/c30a1ed95621cd27bd.webp",
+   "/images/catalog/5a30a4f8213f2731fe.webp",
+   "/images/catalog/fc0df69b1ccab509ef.webp",
+   "/images/catalog/446540d5771c55549b.webp"
+  ]
+ },
+ {
+  "id": "clothing-7699715686606",
+  "name": "Original Sin Neck Bling Washed Pullover Fleece Hoodie",
+  "brand": "Original Sin",
+  "department": "Clothes",
+  "category": "Hoodies",
+  "audience": "Men",
+  "price": 5662,
+  "tag": "Style edit",
+  "description": "Hoodies for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Grey": {
+    "S": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey?variant=43534255980750",
+     "sourceVariantID": "43534255980750",
+     "sourceSKU": "21148786"
+    },
+    "M": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey?variant=43534256013518",
+     "sourceVariantID": "43534256013518",
+     "sourceSKU": "21148785"
+    },
+    "L": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey?variant=43534256046286",
+     "sourceVariantID": "43534256046286",
+     "sourceSKU": "21148784"
+    },
+    "XL": {
+     "usd": 34.98,
+     "etb": 5662,
+     "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey?variant=43534256079054",
+     "sourceVariantID": "43534256079054",
+     "sourceSKU": "21148787"
+    }
+   }
+  },
+  "variants": {
+   "Grey": [
+    "/images/catalog/f26facb53a16f2441c.webp",
+    "/images/catalog/d019239abe98a93a90.webp",
+    "/images/catalog/e564d324035f030aa2.webp",
+    "/images/catalog/7fe4f04ab2ba3a3b06.webp"
+   ]
+  },
+  "swatches": {
+   "Grey": "#85858b"
+  },
+  "sourceURLs": {
+   "Grey": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Grey"
+  ],
+  "images": [
+   "/images/catalog/f26facb53a16f2441c.webp",
+   "/images/catalog/d019239abe98a93a90.webp",
+   "/images/catalog/e564d324035f030aa2.webp",
+   "/images/catalog/7fe4f04ab2ba3a3b06.webp"
+  ]
+ },
+ {
+  "id": "clothing-7167500451973",
+  "name": "Steve Madden Cressa Top Silver",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 4855,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Silver": {
+    "S": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/bp405671-silver?variant=41261230424197",
+     "sourceVariantID": "41261230424197",
+     "sourceSKU": "BP405671"
+    },
+    "M": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/bp405671-silver?variant=41261230293125",
+     "sourceVariantID": "41261230293125",
+     "sourceSKU": "BP405671"
+    },
+    "L": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/bp405671-silver?variant=41261230325893",
+     "sourceVariantID": "41261230325893",
+     "sourceSKU": "BP405671"
+    },
+    "XL": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/bp405671-silver?variant=41261230260357",
+     "sourceVariantID": "41261230260357",
+     "sourceSKU": "BP405671"
+    }
+   }
+  },
+  "variants": {
+   "Silver": [
+    "/images/catalog/470e220c38f3e3ee50.webp",
+    "/images/catalog/7a472a2b3676a91941.webp",
+    "/images/catalog/14c260e1915c3af73e.webp",
+    "/images/catalog/7956ff0ceaf54be36c.webp"
+   ]
+  },
+  "swatches": {
+   "Silver": "#bcc1c6"
+  },
+  "sourceURLs": {
+   "Silver": "https://www.stevemadden.com/products/bp405671-silver"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Silver"
+  ],
+  "images": [
+   "/images/catalog/470e220c38f3e3ee50.webp",
+   "/images/catalog/7a472a2b3676a91941.webp",
+   "/images/catalog/14c260e1915c3af73e.webp",
+   "/images/catalog/7956ff0ceaf54be36c.webp"
+  ]
+ },
+ {
+  "id": "clothing-7716669423822",
+  "name": "Nike Sportswear Max 90 Long Sleeve Shirt",
+  "brand": "Nike",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 4853,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
   ],
   "offers": {
    "Black": {
-    "XS": {
-     "usd": 34.99,
-     "etb": 5664,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660290864",
-     "sourceVariantID": "66874660290864",
-     "sourceSKU": "100266283-XS"
-    },
     "S": {
-     "usd": 34.99,
-     "etb": 5664,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660323632",
-     "sourceVariantID": "66874660323632",
-     "sourceSKU": "100266283-S"
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/nike-jf5984-010-sportswear-max-90-mens-long-sleeve-shirt-black?variant=43611364229326",
+     "sourceVariantID": "43611364229326",
+     "sourceSKU": "21160617"
     },
     "M": {
-     "usd": 34.99,
-     "etb": 5664,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660356400",
-     "sourceVariantID": "66874660356400",
-     "sourceSKU": "100266283-M"
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/nike-jf5984-010-sportswear-max-90-mens-long-sleeve-shirt-black?variant=43611364262094",
+     "sourceVariantID": "43611364262094",
+     "sourceSKU": "21160616"
     },
     "L": {
-     "usd": 34.99,
-     "etb": 5664,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660389168",
-     "sourceVariantID": "66874660389168",
-     "sourceSKU": "100266283-L"
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/nike-jf5984-010-sportswear-max-90-mens-long-sleeve-shirt-black?variant=43611364294862",
+     "sourceVariantID": "43611364294862",
+     "sourceSKU": "21160615"
     },
     "XL": {
-     "usd": 34.99,
-     "etb": 5664,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660421936",
-     "sourceVariantID": "66874660421936",
-     "sourceSKU": "100266283-XL"
-    },
-    "2XL": {
-     "usd": 34.99,
-     "etb": 5664,
-     "sourceURL": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093?variant=66874660454704",
-     "sourceVariantID": "66874660454704",
-     "sourceSKU": "100266283-2XL"
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/nike-jf5984-010-sportswear-max-90-mens-long-sleeve-shirt-black?variant=43611364327630",
+     "sourceVariantID": "43611364327630",
+     "sourceSKU": "21160618"
     }
    }
   },
   "variants": {
    "Black": [
-    "/images/catalog/9c5a35377df806f815.jpg",
-    "/images/catalog/9692153f0e206c5ecc.jpg",
-    "/images/catalog/76985e0d9273c88854.jpg",
-    "/images/catalog/b5729084d5a62a34ac.jpg"
+    "/images/catalog/76060aa03ad16f2d96.webp",
+    "/images/catalog/b2acf5dddf9d72be36.webp",
+    "/images/catalog/6cf03eca68096c5fc3.webp",
+    "/images/catalog/da8086d333f05d6f1d.webp"
    ]
   },
   "swatches": {
-   "Black": "#242629"
+   "Black": "#202124"
   },
   "sourceURLs": {
-   "Black": "https://www.reebok.com/products/reebok-womens-high-rise-printed-leggings-black-165093"
+   "Black": "https://www.shoepalace.com/products/nike-jf5984-010-sportswear-max-90-mens-long-sleeve-shirt-black"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
@@ -5002,139 +7743,1926 @@ window.catalog = [
    "Black"
   ],
   "images": [
-   "/images/catalog/9c5a35377df806f815.jpg",
-   "/images/catalog/9692153f0e206c5ecc.jpg",
-   "/images/catalog/76985e0d9273c88854.jpg",
-   "/images/catalog/b5729084d5a62a34ac.jpg"
+   "/images/catalog/76060aa03ad16f2d96.webp",
+   "/images/catalog/b2acf5dddf9d72be36.webp",
+   "/images/catalog/6cf03eca68096c5fc3.webp",
+   "/images/catalog/da8086d333f05d6f1d.webp"
   ]
  },
  {
-  "id": "reebok-joggers",
-  "name": "Reebok Men's French Terry Logo Joggers",
-  "brand": "Reebok",
+  "id": "clothing-7159515709573",
+  "name": "Steve Madden Baylee Top Black",
+  "brand": "Steve Madden",
   "department": "Clothes",
-  "category": "Joggers",
-  "audience": "Men",
-  "price": 7284,
-  "tag": "Brand-store selection",
-  "description": "Fleece joggers with a classic logo hit.",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
-   "XS",
    "S",
    "M",
    "L",
-   "XL",
-   "2XL"
+   "XL"
   ],
   "offers": {
    "Black": {
-    "XS": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-black-164286?variant=66874659569968",
-     "sourceVariantID": "66874659569968",
-     "sourceSKU": "100265183-XS"
-    },
     "S": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-black-164286?variant=66874659602736",
-     "sourceVariantID": "66874659602736",
-     "sourceSKU": "100265183-S"
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp405657-black?variant=41237980217477",
+     "sourceVariantID": "41237980217477",
+     "sourceSKU": "BP405657"
     },
     "M": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-black-164286?variant=66874659635504",
-     "sourceVariantID": "66874659635504",
-     "sourceSKU": "100265183-M"
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp405657-black?variant=41237980283013",
+     "sourceVariantID": "41237980283013",
+     "sourceSKU": "BP405657"
     },
     "L": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-black-164286?variant=66874659668272",
-     "sourceVariantID": "66874659668272",
-     "sourceSKU": "100265183-L"
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp405657-black?variant=41237980348549",
+     "sourceVariantID": "41237980348549",
+     "sourceSKU": "BP405657"
     },
     "XL": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-black-164286?variant=66874659701040",
-     "sourceVariantID": "66874659701040",
-     "sourceSKU": "100265183-XL"
-    },
-    "2XL": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-black-164286?variant=66874659733808",
-     "sourceVariantID": "66874659733808",
-     "sourceSKU": "100265183-2XL"
-    }
-   },
-   "Light Grey Marl": {
-    "S": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-light-grey-marl-164286?variant=66874660094256",
-     "sourceVariantID": "66874660094256",
-     "sourceSKU": "100265185-S"
-    },
-    "M": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-light-grey-marl-164286?variant=66874660127024",
-     "sourceVariantID": "66874660127024",
-     "sourceSKU": "100265185-M"
-    },
-    "L": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-light-grey-marl-164286?variant=66874660159792",
-     "sourceVariantID": "66874660159792",
-     "sourceSKU": "100265185-L"
-    },
-    "XL": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-light-grey-marl-164286?variant=66874660192560",
-     "sourceVariantID": "66874660192560",
-     "sourceSKU": "100265185-XL"
-    },
-    "2XL": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-light-grey-marl-164286?variant=66874660225328",
-     "sourceVariantID": "66874660225328",
-     "sourceSKU": "100265185-2XL"
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp405657-black?variant=41237980250245",
+     "sourceVariantID": "41237980250245",
+     "sourceSKU": "BP405657"
     }
    }
   },
   "variants": {
    "Black": [
-    "/images/catalog/6c1e435df74a2db25d.jpg"
-   ],
-   "Light Grey Marl": [
-    "/images/catalog/62aa2410c0829ec3ab.jpg"
+    "/images/catalog/26fb13c6368cc74e1c.webp",
+    "/images/catalog/b6fd50c1b44d655d9c.webp",
+    "/images/catalog/192823a4b06e46a201.webp",
+    "/images/catalog/c7262343d6ca91d6db.webp"
    ]
   },
   "swatches": {
-   "Black": "#242629",
-   "Light Grey Marl": "#787c80"
+   "Black": "#202124"
   },
   "sourceURLs": {
-   "Black": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-black-164286",
-   "Light Grey Marl": "https://www.reebok.com/products/reebok-mens-french-terry-logo-joggers-light-grey-marl-164286"
+   "Black": "https://www.stevemadden.com/products/bp405657-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/26fb13c6368cc74e1c.webp",
+   "/images/catalog/b6fd50c1b44d655d9c.webp",
+   "/images/catalog/192823a4b06e46a201.webp",
+   "/images/catalog/c7262343d6ca91d6db.webp"
+  ]
+ },
+ {
+  "id": "clothing-7707877146830",
+  "name": "Nike Kobe Bryant 1996 Draft Pack Short Sleeve Shirt",
+  "brand": "Nike",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 6472,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black/Yellow": {
+    "S": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-if4959-010-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-black-yellow?variant=43572838826190",
+     "sourceVariantID": "43572838826190",
+     "sourceSKU": "21131775"
+    },
+    "M": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-if4959-010-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-black-yellow?variant=43572838858958",
+     "sourceVariantID": "43572838858958",
+     "sourceSKU": "21131774"
+    },
+    "L": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-if4959-010-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-black-yellow?variant=43572838891726",
+     "sourceVariantID": "43572838891726",
+     "sourceSKU": "21131773"
+    },
+    "XL": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-if4959-010-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-black-yellow?variant=43572838924494",
+     "sourceVariantID": "43572838924494",
+     "sourceSKU": "21131776"
+    }
+   },
+   "White": {
+    "S": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-if4959-100-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-white?variant=43569742872782",
+     "sourceVariantID": "43569742872782",
+     "sourceSKU": "21131780"
+    },
+    "M": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-if4959-100-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-white?variant=43569742905550",
+     "sourceVariantID": "43569742905550",
+     "sourceSKU": "21131779"
+    },
+    "L": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-if4959-100-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-white?variant=43569742938318",
+     "sourceVariantID": "43569742938318",
+     "sourceSKU": "21131778"
+    },
+    "XL": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-if4959-100-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-white?variant=43569742971086",
+     "sourceVariantID": "43569742971086",
+     "sourceSKU": "21131781"
+    }
+   }
+  },
+  "variants": {
+   "Black/Yellow": [
+    "/images/catalog/4966e7bab12b545102.webp",
+    "/images/catalog/42aff22379f6898d11.webp",
+    "/images/catalog/7ceb4fe422cbb32b6b.webp",
+    "/images/catalog/68fc21aaa894465536.webp"
+   ],
+   "White": [
+    "/images/catalog/df5d93e4f5fb03f22b.webp",
+    "/images/catalog/c7845ea2c4354bfc90.webp",
+    "/images/catalog/322a4cca864c3244e5.webp",
+    "/images/catalog/e4392d6b1399a2ccc2.webp"
+   ]
+  },
+  "swatches": {
+   "Black/Yellow": "#202124",
+   "White": "#eeeae4"
+  },
+  "sourceURLs": {
+   "Black/Yellow": "https://www.shoepalace.com/products/nike-if4959-010-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-black-yellow",
+   "White": "https://www.shoepalace.com/products/nike-if4959-100-kobe-bryant-1996-draft-pack-mens-short-sleeve-shirt-white"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black/Yellow",
+   "White"
+  ],
+  "images": [
+   "/images/catalog/4966e7bab12b545102.webp",
+   "/images/catalog/42aff22379f6898d11.webp",
+   "/images/catalog/7ceb4fe422cbb32b6b.webp",
+   "/images/catalog/68fc21aaa894465536.webp",
+   "/images/catalog/df5d93e4f5fb03f22b.webp",
+   "/images/catalog/c7845ea2c4354bfc90.webp",
+   "/images/catalog/322a4cca864c3244e5.webp",
+   "/images/catalog/e4392d6b1399a2ccc2.webp"
+  ]
+ },
+ {
+  "id": "clothing-7139564716165",
+  "name": "Steve Madden Alessa Top Wine",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Wine": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp304717-wine?variant=41176282693765",
+     "sourceVariantID": "41176282693765",
+     "sourceSKU": "BP304717"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp304717-wine?variant=41176282595461",
+     "sourceVariantID": "41176282595461",
+     "sourceSKU": "BP304717"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp304717-wine?variant=41176282660997",
+     "sourceVariantID": "41176282660997",
+     "sourceSKU": "BP304717"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp304717-wine?variant=41176282628229",
+     "sourceVariantID": "41176282628229",
+     "sourceSKU": "BP304717"
+    }
+   }
+  },
+  "variants": {
+   "Wine": [
+    "/images/catalog/9c351b7b7a83891713.webp",
+    "/images/catalog/d33fbd2679fc74b700.webp",
+    "/images/catalog/9b2c89deef3b16f45d.webp",
+    "/images/catalog/392a34e6df045c0b9d.webp"
+   ]
+  },
+  "swatches": {
+   "Wine": "#722f46"
+  },
+  "sourceURLs": {
+   "Wine": "https://www.stevemadden.com/products/bp304717-wine"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Wine"
+  ],
+  "images": [
+   "/images/catalog/9c351b7b7a83891713.webp",
+   "/images/catalog/d33fbd2679fc74b700.webp",
+   "/images/catalog/9b2c89deef3b16f45d.webp",
+   "/images/catalog/392a34e6df045c0b9d.webp"
+  ]
+ },
+ {
+  "id": "clothing-7685773164750",
+  "name": "Nike Kobe Mamba Day Dri Fit Short Sleeve Shirt",
+  "brand": "Nike",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 6472,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-ih2428-010-kobe-mamba-day-dri-fit-mens-short-sleeve-shirt-black?variant=43468638486734",
+     "sourceVariantID": "43468638486734",
+     "sourceSKU": "21132963"
+    },
+    "M": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-ih2428-010-kobe-mamba-day-dri-fit-mens-short-sleeve-shirt-black?variant=43468638519502",
+     "sourceVariantID": "43468638519502",
+     "sourceSKU": "21132962"
+    },
+    "L": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-ih2428-010-kobe-mamba-day-dri-fit-mens-short-sleeve-shirt-black?variant=43468638552270",
+     "sourceVariantID": "43468638552270",
+     "sourceSKU": "21132961"
+    },
+    "XL": {
+     "usd": 39.98,
+     "etb": 6472,
+     "sourceURL": "https://www.shoepalace.com/products/nike-ih2428-010-kobe-mamba-day-dri-fit-mens-short-sleeve-shirt-black?variant=43468638585038",
+     "sourceVariantID": "43468638585038",
+     "sourceSKU": "21132964"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/9ffb5d918463a2a604.webp",
+    "/images/catalog/b65271669f2f4ac158.webp",
+    "/images/catalog/522825139faf6091c1.webp",
+    "/images/catalog/f846a49d9678846c80.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.shoepalace.com/products/nike-ih2428-010-kobe-mamba-day-dri-fit-mens-short-sleeve-shirt-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/9ffb5d918463a2a604.webp",
+   "/images/catalog/b65271669f2f4ac158.webp",
+   "/images/catalog/522825139faf6091c1.webp",
+   "/images/catalog/f846a49d9678846c80.webp"
+  ]
+ },
+ {
+  "id": "clothing-7139565011077",
+  "name": "Steve Madden Roxanne Top Bone",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Bone": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp304708-bone?variant=41176284037253",
+     "sourceVariantID": "41176284037253",
+     "sourceSKU": "BP304708"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp304708-bone?variant=41176284070021",
+     "sourceVariantID": "41176284070021",
+     "sourceSKU": "BP304708"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp304708-bone?variant=41176284135557",
+     "sourceVariantID": "41176284135557",
+     "sourceSKU": "BP304708"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/bp304708-bone?variant=41176284201093",
+     "sourceVariantID": "41176284201093",
+     "sourceSKU": "BP304708"
+    }
+   }
+  },
+  "variants": {
+   "Bone": [
+    "/images/catalog/1b1526088001e36df6.webp",
+    "/images/catalog/105eb9a4e29a2413fa.webp",
+    "/images/catalog/a236b03983d7a5d473.webp",
+    "/images/catalog/b4e0c94a68808ee589.webp"
+   ]
+  },
+  "swatches": {
+   "Bone": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Bone": "https://www.stevemadden.com/products/bp304708-bone"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Bone"
+  ],
+  "images": [
+   "/images/catalog/1b1526088001e36df6.webp",
+   "/images/catalog/105eb9a4e29a2413fa.webp",
+   "/images/catalog/a236b03983d7a5d473.webp",
+   "/images/catalog/b4e0c94a68808ee589.webp"
+  ]
+ },
+ {
+  "id": "clothing-7716665655502",
+  "name": "Jordan Brooklyn Short Sleeve Shirt",
+  "brand": "Jordan",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 4044,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-iu1838-010-brooklyn-mens-short-sleeve-shirt-black?variant=43611349713102",
+     "sourceVariantID": "43611349713102",
+     "sourceSKU": "21142628"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-iu1838-010-brooklyn-mens-short-sleeve-shirt-black?variant=43611349745870",
+     "sourceVariantID": "43611349745870",
+     "sourceSKU": "21142627"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-iu1838-010-brooklyn-mens-short-sleeve-shirt-black?variant=43611349778638",
+     "sourceVariantID": "43611349778638",
+     "sourceSKU": "21142626"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-iu1838-010-brooklyn-mens-short-sleeve-shirt-black?variant=43611349811406",
+     "sourceVariantID": "43611349811406",
+     "sourceSKU": "21142629"
+    }
+   },
+   "Black/White": {
+    "S": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-io0019-010-brooklyn-mens-short-sleeve-shirt-black-white?variant=43605851275470",
+     "sourceVariantID": "43605851275470",
+     "sourceSKU": "21142024"
+    },
+    "M": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-io0019-010-brooklyn-mens-short-sleeve-shirt-black-white?variant=43605851308238",
+     "sourceVariantID": "43605851308238",
+     "sourceSKU": "21142023"
+    },
+    "L": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-io0019-010-brooklyn-mens-short-sleeve-shirt-black-white?variant=43605851341006",
+     "sourceVariantID": "43605851341006",
+     "sourceSKU": "21142022"
+    },
+    "XL": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-io0019-010-brooklyn-mens-short-sleeve-shirt-black-white?variant=43605851373774",
+     "sourceVariantID": "43605851373774",
+     "sourceSKU": "21142025"
+    }
+   },
+   "University Red/Sail": {
+    "S": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-io0019-657-brooklyn-mens-short-sleeve-shirt-university-red-sail?variant=43602250006734",
+     "sourceVariantID": "43602250006734",
+     "sourceSKU": "21142034"
+    },
+    "M": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-io0019-657-brooklyn-mens-short-sleeve-shirt-university-red-sail?variant=43602250039502",
+     "sourceVariantID": "43602250039502",
+     "sourceSKU": "21142033"
+    },
+    "L": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-io0019-657-brooklyn-mens-short-sleeve-shirt-university-red-sail?variant=43602250072270",
+     "sourceVariantID": "43602250072270",
+     "sourceSKU": "21142032"
+    },
+    "XL": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-io0019-657-brooklyn-mens-short-sleeve-shirt-university-red-sail?variant=43602250105038",
+     "sourceVariantID": "43602250105038",
+     "sourceSKU": "21142035"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/f54cd4b39fa3b8adb8.webp",
+    "/images/catalog/01fdeeda6aa2173fee.webp",
+    "/images/catalog/1bae57395ba8b5aca5.webp",
+    "/images/catalog/f74df0223f9f53b089.webp"
+   ],
+   "Black/White": [
+    "/images/catalog/8b49b7a99a818c6ca1.webp",
+    "/images/catalog/dbbde77b6c11c8812b.webp",
+    "/images/catalog/b7ec2a357074263c83.webp"
+   ],
+   "University Red/Sail": [
+    "/images/catalog/36623d258be1462b01.webp",
+    "/images/catalog/7ef4a706ac18dae39e.webp",
+    "/images/catalog/9dbbc85896cffb37bc.webp",
+    "/images/catalog/0783f414bf1dee8e0b.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124",
+   "Black/White": "#202124",
+   "University Red/Sail": "#a73140"
+  },
+  "sourceURLs": {
+   "Black": "https://www.shoepalace.com/products/jordan-iu1838-010-brooklyn-mens-short-sleeve-shirt-black",
+   "Black/White": "https://www.shoepalace.com/products/jordan-io0019-010-brooklyn-mens-short-sleeve-shirt-black-white",
+   "University Red/Sail": "https://www.shoepalace.com/products/jordan-io0019-657-brooklyn-mens-short-sleeve-shirt-university-red-sail"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
    "Black",
-   "Light Grey Marl"
+   "Black/White",
+   "University Red/Sail"
   ],
   "images": [
-   "/images/catalog/6c1e435df74a2db25d.jpg",
-   "/images/catalog/62aa2410c0829ec3ab.jpg"
+   "/images/catalog/f54cd4b39fa3b8adb8.webp",
+   "/images/catalog/01fdeeda6aa2173fee.webp",
+   "/images/catalog/1bae57395ba8b5aca5.webp",
+   "/images/catalog/f74df0223f9f53b089.webp",
+   "/images/catalog/8b49b7a99a818c6ca1.webp",
+   "/images/catalog/dbbde77b6c11c8812b.webp",
+   "/images/catalog/b7ec2a357074263c83.webp",
+   "/images/catalog/36623d258be1462b01.webp",
+   "/images/catalog/7ef4a706ac18dae39e.webp",
+   "/images/catalog/9dbbc85896cffb37bc.webp",
+   "/images/catalog/0783f414bf1dee8e0b.webp"
+  ]
+ },
+ {
+  "id": "clothing-7271229030533",
+  "name": "Steve Madden Bryna Top Burnt Coral",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Burnt Coral": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09231-burnt-coral?variant=41621393571973",
+     "sourceVariantID": "41621393571973",
+     "sourceSKU": "SB09231"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09231-burnt-coral?variant=41621393604741",
+     "sourceVariantID": "41621393604741",
+     "sourceSKU": "SB09231"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09231-burnt-coral?variant=41621393637509",
+     "sourceVariantID": "41621393637509",
+     "sourceSKU": "SB09231"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09231-burnt-coral?variant=41621393670277",
+     "sourceVariantID": "41621393670277",
+     "sourceSKU": "SB09231"
+    }
+   }
+  },
+  "variants": {
+   "Burnt Coral": [
+    "/images/catalog/0f5ae0d0bb9815e2d9.webp",
+    "/images/catalog/fe8b805cb4ae810bdb.webp",
+    "/images/catalog/36b587bcb8d29217e2.webp",
+    "/images/catalog/f36106ee0a0600f903.webp"
+   ]
+  },
+  "swatches": {
+   "Burnt Coral": "#ed8b79"
+  },
+  "sourceURLs": {
+   "Burnt Coral": "https://www.stevemadden.com/products/sb09231-burnt-coral"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Burnt Coral"
+  ],
+  "images": [
+   "/images/catalog/0f5ae0d0bb9815e2d9.webp",
+   "/images/catalog/fe8b805cb4ae810bdb.webp",
+   "/images/catalog/36b587bcb8d29217e2.webp",
+   "/images/catalog/f36106ee0a0600f903.webp"
+  ]
+ },
+ {
+  "id": "clothing-7688601534670",
+  "name": "Jordan Brooklyn Toro Graphic Short Sleeve Shirt",
+  "brand": "Jordan",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 4853,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-ir2117-010-brooklyn-toro-graphic-mens-short-sleeve-shirt-black?variant=43482687766734",
+     "sourceVariantID": "43482687766734",
+     "sourceSKU": "21131350"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-ir2117-010-brooklyn-toro-graphic-mens-short-sleeve-shirt-black?variant=43482687799502",
+     "sourceVariantID": "43482687799502",
+     "sourceSKU": "21131349"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-ir2117-010-brooklyn-toro-graphic-mens-short-sleeve-shirt-black?variant=43482687832270",
+     "sourceVariantID": "43482687832270",
+     "sourceSKU": "21131348"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-ir2117-010-brooklyn-toro-graphic-mens-short-sleeve-shirt-black?variant=43482687865038",
+     "sourceVariantID": "43482687865038",
+     "sourceSKU": "21131351"
+    }
+   },
+   "Fire Red": {
+    "S": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-ir2117-612-brooklyn-toro-graphic-mens-short-sleeve-shirt-fire-red?variant=43483461845198",
+     "sourceVariantID": "43483461845198",
+     "sourceSKU": "21131355"
+    },
+    "M": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-ir2117-612-brooklyn-toro-graphic-mens-short-sleeve-shirt-fire-red?variant=43483461877966",
+     "sourceVariantID": "43483461877966",
+     "sourceSKU": "21131354"
+    },
+    "L": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-ir2117-612-brooklyn-toro-graphic-mens-short-sleeve-shirt-fire-red?variant=43483461910734",
+     "sourceVariantID": "43483461910734",
+     "sourceSKU": "21131353"
+    },
+    "XL": {
+     "usd": 29.98,
+     "etb": 4853,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-ir2117-612-brooklyn-toro-graphic-mens-short-sleeve-shirt-fire-red?variant=43483461943502",
+     "sourceVariantID": "43483461943502",
+     "sourceSKU": "21131356"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/1a579dbeeba26bd682.webp",
+    "/images/catalog/a1c7e8302bd4c73076.webp",
+    "/images/catalog/137c021cf695183673.webp"
+   ],
+   "Fire Red": [
+    "/images/catalog/844f081825eb66a0cb.webp",
+    "/images/catalog/5c5885e30150386125.webp",
+    "/images/catalog/b4205785debb12e2f5.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124",
+   "Fire Red": "#a73140"
+  },
+  "sourceURLs": {
+   "Black": "https://www.shoepalace.com/products/jordan-ir2117-010-brooklyn-toro-graphic-mens-short-sleeve-shirt-black",
+   "Fire Red": "https://www.shoepalace.com/products/jordan-ir2117-612-brooklyn-toro-graphic-mens-short-sleeve-shirt-fire-red"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black",
+   "Fire Red"
+  ],
+  "images": [
+   "/images/catalog/1a579dbeeba26bd682.webp",
+   "/images/catalog/a1c7e8302bd4c73076.webp",
+   "/images/catalog/137c021cf695183673.webp",
+   "/images/catalog/844f081825eb66a0cb.webp",
+   "/images/catalog/5c5885e30150386125.webp",
+   "/images/catalog/b4205785debb12e2f5.webp"
+  ]
+ },
+ {
+  "id": "clothing-7271228735621",
+  "name": "Steve Madden Tania Top Plaid",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Plaid": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09348-plaid?variant=41621391048837",
+     "sourceVariantID": "41621391048837",
+     "sourceSKU": "SB09348"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09348-plaid?variant=41621391081605",
+     "sourceVariantID": "41621391081605",
+     "sourceSKU": "SB09348"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09348-plaid?variant=41621391114373",
+     "sourceVariantID": "41621391114373",
+     "sourceSKU": "SB09348"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09348-plaid?variant=41621391147141",
+     "sourceVariantID": "41621391147141",
+     "sourceSKU": "SB09348"
+    }
+   }
+  },
+  "variants": {
+   "Plaid": [
+    "/images/catalog/d69b02be81a6c48b12.webp",
+    "/images/catalog/ac7bb360a0a2113130.webp",
+    "/images/catalog/cf68741ca1a92ef557.webp",
+    "/images/catalog/84974324da24005e1c.webp"
+   ]
+  },
+  "swatches": {
+   "Plaid": "#a29a8c"
+  },
+  "sourceURLs": {
+   "Plaid": "https://www.stevemadden.com/products/sb09348-plaid"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Plaid"
+  ],
+  "images": [
+   "/images/catalog/d69b02be81a6c48b12.webp",
+   "/images/catalog/ac7bb360a0a2113130.webp",
+   "/images/catalog/cf68741ca1a92ef557.webp",
+   "/images/catalog/84974324da24005e1c.webp"
+  ]
+ },
+ {
+  "id": "clothing-7666435391694",
+  "name": "Jordan Brooklyn Graphic Flannel Long Sleeve Shirt",
+  "brand": "Jordan",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 6470,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black/Sail": {
+    "S": {
+     "usd": 39.97,
+     "etb": 6470,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-if1857-010-brooklyn-graphic-flannel-mens-long-sleeve-shirt-black-sail?variant=43380196409550",
+     "sourceVariantID": "43380196409550",
+     "sourceSKU": "21121677"
+    },
+    "M": {
+     "usd": 39.97,
+     "etb": 6470,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-if1857-010-brooklyn-graphic-flannel-mens-long-sleeve-shirt-black-sail?variant=43380196442318",
+     "sourceVariantID": "43380196442318",
+     "sourceSKU": "21121676"
+    },
+    "L": {
+     "usd": 39.97,
+     "etb": 6470,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-if1857-010-brooklyn-graphic-flannel-mens-long-sleeve-shirt-black-sail?variant=43380196475086",
+     "sourceVariantID": "43380196475086",
+     "sourceSKU": "21121675"
+    },
+    "XL": {
+     "usd": 39.97,
+     "etb": 6470,
+     "sourceURL": "https://www.shoepalace.com/products/jordan-if1857-010-brooklyn-graphic-flannel-mens-long-sleeve-shirt-black-sail?variant=43380196507854",
+     "sourceVariantID": "43380196507854",
+     "sourceSKU": "21121678"
+    }
+   }
+  },
+  "variants": {
+   "Black/Sail": [
+    "/images/catalog/4033a24145fbeee248.webp",
+    "/images/catalog/74005335a940cbccfc.webp",
+    "/images/catalog/7a22bee09269cea2a9.webp"
+   ]
+  },
+  "swatches": {
+   "Black/Sail": "#202124"
+  },
+  "sourceURLs": {
+   "Black/Sail": "https://www.shoepalace.com/products/jordan-if1857-010-brooklyn-graphic-flannel-mens-long-sleeve-shirt-black-sail"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black/Sail"
+  ],
+  "images": [
+   "/images/catalog/4033a24145fbeee248.webp",
+   "/images/catalog/74005335a940cbccfc.webp",
+   "/images/catalog/7a22bee09269cea2a9.webp"
+  ]
+ },
+ {
+  "id": "clothing-7225062817925",
+  "name": "Steve Madden Meaghan Top Blue Heather",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 6473,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Blue Heather": {
+    "S": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09255-blue-heather?variant=41463913480325",
+     "sourceVariantID": "41463913480325",
+     "sourceSKU": "SB09255"
+    },
+    "M": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09255-blue-heather?variant=41463913513093",
+     "sourceVariantID": "41463913513093",
+     "sourceSKU": "SB09255"
+    },
+    "L": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09255-blue-heather?variant=41463913545861",
+     "sourceVariantID": "41463913545861",
+     "sourceSKU": "SB09255"
+    },
+    "XL": {
+     "usd": 39.99,
+     "etb": 6473,
+     "sourceURL": "https://www.stevemadden.com/products/sb09255-blue-heather?variant=41463913578629",
+     "sourceVariantID": "41463913578629",
+     "sourceSKU": "SB09255"
+    }
+   }
+  },
+  "variants": {
+   "Blue Heather": [
+    "/images/catalog/678c2fed9316f629e9.webp",
+    "/images/catalog/f7c297d9ceafd6adb2.webp",
+    "/images/catalog/391cde5271cc76daf8.webp",
+    "/images/catalog/0c67e903a3c8cbb51f.webp"
+   ]
+  },
+  "swatches": {
+   "Blue Heather": "#4b7694"
+  },
+  "sourceURLs": {
+   "Blue Heather": "https://www.stevemadden.com/products/sb09255-blue-heather"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Blue Heather"
+  ],
+  "images": [
+   "/images/catalog/678c2fed9316f629e9.webp",
+   "/images/catalog/f7c297d9ceafd6adb2.webp",
+   "/images/catalog/391cde5271cc76daf8.webp",
+   "/images/catalog/0c67e903a3c8cbb51f.webp"
+  ]
+ },
+ {
+  "id": "clothing-7713072185550",
+  "name": "Adidas FIFA World Cup 26 Striker Mascot Short Sleeve Shirt",
+  "brand": "Adidas",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 4044,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Cloud White": {
+    "S": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/adidas-kb6216-fifa-world-cup-26-striker-mascot-mens-short-sleeve-shirt-cloud-white?variant=43597181812942",
+     "sourceVariantID": "43597181812942",
+     "sourceSKU": "21082193"
+    },
+    "M": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/adidas-kb6216-fifa-world-cup-26-striker-mascot-mens-short-sleeve-shirt-cloud-white?variant=43597181845710",
+     "sourceVariantID": "43597181845710",
+     "sourceSKU": "21082192"
+    },
+    "L": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/adidas-kb6216-fifa-world-cup-26-striker-mascot-mens-short-sleeve-shirt-cloud-white?variant=43597181878478",
+     "sourceVariantID": "43597181878478",
+     "sourceSKU": "21082191"
+    },
+    "XL": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/adidas-kb6216-fifa-world-cup-26-striker-mascot-mens-short-sleeve-shirt-cloud-white?variant=43597181911246",
+     "sourceVariantID": "43597181911246",
+     "sourceSKU": "21082194"
+    }
+   }
+  },
+  "variants": {
+   "Cloud White": [
+    "/images/catalog/5423e0130f5b17b536.webp",
+    "/images/catalog/43a7dcaf1441692f51.webp",
+    "/images/catalog/99c95a6c71f0746814.webp",
+    "/images/catalog/8ffcd8103c44c30682.webp"
+   ]
+  },
+  "swatches": {
+   "Cloud White": "#eeeae4"
+  },
+  "sourceURLs": {
+   "Cloud White": "https://www.shoepalace.com/products/adidas-kb6216-fifa-world-cup-26-striker-mascot-mens-short-sleeve-shirt-cloud-white"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Cloud White"
+  ],
+  "images": [
+   "/images/catalog/5423e0130f5b17b536.webp",
+   "/images/catalog/43a7dcaf1441692f51.webp",
+   "/images/catalog/99c95a6c71f0746814.webp",
+   "/images/catalog/8ffcd8103c44c30682.webp"
+  ]
+ },
+ {
+  "id": "clothing-7225297633413",
+  "name": "Steve Madden Judee Knit Top Black",
+  "brand": "Steve Madden",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 4855,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/sb10392-black?variant=41464412995717",
+     "sourceVariantID": "41464412995717",
+     "sourceSKU": "SB10392"
+    },
+    "M": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/sb10392-black?variant=41464413028485",
+     "sourceVariantID": "41464413028485",
+     "sourceSKU": "SB10392"
+    },
+    "L": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/sb10392-black?variant=41464413061253",
+     "sourceVariantID": "41464413061253",
+     "sourceSKU": "SB10392"
+    },
+    "XL": {
+     "usd": 29.99,
+     "etb": 4855,
+     "sourceURL": "https://www.stevemadden.com/products/sb10392-black?variant=41464413094021",
+     "sourceVariantID": "41464413094021",
+     "sourceSKU": "SB10392"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/63ee3ccbf076f17b0e.webp",
+    "/images/catalog/8aec002a01680cd04a.webp",
+    "/images/catalog/af5925238c4d7354d6.webp",
+    "/images/catalog/17e228640b7fe52270.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.stevemadden.com/products/sb10392-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/63ee3ccbf076f17b0e.webp",
+   "/images/catalog/8aec002a01680cd04a.webp",
+   "/images/catalog/af5925238c4d7354d6.webp",
+   "/images/catalog/17e228640b7fe52270.webp"
+  ]
+ },
+ {
+  "id": "clothing-7713167933646",
+  "name": "Adidas FIFA World Cup 26 Group Mascot Short Sleeve Shirt",
+  "brand": "Adidas",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 4044,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Cloud White": {
+    "S": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/adidas-ke2038-fifa-world-cup-26-group-mascot-mens-short-sleeve-shirt-cloud-white?variant=43597456736462",
+     "sourceVariantID": "43597456736462",
+     "sourceSKU": "21083034"
+    },
+    "M": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/adidas-ke2038-fifa-world-cup-26-group-mascot-mens-short-sleeve-shirt-cloud-white?variant=43597456769230",
+     "sourceVariantID": "43597456769230",
+     "sourceSKU": "21083033"
+    },
+    "L": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/adidas-ke2038-fifa-world-cup-26-group-mascot-mens-short-sleeve-shirt-cloud-white?variant=43597456801998",
+     "sourceVariantID": "43597456801998",
+     "sourceSKU": "21083032"
+    },
+    "XL": {
+     "usd": 24.98,
+     "etb": 4044,
+     "sourceURL": "https://www.shoepalace.com/products/adidas-ke2038-fifa-world-cup-26-group-mascot-mens-short-sleeve-shirt-cloud-white?variant=43597456834766",
+     "sourceVariantID": "43597456834766",
+     "sourceSKU": "21083035"
+    }
+   }
+  },
+  "variants": {
+   "Cloud White": [
+    "/images/catalog/b054fa09a51c54705a.webp",
+    "/images/catalog/9b386a4476ee792cda.webp",
+    "/images/catalog/292e9ce1ca46ceb5ad.webp",
+    "/images/catalog/262affee7d788325dc.webp"
+   ]
+  },
+  "swatches": {
+   "Cloud White": "#eeeae4"
+  },
+  "sourceURLs": {
+   "Cloud White": "https://www.shoepalace.com/products/adidas-ke2038-fifa-world-cup-26-group-mascot-mens-short-sleeve-shirt-cloud-white"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Cloud White"
+  ],
+  "images": [
+   "/images/catalog/b054fa09a51c54705a.webp",
+   "/images/catalog/9b386a4476ee792cda.webp",
+   "/images/catalog/292e9ce1ca46ceb5ad.webp",
+   "/images/catalog/262affee7d788325dc.webp"
+  ]
+ },
+ {
+  "id": "clothing-9363149521084",
+  "name": "Nike Slawn x Nigeria x Nike Soccer Top",
+  "brand": "Nike",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 6855,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black/White": {
+    "S": {
+     "usd": 42.35,
+     "etb": 6855,
+     "sourceURL": "https://sneakerpolitics.com/products/womens-slawn-x-nigeria-x-nike-soccer-top-black-white?variant=46871018111164",
+     "sourceVariantID": "46871018111164",
+     "sourceSKU": "IB4705-010|S"
+    },
+    "M": {
+     "usd": 42.35,
+     "etb": 6855,
+     "sourceURL": "https://sneakerpolitics.com/products/womens-slawn-x-nigeria-x-nike-soccer-top-black-white?variant=46871018143932",
+     "sourceVariantID": "46871018143932",
+     "sourceSKU": "IB4705-010|M"
+    },
+    "L": {
+     "usd": 42.35,
+     "etb": 6855,
+     "sourceURL": "https://sneakerpolitics.com/products/womens-slawn-x-nigeria-x-nike-soccer-top-black-white?variant=46871018176700",
+     "sourceVariantID": "46871018176700",
+     "sourceSKU": "IB4705-010|L"
+    },
+    "XL": {
+     "usd": 42.35,
+     "etb": 6855,
+     "sourceURL": "https://sneakerpolitics.com/products/womens-slawn-x-nigeria-x-nike-soccer-top-black-white?variant=46871018209468",
+     "sourceVariantID": "46871018209468",
+     "sourceSKU": "IB4705-010|XL"
+    }
+   }
+  },
+  "variants": {
+   "Black/White": [
+    "/images/catalog/eb67ff4b5af486ce2e.webp"
+   ]
+  },
+  "swatches": {
+   "Black/White": "#202124"
+  },
+  "sourceURLs": {
+   "Black/White": "https://sneakerpolitics.com/products/womens-slawn-x-nigeria-x-nike-soccer-top-black-white"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black/White"
+  ],
+  "images": [
+   "/images/catalog/eb67ff4b5af486ce2e.webp"
+  ]
+ },
+ {
+  "id": "clothing-9366193176764",
+  "name": "Carhartt WIP Deck Tee",
+  "brand": "Carhartt WIP",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 5164,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 31.9,
+     "etb": 5164,
+     "sourceURL": "https://sneakerpolitics.com/products/carhartt-wip-deck-tee-black?variant=46880113492156",
+     "sourceVariantID": "46880113492156",
+     "sourceSKU": "806-017499-S"
+    },
+    "M": {
+     "usd": 31.9,
+     "etb": 5164,
+     "sourceURL": "https://sneakerpolitics.com/products/carhartt-wip-deck-tee-black?variant=46880113524924",
+     "sourceVariantID": "46880113524924",
+     "sourceSKU": "806-017499-M"
+    },
+    "L": {
+     "usd": 31.9,
+     "etb": 5164,
+     "sourceURL": "https://sneakerpolitics.com/products/carhartt-wip-deck-tee-black?variant=46880113557692",
+     "sourceVariantID": "46880113557692",
+     "sourceSKU": "806-017499-L"
+    },
+    "XL": {
+     "usd": 31.9,
+     "etb": 5164,
+     "sourceURL": "https://sneakerpolitics.com/products/carhartt-wip-deck-tee-black?variant=46880113590460",
+     "sourceVariantID": "46880113590460",
+     "sourceSKU": "806-017499-XL"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/a763f58453134d7948.webp",
+    "/images/catalog/27de7c3b46cd88a2f9.webp",
+    "/images/catalog/c5cdcf9c53881760d2.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://sneakerpolitics.com/products/carhartt-wip-deck-tee-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/a763f58453134d7948.webp",
+   "/images/catalog/27de7c3b46cd88a2f9.webp",
+   "/images/catalog/c5cdcf9c53881760d2.webp"
+  ]
+ },
+ {
+  "id": "clothing-9363158663356",
+  "name": "Nike Virgil Abloh Archive x USA x Nike Soccer Top",
+  "brand": "Nike",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 6410,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "White/Deep Royal": {
+    "S": {
+     "usd": 39.6,
+     "etb": 6410,
+     "sourceURL": "https://sneakerpolitics.com/products/womens-virgil-abloh-archive-x-usa-x-nike-soccer-top-white-deep-royal?variant=46871067132092",
+     "sourceVariantID": "46871067132092",
+     "sourceSKU": "IB5337-100|S"
+    },
+    "M": {
+     "usd": 39.6,
+     "etb": 6410,
+     "sourceURL": "https://sneakerpolitics.com/products/womens-virgil-abloh-archive-x-usa-x-nike-soccer-top-white-deep-royal?variant=46871067164860",
+     "sourceVariantID": "46871067164860",
+     "sourceSKU": "IB5337-100|M"
+    },
+    "L": {
+     "usd": 39.6,
+     "etb": 6410,
+     "sourceURL": "https://sneakerpolitics.com/products/womens-virgil-abloh-archive-x-usa-x-nike-soccer-top-white-deep-royal?variant=46871067197628",
+     "sourceVariantID": "46871067197628",
+     "sourceSKU": "IB5337-100|L"
+    },
+    "XL": {
+     "usd": 39.6,
+     "etb": 6410,
+     "sourceURL": "https://sneakerpolitics.com/products/womens-virgil-abloh-archive-x-usa-x-nike-soccer-top-white-deep-royal?variant=46871067230396",
+     "sourceVariantID": "46871067230396",
+     "sourceSKU": "IB5337-100|XL"
+    }
+   }
+  },
+  "variants": {
+   "White/Deep Royal": [
+    "/images/catalog/7b2ff982c07a2f31eb.webp",
+    "/images/catalog/9cee459158993b6afb.webp"
+   ]
+  },
+  "swatches": {
+   "White/Deep Royal": "#eeeae4"
+  },
+  "sourceURLs": {
+   "White/Deep Royal": "https://sneakerpolitics.com/products/womens-virgil-abloh-archive-x-usa-x-nike-soccer-top-white-deep-royal"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "White/Deep Royal"
+  ],
+  "images": [
+   "/images/catalog/7b2ff982c07a2f31eb.webp",
+   "/images/catalog/9cee459158993b6afb.webp"
+  ]
+ },
+ {
+  "id": "clothing-9339794030780",
+  "name": "Billionaire Boys Club Fair Tee",
+  "brand": "Billionaire Boys Club",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 6232,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 38.5,
+     "etb": 6232,
+     "sourceURL": "https://sneakerpolitics.com/products/billionaire-boys-club-fair-tee-black?variant=46585035391164",
+     "sourceVariantID": "46585035391164",
+     "sourceSKU": "806-016793-S"
+    },
+    "M": {
+     "usd": 38.5,
+     "etb": 6232,
+     "sourceURL": "https://sneakerpolitics.com/products/billionaire-boys-club-fair-tee-black?variant=46585035423932",
+     "sourceVariantID": "46585035423932",
+     "sourceSKU": "806-016793-M"
+    },
+    "L": {
+     "usd": 38.5,
+     "etb": 6232,
+     "sourceURL": "https://sneakerpolitics.com/products/billionaire-boys-club-fair-tee-black?variant=46585035456700",
+     "sourceVariantID": "46585035456700",
+     "sourceSKU": "806-016793-L"
+    },
+    "XL": {
+     "usd": 38.5,
+     "etb": 6232,
+     "sourceURL": "https://sneakerpolitics.com/products/billionaire-boys-club-fair-tee-black?variant=46585035489468",
+     "sourceVariantID": "46585035489468",
+     "sourceSKU": "806-016793-XL"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/8613c2f2b1372bda5c.webp",
+    "/images/catalog/a4b092f61bf29adb8a.webp",
+    "/images/catalog/5c427ac04a892ddde5.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://sneakerpolitics.com/products/billionaire-boys-club-fair-tee-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/8613c2f2b1372bda5c.webp",
+   "/images/catalog/a4b092f61bf29adb8a.webp",
+   "/images/catalog/5c427ac04a892ddde5.webp"
+  ]
+ },
+ {
+  "id": "clothing-10029027426608",
+  "name": "Reebok Fitted Polo Shirt",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 4045,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Pure Pink": {
+    "S": {
+     "usd": 24.99,
+     "etb": 4045,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-fitted-polo-shirt-pure-pink-153988?variant=50407267598640",
+     "sourceVariantID": "50407267598640",
+     "sourceSKU": "100253300-S"
+    },
+    "M": {
+     "usd": 24.99,
+     "etb": 4045,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-fitted-polo-shirt-pure-pink-153988?variant=50407267631408",
+     "sourceVariantID": "50407267631408",
+     "sourceSKU": "100253300-M"
+    },
+    "L": {
+     "usd": 24.99,
+     "etb": 4045,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-fitted-polo-shirt-pure-pink-153988?variant=50407267664176",
+     "sourceVariantID": "50407267664176",
+     "sourceSKU": "100253300-L"
+    },
+    "XL": {
+     "usd": 24.99,
+     "etb": 4045,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-fitted-polo-shirt-pure-pink-153988?variant=50407267696944",
+     "sourceVariantID": "50407267696944",
+     "sourceSKU": "100253300-XL"
+    }
+   }
+  },
+  "variants": {
+   "Pure Pink": [
+    "/images/catalog/f591dda40d500be11e.webp",
+    "/images/catalog/c640ffed2411a427c1.webp",
+    "/images/catalog/b1797e2cd0b0e3755b.webp",
+    "/images/catalog/3868a7f8598d5b544f.webp"
+   ]
+  },
+  "swatches": {
+   "Pure Pink": "#dcabb7"
+  },
+  "sourceURLs": {
+   "Pure Pink": "https://www.reebok.com/products/reebok-womens-fitted-polo-shirt-pure-pink-153988"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Pure Pink"
+  ],
+  "images": [
+   "/images/catalog/f591dda40d500be11e.webp",
+   "/images/catalog/c640ffed2411a427c1.webp",
+   "/images/catalog/b1797e2cd0b0e3755b.webp",
+   "/images/catalog/3868a7f8598d5b544f.webp"
+  ]
+ },
+ {
+  "id": "clothing-9341351133372",
+  "name": "Pleasures On Film Tee",
+  "brand": "Pleasures",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Men",
+  "price": 4095,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 25.3,
+     "etb": 4095,
+     "sourceURL": "https://sneakerpolitics.com/products/pleasures-on-film-tee-black?variant=46622675042492",
+     "sourceVariantID": "46622675042492",
+     "sourceSKU": "806-516836-S"
+    },
+    "M": {
+     "usd": 25.3,
+     "etb": 4095,
+     "sourceURL": "https://sneakerpolitics.com/products/pleasures-on-film-tee-black?variant=46622675075260",
+     "sourceVariantID": "46622675075260",
+     "sourceSKU": "806-516836-M"
+    },
+    "L": {
+     "usd": 25.3,
+     "etb": 4095,
+     "sourceURL": "https://sneakerpolitics.com/products/pleasures-on-film-tee-black?variant=46622675108028",
+     "sourceVariantID": "46622675108028",
+     "sourceSKU": "806-516836-L"
+    },
+    "XL": {
+     "usd": 25.3,
+     "etb": 4095,
+     "sourceURL": "https://sneakerpolitics.com/products/pleasures-on-film-tee-black?variant=46622675140796",
+     "sourceVariantID": "46622675140796",
+     "sourceSKU": "806-516836-XL"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/51c3654e8652d01de7.webp",
+    "/images/catalog/8cbf668fe4c2257077.webp",
+    "/images/catalog/298b93a474ac2b6e56.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://sneakerpolitics.com/products/pleasures-on-film-tee-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/51c3654e8652d01de7.webp",
+   "/images/catalog/8cbf668fe4c2257077.webp",
+   "/images/catalog/298b93a474ac2b6e56.webp"
+  ]
+ },
+ {
+  "id": "clothing-15115617665328",
+  "name": "Reebok Fitted Graphic T-Shirt",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 4856,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Heritage Green": {
+    "S": {
+     "usd": 30.0,
+     "etb": 4856,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-fitted-graphic-t-shirt-heritage-green-165891?variant=66874650558768",
+     "sourceVariantID": "66874650558768",
+     "sourceSKU": "100267735-S"
+    },
+    "M": {
+     "usd": 30.0,
+     "etb": 4856,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-fitted-graphic-t-shirt-heritage-green-165891?variant=66874650591536",
+     "sourceVariantID": "66874650591536",
+     "sourceSKU": "100267735-M"
+    },
+    "L": {
+     "usd": 30.0,
+     "etb": 4856,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-fitted-graphic-t-shirt-heritage-green-165891?variant=66874650624304",
+     "sourceVariantID": "66874650624304",
+     "sourceSKU": "100267735-L"
+    },
+    "XL": {
+     "usd": 30.0,
+     "etb": 4856,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-fitted-graphic-t-shirt-heritage-green-165891?variant=66874650657072",
+     "sourceVariantID": "66874650657072",
+     "sourceSKU": "100267735-XL"
+    }
+   }
+  },
+  "variants": {
+   "Heritage Green": [
+    "/images/catalog/175d81d41d6d82f77c.webp",
+    "/images/catalog/bc19b3558c27c3da29.webp",
+    "/images/catalog/52fa2039d21322b054.webp",
+    "/images/catalog/8153fddec562bbedde.webp"
+   ]
+  },
+  "swatches": {
+   "Heritage Green": "#648c64"
+  },
+  "sourceURLs": {
+   "Heritage Green": "https://www.reebok.com/products/reebok-womens-fitted-graphic-t-shirt-heritage-green-165891"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Heritage Green"
+  ],
+  "images": [
+   "/images/catalog/175d81d41d6d82f77c.webp",
+   "/images/catalog/bc19b3558c27c3da29.webp",
+   "/images/catalog/52fa2039d21322b054.webp",
+   "/images/catalog/8153fddec562bbedde.webp"
+  ]
+ },
+ {
+  "id": "clothing-10053383913776",
+  "name": "Reebok Wardrobe Essentials Sweatshirt",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Sweatshirts",
+  "audience": "Men",
+  "price": 5664,
+  "tag": "Style edit",
+  "description": "Sweatshirts for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Black": {
+    "S": {
+     "usd": 34.99,
+     "etb": 5664,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-wardrobe-essentials-sweatshirt-black-154397?variant=50505321185584",
+     "sourceVariantID": "50505321185584",
+     "sourceSKU": "100253228-S"
+    },
+    "M": {
+     "usd": 34.99,
+     "etb": 5664,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-wardrobe-essentials-sweatshirt-black-154397?variant=50505321218352",
+     "sourceVariantID": "50505321218352",
+     "sourceSKU": "100253228-M"
+    },
+    "L": {
+     "usd": 34.99,
+     "etb": 5664,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-wardrobe-essentials-sweatshirt-black-154397?variant=50505321251120",
+     "sourceVariantID": "50505321251120",
+     "sourceSKU": "100253228-L"
+    },
+    "XL": {
+     "usd": 34.99,
+     "etb": 5664,
+     "sourceURL": "https://www.reebok.com/products/reebok-mens-wardrobe-essentials-sweatshirt-black-154397?variant=50505321283888",
+     "sourceVariantID": "50505321283888",
+     "sourceSKU": "100253228-XL"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/39201a451dabdfede2.webp",
+    "/images/catalog/8b5da34f627dc65962.webp",
+    "/images/catalog/146f551230b8db860f.webp",
+    "/images/catalog/bed569fdec2c4ba11c.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#202124"
+  },
+  "sourceURLs": {
+   "Black": "https://www.reebok.com/products/reebok-mens-wardrobe-essentials-sweatshirt-black-154397"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/39201a451dabdfede2.webp",
+   "/images/catalog/8b5da34f627dc65962.webp",
+   "/images/catalog/146f551230b8db860f.webp",
+   "/images/catalog/bed569fdec2c4ba11c.webp"
+  ]
+ },
+ {
+  "id": "clothing-15192618074416",
+  "name": "Reebok Long Sleeve Running Top",
+  "brand": "Reebok",
+  "department": "Clothes",
+  "category": "Tops",
+  "audience": "Women",
+  "price": 5666,
+  "tag": "Style edit",
+  "description": "Tops for your everyday rotation. Choose your color and size.",
+  "sizeLabel": "Clothing size",
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "offers": {
+   "Grey Heather": {
+    "S": {
+     "usd": 35.0,
+     "etb": 5666,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-grey-heather-181536?variant=67409000628528",
+     "sourceVariantID": "67409000628528",
+     "sourceSKU": "100295026-S"
+    },
+    "M": {
+     "usd": 35.0,
+     "etb": 5666,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-grey-heather-181536?variant=67409000661296",
+     "sourceVariantID": "67409000661296",
+     "sourceSKU": "100295026-M"
+    },
+    "L": {
+     "usd": 35.0,
+     "etb": 5666,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-grey-heather-181536?variant=67409000694064",
+     "sourceVariantID": "67409000694064",
+     "sourceSKU": "100295026-L"
+    },
+    "XL": {
+     "usd": 35.0,
+     "etb": 5666,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-grey-heather-181536?variant=67409000726832",
+     "sourceVariantID": "67409000726832",
+     "sourceSKU": "100295026-XL"
+    }
+   },
+   "Elemental Pink Heather": {
+    "S": {
+     "usd": 35.0,
+     "etb": 5666,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-elemental-pink-heather-181536?variant=67409001021744",
+     "sourceVariantID": "67409001021744",
+     "sourceSKU": "100295151-S"
+    },
+    "M": {
+     "usd": 35.0,
+     "etb": 5666,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-elemental-pink-heather-181536?variant=67409001054512",
+     "sourceVariantID": "67409001054512",
+     "sourceSKU": "100295151-M"
+    },
+    "L": {
+     "usd": 35.0,
+     "etb": 5666,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-elemental-pink-heather-181536?variant=67409001087280",
+     "sourceVariantID": "67409001087280",
+     "sourceSKU": "100295151-L"
+    },
+    "XL": {
+     "usd": 35.0,
+     "etb": 5666,
+     "sourceURL": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-elemental-pink-heather-181536?variant=67409001120048",
+     "sourceVariantID": "67409001120048",
+     "sourceSKU": "100295151-XL"
+    }
+   }
+  },
+  "variants": {
+   "Grey Heather": [
+    "/images/catalog/d72a69acd5fe6478c1.webp",
+    "/images/catalog/d41085d7f5e8beb288.webp",
+    "/images/catalog/089cfc4b30e35e8139.webp",
+    "/images/catalog/0add4aa214a56f524a.webp"
+   ],
+   "Elemental Pink Heather": [
+    "/images/catalog/842f2150cfb793e99d.webp",
+    "/images/catalog/0c77dd99c0e6d09129.webp",
+    "/images/catalog/b57a41331b9c4b4497.webp",
+    "/images/catalog/3f6dc58ae305b2fe99.webp"
+   ]
+  },
+  "swatches": {
+   "Grey Heather": "#85858b",
+   "Elemental Pink Heather": "#dcabb7"
+  },
+  "sourceURLs": {
+   "Grey Heather": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-grey-heather-181536",
+   "Elemental Pink Heather": "https://www.reebok.com/products/reebok-womens-long-sleeve-running-top-elemental-pink-heather-181536"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Grey Heather",
+   "Elemental Pink Heather"
+  ],
+  "images": [
+   "/images/catalog/d72a69acd5fe6478c1.webp",
+   "/images/catalog/d41085d7f5e8beb288.webp",
+   "/images/catalog/089cfc4b30e35e8139.webp",
+   "/images/catalog/0add4aa214a56f524a.webp",
+   "/images/catalog/842f2150cfb793e99d.webp",
+   "/images/catalog/0c77dd99c0e6d09129.webp",
+   "/images/catalog/b57a41331b9c4b4497.webp",
+   "/images/catalog/3f6dc58ae305b2fe99.webp"
   ]
  },
  {

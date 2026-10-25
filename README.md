@@ -1,6 +1,6 @@
 # Jiji Shop
 
-An English-only static storefront for Ethiopia and Telegram Mini Apps. All five departments remain: **Shoes, Clothes, Makeup, Bags, Accessories**. There are 42 products: 30 shoes (15 men’s and 15 women’s, interleaved), four clothing styles, three makeup products, two bags and three accessories. Men’s shoe brands are Nike, Jordan, Adidas and Reebok. Women’s brands are Steve Madden, Nine West, Adidas and Reebok, including six boots, six heels, one flat sandal and two sneakers. Original product photos come from brands and established retailers; source websites and exact variants are recorded in CATALOG-SOURCES.json. All 12 non-shoe product records are unchanged.
+An English-only static storefront for Ethiopia and Telegram Mini Apps. All five departments remain: **Shoes, Clothes, Makeup, Bags, Accessories**. The catalog has 98 products: 30 shoes (15 men’s and 15 women’s), 60 clothing styles (30 men’s and 30 women’s), three makeup products, two bags and three accessories. Men’s/women’s styles are interleaved within each department. Clothing includes jackets, hoodies, dresses, skirts, pants, tops and a blazer. All 30 shoe records and the other eight products are unchanged by the clothing expansion. Original source photos, exact variants and prices are documented in CATALOG-SOURCES.json.
 
 The shop uses a charcoal/mint dark theme, including dialogs, inputs and the delivery-date calendar. Original product photography keeps its colors. No cart, database, analytics or customer data storage. Delivery details are entered before payment and held temporarily in page memory. Customers share their contact and delivery details directly in Telegram; the website does not send them automatically.
 
@@ -55,10 +55,20 @@ In official @BotFather, use /setmenubutton, choose @jijietbot, name the button O
 
 ## Verification
 
-`npm test` runs 17 checks covering source offer/image integrity, exact prices, European display mappings without changing priced source SKUs, approximate-label marking, clothing sizes, calendar boundaries, customer-chosen dates and invalid/past date rejection. `npm run build` produces the Render static output.
+`npm test` runs 18 checks covering source offer/image integrity, exact prices, European display mappings without changing priced source SKUs, approximate-label marking, clothing sizes, calendar boundaries, customer-chosen dates and invalid/past date rejection. `npm run build` produces the Render static output.
 
 Browser checks verified the dark theme and layouts from 320–1440 px, all 42 products retained, European labels in product/delivery/payment, no retailer links or removed copy, selected-color photo above the price, larger Telegram confirmation, tomorrow by default, date changes on delivery and payment with both calendars synchronized, editing/new-item resets, invalid dates blocked, no stale-order exceptions, number copying, no browser storage, and no JavaScript errors. Earlier category/color/price/source-image checks remain covered by the catalog tests and prior browser checks. A GitHub push does not establish a successful Render or Telegram deployment; verify the actual live URL separately.
 
 ## Shoe catalog update — 25 October 2026
 
 The 30 shoes alternate 15 men’s and 15 women’s styles. Men: Nike, Jordan, Adidas and Reebok. Women: Steve Madden, Nine West, Adidas and Reebok, including six boots, six heels, flat sandals and two sneakers. All 12 non-shoe product records are unchanged. Shoes cost 4,000–10,000 ETB; only three models reach 9,500 ETB. USD/EUR source prices, variant availability, photos and actual published reviews are dated snapshots in CATALOG-SOURCES.json. No reviews are fabricated. See SITE-USAGE.md for deployment footprint and bandwidth limits.
+
+## Clothing, returns and payment update
+
+All 60 clothing styles cost 2,500–7,000 ETB. Every listed color offers exactly S, M, L and XL, verified available at the source snapshot. Clothing choices appear in that order. Sources include Reebok, Steve Madden, Shoe Palace and Sneaker Politics; each original listing and variant is retained in the audit. No ratings are invented for the new clothes. Source stock does not establish the merchant’s local inventory.
+
+Shoe sizing shows every whole EU size from 35–47 alongside exact converted source sizes. Missing sizes are visibly disabled and labeled unavailable; selecting a disabled size cannot proceed to payment. No source offers or priced SKU IDs were fabricated.
+
+After continuing to delivery for shoes, a prominent green notice says: “Not the right size? You have 7 days. If your shoes do not fit, return them within 7 days of delivery for a refund. The shoes must be unused.” This is the shop owner’s requested policy; processing refunds remains manual. It does not claim clothes have the same return policy.
+
+Below the Telebirr number, bold 22 px text says: “Pay to this Telebirr number, then send your payment screenshot using the button below.” The existing Telegram button, recipient and selected-color photo remain.

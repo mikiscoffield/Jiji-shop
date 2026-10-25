@@ -1,5 +1,11 @@
 # Render site usage
 
+## Current clothing expansion
+
+The current build contains **49,332,501 bytes (49.33 MB)** across 524 files. Images account for **48,969,565 bytes (48.97 MB)** across 515 files. Previous transfer measurements below describe the earlier 42-product catalog, not the current 98-product catalog. Monthly account usage is not publicly accessible.
+
+## Previous deployment benchmark
+
 Run `npm run build` then `node scripts/asset-report.mjs` for the deployed file footprint. This counts publish-directory files only, not Git history, audit documents, a database, or persistent disks. Images are bundled locally; visiting galleries transfers additional images.
 
 Render’s public pricing, checked 25 October 2026 at https://render.com/pricing, lists 5 GB outbound bandwidth per month on Hobby, then $0.15/GB. Your workspace dashboard is authoritative for your plan and current monthly usage; a public website cannot reveal those account totals. The static app does not store uploaded screenshots or customer delivery information on a server. Screenshots are sent directly through Telegram.

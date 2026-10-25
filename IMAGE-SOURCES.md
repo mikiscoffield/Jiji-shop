@@ -18,7 +18,7 @@ These are US/Canadian brand storefront sources. This does not assert that the pr
 
 The audit in **CATALOG-SOURCES.json** records all 32 products, their source product and variant identifiers, exact source links, USD prices and converted ETB offers. The exchange-rate source is https://open.er-api.com/v6/latest/USD: 161.874143 ETB per USD, published 25 October 2026. Prices are rounded to whole birr and exclude shipping, tax, import and local delivery charges. Only variants marked available by the source at capture time and within 3,500–8,000 ETB are included; source availability is not local shop stock.
 
-The site is static: these are dated snapshots, not real-time quotes. Refresh the source records and conversion before changing prices, and keep the audit and public catalog consistent. The app updates its displayed amount, source variant link and size choices from the chosen color/size offer.
+The site is static: these are dated snapshots, not real-time quotes. Refresh the source records and conversion before changing prices, and keep the audit and public catalog consistent. The app updates the displayed amount and size choices from the chosen color/size offer. Brand-store links are no longer exposed in the customer UI; the audit retains them for maintenance. European size labels map to the original source variant keys; SIZING.md documents exact brand charts and clearly marked approximations.
 
 Review metadata is extracted from the product’s official structured-data aggregate rating. It is attributed to the brand store with its actual review count. Colorways without a checked score show no stars. Ratings are not independent testing or a guarantee of product quality. Known low-rated candidates were excluded rather than assigned better scores.
 

@@ -12,29 +12,29 @@
   <script src="/app.js" defer></script>
 </head>
 <body>
-  <div class="topline" data-i18n="topline">A little style. A little beauty. A lot to love.</div>
+  <div class="topline">A little style. A little beauty. A lot to love.</div>
   <header class="header wrap">
     <a class="logo" href="/" aria-label="Jiji Shop home">Jiji<span>Shop</span><i></i></a>
-    <span class="location">⌖ <span data-i18n="ethiopia">Made for your everyday, Ethiopia</span></span>
-    <button id="language" class="language" aria-label="Switch to Amharic">አማርኛ <span>⇄</span></button>
+    <span class="location">⌖ <span>Made for your everyday, Ethiopia</span></span>
+    <span class="header-currency">ETHIOPIA · ETB</span>
   </header>
   <main class="wrap">
     <section class="hero">
-      <div class="hero-copy"><span class="eyebrow" data-i18n="eyebrow">YOUR EVERYDAY, UPGRADED</span><h1 data-i18n="headline">Good finds.<br>Great style.<br><em>All you.</em></h1><p data-i18n="intro">Fresh looks, beauty essentials, and the little things you’ll love. Discover your next favorite.</p><a class="button" href="#collection"><span data-i18n="explore">Explore the collection</span> →</a><div class="hero-note"><span>✦</span> <span data-i18n="curated">Style, thoughtfully picked.</span></div></div>
-      <div class="hero-image"><img src="/images/heels-1.svg" alt="Original illustration of classic heels"><div class="image-label"><span data-i18n="little">THE LITTLE STYLE EDIT</span><strong data-i18n="everyday">Everyday, elevated.</strong></div><div class="circle-badge">JIJI SHOP<br>✦<br>STYLE EDIT</div></div>
+      <div class="hero-copy"><span class="eyebrow">YOUR EVERYDAY, UPGRADED</span><h1>Good finds.<br>Great style.<br><em>All you.</em></h1><p>Fresh looks, beauty essentials, and the little things you’ll love. Discover your next favorite.</p><a class="button" href="#collection"><span>Explore the collection</span> →</a><div class="hero-note"><span>✦</span> <span>Style, thoughtfully picked.</span></div></div>
+      <div class="hero-image"><img src="/images/heels-1.svg" alt="Original illustration of classic heels"><div class="image-label"><span>THE LITTLE STYLE EDIT</span><strong>Everyday, elevated.</strong></div><div class="circle-badge">JIJI SHOP<br>✦<br>STYLE EDIT</div></div>
     </section>
-    <div class="benefits"><span>◈ <span data-i18n="selected">Thoughtfully selected</span></span><span>◉ <span data-i18n="telebirr">Pay with Telebirr</span></span><span>→ <span data-i18n="telegram">Personal help on Telegram</span></span></div>
+    <div class="benefits"><span>◈ <span>Thoughtfully selected</span></span><span>◉ <span>Pay with Telebirr</span></span><span>→ <span>Personal help on Telegram</span></span></div>
     <section id="collection" class="collection">
-      <div class="section-heading"><div><span class="eyebrow" data-i18n="discover">FIND YOUR FAVORITES</span><h2 data-i18n="collection">The collection</h2></div><span class="collection-note" data-i18n="collectionNote">A little something for every side of you.</span></div>
+      <div class="section-heading"><div><span class="eyebrow">FIND YOUR FAVORITES</span><h2>The collection</h2></div><span class="collection-note">A little something for every side of you.</span></div>
       <div class="browse"><nav id="categories" aria-label="Product categories"></nav><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Find something you love…" aria-label="Search products"></label></div>
-      <div class="preview-note"><span>◌</span><span data-i18n="sampleNotice">Preview collection · Sample photos and prices. These items are not available to order yet.</span></div>
-      <div class="results"><span id="result-count" aria-live="polite"></span><span data-i18n="picked">PICKED FOR YOU</span></div>
+      <div class="preview-note"><span>◌</span><span>Preview collection · Sample photos and prices. These items are not available to order yet.</span></div>
+      <div class="results"><span id="result-count" aria-live="polite"></span><span>PICKED FOR YOU</span></div>
       <div id="products" class="products"></div>
-      <p id="empty" hidden data-i18n="empty">No finds just yet. Try another search or category.</p>
+      <p id="empty" hidden>No finds just yet. Try another search or category.</p>
     </section>
-    <section class="help"><div><span class="eyebrow" data-i18n="here">WE’RE RIGHT HERE</span><h2 data-i18n="helpTitle">A little help finding your favorite?</h2><p data-i18n="helpText">Ask about styles, sizes, or what’s coming next.</p></div><a class="button light" href="https://t.me/christianabe" target="_blank" rel="noopener noreferrer"><span data-i18n="chat">Let’s talk on Telegram</span> →</a></section>
+    <section class="help"><div><span class="eyebrow">WE’RE RIGHT HERE</span><h2>A little help finding your favorite?</h2><p>Ask about styles, sizes, or what’s coming next.</p></div><a class="button light" href="https://t.me/christianabe" target="_blank" rel="noopener noreferrer"><span>Let’s talk on Telegram</span> →</a></section>
   </main>
-  <footer class="wrap"><a class="logo" href="/">Jiji<span>Shop</span><i></i></a><p data-i18n="footer">Your everyday, a little more you.</p><span>ETHIOPIA · ETB</span></footer>
+  <footer class="wrap"><a class="logo" href="/">Jiji<span>Shop</span><i></i></a><p>Your everyday, a little more you.</p><span>ETHIOPIA · ETB</span></footer>
   <dialog id="product-dialog"><button class="close" data-close="product-dialog" aria-label="Close product">×</button><div id="product-detail"></div></dialog>
   <dialog id="payment-dialog"><button class="close" data-close="payment-dialog" aria-label="Close payment">×</button><div id="payment-detail"></div></dialog>
   <div id="toast" role="status"></div>

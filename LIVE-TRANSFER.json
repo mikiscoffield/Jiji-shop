@@ -1,0 +1,217 @@
+{
+  "checkedAt": "2026-10-25",
+  "url": "https://jiji-shop.onrender.com/",
+  "catalogCommit": "e04a59d",
+  "viewport": "390 \u00d7 844",
+  "initialBytes": 381936,
+  "fullCatalogScrollBytes": 2963749,
+  "initialRequests": 15,
+  "fullCatalogRequests": 51,
+  "method": "Local Chromium determines same-origin requested asset paths; curl fetches each live Render URL with TLS verification and HTTP compression, compares decoded bytes against deployed output (matchesBuild) and sums size_download. Cold cache, response bodies only. Telegram SDK excluded. Galleries not opened.",
+  "assets": {
+    "/": {
+      "bytes": 2273,
+      "matchesBuild": true
+    },
+    "/style.css": {
+      "bytes": 5779,
+      "matchesBuild": true
+    },
+    "/dark.css": {
+      "bytes": 2225,
+      "matchesBuild": true
+    },
+    "/app.js": {
+      "bytes": 5905,
+      "matchesBuild": false
+    },
+    "/images/catalog/54ceaaa6aa126e5a8a.webp": {
+      "bytes": 63344,
+      "matchesBuild": true
+    },
+    "/catalog.js": {
+      "bytes": 17405,
+      "matchesBuild": true
+    },
+    "/delivery-date.mjs": {
+      "bytes": 618,
+      "matchesBuild": true
+    },
+    "/shoe-sizing.mjs": {
+      "bytes": 769,
+      "matchesBuild": true
+    },
+    "/catalog-logic.mjs": {
+      "bytes": 324,
+      "matchesBuild": true
+    },
+    "/size-charts.mjs": {
+      "bytes": 510,
+      "matchesBuild": true
+    },
+    "/images/catalog/de85355d06041e93e9.webp": {
+      "bytes": 69358,
+      "matchesBuild": true
+    },
+    "/images/catalog/5b956f4882a9b0cf14.webp": {
+      "bytes": 47848,
+      "matchesBuild": true
+    },
+    "/images/catalog/a31f01feaff7918f23.webp": {
+      "bytes": 38390,
+      "matchesBuild": true
+    },
+    "/images/catalog/f1c117623edfa7d191.webp": {
+      "bytes": 66318,
+      "matchesBuild": true
+    },
+    "/images/catalog/90ee8d7c8e6877182c.webp": {
+      "bytes": 60870,
+      "matchesBuild": true
+    },
+    "/images/catalog/03327b97453faf8ddc.webp": {
+      "bytes": 63064,
+      "matchesBuild": true
+    },
+    "/images/catalog/544d7ae2980fdb79ad.webp": {
+      "bytes": 17666,
+      "matchesBuild": true
+    },
+    "/images/catalog/52d0568f3758e6313c.webp": {
+      "bytes": 42986,
+      "matchesBuild": true
+    },
+    "/images/catalog/f9cda6825de5c81e09.webp": {
+      "bytes": 67470,
+      "matchesBuild": true
+    },
+    "/images/catalog/69e8ee833d3849595b.webp": {
+      "bytes": 32186,
+      "matchesBuild": true
+    },
+    "/images/catalog/5b039a2198107c9315.webp": {
+      "bytes": 31180,
+      "matchesBuild": true
+    },
+    "/images/catalog/9685c911912f96fda2.webp": {
+      "bytes": 56916,
+      "matchesBuild": true
+    },
+    "/images/catalog/c79454ae243b76e2bc.webp": {
+      "bytes": 58618,
+      "matchesBuild": true
+    },
+    "/images/catalog/4f41a8db9e19efef62.webp": {
+      "bytes": 40516,
+      "matchesBuild": true
+    },
+    "/images/catalog/30c9f032c868de4c42.webp": {
+      "bytes": 36812,
+      "matchesBuild": true
+    },
+    "/images/catalog/62b6cf02fdd3b7081a.webp": {
+      "bytes": 51128,
+      "matchesBuild": true
+    },
+    "/images/catalog/697cfcc0de6e394709.webp": {
+      "bytes": 95690,
+      "matchesBuild": true
+    },
+    "/images/catalog/38ffe062244ce5c1e0.webp": {
+      "bytes": 38976,
+      "matchesBuild": true
+    },
+    "/images/catalog/a6e2c5f7e95224308e.webp": {
+      "bytes": 20354,
+      "matchesBuild": true
+    },
+    "/images/catalog/1fd7d4ae97b9062d4f.webp": {
+      "bytes": 42772,
+      "matchesBuild": true
+    },
+    "/images/catalog/c56ed1d4feefdb1be7.webp": {
+      "bytes": 27940,
+      "matchesBuild": true
+    },
+    "/images/catalog/3ed9926f23bb41e29a.webp": {
+      "bytes": 36198,
+      "matchesBuild": true
+    },
+    "/images/catalog/8420b329713473516e.webp": {
+      "bytes": 36666,
+      "matchesBuild": true
+    },
+    "/images/catalog/b2e549a784bf402e90.webp": {
+      "bytes": 41742,
+      "matchesBuild": true
+    },
+    "/images/catalog/2873add093d34c3304.webp": {
+      "bytes": 88138,
+      "matchesBuild": true
+    },
+    "/images/catalog/957058f2335c6f417c.webp": {
+      "bytes": 43756,
+      "matchesBuild": true
+    },
+    "/images/catalog/78989e7da1ca710c96.webp": {
+      "bytes": 48252,
+      "matchesBuild": true
+    },
+    "/images/catalog/57bbbf51e18ba71162.webp": {
+      "bytes": 25986,
+      "matchesBuild": true
+    },
+    "/images/catalog/a0135d4ab329d4d0be.webp": {
+      "bytes": 30646,
+      "matchesBuild": true
+    },
+    "/images/catalog/762043ef0df4ef91b7.jpg": {
+      "bytes": 54594,
+      "matchesBuild": true
+    },
+    "/images/catalog/645e7eba7ee2405266.jpg": {
+      "bytes": 64260,
+      "matchesBuild": true
+    },
+    "/images/catalog/9c5a35377df806f815.jpg": {
+      "bytes": 56787,
+      "matchesBuild": true
+    },
+    "/images/catalog/6c1e435df74a2db25d.jpg": {
+      "bytes": 24540,
+      "matchesBuild": true
+    },
+    "/images/catalog/c3cd3388cc32764bf3.jpg": {
+      "bytes": 252494,
+      "matchesBuild": true
+    },
+    "/images/catalog/c6730e0298678456e5.jpg": {
+      "bytes": 68591,
+      "matchesBuild": true
+    },
+    "/images/catalog/5c4d40f9d50b624145.jpg": {
+      "bytes": 155938,
+      "matchesBuild": true
+    },
+    "/images/catalog/86eff2d9259f0c314d.jpg": {
+      "bytes": 37714,
+      "matchesBuild": true
+    },
+    "/images/catalog/c502f6e2a04b66d4e4.jpg": {
+      "bytes": 120078,
+      "matchesBuild": true
+    },
+    "/images/catalog/74b2daaf60bf0830a2.png": {
+      "bytes": 540236,
+      "matchesBuild": true
+    },
+    "/images/catalog/b5a58346b2d0916469.jpg": {
+      "bytes": 41317,
+      "matchesBuild": true
+    },
+    "/images/catalog/733ffc7fd2955efc24.jpg": {
+      "bytes": 89606,
+      "matchesBuild": true
+    }
+  }
+}

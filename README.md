@@ -1,6 +1,6 @@
 # Jiji Shop
 
-An English-only static storefront for Ethiopia and Telegram Mini Apps. Categories: **Shoes, Clothes, Makeup, Bags, Accessories**. There are 28 products, including 22 shoe styles. The 10 latest shoe additions include six mainly black styles, plus dark olive, burgundy/black, white/teal and brown options. Shoe prices remain 3,500–6,000 ETB. Other departments retain their own ETB prices.
+An English-only static storefront for Ethiopia and Telegram Mini Apps. Categories: **Shoes, Clothes, Makeup, Bags, Accessories**. There are 38 products, including 32 shoe styles. The latest women’s edit adds ten styles: four boots and six high heels, with ALDO and Christian Louboutin reference photography. The additions are interleaved with the previous 22 shoes, rather than grouped together. The previously added mostly dark shoe styles and every other department remain intact. Shoe prices remain 3,500–6,000 ETB. Other departments retain their own ETB prices.
 
 No cart, database, analytics or customer data storage. Delivery details are entered before payment and held temporarily in page memory. Customers share their contact and delivery details directly in Telegram; the website does not send them automatically.
 
@@ -21,7 +21,7 @@ Edit public/catalog.js. `department` controls the five product categories; `cate
 
 Products declare ETB shop prices, sizes, and `variants` mapping color labels to arrays of matching image paths. Add actual photographs of a color or angle; do not simulate product colors with filters. White/Mint on Nike Course switches between real photographs of the same design. Other products show only their photographed color. Formal burgundy lace-ups and brown boots include two photographic views. Shoes use EU sizes, clothing uses letter sizes, and beauty/bags/accessories can have no size selection.
 
-IMAGE-SOURCES.md documents the 32 bundled photographic assets and limitations. Product titles are descriptive, not verified manufacturer model names. Supplier USD prices, reviews, inventory and authenticity were not independently verified. Confirm actual stock, sizes, sourcing and usage permissions before accepting payments; no supplier or rating claims are displayed.
+IMAGE-SOURCES.md documents the bundled photographic assets and limitations. Product titles are descriptive, not verified manufacturer model names. Supplier USD prices, reviews, inventory and authenticity were not independently verified. Confirm actual stock, sizes, sourcing and usage permissions before accepting payments; no supplier or rating claims are displayed.
 
 ## Delivery and payment
 
@@ -54,3 +54,5 @@ In official @BotFather, use /setmenubutton, choose @jijietbot, name the button O
 Local browser checks exercised all five departments and all 28 products' image paths, audience/brand/search filtering, White/Mint photo switching, shoe/clothing size selection and sizeless beauty checkout, required delivery fields, invalid/valid Ethiopian numbers, edit/review flow, safe display of markup-like input, no delivery data in network URLs or browser storage, no delivery persistence after reload, and layouts at 320–1440 px. Build and syntax checks also passed. A live Render deployment and Telegram app flow require their own checks.
 
 The latest browser checks also verified the one-second loading and one-second notice timing, cancellation during either stage, the reduced form, both calendar dates, no order-copy button, retained number copying, and no browser storage.
+
+The women’s edit contains 11 new image files, 447–800 pixels per side. Browser checks verified all previous 28 product records remain unchanged, the ten additions are mixed into the shoe order, ALDO/Christian Louboutin filters work, the blue/rose-gold heel switches photographs, and its EU size/color/ETB amount carry through delivery and payment.

@@ -1,6 +1,282 @@
 // ETB shop prices, not converted or verified Amazon prices. Source notes: IMAGE-SOURCES.md.
 // Sizes are order selections; customers must confirm availability with the seller.
 const shoeImage = file => '/images/shoes/' + file;
+const womensEdit = [
+ {
+  "id": "women-audrella",
+  "name": "ALDO Audrella \u2014 Black Ankle Boot",
+  "brand": "ALDO",
+  "department": "Shoes",
+  "category": "Boots",
+  "audience": "Women",
+  "price": 5400,
+  "tag": "The after-dark edit",
+  "description": "A sleek black ankle boot with a pointed toe and a block heel. A sharp finish for denim, dresses, and evening outfits.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Black": [
+    "/images/shoes/women/women-audrella-1.jpg"
+   ]
+  },
+  "swatches": {
+   "Black": "#191919"
+  }
+ },
+ {
+  "id": "women-patent-pump",
+  "name": "Christian Louboutin \u2014 Black Patent Pump",
+  "brand": "Christian Louboutin",
+  "department": "Shoes",
+  "category": "High heels",
+  "audience": "Women",
+  "price": 6000,
+  "tag": "Glossy & timeless",
+  "description": "A glossy black pointed pump with a slim stiletto and contrasting red sole. A statement silhouette for your occasion wardrobe.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Black": [
+    "/images/shoes/women/women-patent-pump-1.jpg"
+   ]
+  },
+  "swatches": {
+   "Black": "#161616"
+  }
+ },
+ {
+  "id": "women-elektra",
+  "name": "ALDO Elektra \u2014 Strappy High Heel",
+  "brand": "ALDO",
+  "department": "Shoes",
+  "category": "High heels",
+  "audience": "Women",
+  "price": 4900,
+  "tag": "Two standout colors",
+  "description": "A delicate open-toe heel with wraparound straps and a sculpted heel. Choose bright blue or rose gold; each color has its own photograph.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Blue": [
+    "/images/shoes/women/women-elektra-1.jpg"
+   ],
+   "Rose Gold": [
+    "/images/shoes/women/women-elektra-2.jpg"
+   ]
+  },
+  "swatches": {
+   "Blue": "#1183af",
+   "Rose Gold": "#d0a183"
+  }
+ },
+ {
+  "id": "women-pellagia",
+  "name": "ALDO Pellagia \u2014 Black Tall Boot",
+  "brand": "ALDO",
+  "department": "Shoes",
+  "category": "Boots",
+  "audience": "Women",
+  "price": 5900,
+  "tag": "A taller statement",
+  "description": "An elongated black boot with a fitted profile, pointed toe, and block heel. A bold silhouette to pair with skirts or layered looks.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Black": [
+    "/images/shoes/women/women-pellagia-1.jpg"
+   ]
+  },
+  "swatches": {
+   "Black": "#232323"
+  }
+ },
+ {
+  "id": "women-nude-block",
+  "name": "Christian Louboutin \u2014 Nude Block Heel",
+  "brand": "Christian Louboutin",
+  "department": "Shoes",
+  "category": "High heels",
+  "audience": "Women",
+  "price": 5800,
+  "tag": "Occasion dressing",
+  "description": "A nude open-toe sandal with an ankle strap, substantial block heel, and red sole detail. An elegant finishing touch for occasion dressing.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Nude": [
+    "/images/shoes/women/women-nude-block-1.jpg"
+   ]
+  },
+  "swatches": {
+   "Nude": "#c3a184"
+  }
+ },
+ {
+  "id": "women-stessy",
+  "name": "ALDO Stessy \u2014 Nude Stiletto",
+  "brand": "ALDO",
+  "department": "Shoes",
+  "category": "High heels",
+  "audience": "Women",
+  "price": 4600,
+  "tag": "The classic pump",
+  "description": "A clean nude pump with a pointed toe and a slender high heel. An understated silhouette that pairs with tailored or evening looks.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Nude": [
+    "/images/shoes/women/women-stessy-1.jpg"
+   ]
+  },
+  "swatches": {
+   "Nude": "#d2af91"
+  }
+ },
+ {
+  "id": "women-nevada",
+  "name": "ALDO Nevada \u2014 White Western Boot",
+  "brand": "ALDO",
+  "department": "Shoes",
+  "category": "Boots",
+  "audience": "Women",
+  "price": 5700,
+  "tag": "Western, reimagined",
+  "description": "A tall white western-inspired boot with a pointed toe, shaped shaft, and angled heel. A fresh statement piece for your wardrobe.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "White": [
+    "/images/shoes/women/women-nevada-1.jpg"
+   ]
+  },
+  "swatches": {
+   "White": "#e7e4dc"
+  }
+ },
+ {
+  "id": "women-clear-mule",
+  "name": "Christian Louboutin \u2014 Clear-Strap Mule",
+  "brand": "Christian Louboutin",
+  "department": "Shoes",
+  "category": "High heels",
+  "audience": "Women",
+  "price": 5900,
+  "tag": "Barely-there details",
+  "description": "An open-toe mule with transparent straps, a black insole, and a slim heel. A sculptural, minimal finish for occasion outfits.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Clear / Black": [
+    "/images/shoes/women/women-clear-mule-1.jpg"
+   ]
+  },
+  "swatches": {
+   "Clear / Black": "#c4c8c7"
+  }
+ },
+ {
+  "id": "women-red-boot",
+  "name": "Christian Louboutin \u2014 Red Patent Boot",
+  "brand": "Christian Louboutin",
+  "department": "Shoes",
+  "category": "Boots",
+  "audience": "Women",
+  "price": 6000,
+  "tag": "A bold new direction",
+  "description": "A statement ankle boot with glossy red panels, dark accents, and a chunky sole. A bold contrast to a neutral outfit.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Red / Black": [
+    "/images/shoes/women/women-red-boot-1.jpg"
+   ]
+  },
+  "swatches": {
+   "Red / Black": "#b9121c"
+  }
+ },
+ {
+  "id": "women-black-slingback",
+  "name": "Christian Louboutin \u2014 Black Slingback",
+  "brand": "Christian Louboutin",
+  "department": "Shoes",
+  "category": "High heels",
+  "audience": "Women",
+  "price": 5700,
+  "tag": "The evening essential",
+  "description": "A black pointed slingback with fine straps, a sculpted upper, and red sole detail. A sleek addition to your evening rotation.",
+  "sizes": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "variants": {
+   "Black": [
+    "/images/shoes/women/women-black-slingback-1.jpg"
+   ]
+  },
+  "swatches": {
+   "Black": "#191919"
+  }
+ }
+];
 const additionalProducts = [
  {
   "id": "black-trainer",
@@ -429,7 +705,7 @@ const additionalProducts = [
   }
  }
 ];
-window.catalog = [
+const existingCatalog = [
  {id:'course',name:'Nike Course — White & Mint',brand:'Nike',category:'Sneakers',audience:'Unisex',price:4800,tag:'Two colorways',description:'A clean, low-cut silhouette with a sculpted sole. Choose crisp white or fresh mint — the photo shows your selected color.',sizes:['36','37','38','39','40','41','42','43','44'],variants:{White:[shoeImage('sports-1.jpg')],Mint:[shoeImage('sports-5.jpg')]},swatches:{White:'#f5f4ed',Mint:'#a5ded1'}},
  {id:'turquoise',name:'Nike Trail — Turquoise',brand:'Nike',category:'Running',audience:'Unisex',price:4500,tag:'Color in motion',description:'Turquoise mesh, an orange outsole, and a bold black Swoosh. A standout look for your everyday rotation.',sizes:['37','38','39','40','41','42','43','44'],variants:{Turquoise:[shoeImage('product-1.jpg')]},swatches:{Turquoise:'#2a9eb0'}},
  {id:'rose',name:'Nike Air — Pink',brand:'Nike',category:'Sneakers',audience:'Women',price:4200,tag:'A brighter everyday',description:'A vibrant pink silhouette with a contrasting silver Swoosh. Made for outfits that deserve a little color.',sizes:['36','37','38','39','40','41'],variants:{Pink:[shoeImage('product-7.jpg')]},swatches:{Pink:'#d42d9b'}},
@@ -443,3 +719,14 @@ window.catalog = [
  {id:'outdoor',name:'Adidas Outdoor — Blue & Black',brand:'Adidas',category:'Outdoor',audience:'Men',price:5800,tag:'Take the scenic route',description:'Blue and black panels, a rugged profile, and a contrasting white sole. An outdoor-inspired look.',sizes:['39','40','41','42','43','44','45'],variants:{'Blue / Black':[shoeImage('big-shoe3.png')]},swatches:{'Blue / Black':'#1474c2'}},
  {id:'olive',name:'New Balance Low — Olive',brand:'New Balance',category:'Lifestyle',audience:'Unisex',price:6000,tag:'Quietly distinctive',description:'An olive low-top profile with the signature N detail and a contrasting sole. Muted tones, strong everyday style.',sizes:['37','38','39','40','41','42','43','44','45'],variants:{Olive:[shoeImage('shoe7.svg')]},swatches:{Olive:'#6d6f5b'}}
 , ...additionalProducts].map(product=>({department:"Shoes",...product,colors:Object.keys(product.variants),images:Object.values(product.variants).flat()}));
+
+// Keep the existing shoes in their relative order, introducing a women's style
+// every third position. All non-shoe departments retain their existing items.
+const existingShoes = existingCatalog.filter(product => product.department === 'Shoes');
+const womensProducts = womensEdit.map(product => ({...product, colors:Object.keys(product.variants), images:Object.values(product.variants).flat()}));
+const mixedShoes = [];
+for (let index = 0; index < Math.max(womensProducts.length, Math.ceil(existingShoes.length / 2)); index++) {
+ if (womensProducts[index]) mixedShoes.push(womensProducts[index]);
+ mixedShoes.push(...existingShoes.slice(index * 2, index * 2 + 2));
+}
+window.catalog = [...mixedShoes, ...existingCatalog.filter(product => product.department !== 'Shoes')];

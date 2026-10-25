@@ -33,3 +33,31 @@ Additional Anon files: sports-2.jpg (black/yellow utility high), sports-3.jpg (b
 Restored clothes, backpack and ring photographs are from https://github.com/keikaavousi/fake-store-api, public/img. Their MIT license is retained at public/images/lifestyle/FAKESTORE-LICENSE.txt. These photos were recovered from the original Jiji Shop commit rather than newly replaced with drawn placeholders.
 
 The Makeup category now includes two photographic beauty products, from https://github.com/codewithsadee/glowing, assets/images/product-01.jpg and product-02.jpg. They are bundled as beauty-1.jpg (cleanser) and beauty-2.jpg (serum). That source's README says the project is free to use. Product ingredients and skincare suitability have not been independently verified; the descriptions direct customers to ask the seller for details.
+
+
+## Women’s boots and high heels (ten additional styles)
+
+Four boots and six high heels are interleaved with the existing 22 shoes. Five styles use ALDO reference images and five use Christian Louboutin reference images. These are photographic references from third-party storefront projects, not evidence of the shop’s actual inventory, manufacturer verification, or authenticity. Descriptions identify the pictured silhouette; they do not certify material or product quality. ETB values remain the shop’s requested prices, not verified prices for genuine designer inventory.
+
+ALDO source: https://github.com/Fairyghost007/AldoCloneTest at `62c4a1cee6ef414fc7c0520ec1fe004870c3c3f5`.
+
+| Local image prefix | Source image | Pictured style |
+|---|---|---|
+| women-audrella | audrella_black_001-003-027_main_sq_gy_600x600.jpeg | Black ankle boot |
+| women-pellagia | pellagia_black_001-003-027_main_sq_gy_600x600.jpeg | Black tall boot |
+| women-nevada | nevada_white_115-001-043_main_sq_gy_800x800.jpeg | White western boot |
+| women-stessy | stessy__beige_270-002-033_main_sq_gy_600x600.jpeg | Nude stiletto |
+| women-elektra (1) | elektra_blue_420-002-020_main_sq_gy_800x800.jpeg | Blue strappy heel |
+| women-elektra (2) | elektra_pink_653-002-044_main_sq_gy_800x800.jpeg | Rose-gold strappy heel |
+
+Christian Louboutin reference source: https://github.com/mahnoortahir1/ChristainLouboutinClone at `c73263970dabfe256593f50ecf81c7f513586605`, under images/.
+
+| Local image prefix | Source image | Pictured style |
+|---|---|---|
+| women-patent-pump | women-col-mostWanted1.jpg | Black patent pump |
+| women-nude-block | women-col-mostWanted4.jpg | Nude block-heel sandal |
+| women-clear-mule | fall-col-solo Zee.jpg | Clear-strap black mule |
+| women-red-boot | New arrivals 1 (MainP).jpg | Red patent ankle boot |
+| women-black-slingback | fall-col-Twistissimo.jpg | Black slingback |
+
+Images are bundled under public/images/shoes/women/ without recoloring, enlarging, or fabricating additional angles. Two 225 px candidates were discarded; the selected files are 447–800 px square. The matched blue/rose-gold photographs are the only additional color choice on the ALDO strappy heel. Other additions offer their one photographed color.

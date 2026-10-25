@@ -1,4 +1,4 @@
-// Dated source snapshots and merchant stock/pricing rules: CATALOG-SOURCES.json.
+// Every category: source USD ×190 ×0.90. Audit: CATALOG-SOURCES.json.
 window.catalog = [
  {
   "id": "jordan-flight-court",
@@ -25,78 +25,99 @@ window.catalog = [
      "amount": 59.97,
      "currency": "USD",
      "usd": 59.97,
-     "etb": 9708,
+     "etb": 10255,
      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11394.3
     },
     "39": {
      "amount": 59.97,
      "currency": "USD",
      "usd": 59.97,
-     "etb": 9708,
+     "etb": 10255,
      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11394.3
     },
     "40": {
      "amount": 59.97,
      "currency": "USD",
      "usd": 59.97,
-     "etb": 9708,
+     "etb": 10255,
      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11394.3
     },
     "41": {
      "amount": 59.97,
      "currency": "USD",
      "usd": 59.97,
-     "etb": 9708,
+     "etb": 10255,
      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11394.3
     },
     "42": {
      "amount": 59.97,
      "currency": "USD",
      "usd": 59.97,
-     "etb": 9708,
+     "etb": 10255,
      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11394.3
     },
     "43": {
      "amount": 59.97,
      "currency": "USD",
      "usd": 59.97,
-     "etb": 9708,
+     "etb": 10255,
      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11394.3
     },
     "44": {
      "amount": 59.97,
      "currency": "USD",
      "usd": 59.97,
-     "etb": 9708,
+     "etb": 10255,
      "sourceURL": "https://www.shoepalace.com/products/jordan-hf3255-300-flight-court-mens-basketball-shoes-malachite-sail",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11394.3
     }
    }
   },
@@ -123,7 +144,7 @@ window.catalog = [
    "/images/catalog/c26797292242e2b05c.webp",
    "/images/catalog/d4f811bb9a56ba16a0.webp"
   ],
-  "price": 9708,
+  "price": 10255,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -153,89 +174,113 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/aria-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "36": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/aria-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "37": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/aria-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "38": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/aria-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/aria-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/aria-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/aria-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/aria-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    }
   },
@@ -272,7 +317,7 @@ window.catalog = [
    "/images/catalog/2fff6c2a05bad70b84.webp",
    "/images/catalog/351bd93153ae7dc4f7.webp"
   ],
-  "price": 8092,
+  "price": 8548,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -301,78 +346,99 @@ window.catalog = [
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "39": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "40": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "41": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "42": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "43": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "44": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-fj4249-101-book-1-rattlesnake-mens-basketball-shoes-white-orewood-brown-burnt-sunrise-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     }
    }
   },
@@ -397,7 +463,7 @@ window.catalog = [
    "/images/catalog/5b956f4882a9b0cf14.webp",
    "/images/catalog/6047a6b07442f48767.webp"
   ],
-  "price": 8090,
+  "price": 8547,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -427,89 +493,113 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "36": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "37": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "38": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/luni-black-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    }
   },
@@ -546,7 +636,7 @@ window.catalog = [
    "/images/catalog/e116e550891b2d8c58.webp",
    "/images/catalog/fdedb81279b022de6b.webp"
   ],
-  "price": 6473,
+  "price": 6838,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -575,78 +665,99 @@ window.catalog = [
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "39": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "40": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "41": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "42": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "43": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     },
     "44": {
      "amount": 49.98,
      "currency": "USD",
      "usd": 49.98,
-     "etb": 8090,
+     "etb": 8547,
      "sourceURL": "https://www.shoepalace.com/products/nike-hv5753-809-c1ty-mens-lifestyle-shoes-safety-orange-cosmic-clay-black-summit-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9496.2
     }
    }
   },
@@ -673,7 +784,7 @@ window.catalog = [
    "/images/catalog/4ef144349d4da39190.webp",
    "/images/catalog/fc5bd12f14e1c6a96d.webp"
   ],
-  "price": 8090,
+  "price": 8547,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -703,89 +814,113 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "36": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "37": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "38": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/pammy-black",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    },
    "Taupe": {
@@ -793,89 +928,113 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "36": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "37": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "38": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/pammy-taupe",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    }
   },
@@ -932,7 +1091,7 @@ window.catalog = [
    "/images/catalog/f8183a9570a69227fa.webp",
    "/images/catalog/8d7405ad60ce0038e3.webp"
   ],
-  "price": 6473,
+  "price": 6838,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -961,78 +1120,99 @@ window.catalog = [
      "amount": 49.97,
      "currency": "USD",
      "usd": 49.97,
-     "etb": 8089,
+     "etb": 8545,
      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9494.3
     },
     "39": {
      "amount": 49.97,
      "currency": "USD",
      "usd": 49.97,
-     "etb": 8089,
+     "etb": 8545,
      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9494.3
     },
     "40": {
      "amount": 49.97,
      "currency": "USD",
      "usd": 49.97,
-     "etb": 8089,
+     "etb": 8545,
      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9494.3
     },
     "41": {
      "amount": 49.97,
      "currency": "USD",
      "usd": 49.97,
-     "etb": 8089,
+     "etb": 8545,
      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9494.3
     },
     "42": {
      "amount": 49.97,
      "currency": "USD",
      "usd": 49.97,
-     "etb": 8089,
+     "etb": 8545,
      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9494.3
     },
     "43": {
      "amount": 49.97,
      "currency": "USD",
      "usd": 49.97,
-     "etb": 8089,
+     "etb": 8545,
      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9494.3
     },
     "44": {
      "amount": 49.97,
      "currency": "USD",
      "usd": 49.97,
-     "etb": 8089,
+     "etb": 8545,
      "sourceURL": "https://www.shoepalace.com/products/nike-hf3165-402-field-general-mens-lifestyle-shoes-university-blue-gum-medium-brown-white",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9494.3
     }
    }
   },
@@ -1063,7 +1243,7 @@ window.catalog = [
    "/images/catalog/f53df575c5283fa275.webp",
    "/images/catalog/4f3ce2ae19bd888492.webp"
   ],
-  "price": 8089,
+  "price": 8545,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -1093,89 +1273,113 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "36": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "37": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "38": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-light-blue-patent-n-folowe3-lbl04",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    },
    "Leopard Print Sequin": {
@@ -1183,89 +1387,113 @@ window.catalog = [
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "36": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "37": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "38": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "39": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "40": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "41": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "42": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/folowe-dorsay-pointy-toe-pumps-in-leopard-print-sequin-n-folowep2-bnz01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     }
    }
   },
@@ -1317,7 +1545,7 @@ window.catalog = [
    "/images/catalog/091e3b5d1079d49704.webp",
    "/images/catalog/eb0d135c46a7dca75d.webp"
   ],
-  "price": 6473,
+  "price": 6838,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -1345,158 +1573,242 @@ window.catalog = [
     "38": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "39": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "40": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "41": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "42": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "43": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "44": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0807",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     }
    },
    "Blush / White": {
     "38": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "39": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "40": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "41": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "42": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "43": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "44": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-js0806",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     }
    }
   },
@@ -1542,7 +1854,7 @@ window.catalog = [
    "/images/catalog/cafa55ea696ac9fd90.webp",
    "/images/catalog/61f93bbb0ad9ba3993.webp"
   ],
-  "price": 9067,
+  "price": 9578,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -1572,89 +1884,113 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "36": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "37": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "38": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/deputy-chestnut-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    }
   },
@@ -1691,7 +2027,7 @@ window.catalog = [
    "/images/catalog/949f62ef3dd84f31dd.webp",
    "/images/catalog/bba4de613a19c83c82.webp"
   ],
-  "price": 8092,
+  "price": 8548,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -1719,79 +2055,121 @@ window.catalog = [
     "38": {
      "amount": 45.0,
      "currency": "EUR",
-     "usd": 50.412938,
-     "etb": 8161,
+     "usd": 50.41,
+     "etb": 8620,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 45.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9577.9
     },
     "39": {
      "amount": 45.0,
      "currency": "EUR",
-     "usd": 50.412938,
-     "etb": 8161,
+     "usd": 50.41,
+     "etb": 8620,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 45.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9577.9
     },
     "40": {
      "amount": 45.0,
      "currency": "EUR",
-     "usd": 50.412938,
-     "etb": 8161,
+     "usd": 50.41,
+     "etb": 8620,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 45.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9577.9
     },
     "41": {
      "amount": 45.0,
      "currency": "EUR",
-     "usd": 50.412938,
-     "etb": 8161,
+     "usd": 50.41,
+     "etb": 8620,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 45.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9577.9
     },
     "42": {
      "amount": 45.0,
      "currency": "EUR",
-     "usd": 50.412938,
-     "etb": 8161,
+     "usd": 50.41,
+     "etb": 8620,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 45.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9577.9
     },
     "43": {
      "amount": 45.0,
      "currency": "EUR",
-     "usd": 50.412938,
-     "etb": 8161,
+     "usd": 50.41,
+     "etb": 8620,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 45.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9577.9
     },
     "44": {
      "amount": 45.0,
      "currency": "EUR",
-     "usd": 50.412938,
-     "etb": 8161,
+     "usd": 50.41,
+     "etb": 8620,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-mundial-team-x-sns-ji3994",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 45.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9577.9
     }
    }
   },
@@ -1822,7 +2200,7 @@ window.catalog = [
    "/images/catalog/9925743d85eb281fe7.webp",
    "/images/catalog/e3ea869521d96ebd6f.webp"
   ],
-  "price": 8161,
+  "price": 8620,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -1852,89 +2230,113 @@ window.catalog = [
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "36": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "37": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "38": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "39": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "40": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "41": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "42": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/hanni-strappy-sandals-in-silver-n-hanni3-sil01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     }
    }
   },
@@ -1971,7 +2373,7 @@ window.catalog = [
    "/images/catalog/d0d4bf2059f9b2109c.webp",
    "/images/catalog/7c5210973780efc010.webp"
   ],
-  "price": 8901,
+  "price": 9403,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -1999,79 +2401,121 @@ window.catalog = [
     "38": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "39": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "40": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "41": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "42": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "43": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     },
     "44": {
      "amount": 50.0,
      "currency": "EUR",
-     "usd": 56.014376,
-     "etb": 9067,
+     "usd": 56.01,
+     "etb": 9578,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-jabbar-low-x-bruce-lee-jr1597",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 50.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10641.9
     }
    }
   },
@@ -2102,7 +2546,7 @@ window.catalog = [
    "/images/catalog/b1270311f6a5c694f6.webp",
    "/images/catalog/717ee432e877018c23.webp"
   ],
-  "price": 9067,
+  "price": 9578,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -2132,89 +2576,113 @@ window.catalog = [
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "36": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "37": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "38": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "39": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "40": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "41": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "42": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/wylder-brown-leather",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     }
    }
   },
@@ -2251,7 +2719,7 @@ window.catalog = [
    "/images/catalog/5752a391bf9e86c83c.webp",
    "/images/catalog/4d574a413787101263.webp"
   ],
-  "price": 4855,
+  "price": 5128,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -2280,78 +2748,99 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "43": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "44": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-black-black-grey-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    },
    "Grey 4/Grey 5/Black": {
@@ -2359,78 +2848,99 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "43": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "44": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-grey-4-grey-5-black-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    },
    "Army Green/White/Gum": {
@@ -2438,78 +2948,99 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "43": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "44": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-viva-speed-shoes-army-green-white-gum-162108",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    }
   },
@@ -2586,7 +3117,7 @@ window.catalog = [
    "/images/catalog/4ca1ce575b7357159b.webp",
    "/images/catalog/3b9e5714f7c4ab1b6b.webp"
   ],
-  "price": 6473,
+  "price": 6838,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -2616,89 +3147,113 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "36": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "37": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "38": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/solita-blue-multi",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    }
   },
@@ -2735,7 +3290,7 @@ window.catalog = [
    "/images/catalog/d35acd5db78f613a26.webp",
    "/images/catalog/5ce66fcac4e8859cb9.webp"
   ],
-  "price": 6473,
+  "price": 6838,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -2764,78 +3319,99 @@ window.catalog = [
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "39": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "40": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "41": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "42": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "43": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "44": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-black-black-grey-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     }
    },
    "Navy/White/Blue": {
@@ -2843,78 +3419,99 @@ window.catalog = [
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "39": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "40": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "41": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "42": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "43": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     },
     "44": {
      "amount": 29.99,
      "currency": "USD",
      "usd": 29.99,
-     "etb": 4855,
+     "etb": 5128,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-cityride-2-running-shoes-navy-white-blue-160087",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 5698.1
     }
    }
   },
@@ -2971,7 +3568,7 @@ window.catalog = [
    "/images/catalog/1c634fc53cfac14a6a.webp",
    "/images/catalog/d96d3678647741364a.webp"
   ],
-  "price": 4855,
+  "price": 5128,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -3001,89 +3598,113 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "36": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "37": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "38": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.stevemadden.com/products/diablo-taupe-suede",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    }
   },
@@ -3120,7 +3741,7 @@ window.catalog = [
    "/images/catalog/8dddeb689f7d564a91.webp",
    "/images/catalog/3d4ffd55e431d4f600.webp"
   ],
-  "price": 8092,
+  "price": 8548,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -3149,78 +3770,99 @@ window.catalog = [
      "amount": 60.0,
      "currency": "USD",
      "usd": 60.0,
-     "etb": 9712,
+     "etb": 10260,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11400.0
     },
     "39": {
      "amount": 60.0,
      "currency": "USD",
      "usd": 60.0,
-     "etb": 9712,
+     "etb": 10260,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11400.0
     },
     "40": {
      "amount": 60.0,
      "currency": "USD",
      "usd": 60.0,
-     "etb": 9712,
+     "etb": 10260,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11400.0
     },
     "41": {
      "amount": 60.0,
      "currency": "USD",
      "usd": 60.0,
-     "etb": 9712,
+     "etb": 10260,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11400.0
     },
     "42": {
      "amount": 60.0,
      "currency": "USD",
      "usd": 60.0,
-     "etb": 9712,
+     "etb": 10260,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11400.0
     },
     "43": {
      "amount": 60.0,
      "currency": "USD",
      "usd": 60.0,
-     "etb": 9712,
+     "etb": 10260,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11400.0
     },
     "44": {
      "amount": 60.0,
      "currency": "USD",
      "usd": 60.0,
-     "etb": 9712,
+     "etb": 10260,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-nfx-trainer-2-training-shoes-black-grey-6-162114",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11400.0
     }
    }
   },
@@ -3257,7 +3899,7 @@ window.catalog = [
    "/images/catalog/20f032566cca256f58.webp",
    "/images/catalog/e7f1aa6c0d958463bf.webp"
   ],
-  "price": 9712,
+  "price": 10260,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -3287,89 +3929,113 @@ window.catalog = [
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "36": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "37": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "38": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "39": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "40": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "41": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "42": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-lime-green-patent-n-palomma3-lgn01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     }
    },
    "Coral Patent": {
@@ -3377,89 +4043,113 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "36": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "37": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "38": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://ninewest.com/products/palomma-leather-slingback-pumps-in-coral-patent-n-palomma3-ora01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    }
   },
@@ -3516,7 +4206,7 @@ window.catalog = [
    "/images/catalog/e7c988332e29b15c01.webp",
    "/images/catalog/9df91f681fd8e1b18e.webp"
   ],
-  "price": 8092,
+  "price": 8548,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -3545,78 +4235,99 @@ window.catalog = [
      "amount": 55.0,
      "currency": "USD",
      "usd": 55.0,
-     "etb": 8903,
+     "etb": 9405,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10450.0
     },
     "39": {
      "amount": 55.0,
      "currency": "USD",
      "usd": 55.0,
-     "etb": 8903,
+     "etb": 9405,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10450.0
     },
     "40": {
      "amount": 55.0,
      "currency": "USD",
      "usd": 55.0,
-     "etb": 8903,
+     "etb": 9405,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10450.0
     },
     "41": {
      "amount": 55.0,
      "currency": "USD",
      "usd": 55.0,
-     "etb": 8903,
+     "etb": 9405,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10450.0
     },
     "42": {
      "amount": 55.0,
      "currency": "USD",
      "usd": 55.0,
-     "etb": 8903,
+     "etb": 9405,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10450.0
     },
     "43": {
      "amount": 55.0,
      "currency": "USD",
      "usd": 55.0,
-     "etb": 8903,
+     "etb": 9405,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10450.0
     },
     "44": {
      "amount": 55.0,
      "currency": "USD",
      "usd": 55.0,
-     "etb": 8903,
+     "etb": 9405,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-bb-1000-shoes-black-grey-6-168543",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10450.0
     }
    }
   },
@@ -3647,7 +4358,7 @@ window.catalog = [
    "/images/catalog/dbe16cbd3227a9d9b9.webp",
    "/images/catalog/071ae2dfc5e2459747.webp"
   ],
-  "price": 8903,
+  "price": 9405,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -3677,89 +4388,113 @@ window.catalog = [
      "amount": 59.99,
      "currency": "USD",
      "usd": 59.99,
-     "etb": 9711,
+     "etb": 10258,
      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11398.1
     },
     "36": {
      "amount": 59.99,
      "currency": "USD",
      "usd": 59.99,
-     "etb": 9711,
+     "etb": 10258,
      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11398.1
     },
     "37": {
      "amount": 59.99,
      "currency": "USD",
      "usd": 59.99,
-     "etb": 9711,
+     "etb": 10258,
      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11398.1
     },
     "38": {
      "amount": 59.99,
      "currency": "USD",
      "usd": 59.99,
-     "etb": 9711,
+     "etb": 10258,
      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11398.1
     },
     "39": {
      "amount": 59.99,
      "currency": "USD",
      "usd": 59.99,
-     "etb": 9711,
+     "etb": 10258,
      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11398.1
     },
     "40": {
      "amount": 59.99,
      "currency": "USD",
      "usd": 59.99,
-     "etb": 9711,
+     "etb": 10258,
      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11398.1
     },
     "41": {
      "amount": 59.99,
      "currency": "USD",
      "usd": 59.99,
-     "etb": 9711,
+     "etb": 10258,
      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11398.1
     },
     "42": {
      "amount": 59.99,
      "currency": "USD",
      "usd": 59.99,
-     "etb": 9711,
+     "etb": 10258,
      "sourceURL": "https://ninewest.com/products/velo-dress-booties-in-black-n-velo2-blk01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11398.1
     }
    }
   },
@@ -3796,7 +4531,7 @@ window.catalog = [
    "/images/catalog/be8d6720f60b5e35b3.webp",
    "/images/catalog/700342bcf65a770c9a.webp"
   ],
-  "price": 9711,
+  "price": 10258,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -3825,78 +4560,99 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "43": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "44": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-core-black-pewter-cold-grey-6-106302",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    },
    "Vector Navy/White/Hoops Blue": {
@@ -3904,78 +4660,99 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "43": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "44": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-flexagon-energy-4-training-shoes-vector-navy-white-hoops-blue-106099",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    }
   },
@@ -4032,7 +4809,7 @@ window.catalog = [
    "/images/catalog/ed37c57fcf68e1ea51.webp",
    "/images/catalog/b9e2aba2691909095e.webp"
   ],
-  "price": 8092,
+  "price": 8548,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -4062,89 +4839,113 @@ window.catalog = [
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "36": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "37": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "38": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "39": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "40": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "41": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "42": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://ninewest.com/products/gritt-block-heel-mule-sandals-in-platino-n-gritt3-gol01",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     }
    }
   },
@@ -4175,7 +4976,7 @@ window.catalog = [
    "/images/catalog/360da9bb8f6686e13e.webp",
    "/images/catalog/90045334f67634fd43.webp"
   ],
-  "price": 8901,
+  "price": 9403,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -4204,78 +5005,99 @@ window.catalog = [
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "39": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "40": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "41": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "42": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "43": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "44": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-black-cdgry5-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     }
    },
    "White/Collegiate Navy/Collegiate Royal": {
@@ -4283,78 +5105,99 @@ window.catalog = [
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "39": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "40": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "41": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "42": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "43": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     },
     "44": {
      "amount": 54.99,
      "currency": "USD",
      "usd": 54.99,
-     "etb": 8901,
+     "etb": 9403,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-walk-ultra-7-dmx-max-shoes-white-conavy-croyal-167902",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1
     }
    }
   },
@@ -4410,7 +5253,7 @@ window.catalog = [
    "/images/catalog/ebbe2256f429408e22.webp",
    "/images/catalog/5653aa635239cb03c9.webp"
   ],
-  "price": 8901,
+  "price": 9403,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -4440,89 +5283,113 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "36": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "37": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "38": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/larina-r-champagne",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    }
   },
@@ -4559,7 +5426,7 @@ window.catalog = [
    "/images/catalog/0e3ab043837596bf58.webp",
    "/images/catalog/c98f37b787c0052093.webp"
   ],
-  "price": 6473,
+  "price": 6838,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -4588,78 +5455,99 @@ window.catalog = [
      "amount": 44.99,
      "currency": "USD",
      "usd": 44.99,
-     "etb": 7283,
+     "etb": 7693,
      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8548.1
     },
     "39": {
      "amount": 44.99,
      "currency": "USD",
      "usd": 44.99,
-     "etb": 7283,
+     "etb": 7693,
      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8548.1
     },
     "40": {
      "amount": 44.99,
      "currency": "USD",
      "usd": 44.99,
-     "etb": 7283,
+     "etb": 7693,
      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8548.1
     },
     "41": {
      "amount": 44.99,
      "currency": "USD",
      "usd": 44.99,
-     "etb": 7283,
+     "etb": 7693,
      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8548.1
     },
     "42": {
      "amount": 44.99,
      "currency": "USD",
      "usd": 44.99,
-     "etb": 7283,
+     "etb": 7693,
      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8548.1
     },
     "43": {
      "amount": 44.99,
      "currency": "USD",
      "usd": 44.99,
-     "etb": 7283,
+     "etb": 7693,
      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8548.1
     },
     "44": {
      "amount": 44.99,
      "currency": "USD",
      "usd": 44.99,
-     "etb": 7283,
+     "etb": 7693,
      "sourceURL": "https://www.reebok.com/products/mens-phase-advantage-tennis-shoes",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8548.1
     }
    }
   },
@@ -4690,7 +5578,7 @@ window.catalog = [
    "/images/catalog/05740c5f92dc0dbd32.webp",
    "/images/catalog/02cb2d4d01fabed2c0.webp"
   ],
-  "price": 7283,
+  "price": 7693,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -4720,89 +5608,113 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "36": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "37": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "38": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-black-black-pink-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    },
    "Elemental Pink/Chalk": {
@@ -4810,89 +5722,113 @@ window.catalog = [
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "36": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "37": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "38": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "39": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "40": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "41": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     },
     "42": {
      "amount": 49.99,
      "currency": "USD",
      "usd": 49.99,
-     "etb": 8092,
+     "etb": 8548,
      "sourceURL": "https://www.reebok.com/products/reebok-zig-futaura-1-0-shoes-elemental-pink-chalk-172296",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 9498.1
     }
    }
   },
@@ -4938,7 +5874,7 @@ window.catalog = [
    "/images/catalog/d8e327cf6a3d3b2aee.webp",
    "/images/catalog/135bbf61cfeef0907f.webp"
   ],
-  "price": 8092,
+  "price": 8548,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -4967,78 +5903,99 @@ window.catalog = [
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "39": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "40": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "41": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "42": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "43": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "43"
+     "euSize": "43",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     },
     "44": {
      "amount": 39.99,
      "currency": "USD",
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-run-lxs-shoes-white-nightblack-gum-172512",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "44"
+     "euSize": "44",
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7598.1
     }
    }
   },
@@ -5069,7 +6026,7 @@ window.catalog = [
    "/images/catalog/67c0745d70c35f8843.webp",
    "/images/catalog/753e62e811266f8bf2.webp"
   ],
-  "price": 6473,
+  "price": 6838,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -5098,90 +6055,138 @@ window.catalog = [
     "35": {
      "amount": 42.0,
      "currency": "EUR",
-     "usd": 47.052075,
-     "etb": 7617,
+     "usd": 47.05,
+     "etb": 8046,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "35"
+     "euSize": "35",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 42.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8939.5
     },
     "36": {
      "amount": 42.0,
      "currency": "EUR",
-     "usd": 47.052075,
-     "etb": 7617,
+     "usd": 47.05,
+     "etb": 8046,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "36"
+     "euSize": "36",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 42.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8939.5
     },
     "37": {
      "amount": 42.0,
      "currency": "EUR",
-     "usd": 47.052075,
-     "etb": 7617,
+     "usd": 47.05,
+     "etb": 8046,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "37"
+     "euSize": "37",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 42.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8939.5
     },
     "38": {
      "amount": 42.0,
      "currency": "EUR",
-     "usd": 47.052075,
-     "etb": 7617,
+     "usd": 47.05,
+     "etb": 8046,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "38"
+     "euSize": "38",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 42.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8939.5
     },
     "39": {
      "amount": 42.0,
      "currency": "EUR",
-     "usd": 47.052075,
-     "etb": 7617,
+     "usd": 47.05,
+     "etb": 8046,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "39"
+     "euSize": "39",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 42.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8939.5
     },
     "40": {
      "amount": 42.0,
      "currency": "EUR",
-     "usd": 47.052075,
-     "etb": 7617,
+     "usd": 47.05,
+     "etb": 8046,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "40"
+     "euSize": "40",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 42.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8939.5
     },
     "41": {
      "amount": 42.0,
      "currency": "EUR",
-     "usd": 47.052075,
-     "etb": 7617,
+     "usd": 47.05,
+     "etb": 8046,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "41"
+     "euSize": "41",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 42.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8939.5
     },
     "42": {
      "amount": 42.0,
      "currency": "EUR",
-     "usd": 47.052075,
-     "etb": 7617,
+     "usd": 47.05,
+     "etb": 8046,
      "sourceURL": "https://www.sneakersnstuff.com/products/adidas-womens-blanc-x-sporty-rich-jp8560",
      "sourceVariantID": null,
      "sourceSKU": null,
      "stockBasis": "merchant",
-     "euSize": "42"
+     "euSize": "42",
+     "sourceCurrency": "EUR",
+     "sourceAmount": 42.0,
+     "usdConversionRate": 0.892628,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 8939.5
     }
    }
   },
@@ -5212,7 +6217,7 @@ window.catalog = [
    "/images/catalog/7e2a3dc539d4aa3bb1.webp",
    "/images/catalog/073556ec54643bf6f1.webp"
   ],
-  "price": 7617,
+  "price": 8046,
   "sizeSystem": "EU",
   "stockBasis": "Merchant-offered EU size range across every color; not source retailer availability"
  },
@@ -5223,8 +6228,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 2749,
-  "tag": "15% off",
+  "price": 3417,
+  "tag": "Style edit",
   "description": "Jackets for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -5237,39 +6242,43 @@ window.catalog = [
    "Red/Beige": {
     "S": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige?variant=43262373822670",
      "sourceVariantID": "43262373822670",
      "sourceSKU": "21116169",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige?variant=43262373855438",
      "sourceVariantID": "43262373855438",
      "sourceSKU": "21116168",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige?variant=43262373888206",
      "sourceVariantID": "43262373888206",
      "sourceSKU": "21116167",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj107-plaid-zip-up-flannel-mens-jacket-red-beige?variant=43262373920974",
      "sourceVariantID": "43262373920974",
      "sourceSKU": "21116170",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -5298,8 +6307,6 @@ window.catalog = [
    "/images/catalog/48a3e125a8b0e4df52.webp",
    "/images/catalog/f6695b5afa4fae12e6.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 3234,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -5309,7 +6316,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 5980,
   "tag": "Premium edit",
   "description": "Dresses for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -5323,77 +6330,85 @@ window.catalog = [
    "Midnight": {
     "S": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15332-midnight?variant=41478253478021",
      "sourceVariantID": "41478253478021",
      "sourceSKU": "SB15332",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15332-midnight?variant=41478253510789",
      "sourceVariantID": "41478253510789",
      "sourceSKU": "SB15332",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15332-midnight?variant=41478253543557",
      "sourceVariantID": "41478253543557",
      "sourceSKU": "SB15332",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15332-midnight?variant=41478253576325",
      "sourceVariantID": "41478253576325",
      "sourceSKU": "SB15332",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    },
    "Chocolate": {
     "S": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15353-chocolate?variant=41478251184261",
      "sourceVariantID": "41478251184261",
      "sourceSKU": "SB15353",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15353-chocolate?variant=41478251217029",
      "sourceVariantID": "41478251217029",
      "sourceSKU": "SB15353",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15353-chocolate?variant=41478251249797",
      "sourceVariantID": "41478251249797",
      "sourceSKU": "SB15353",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15353-chocolate?variant=41478251282565",
      "sourceVariantID": "41478251282565",
      "sourceSKU": "SB15353",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -5444,8 +6459,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Jackets for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -5458,115 +6473,127 @@ window.catalog = [
    "Black/Green": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green?variant=43132705046734",
      "sourceVariantID": "43132705046734",
      "sourceSKU": "21110479",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green?variant=43132705079502",
      "sourceVariantID": "43132705079502",
      "sourceSKU": "21110478",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green?variant=43132705112270",
      "sourceVariantID": "43132705112270",
      "sourceSKU": "21110477",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb101-reversible-bomber-mens-jacket-black-green?variant=43132705145038",
      "sourceVariantID": "43132705145038",
      "sourceSKU": "21110480",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    },
    "Purple/Grey": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey?variant=43127022452942",
      "sourceVariantID": "43127022452942",
      "sourceSKU": "21110491",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey?variant=43127022485710",
      "sourceVariantID": "43127022485710",
      "sourceSKU": "21110490",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey?variant=43127022518478",
      "sourceVariantID": "43127022518478",
      "sourceSKU": "21110489",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb103-reversible-bomber-mens-jacket-purple-grey?variant=43127022551246",
      "sourceVariantID": "43127022551246",
      "sourceSKU": "21110492",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    },
    "Olive/Orange": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange?variant=43127021666510",
      "sourceVariantID": "43127021666510",
      "sourceSKU": "21110485",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange?variant=43127021699278",
      "sourceVariantID": "43127021699278",
      "sourceSKU": "21110484",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange?variant=43127021732046",
      "sourceVariantID": "43127021732046",
      "sourceSKU": "21110483",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb102-reversible-bomber-mens-jacket-olive-orange?variant=43127021764814",
      "sourceVariantID": "43127021764814",
      "sourceSKU": "21110486",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -5621,8 +6648,6 @@ window.catalog = [
    "/images/catalog/596a81c4c15db81b07.webp",
    "/images/catalog/71564149a4c8f56a1e.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 4853,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -5632,7 +6657,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 5980,
   "tag": "Premium edit",
   "description": "Dresses for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -5646,39 +6671,43 @@ window.catalog = [
    "Port": {
     "S": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb14323-port?variant=41478253707397",
      "sourceVariantID": "41478253707397",
      "sourceSKU": "SB14323",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb14323-port?variant=41478253740165",
      "sourceVariantID": "41478253740165",
      "sourceSKU": "SB14323",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb14323-port?variant=41478253772933",
      "sourceVariantID": "41478253772933",
      "sourceSKU": "SB14323",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb14323-port?variant=41478253805701",
      "sourceVariantID": "41478253805701",
      "sourceSKU": "SB14323",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -5716,8 +6745,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Jackets for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -5730,39 +6759,43 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black?variant=43171873718478",
      "sourceVariantID": "43171873718478",
      "sourceSKU": "21110503",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black?variant=43171873751246",
      "sourceVariantID": "43171873751246",
      "sourceSKU": "21110502",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black?variant=43171873784014",
      "sourceVariantID": "43171873784014",
      "sourceSKU": "21110501",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf101-western-puffer-mens-jacket-black?variant=43171873816782",
      "sourceVariantID": "43171873816782",
      "sourceSKU": "21110504",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -5791,8 +6824,6 @@ window.catalog = [
    "/images/catalog/79b89133b7a269b17e.webp",
    "/images/catalog/1ef69668ef9ed97fa9.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 4853,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -5802,7 +6833,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Dresses for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -5816,39 +6847,43 @@ window.catalog = [
    "Wine": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp308251-wine?variant=41176290689157",
      "sourceVariantID": "41176290689157",
      "sourceSKU": "BP308251",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp308251-wine?variant=41176290558085",
      "sourceVariantID": "41176290558085",
      "sourceSKU": "BP308251",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp308251-wine?variant=41176290590853",
      "sourceVariantID": "41176290590853",
      "sourceSKU": "BP308251",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp308251-wine?variant=41176290623621",
      "sourceVariantID": "41176290623621",
      "sourceSKU": "BP308251",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -5886,8 +6921,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 2749,
-  "tag": "15% off",
+  "price": 3417,
+  "tag": "Style edit",
   "description": "Jackets for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -5900,39 +6935,43 @@ window.catalog = [
    "Black/White": {
     "S": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white?variant=43262321492174",
      "sourceVariantID": "43262321492174",
      "sourceSKU": "21116175",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white?variant=43262321524942",
      "sourceVariantID": "43262321524942",
      "sourceSKU": "21116174",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white?variant=43262321557710",
      "sourceVariantID": "43262321557710",
      "sourceSKU": "21116173",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj109-hooded-flannel-mens-jacket-black-white?variant=43262321590478",
      "sourceVariantID": "43262321590478",
      "sourceSKU": "21116176",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -5961,8 +7000,6 @@ window.catalog = [
    "/images/catalog/9a2bea0ab0a7b4e11d.webp",
    "/images/catalog/69600f2d53d69b6c70.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 3234,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -5972,7 +7009,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Dresses for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -5986,39 +7023,43 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp408452-black?variant=41237983395973",
      "sourceVariantID": "41237983395973",
      "sourceSKU": "BP408452",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp408452-black?variant=41237983297669",
      "sourceVariantID": "41237983297669",
      "sourceSKU": "BP408452",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp408452-black?variant=41237983232133",
      "sourceVariantID": "41237983232133",
      "sourceSKU": "BP408452",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp408452-black?variant=41237983264901",
      "sourceVariantID": "41237983264901",
      "sourceSKU": "BP408452",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -6056,8 +7097,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 2748,
-  "tag": "15% off",
+  "price": 3415,
+  "tag": "Style edit",
   "description": "Jackets for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -6070,39 +7111,43 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 19.97,
-     "etb": 2748,
+     "etb": 3415,
      "sourceURL": "https://www.reebok.com/products/reebok-woven-jacket-black-174114?variant=50554685292848",
      "sourceVariantID": "50554685292848",
      "sourceSKU": "100283193-S",
-     "baseEtb": 3233,
-     "discountPercent": 15
+     "baseEtb": 3794.3,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 19.97,
-     "etb": 2748,
+     "etb": 3415,
      "sourceURL": "https://www.reebok.com/products/reebok-woven-jacket-black-174114?variant=50554685325616",
      "sourceVariantID": "50554685325616",
      "sourceSKU": "100283193-M",
-     "baseEtb": 3233,
-     "discountPercent": 15
+     "baseEtb": 3794.3,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 19.97,
-     "etb": 2748,
+     "etb": 3415,
      "sourceURL": "https://www.reebok.com/products/reebok-woven-jacket-black-174114?variant=50554685358384",
      "sourceVariantID": "50554685358384",
      "sourceSKU": "100283193-L",
-     "baseEtb": 3233,
-     "discountPercent": 15
+     "baseEtb": 3794.3,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 19.97,
-     "etb": 2748,
+     "etb": 3415,
      "sourceURL": "https://www.reebok.com/products/reebok-woven-jacket-black-174114?variant=50554685391152",
      "sourceVariantID": "50554685391152",
      "sourceSKU": "100283193-XL",
-     "baseEtb": 3233,
-     "discountPercent": 15
+     "baseEtb": 3794.3,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -6131,8 +7176,6 @@ window.catalog = [
    "/images/catalog/5a08f5283d7c887ed5.webp",
    "/images/catalog/bb00016d5ccc8ae1bd.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 3233,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -6142,7 +7185,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Dresses for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -6156,39 +7199,43 @@ window.catalog = [
    "Chicory Coffee": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb15191-chicory-coffee?variant=41464414175365",
      "sourceVariantID": "41464414175365",
      "sourceSKU": "SB15191",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb15191-chicory-coffee?variant=41464414208133",
      "sourceVariantID": "41464414208133",
      "sourceSKU": "SB15191",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb15191-chicory-coffee?variant=41464414240901",
      "sourceVariantID": "41464414240901",
      "sourceSKU": "SB15191",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb15191-chicory-coffee?variant=41464414273669",
      "sourceVariantID": "41464414273669",
      "sourceSKU": "SB15191",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -6226,8 +7273,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 2749,
-  "tag": "15% off",
+  "price": 3417,
+  "tag": "Style edit",
   "description": "Jackets for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -6240,39 +7287,43 @@ window.catalog = [
    "Black/Multicolor": {
     "S": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor?variant=43513837093070",
      "sourceVariantID": "43513837093070",
      "sourceSKU": "21148488",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor?variant=43513837125838",
      "sourceVariantID": "43513837125838",
      "sourceSKU": "21148487",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor?variant=43513837158606",
      "sourceVariantID": "43513837158606",
      "sourceSKU": "21148486",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/kenny-scharf-x-sp-kscj101-sp-x-kenny-scharf-all-over-print-chore-washed-mens-jacket-black-multicolor?variant=43513837191374",
      "sourceVariantID": "43513837191374",
      "sourceSKU": "21148489",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -6301,8 +7352,6 @@ window.catalog = [
    "/images/catalog/cdb02f4e05dc3ac094.webp",
    "/images/catalog/3844e14d3936d0cc13.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 3234,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -6312,7 +7361,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6000,
+  "price": 5980,
   "tag": "Premium edit",
   "description": "Skirts for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -6326,39 +7375,43 @@ window.catalog = [
    "Oilslick": {
     "S": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sc17086-oilslick?variant=41786336542853",
      "sourceVariantID": "41786336542853",
      "sourceSKU": "SC17086",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sc17086-oilslick?variant=41805349748869",
      "sourceVariantID": "41805349748869",
      "sourceSKU": "SC17086",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sc17086-oilslick?variant=41786336575621",
      "sourceVariantID": "41786336575621",
      "sourceSKU": "SC17086",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sc17086-oilslick?variant=41786336608389",
      "sourceVariantID": "41786336608389",
      "sourceSKU": "SC17086",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -6396,8 +7449,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 4813,
-  "tag": "15% off",
+  "price": 5982,
+  "tag": "Style edit",
   "description": "Pants for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -6410,39 +7463,43 @@ window.catalog = [
    "Black/Black": {
     "S": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black?variant=43563533500622",
      "sourceVariantID": "43563533500622",
      "sourceSKU": "21148659",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black?variant=43563533533390",
      "sourceVariantID": "43563533533390",
      "sourceSKU": "21148658",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black?variant=43563533566158",
      "sourceVariantID": "43563533566158",
      "sourceSKU": "21148657",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-madp201-rhinestone-denim-washed-mens-pants-black-black?variant=43563533598926",
      "sourceVariantID": "43563533598926",
      "sourceSKU": "21148660",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -6471,8 +7528,6 @@ window.catalog = [
    "/images/catalog/8c8a8f9fd03c344043.webp",
    "/images/catalog/290398d923f94a8509.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 5662,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -6482,7 +7537,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Skirts for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -6496,39 +7551,43 @@ window.catalog = [
    "Ivory": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb17375-ivory?variant=41478252200069",
      "sourceVariantID": "41478252200069",
      "sourceSKU": "SB17375",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb17375-ivory?variant=41478252232837",
      "sourceVariantID": "41478252232837",
      "sourceSKU": "SB17375",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb17375-ivory?variant=41478252265605",
      "sourceVariantID": "41478252265605",
      "sourceSKU": "SB17375",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb17375-ivory?variant=41478252298373",
      "sourceVariantID": "41478252298373",
      "sourceSKU": "SB17375",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -6566,8 +7625,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 2749,
-  "tag": "15% off",
+  "price": 3417,
+  "tag": "Style edit",
   "description": "Pants for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -6580,39 +7639,43 @@ window.catalog = [
    "Green/Brown": {
     "S": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown?variant=43430602506446",
      "sourceVariantID": "43430602506446",
      "sourceSKU": "21138102",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown?variant=43430602539214",
      "sourceVariantID": "43430602539214",
      "sourceSKU": "21138101",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown?variant=43430602571982",
      "sourceVariantID": "43430602571982",
      "sourceSKU": "21138100",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-macp101-army-camo-cargo-mens-pants-green-brown?variant=43430602604750",
      "sourceVariantID": "43430602604750",
      "sourceSKU": "21138103",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -6641,8 +7704,6 @@ window.catalog = [
    "/images/catalog/495986628ec9db6630.webp",
    "/images/catalog/be52c4b84ee41206b5.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 3234,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -6652,7 +7713,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6000,
+  "price": 5980,
   "tag": "Premium edit",
   "description": "Skirts for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -6666,39 +7727,43 @@ window.catalog = [
    "Mountain Green": {
     "S": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb18376-mountain-green?variant=41596370583685",
      "sourceVariantID": "41596370583685",
      "sourceSKU": "SB18376",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb18376-mountain-green?variant=41596370616453",
      "sourceVariantID": "41596370616453",
      "sourceSKU": "SB18376",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb18376-mountain-green?variant=41596370649221",
      "sourceVariantID": "41596370649221",
      "sourceSKU": "SB18376",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb18376-mountain-green?variant=41596370681989",
      "sourceVariantID": "41596370681989",
      "sourceSKU": "SB18376",
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -6736,8 +7801,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Pants for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -6750,39 +7815,43 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black?variant=43430605029582",
      "sourceVariantID": "43430605029582",
      "sourceSKU": "21138108",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black?variant=43430605062350",
      "sourceVariantID": "43430605062350",
      "sourceSKU": "21138107",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black?variant=43430605095118",
      "sourceVariantID": "43430605095118",
      "sourceSKU": "21138106",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-macp102-solid-canvas-cargo-mens-pants-black?variant=43430605127886",
      "sourceVariantID": "43430605127886",
      "sourceSKU": "21138109",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -6811,8 +7880,6 @@ window.catalog = [
    "/images/catalog/a36a19e92f770e3c60.webp",
    "/images/catalog/198c8bd0721de58642.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 4853,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -6822,7 +7889,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Skirts for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -6836,39 +7903,43 @@ window.catalog = [
    "Wine": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409341-wine?variant=41237983821957",
      "sourceVariantID": "41237983821957",
      "sourceSKU": "BP409341",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409341-wine?variant=41237983953029",
      "sourceVariantID": "41237983953029",
      "sourceSKU": "BP409341",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409341-wine?variant=41237983920261",
      "sourceVariantID": "41237983920261",
      "sourceSKU": "BP409341",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409341-wine?variant=41237983854725",
      "sourceVariantID": "41237983854725",
      "sourceSKU": "BP409341",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -6906,8 +7977,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Pants for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -6920,39 +7991,43 @@ window.catalog = [
    "Grey/Brown": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown?variant=43440124592334",
      "sourceVariantID": "43440124592334",
      "sourceSKU": "21146152",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown?variant=43440124625102",
      "sourceVariantID": "43440124625102",
      "sourceSKU": "21146151",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown?variant=43440124657870",
      "sourceVariantID": "43440124657870",
      "sourceSKU": "21146150",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-rtfp201-overdyed-camo-fleece-mens-sweatpants-grey-brown?variant=43440124690638",
      "sourceVariantID": "43440124690638",
      "sourceSKU": "21146153",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -6981,8 +8056,6 @@ window.catalog = [
    "/images/catalog/2f343c502418dbe1b0.webp",
    "/images/catalog/bfd5d3c1158dd613ba.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 4853,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -6992,7 +8065,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Skirts for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -7006,39 +8079,43 @@ window.catalog = [
    "Walnut": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa17412-walnut?variant=41529788891269",
      "sourceVariantID": "41529788891269",
      "sourceSKU": "SA17412",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa17412-walnut?variant=41529788924037",
      "sourceVariantID": "41529788924037",
      "sourceSKU": "SA17412",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa17412-walnut?variant=41529788956805",
      "sourceVariantID": "41529788956805",
      "sourceSKU": "SA17412",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa17412-walnut?variant=41529788989573",
      "sourceVariantID": "41529788989573",
      "sourceSKU": "SA17412",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -7076,8 +8153,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 5504,
-  "tag": "15% off",
+  "price": 6840,
+  "tag": "Style edit",
   "description": "Pants for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -7090,115 +8167,127 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882?variant=50145810219312",
      "sourceVariantID": "50145810219312",
      "sourceSKU": "100250922-S",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882?variant=50145810252080",
      "sourceVariantID": "50145810252080",
      "sourceSKU": "100250922-M",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882?variant=50145810284848",
      "sourceVariantID": "50145810284848",
      "sourceSKU": "100250922-L",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-black-151882?variant=50145810317616",
      "sourceVariantID": "50145810317616",
      "sourceSKU": "100250922-XL",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    },
    "Vector Navy": {
     "S": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882?variant=50145809695024",
      "sourceVariantID": "50145809695024",
      "sourceSKU": "100250923-S",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882?variant=50145809727792",
      "sourceVariantID": "50145809727792",
      "sourceSKU": "100250923-M",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882?variant=50145809760560",
      "sourceVariantID": "50145809760560",
      "sourceSKU": "100250923-L",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-train-woven-unlined-pants-vector-navy-151882?variant=50145809793328",
      "sourceVariantID": "50145809793328",
      "sourceSKU": "100250923-XL",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    },
    "Grey 5": {
     "S": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882?variant=50253825802544",
      "sourceVariantID": "50253825802544",
      "sourceSKU": "100256356-S",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882?variant=50253825835312",
      "sourceVariantID": "50253825835312",
      "sourceSKU": "100256356-M",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882?variant=50253825868080",
      "sourceVariantID": "50253825868080",
      "sourceSKU": "100256356-L",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 40.0,
-     "etb": 5504,
+     "etb": 6840,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-id-train-woven-unlined-pants-grey-5-151882?variant=50253825900848",
      "sourceVariantID": "50253825900848",
      "sourceSKU": "100256356-XL",
-     "baseEtb": 6475,
-     "discountPercent": 15
+     "baseEtb": 7600.0,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -7253,8 +8342,6 @@ window.catalog = [
    "/images/catalog/0864fe3b37e2f2c3aa.webp",
    "/images/catalog/221643fcf207264e94.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 6475,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -7264,7 +8351,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Skirts with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -7278,43 +8365,47 @@ window.catalog = [
    "Delft Blue": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp309366-delft-blue?variant=41378504278149",
      "sourceVariantID": "41378504278149",
      "sourceSKU": "BP309366",
      "availableAtSource": false,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp309366-delft-blue?variant=41378504310917",
      "sourceVariantID": "41378504310917",
      "sourceSKU": "BP309366",
      "availableAtSource": false,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp309366-delft-blue?variant=41378504343685",
      "sourceVariantID": "41378504343685",
      "sourceSKU": "BP309366",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp309366-delft-blue?variant=41378504376453",
      "sourceVariantID": "41378504376453",
      "sourceSKU": "BP309366",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -7352,8 +8443,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 5502,
-  "tag": "15% off",
+  "price": 6838,
+  "tag": "Style edit",
   "description": "Pants for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -7366,39 +8457,43 @@ window.catalog = [
    "Light Grey Marl": {
     "S": {
      "usd": 39.99,
-     "etb": 5502,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563?variant=66874650329392",
      "sourceVariantID": "66874650329392",
      "sourceSKU": "100267043-S",
-     "baseEtb": 6473,
-     "discountPercent": 15
+     "baseEtb": 7598.1,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 39.99,
-     "etb": 5502,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563?variant=66874650362160",
      "sourceVariantID": "66874650362160",
      "sourceSKU": "100267043-M",
-     "baseEtb": 6473,
-     "discountPercent": 15
+     "baseEtb": 7598.1,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 39.99,
-     "etb": 5502,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563?variant=66874650394928",
      "sourceVariantID": "66874650394928",
      "sourceSKU": "100267043-L",
-     "baseEtb": 6473,
-     "discountPercent": 15
+     "baseEtb": 7598.1,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 39.99,
-     "etb": 5502,
+     "etb": 6838,
      "sourceURL": "https://www.reebok.com/products/reebok-mens-relaxed-logo-joggers-light-grey-marl-165563?variant=66874650427696",
      "sourceVariantID": "66874650427696",
      "sourceSKU": "100267043-XL",
-     "baseEtb": 6473,
-     "discountPercent": 15
+     "baseEtb": 7598.1,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -7427,8 +8522,6 @@ window.catalog = [
    "/images/catalog/840d4bafe64cd7aa43.webp",
    "/images/catalog/a8149ddf0ee6064f56.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 6473,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -7438,7 +8531,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Skirts with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -7452,43 +8545,47 @@ window.catalog = [
    "Snow White": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa06385-snow-white?variant=41439155945605",
      "sourceVariantID": "41439155945605",
      "sourceSKU": "SA06385",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa06385-snow-white?variant=41439155978373",
      "sourceVariantID": "41439155978373",
      "sourceSKU": "SA06385",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa06385-snow-white?variant=41439156011141",
      "sourceVariantID": "41439156011141",
      "sourceSKU": "SA06385",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa06385-snow-white?variant=41439156043909",
      "sourceVariantID": "41439156043909",
      "sourceSKU": "SA06385",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -7526,8 +8623,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 3438,
-  "tag": "15% off",
+  "price": 4273,
+  "tag": "Style edit",
   "description": "Pants for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -7540,39 +8637,43 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 24.99,
-     "etb": 3438,
+     "etb": 4273,
      "sourceURL": "https://www.reebok.com/products/reebok-motion-joggers-black-164127?variant=50145947812144",
      "sourceVariantID": "50145947812144",
      "sourceSKU": "100264804-S",
-     "baseEtb": 4045,
-     "discountPercent": 15
+     "baseEtb": 4748.1,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 24.99,
-     "etb": 3438,
+     "etb": 4273,
      "sourceURL": "https://www.reebok.com/products/reebok-motion-joggers-black-164127?variant=50145947779376",
      "sourceVariantID": "50145947779376",
      "sourceSKU": "100264804-M",
-     "baseEtb": 4045,
-     "discountPercent": 15
+     "baseEtb": 4748.1,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 24.99,
-     "etb": 3438,
+     "etb": 4273,
      "sourceURL": "https://www.reebok.com/products/reebok-motion-joggers-black-164127?variant=50145947746608",
      "sourceVariantID": "50145947746608",
      "sourceSKU": "100264804-L",
-     "baseEtb": 4045,
-     "discountPercent": 15
+     "baseEtb": 4748.1,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 24.99,
-     "etb": 3438,
+     "etb": 4273,
      "sourceURL": "https://www.reebok.com/products/reebok-motion-joggers-black-164127?variant=50145947844912",
      "sourceVariantID": "50145947844912",
      "sourceSKU": "100264804-XL",
-     "baseEtb": 4045,
-     "discountPercent": 15
+     "baseEtb": 4748.1,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -7601,8 +8702,6 @@ window.catalog = [
    "/images/catalog/32b28e530a8096782e.webp",
    "/images/catalog/7ad84b9bc36ec7c289.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 4045,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -7612,7 +8711,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Skirts with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -7626,43 +8725,47 @@ window.catalog = [
    "Mocha Heather": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa17255-mocha-heather?variant=41439146672261",
      "sourceVariantID": "41439146672261",
      "sourceSKU": "SA17255",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa17255-mocha-heather?variant=41439146705029",
      "sourceVariantID": "41439146705029",
      "sourceSKU": "SA17255",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa17255-mocha-heather?variant=41439146737797",
      "sourceVariantID": "41439146737797",
      "sourceSKU": "SA17255",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sa17255-mocha-heather?variant=41439146770565",
      "sourceVariantID": "41439146770565",
      "sourceSKU": "SA17255",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -7700,8 +8803,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 4813,
-  "tag": "15% off",
+  "price": 5982,
+  "tag": "Style edit",
   "description": "Hoodies for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -7714,77 +8817,85 @@ window.catalog = [
    "Beige/Beige": {
     "S": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige?variant=48430355579086",
      "sourceVariantID": "48430355579086",
      "sourceSKU": "21148416",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige?variant=48430355611854",
      "sourceVariantID": "48430355611854",
      "sourceSKU": "21148415",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige?variant=48430355644622",
      "sourceVariantID": "48430355644622",
      "sourceSKU": "21148414",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh210-beaded-fleece-zip-up-washed-mens-hoodie-beige-beige?variant=48430355677390",
      "sourceVariantID": "48430355677390",
      "sourceSKU": "21148417",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    },
    "Black/Black": {
     "S": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316454094",
      "sourceVariantID": "48430316454094",
      "sourceSKU": "21148410",
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316486862",
      "sourceVariantID": "48430316486862",
      "sourceSKU": "21148409",
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316519630",
      "sourceVariantID": "48430316519630",
      "sourceSKU": "21148408",
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316552398",
      "sourceVariantID": "48430316552398",
      "sourceSKU": "21148411",
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -7826,8 +8937,6 @@ window.catalog = [
    "/images/catalog/f7490061219e6289bd.webp",
    "/images/catalog/efdd846ecd572ba3c6.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 5662,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -7837,7 +8946,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Skirts with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -7851,43 +8960,47 @@ window.catalog = [
    "Golden Lime": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409452-golden-lime?variant=41386789175429",
      "sourceVariantID": "41386789175429",
      "sourceSKU": "BP409452",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409452-golden-lime?variant=41386789208197",
      "sourceVariantID": "41386789208197",
      "sourceSKU": "BP409452",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409452-golden-lime?variant=41386789240965",
      "sourceVariantID": "41386789240965",
      "sourceSKU": "BP409452",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409452-golden-lime?variant=41386789273733",
      "sourceVariantID": "41386789273733",
      "sourceSKU": "BP409452",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -7925,8 +9038,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Hoodies for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -7939,39 +9052,43 @@ window.catalog = [
    "Black/Grey": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey?variant=43563630100686",
      "sourceVariantID": "43563630100686",
      "sourceSKU": "21148398",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey?variant=43563630133454",
      "sourceVariantID": "43563630133454",
      "sourceSKU": "21149052",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey?variant=43563630166222",
      "sourceVariantID": "43563630166222",
      "sourceSKU": "21149051",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh201-rhinestone-wings-zip-up-mens-hoodie-black-grey?variant=43563630198990",
      "sourceVariantID": "43563630198990",
      "sourceSKU": "21148399",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -8000,8 +9117,6 @@ window.catalog = [
    "/images/catalog/db53845b9936668cbd.webp",
    "/images/catalog/69484877b50e98d4c9.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 4853,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -8011,7 +9126,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Skirts",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Skirts with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -8025,43 +9140,47 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409340-black?variant=41237982118021",
      "sourceVariantID": "41237982118021",
      "sourceSKU": "BP409340",
      "availableAtSource": false,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409340-black?variant=41237982183557",
      "sourceVariantID": "41237982183557",
      "sourceSKU": "BP409340",
      "availableAtSource": false,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409340-black?variant=41237982085253",
      "sourceVariantID": "41237982085253",
      "sourceSKU": "BP409340",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/bp409340-black?variant=41237982150789",
      "sourceVariantID": "41237982150789",
      "sourceSKU": "BP409340",
      "availableAtSource": true,
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -8099,8 +9218,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 2749,
-  "tag": "15% off",
+  "price": 3417,
+  "tag": "Style edit",
   "description": "Hoodies for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -8113,115 +9232,127 @@ window.catalog = [
    "Olive": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive?variant=43287861952718",
      "sourceVariantID": "43287861952718",
      "sourceSKU": "21113005",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive?variant=43287861985486",
      "sourceVariantID": "43287861985486",
      "sourceSKU": "21113004",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive?variant=43287862018254",
      "sourceVariantID": "43287862018254",
      "sourceSKU": "21113003",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph103-pullover-fleece-mens-hoodie-olive?variant=43287862051022",
      "sourceVariantID": "43287862051022",
      "sourceSKU": "21113006",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    },
    "Grey": {
     "S": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961600206",
      "sourceVariantID": "43287961600206",
      "sourceSKU": "21112991",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961632974",
      "sourceVariantID": "43287961632974",
      "sourceSKU": "21112990",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961665742",
      "sourceVariantID": "43287961665742",
      "sourceSKU": "21112989",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961698510",
      "sourceVariantID": "43287961698510",
      "sourceSKU": "21112992",
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    },
    "Stone": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone?variant=43287822074062",
      "sourceVariantID": "43287822074062",
      "sourceSKU": "21113019",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone?variant=43287822106830",
      "sourceVariantID": "43287822106830",
      "sourceSKU": "21113018",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone?variant=43287822139598",
      "sourceVariantID": "43287822139598",
      "sourceSKU": "21113017",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph105-pullover-fleece-mens-hoodie-stone?variant=43287822172366",
      "sourceVariantID": "43287822172366",
      "sourceSKU": "21113020",
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -8270,8 +9401,6 @@ window.catalog = [
    "/images/catalog/ec1b78e49533f1bb25.webp",
    "/images/catalog/38b9cc65f3ba50ea54.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 3234,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -8281,7 +9410,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 5980,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -8295,43 +9424,47 @@ window.catalog = [
    "Caramel Zebra": {
     "S": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15320-caramel-zebra?variant=41478253215877",
      "sourceVariantID": "41478253215877",
      "sourceSKU": "SB15320",
      "availableAtSource": false,
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15320-caramel-zebra?variant=41478253248645",
      "sourceVariantID": "41478253248645",
      "sourceSKU": "SB15320",
      "availableAtSource": true,
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15320-caramel-zebra?variant=41478253281413",
      "sourceVariantID": "41478253281413",
      "sourceSKU": "SB15320",
      "availableAtSource": true,
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 34.97,
-     "etb": 6000,
+     "etb": 5980,
      "sourceURL": "https://www.stevemadden.com/products/sb15320-caramel-zebra?variant=41478253314181",
      "sourceVariantID": "41478253314181",
      "sourceSKU": "SB15320",
      "availableAtSource": true,
-     "baseEtb": 5661,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 6644.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -8369,8 +9502,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 4813,
-  "tag": "15% off",
+  "price": 5982,
+  "tag": "Style edit",
   "description": "Hoodies for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -8383,39 +9516,43 @@ window.catalog = [
    "Black/Grey": {
     "S": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey?variant=43534256472270",
      "sourceVariantID": "43534256472270",
      "sourceSKU": "21148765",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey?variant=43534256505038",
      "sourceVariantID": "43534256505038",
      "sourceSKU": "21148764",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey?variant=43534256537806",
      "sourceVariantID": "43534256537806",
      "sourceSKU": "21148763",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd101-saint-washed-pullover-mens-hoodie-black-grey?variant=43534256570574",
      "sourceVariantID": "43534256570574",
      "sourceSKU": "21148766",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -8444,8 +9581,6 @@ window.catalog = [
    "/images/catalog/53b9cd293c686a7079.webp",
    "/images/catalog/bfed1e735fcd97d072.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 5662,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -8455,7 +9590,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 4954,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -8469,43 +9604,47 @@ window.catalog = [
    "Medium Wash": {
     "S": {
      "usd": 28.97,
-     "etb": 6000,
+     "etb": 4954,
      "sourceURL": "https://www.bebe.com/products/the-fitted-dress-medium-wash?variant=41887599493197",
      "sourceVariantID": "41887599493197",
      "sourceSKU": "BFA-85-MEDIUM WASH-S",
      "availableAtSource": false,
-     "baseEtb": 4689,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5504.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 28.97,
-     "etb": 6000,
+     "etb": 4954,
      "sourceURL": "https://www.bebe.com/products/the-fitted-dress-medium-wash?variant=41887599525965",
      "sourceVariantID": "41887599525965",
      "sourceSKU": "BFA-85-MEDIUM WASH-M",
      "availableAtSource": false,
-     "baseEtb": 4689,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5504.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 28.97,
-     "etb": 6000,
+     "etb": 4954,
      "sourceURL": "https://www.bebe.com/products/the-fitted-dress-medium-wash?variant=41887599558733",
      "sourceVariantID": "41887599558733",
      "sourceSKU": "BFA-85-MEDIUM WASH-L",
      "availableAtSource": true,
-     "baseEtb": 4689,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5504.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 28.97,
-     "etb": 6000,
+     "etb": 4954,
      "sourceURL": "https://www.bebe.com/products/the-fitted-dress-medium-wash?variant=41887599591501",
      "sourceVariantID": "41887599591501",
      "sourceSKU": "BFA-85-MEDIUM WASH-XL",
      "availableAtSource": true,
-     "baseEtb": 4689,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5504.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -8543,8 +9682,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 4813,
-  "tag": "15% off",
+  "price": 5982,
+  "tag": "Style edit",
   "description": "Hoodies for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -8557,39 +9696,43 @@ window.catalog = [
    "Grey": {
     "S": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey?variant=43534255980750",
      "sourceVariantID": "43534255980750",
      "sourceSKU": "21148786",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey?variant=43534256013518",
      "sourceVariantID": "43534256013518",
      "sourceSKU": "21148785",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey?variant=43534256046286",
      "sourceVariantID": "43534256046286",
      "sourceSKU": "21148784",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-oshd105-neck-bling-washed-pullover-fleece-mens-hoodie-grey?variant=43534256079054",
      "sourceVariantID": "43534256079054",
      "sourceSKU": "21148787",
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -8618,8 +9761,6 @@ window.catalog = [
    "/images/catalog/e564d324035f030aa2.webp",
    "/images/catalog/7fe4f04ab2ba3a3b06.webp"
   ],
-  "discountPercent": 15,
-  "originalPrice": 5662,
   "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
@@ -8629,7 +9770,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 4954,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -8643,43 +9784,47 @@ window.catalog = [
    "Medium Wash": {
     "S": {
      "usd": 28.97,
-     "etb": 6000,
+     "etb": 4954,
      "sourceURL": "https://www.bebe.com/products/sleeveless-front-button-denim-dress-medium-wash?variant=41292420907085",
      "sourceVariantID": "41292420907085",
      "sourceSKU": "BCQ85-MEDIUM WASH-S",
      "availableAtSource": false,
-     "baseEtb": 4689,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5504.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 28.97,
-     "etb": 6000,
+     "etb": 4954,
      "sourceURL": "https://www.bebe.com/products/sleeveless-front-button-denim-dress-medium-wash?variant=41292420939853",
      "sourceVariantID": "41292420939853",
      "sourceSKU": "BCQ85-MEDIUM WASH-M",
      "availableAtSource": true,
-     "baseEtb": 4689,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5504.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 28.97,
-     "etb": 6000,
+     "etb": 4954,
      "sourceURL": "https://www.bebe.com/products/sleeveless-front-button-denim-dress-medium-wash?variant=41292420972621",
      "sourceVariantID": "41292420972621",
      "sourceSKU": "BCQ85-MEDIUM WASH-L",
      "availableAtSource": true,
-     "baseEtb": 4689,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5504.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 28.97,
-     "etb": 6000,
+     "etb": 4954,
      "sourceURL": "https://www.bebe.com/products/sleeveless-front-button-denim-dress-medium-wash?variant=41292421005389",
      "sourceVariantID": "41292421005389",
      "sourceSKU": "BCQ85-MEDIUM WASH-XL",
      "availableAtSource": true,
-     "baseEtb": 4689,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5504.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -8717,8 +9862,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Jackets with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -8731,43 +9876,47 @@ window.catalog = [
    "Black/Black": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf102-quilted-cross-puffer-mens-jacket-black-black?variant=43172063314126",
      "sourceVariantID": "43172063314126",
      "sourceSKU": "21110509",
      "availableAtSource": false,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf102-quilted-cross-puffer-mens-jacket-black-black?variant=43172063346894",
      "sourceVariantID": "43172063346894",
      "sourceSKU": "21110508",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf102-quilted-cross-puffer-mens-jacket-black-black?variant=43172063379662",
      "sourceVariantID": "43172063379662",
      "sourceSKU": "21110507",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapf102-quilted-cross-puffer-mens-jacket-black-black?variant=43172063412430",
      "sourceVariantID": "43172063412430",
      "sourceSKU": "21110510",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -8796,9 +9945,7 @@ window.catalog = [
    "/images/catalog/0d9d6812a2b2db4bb2.webp",
    "/images/catalog/210518164c6452c0fc.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 4853
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-6923357552691",
@@ -8807,7 +9954,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6470,
+  "price": 6835,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -8821,85 +9968,93 @@ window.catalog = [
    "Hunter": {
     "S": {
      "usd": 39.97,
-     "etb": 6470,
+     "etb": 6835,
      "sourceURL": "https://www.windsorstore.com/products/ayanna-formal-glitter-ruched-mermaid-long-dress-050027741037?variant=41310514872371",
      "sourceVariantID": "41310514872371",
      "sourceSKU": "405002516519",
      "availableAtSource": false,
-     "baseEtb": 6470,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7594.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.97,
-     "etb": 6470,
+     "etb": 6835,
      "sourceURL": "https://www.windsorstore.com/products/ayanna-formal-glitter-ruched-mermaid-long-dress-050027741037?variant=41310514970675",
      "sourceVariantID": "41310514970675",
      "sourceSKU": "405002516526",
      "availableAtSource": false,
-     "baseEtb": 6470,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7594.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.97,
-     "etb": 6470,
+     "etb": 6835,
      "sourceURL": "https://www.windsorstore.com/products/ayanna-formal-glitter-ruched-mermaid-long-dress-050027741037?variant=41310515068979",
      "sourceVariantID": "41310515068979",
      "sourceSKU": "405002516533",
      "availableAtSource": false,
-     "baseEtb": 6470,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7594.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.97,
-     "etb": 6470,
+     "etb": 6835,
      "sourceURL": "https://www.windsorstore.com/products/ayanna-formal-glitter-ruched-mermaid-long-dress-050027741037?variant=41310515134515",
      "sourceVariantID": "41310515134515",
      "sourceSKU": "405002516540",
      "availableAtSource": false,
-     "baseEtb": 6470,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7594.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    },
    "Burgundy": {
     "S": {
      "usd": 39.97,
-     "etb": 6470,
+     "etb": 6835,
      "sourceURL": "https://www.windsorstore.com/products/ayanna-formal-glitter-ruched-mermaid-long-dress-050027741037?variant=41310515200051",
      "sourceVariantID": "41310515200051",
      "sourceSKU": "405002516656",
      "availableAtSource": false,
-     "baseEtb": 6470,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7594.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.97,
-     "etb": 6470,
+     "etb": 6835,
      "sourceURL": "https://www.windsorstore.com/products/ayanna-formal-glitter-ruched-mermaid-long-dress-050027741037?variant=41310515232819",
      "sourceVariantID": "41310515232819",
      "sourceSKU": "405002516663",
      "availableAtSource": false,
-     "baseEtb": 6470,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7594.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.97,
-     "etb": 6470,
+     "etb": 6835,
      "sourceURL": "https://www.windsorstore.com/products/ayanna-formal-glitter-ruched-mermaid-long-dress-050027741037?variant=41310515265587",
      "sourceVariantID": "41310515265587",
      "sourceSKU": "405002516670",
      "availableAtSource": false,
-     "baseEtb": 6470,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7594.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.97,
-     "etb": 6470,
+     "etb": 6835,
      "sourceURL": "https://www.windsorstore.com/products/ayanna-formal-glitter-ruched-mermaid-long-dress-050027741037?variant=41310515298355",
      "sourceVariantID": "41310515298355",
      "sourceSKU": "405002516687",
      "availableAtSource": false,
-     "baseEtb": 6470,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7594.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -8950,8 +10105,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 2749,
-  "tag": "15% off",
+  "price": 3417,
+  "tag": "Style edit",
   "description": "Jackets with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -8964,43 +10119,47 @@ window.catalog = [
    "Brown/White": {
     "S": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj110-hooded-flannel-mens-jacket-brown-white?variant=43262292066510",
      "sourceVariantID": "43262292066510",
      "sourceSKU": "21116181",
      "availableAtSource": true,
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj110-hooded-flannel-mens-jacket-brown-white?variant=43262292099278",
      "sourceVariantID": "43262292099278",
      "sourceSKU": "21116180",
      "availableAtSource": true,
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj110-hooded-flannel-mens-jacket-brown-white?variant=43262292132046",
      "sourceVariantID": "43262292132046",
      "sourceSKU": "21116179",
      "availableAtSource": true,
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mafj110-hooded-flannel-mens-jacket-brown-white?variant=43262292164814",
      "sourceVariantID": "43262292164814",
      "sourceSKU": "21116182",
      "availableAtSource": false,
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -9029,9 +10188,7 @@ window.catalog = [
    "/images/catalog/54d04c1cdea53755fc.webp",
    "/images/catalog/fd3d4c4d2ccfb5d371.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 3234
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7082008477747",
@@ -9040,7 +10197,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 3415,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -9054,85 +10211,93 @@ window.catalog = [
    "Navy": {
     "S": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/teagan-sleeveless-cowl-neck-slim-formal-dress-050028633001?variant=42198959620147",
      "sourceVariantID": "42198959620147",
      "sourceSKU": "405002565159",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/teagan-sleeveless-cowl-neck-slim-formal-dress-050028633001?variant=42198959652915",
      "sourceVariantID": "42198959652915",
      "sourceSKU": "405002565166",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/teagan-sleeveless-cowl-neck-slim-formal-dress-050028633001?variant=42198959685683",
      "sourceVariantID": "42198959685683",
      "sourceSKU": "405002565173",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/teagan-sleeveless-cowl-neck-slim-formal-dress-050028633001?variant=42198959718451",
      "sourceVariantID": "42198959718451",
      "sourceSKU": "405002565180",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    },
    "Yellow-2": {
     "S": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/teagan-sleeveless-cowl-neck-slim-formal-dress-050028633001?variant=42705634852915",
      "sourceVariantID": "42705634852915",
      "sourceSKU": "405002591660",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/teagan-sleeveless-cowl-neck-slim-formal-dress-050028633001?variant=42705634885683",
      "sourceVariantID": "42705634885683",
      "sourceSKU": "405002591677",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/teagan-sleeveless-cowl-neck-slim-formal-dress-050028633001?variant=42705634918451",
      "sourceVariantID": "42705634918451",
      "sourceSKU": "405002591684",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/teagan-sleeveless-cowl-neck-slim-formal-dress-050028633001?variant=42705634951219",
      "sourceVariantID": "42705634951219",
      "sourceSKU": "405002591691",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -9183,8 +10348,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Jackets",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Jackets with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -9197,43 +10362,47 @@ window.catalog = [
    "Brown": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb104-reversible-bomber-mens-jacket-brown?variant=43132706029774",
      "sourceVariantID": "43132706029774",
      "sourceSKU": "21110497",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb104-reversible-bomber-mens-jacket-brown?variant=43132706062542",
      "sourceVariantID": "43132706062542",
      "sourceSKU": "21110496",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb104-reversible-bomber-mens-jacket-brown?variant=43132706095310",
      "sourceVariantID": "43132706095310",
      "sourceSKU": "21110495",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-manb104-reversible-bomber-mens-jacket-brown?variant=43132706128078",
      "sourceVariantID": "43132706128078",
      "sourceSKU": "21110498",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -9262,9 +10431,7 @@ window.catalog = [
    "/images/catalog/939696276dce0ab8d9.webp",
    "/images/catalog/00f6ef29d587dab59e.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 4853
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7065574932531",
@@ -9273,7 +10440,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 5125,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -9287,85 +10454,93 @@ window.catalog = [
    "Mauve": {
     "S": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/ashlynn-open-back-ruched-mermaid-formal-dress-050028604038?variant=42520418287667",
      "sourceVariantID": "42520418287667",
      "sourceSKU": "405002571570",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/ashlynn-open-back-ruched-mermaid-formal-dress-050028604038?variant=42520418320435",
      "sourceVariantID": "42520418320435",
      "sourceSKU": "405002571587",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/ashlynn-open-back-ruched-mermaid-formal-dress-050028604038?variant=42520418353203",
      "sourceVariantID": "42520418353203",
      "sourceSKU": "405002571594",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/ashlynn-open-back-ruched-mermaid-formal-dress-050028604038?variant=42520418385971",
      "sourceVariantID": "42520418385971",
      "sourceSKU": "405002571600",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    },
    "Yellow": {
     "S": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/ashlynn-open-back-ruched-mermaid-formal-dress-050028604038?variant=42520418451507",
      "sourceVariantID": "42520418451507",
      "sourceSKU": "405002571624",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/ashlynn-open-back-ruched-mermaid-formal-dress-050028604038?variant=42520418517043",
      "sourceVariantID": "42520418517043",
      "sourceSKU": "405002571631",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/ashlynn-open-back-ruched-mermaid-formal-dress-050028604038?variant=42520418549811",
      "sourceVariantID": "42520418549811",
      "sourceSKU": "405002571648",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/ashlynn-open-back-ruched-mermaid-formal-dress-050028604038?variant=42520418615347",
      "sourceVariantID": "42520418615347",
      "sourceSKU": "405002571655",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -9416,8 +10591,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 5501,
-  "tag": "15% off",
+  "price": 6837,
+  "tag": "Style edit",
   "description": "Hoodies with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -9430,43 +10605,47 @@ window.catalog = [
    "Black/Black": {
     "S": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316454094",
      "sourceVariantID": "48430316454094",
      "sourceSKU": "21148410",
      "availableAtSource": true,
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316486862",
      "sourceVariantID": "48430316486862",
      "sourceSKU": "21148409",
      "availableAtSource": true,
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316519630",
      "sourceVariantID": "48430316519630",
      "sourceSKU": "21148408",
      "availableAtSource": true,
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mazh203-beaded-fleece-zip-up-washed-mens-hoodie-black-black?variant=48430316552398",
      "sourceVariantID": "48430316552398",
      "sourceSKU": "21148411",
      "availableAtSource": true,
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -9495,9 +10674,7 @@ window.catalog = [
    "/images/catalog/f7490061219e6289bd.webp",
    "/images/catalog/efdd846ecd572ba3c6.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 6472
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7153526931507",
@@ -9506,7 +10683,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 5125,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -9520,43 +10697,47 @@ window.catalog = [
    "Purple": {
     "S": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/piper-halter-bodycon-rhinestone-mini-dress-050012322050?variant=42015969542195",
      "sourceVariantID": "42015969542195",
      "sourceSKU": "405001331717",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/piper-halter-bodycon-rhinestone-mini-dress-050012322050?variant=42015969607731",
      "sourceVariantID": "42015969607731",
      "sourceSKU": "405001331724",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/piper-halter-bodycon-rhinestone-mini-dress-050012322050?variant=42015969640499",
      "sourceVariantID": "42015969640499",
      "sourceSKU": "405001331731",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/piper-halter-bodycon-rhinestone-mini-dress-050012322050?variant=42677518630963",
      "sourceVariantID": "42677518630963",
      "sourceSKU": "405001345660",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -9594,8 +10775,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Hoodies with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -9608,43 +10789,47 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-makzh101-knit-fleece-zip-up-mens-hoodie-black?variant=43262375887054",
      "sourceVariantID": "43262375887054",
      "sourceSKU": "21116217",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-makzh101-knit-fleece-zip-up-mens-hoodie-black?variant=43262375919822",
      "sourceVariantID": "43262375919822",
      "sourceSKU": "21116216",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-makzh101-knit-fleece-zip-up-mens-hoodie-black?variant=43262375952590",
      "sourceVariantID": "43262375952590",
      "sourceSKU": "21116215",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-makzh101-knit-fleece-zip-up-mens-hoodie-black?variant=43262375985358",
      "sourceVariantID": "43262375985358",
      "sourceSKU": "21116218",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -9671,9 +10856,7 @@ window.catalog = [
    "/images/catalog/46834722879bb15447.webp",
    "/images/catalog/f14eeec95bde890f65.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 4853
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-6986582294579",
@@ -9682,7 +10865,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 3415,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -9696,85 +10879,93 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/maleah-twist-front-glitter-knit-mermaid-dress-050028430001?variant=41494595371059",
      "sourceVariantID": "41494595371059",
      "sourceSKU": "405002549111",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/maleah-twist-front-glitter-knit-mermaid-dress-050028430001?variant=41494595403827",
      "sourceVariantID": "41494595403827",
      "sourceSKU": "405002549128",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/maleah-twist-front-glitter-knit-mermaid-dress-050028430001?variant=41494595436595",
      "sourceVariantID": "41494595436595",
      "sourceSKU": "405002549135",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/maleah-twist-front-glitter-knit-mermaid-dress-050028430001?variant=41494595469363",
      "sourceVariantID": "41494595469363",
      "sourceSKU": "405002549142",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    },
    "Lavender": {
     "S": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/maleah-twist-front-glitter-knit-mermaid-dress-050028430001?variant=41494595534899",
      "sourceVariantID": "41494595534899",
      "sourceSKU": "405002549203",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/maleah-twist-front-glitter-knit-mermaid-dress-050028430001?variant=41494595567667",
      "sourceVariantID": "41494595567667",
      "sourceSKU": "405002549210",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/maleah-twist-front-glitter-knit-mermaid-dress-050028430001?variant=41494595600435",
      "sourceVariantID": "41494595600435",
      "sourceSKU": "405002549227",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/maleah-twist-front-glitter-knit-mermaid-dress-050028430001?variant=41494595633203",
      "sourceVariantID": "41494595633203",
      "sourceSKU": "405002549234",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -9825,8 +11016,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 4813,
-  "tag": "15% off",
+  "price": 5982,
+  "tag": "Style edit",
   "description": "Hoodies with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -9839,43 +11030,47 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-makhdy01-knit-pullover-mens-hoodie-black?variant=42894940635342",
      "sourceVariantID": "42894940635342",
      "sourceSKU": "20955222",
      "availableAtSource": true,
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-makhdy01-knit-pullover-mens-hoodie-black?variant=42894940668110",
      "sourceVariantID": "42894940668110",
      "sourceSKU": "20955221",
      "availableAtSource": true,
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-makhdy01-knit-pullover-mens-hoodie-black?variant=42894940700878",
      "sourceVariantID": "42894940700878",
      "sourceSKU": "20955220",
      "availableAtSource": true,
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-makhdy01-knit-pullover-mens-hoodie-black?variant=42894940733646",
      "sourceVariantID": "42894940733646",
      "sourceSKU": "20955223",
      "availableAtSource": true,
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -9900,9 +11095,7 @@ window.catalog = [
    "/images/catalog/18e60a3b548f6bb1e0.webp",
    "/images/catalog/22cb9efccf898a1623.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 5662
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7055582625843",
@@ -9911,7 +11104,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 5125,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -9925,43 +11118,47 @@ window.catalog = [
    "Off White": {
     "S": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/adelina-feather-trim-sequin-mini-dress-050012180001?variant=41741541867571",
      "sourceVariantID": "41741541867571",
      "sourceSKU": "405001325655",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/adelina-feather-trim-sequin-mini-dress-050012180001?variant=41741541900339",
      "sourceVariantID": "41741541900339",
      "sourceSKU": "405001325662",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/adelina-feather-trim-sequin-mini-dress-050012180001?variant=41741541933107",
      "sourceVariantID": "41741541933107",
      "sourceSKU": "405001325679",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 29.97,
-     "etb": 6000,
+     "etb": 5125,
      "sourceURL": "https://www.windsorstore.com/products/adelina-feather-trim-sequin-mini-dress-050012180001?variant=41741541965875",
      "sourceVariantID": "41741541965875",
      "sourceSKU": "405001325686",
      "availableAtSource": false,
-     "baseEtb": 4851,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5694.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -9993,8 +11190,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 2749,
-  "tag": "15% off",
+  "price": 3417,
+  "tag": "Style edit",
   "description": "Hoodies with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -10007,43 +11204,47 @@ window.catalog = [
    "Grey": {
     "S": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961600206",
      "sourceVariantID": "43287961600206",
      "sourceSKU": "21112991",
      "availableAtSource": true,
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961632974",
      "sourceVariantID": "43287961632974",
      "sourceSKU": "21112990",
      "availableAtSource": true,
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961665742",
      "sourceVariantID": "43287961665742",
      "sourceSKU": "21112989",
      "availableAtSource": true,
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 19.98,
-     "etb": 2749,
+     "etb": 3417,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-maph101-pullover-fleece-mens-hoodie-grey?variant=43287961698510",
      "sourceVariantID": "43287961698510",
      "sourceSKU": "21112992",
      "availableAtSource": true,
-     "baseEtb": 3234,
-     "discountPercent": 15
+     "baseEtb": 3796.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -10070,9 +11271,7 @@ window.catalog = [
    "/images/catalog/9d0ce11317cbf0982f.webp",
    "/images/catalog/7e6c352979d913aed4.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 3234
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7653397561395",
@@ -10081,7 +11280,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 3415,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -10095,43 +11294,47 @@ window.catalog = [
    "Red": {
     "S": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/mildred-flocked-velvet-strappy-mermaid-formal-dress-05002000574060?variant=43562933846067",
      "sourceVariantID": "43562933846067",
      "sourceSKU": "400000308579",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/mildred-flocked-velvet-strappy-mermaid-formal-dress-05002000574060?variant=43562933878835",
      "sourceVariantID": "43562933878835",
      "sourceSKU": "400000308586",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/mildred-flocked-velvet-strappy-mermaid-formal-dress-05002000574060?variant=43562933911603",
      "sourceVariantID": "43562933911603",
      "sourceSKU": "400000308593",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/mildred-flocked-velvet-strappy-mermaid-formal-dress-05002000574060?variant=43562933944371",
      "sourceVariantID": "43562933944371",
      "sourceSKU": "400000308609",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -10169,8 +11372,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Hoodies with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -10183,43 +11386,47 @@ window.catalog = [
    "Green/Yellow": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/bob-marley-x-sp-bmzh301-sp-x-bob-marley-shining-sun-zip-up-fleece-mens-hoodie-green-yellow?variant=43462889341134",
      "sourceVariantID": "43462889341134",
      "sourceSKU": "21138665",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/bob-marley-x-sp-bmzh301-sp-x-bob-marley-shining-sun-zip-up-fleece-mens-hoodie-green-yellow?variant=43462889373902",
      "sourceVariantID": "43462889373902",
      "sourceSKU": "21138664",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/bob-marley-x-sp-bmzh301-sp-x-bob-marley-shining-sun-zip-up-fleece-mens-hoodie-green-yellow?variant=43462889406670",
      "sourceVariantID": "43462889406670",
      "sourceSKU": "21138663",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/bob-marley-x-sp-bmzh301-sp-x-bob-marley-shining-sun-zip-up-fleece-mens-hoodie-green-yellow?variant=43462889439438",
      "sourceVariantID": "43462889439438",
      "sourceSKU": "21138666",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -10248,9 +11455,7 @@ window.catalog = [
    "/images/catalog/40ad8b5847dd620750.webp",
    "/images/catalog/7dede23d1895487b5a.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 4853
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-6951218544691",
@@ -10259,7 +11464,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Dresses",
   "audience": "Women",
-  "price": 6000,
+  "price": 3415,
   "tag": "Premium edit",
   "description": "Dresses with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
@@ -10273,43 +11478,47 @@ window.catalog = [
    "Purple": {
     "S": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/haley-corset-slit-a-line-satin-formal-dress-050028129065?variant=41402792214579",
      "sourceVariantID": "41402792214579",
      "sourceSKU": "405002535282",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/haley-corset-slit-a-line-satin-formal-dress-050028129065?variant=41402792247347",
      "sourceVariantID": "41402792247347",
      "sourceSKU": "405002535299",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/haley-corset-slit-a-line-satin-formal-dress-050028129065?variant=41402792280115",
      "sourceVariantID": "41402792280115",
      "sourceSKU": "405002535305",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 19.97,
-     "etb": 6000,
+     "etb": 3415,
      "sourceURL": "https://www.windsorstore.com/products/haley-corset-slit-a-line-satin-formal-dress-050028129065?variant=41402792312883",
      "sourceVariantID": "41402792312883",
      "sourceSKU": "405002535411",
      "availableAtSource": false,
-     "baseEtb": 3233,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 3794.3,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -10347,8 +11556,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Hoodies",
   "audience": "Men",
-  "price": 4125,
-  "tag": "15% off",
+  "price": 5127,
+  "tag": "Style edit",
   "description": "Hoodies with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -10361,43 +11570,47 @@ window.catalog = [
    "Olive": {
     "S": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mawh101-washed-full-zip-mens-hoodie-olive?variant=43206892847310",
      "sourceVariantID": "43206892847310",
      "sourceSKU": "21001025",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mawh101-washed-full-zip-mens-hoodie-olive?variant=43206892880078",
      "sourceVariantID": "43206892880078",
      "sourceSKU": "21001024",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mawh101-washed-full-zip-mens-hoodie-olive?variant=43206892912846",
      "sourceVariantID": "43206892912846",
      "sourceSKU": "21001023",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 29.98,
-     "etb": 4125,
+     "etb": 5127,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mawh101-washed-full-zip-mens-hoodie-olive?variant=43206892945614",
      "sourceVariantID": "43206892945614",
      "sourceSKU": "21001026",
      "availableAtSource": true,
-     "baseEtb": 4853,
-     "discountPercent": 15
+     "baseEtb": 5696.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -10424,9 +11637,7 @@ window.catalog = [
    "/images/catalog/c251be6922d5ecf87d.webp",
    "/images/catalog/d389c8b1863a53aedf.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 4853
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7271229030533",
@@ -10435,7 +11646,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Tops",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Tops for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -10449,39 +11660,43 @@ window.catalog = [
    "Burnt Coral": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb09231-burnt-coral?variant=41621393571973",
      "sourceVariantID": "41621393571973",
      "sourceSKU": "SB09231",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb09231-burnt-coral?variant=41621393604741",
      "sourceVariantID": "41621393604741",
      "sourceSKU": "SB09231",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb09231-burnt-coral?variant=41621393637509",
      "sourceVariantID": "41621393637509",
      "sourceSKU": "SB09231",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb09231-burnt-coral?variant=41621393670277",
      "sourceVariantID": "41621393670277",
      "sourceSKU": "SB09231",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -10519,8 +11734,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 5501,
-  "tag": "15% off",
+  "price": 6837,
+  "tag": "Style edit",
   "description": "Pants with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -10533,43 +11748,47 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-osdp301-cross-patch-denim-mens-pants-black?variant=48419344449742",
      "sourceVariantID": "48419344449742",
      "sourceSKU": "21160915",
      "availableAtSource": true,
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-osdp301-cross-patch-denim-mens-pants-black?variant=48419344482510",
      "sourceVariantID": "48419344482510",
      "sourceSKU": "21160914",
      "availableAtSource": true,
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-osdp301-cross-patch-denim-mens-pants-black?variant=48419344515278",
      "sourceVariantID": "48419344515278",
      "sourceSKU": "21160913",
      "availableAtSource": true,
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 39.98,
-     "etb": 5501,
+     "etb": 6837,
      "sourceURL": "https://www.shoepalace.com/products/original-sin-osdp301-cross-patch-denim-mens-pants-black?variant=48419344548046",
      "sourceVariantID": "48419344548046",
      "sourceSKU": "21160916",
      "availableAtSource": true,
-     "baseEtb": 6472,
-     "discountPercent": 15
+     "baseEtb": 7596.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -10598,9 +11817,7 @@ window.catalog = [
    "/images/catalog/bca55be67dc0c3e4dc.webp",
    "/images/catalog/de84a022f31a4662f7.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 6472
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7271228735621",
@@ -10609,7 +11826,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Tops",
   "audience": "Women",
-  "price": 6473,
+  "price": 6838,
   "tag": "Premium edit",
   "description": "Tops for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -10623,39 +11840,43 @@ window.catalog = [
    "Plaid": {
     "S": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb09348-plaid?variant=41621391048837",
      "sourceVariantID": "41621391048837",
      "sourceSKU": "SB09348",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb09348-plaid?variant=41621391081605",
      "sourceVariantID": "41621391081605",
      "sourceSKU": "SB09348",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb09348-plaid?variant=41621391114373",
      "sourceVariantID": "41621391114373",
      "sourceSKU": "SB09348",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 39.99,
-     "etb": 6473,
+     "etb": 6838,
      "sourceURL": "https://www.stevemadden.com/products/sb09348-plaid?variant=41621391147141",
      "sourceVariantID": "41621391147141",
      "sourceSKU": "SB09348",
-     "baseEtb": 6473,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 7598.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -10693,8 +11914,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 4813,
-  "tag": "15% off",
+  "price": 5982,
+  "tag": "Style edit",
   "description": "Pants with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -10707,43 +11928,47 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-majkpt01-jacquard-knit-joggers-mens-pants-black?variant=42856644018382",
      "sourceVariantID": "42856644018382",
      "sourceSKU": "20955182",
      "availableAtSource": false,
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-majkpt01-jacquard-knit-joggers-mens-pants-black?variant=42856644051150",
      "sourceVariantID": "42856644051150",
      "sourceSKU": "20955181",
      "availableAtSource": false,
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-majkpt01-jacquard-knit-joggers-mens-pants-black?variant=42856644083918",
      "sourceVariantID": "42856644083918",
      "sourceSKU": "20955180",
      "availableAtSource": false,
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 34.98,
-     "etb": 4813,
+     "etb": 5982,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-majkpt01-jacquard-knit-joggers-mens-pants-black?variant=42856644116686",
      "sourceVariantID": "42856644116686",
      "sourceSKU": "20955183",
      "availableAtSource": false,
-     "baseEtb": 5662,
-     "discountPercent": 15
+     "baseEtb": 6646.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -10768,9 +11993,7 @@ window.catalog = [
    "/images/catalog/75897b47cc9940d30c.webp",
    "/images/catalog/6aa8e9628bfb7f691b.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 5662
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7225299239045",
@@ -10779,7 +12002,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Women",
-  "price": 6000,
+  "price": 5128,
   "tag": "Premium edit",
   "description": "Pants for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -10793,39 +12016,43 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 29.99,
-     "etb": 6000,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/sb07199-black?variant=41464421843077",
      "sourceVariantID": "41464421843077",
      "sourceSKU": "SB07199",
-     "baseEtb": 4855,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5698.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 29.99,
-     "etb": 6000,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/sb07199-black?variant=41464421875845",
      "sourceVariantID": "41464421875845",
      "sourceSKU": "SB07199",
-     "baseEtb": 4855,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5698.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 29.99,
-     "etb": 6000,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/sb07199-black?variant=41464421908613",
      "sourceVariantID": "41464421908613",
      "sourceSKU": "SB07199",
-     "baseEtb": 4855,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5698.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 29.99,
-     "etb": 6000,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/sb07199-black?variant=41464421941381",
      "sourceVariantID": "41464421941381",
      "sourceSKU": "SB07199",
-     "baseEtb": 4855,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5698.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -10863,8 +12090,8 @@ window.catalog = [
   "department": "Clothes",
   "category": "Pants",
   "audience": "Men",
-  "price": 3437,
-  "tag": "15% off",
+  "price": 4272,
+  "tag": "Style edit",
   "description": "Pants with a statement silhouette for your next look. Choose your size and color.",
   "sizeLabel": "Clothing size",
   "sizes": [
@@ -10877,43 +12104,47 @@ window.catalog = [
    "Black": {
     "S": {
      "usd": 24.98,
-     "etb": 3437,
+     "etb": 4272,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapp02-pleated-knit-mens-pants-black?variant=42921141665998",
      "sourceVariantID": "42921141665998",
      "sourceSKU": "20969320",
      "availableAtSource": true,
-     "baseEtb": 4044,
-     "discountPercent": 15
+     "baseEtb": 4746.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "M": {
      "usd": 24.98,
-     "etb": 3437,
+     "etb": 4272,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapp02-pleated-knit-mens-pants-black?variant=42921141698766",
      "sourceVariantID": "42921141698766",
      "sourceSKU": "20969319",
      "availableAtSource": true,
-     "baseEtb": 4044,
-     "discountPercent": 15
+     "baseEtb": 4746.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "L": {
      "usd": 24.98,
-     "etb": 3437,
+     "etb": 4272,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapp02-pleated-knit-mens-pants-black?variant=42921141731534",
      "sourceVariantID": "42921141731534",
      "sourceSKU": "20969318",
      "availableAtSource": true,
-     "baseEtb": 4044,
-     "discountPercent": 15
+     "baseEtb": 4746.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     },
     "XL": {
      "usd": 24.98,
-     "etb": 3437,
+     "etb": 4272,
      "sourceURL": "https://www.shoepalace.com/products/maison-article-mapp02-pleated-knit-mens-pants-black?variant=42921141764302",
      "sourceVariantID": "42921141764302",
      "sourceSKU": "20969321",
      "availableAtSource": true,
-     "baseEtb": 4044,
-     "discountPercent": 15
+     "baseEtb": 4746.2,
+     "discountPercent": 10,
+     "usdEtbRate": 190
     }
    }
   },
@@ -10940,9 +12171,7 @@ window.catalog = [
    "/images/catalog/ef2b00102842693f5c.webp",
    "/images/catalog/b5053f71e1007f03ff.webp"
   ],
-  "stockBasis": "Merchant confirms S, M, L and XL in own stock",
-  "discountPercent": 15,
-  "originalPrice": 4044
+  "stockBasis": "Merchant confirms S, M, L and XL in own stock"
  },
  {
   "id": "clothing-7201690419333",
@@ -10951,7 +12180,7 @@ window.catalog = [
   "department": "Clothes",
   "category": "Blazers",
   "audience": "Women",
-  "price": 6000,
+  "price": 5128,
   "tag": "Premium edit",
   "description": "Blazers for your everyday rotation. Choose your color and size.",
   "sizeLabel": "Clothing size",
@@ -10965,39 +12194,43 @@ window.catalog = [
    "Marine": {
     "S": {
      "usd": 29.99,
-     "etb": 6000,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/bp102758-marine?variant=41375747539077",
      "sourceVariantID": "41375747539077",
      "sourceSKU": "BP102758",
-     "baseEtb": 4855,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5698.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "M": {
      "usd": 29.99,
-     "etb": 6000,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/bp102758-marine?variant=41375747571845",
      "sourceVariantID": "41375747571845",
      "sourceSKU": "BP102758",
-     "baseEtb": 4855,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5698.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "L": {
      "usd": 29.99,
-     "etb": 6000,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/bp102758-marine?variant=41375747604613",
      "sourceVariantID": "41375747604613",
      "sourceSKU": "BP102758",
-     "baseEtb": 4855,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5698.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     },
     "XL": {
      "usd": 29.99,
-     "etb": 6000,
+     "etb": 5128,
      "sourceURL": "https://www.stevemadden.com/products/bp102758-marine?variant=41375747637381",
      "sourceVariantID": "41375747637381",
      "sourceSKU": "BP102758",
-     "baseEtb": 4855,
-     "merchantPriceFloorEtb": 6000
+     "baseEtb": 5698.1,
+     "usdEtbRate": 190,
+     "discountPercent": 10
     }
    }
   },
@@ -11052,7 +12285,8 @@ window.catalog = [
      "sourceSKU": "3348901486392",
      "availableAtSource": true,
      "bottleMl": 60,
-     "concentration": "Parfum"
+     "concentration": "Parfum",
+     "baseEtb": 27550.0
     }
    }
   },
@@ -11100,7 +12334,8 @@ window.catalog = [
      "sourceSKU": "3348901345736",
      "availableAtSource": true,
      "bottleMl": 100,
-     "concentration": "Eau de Toilette"
+     "concentration": "Eau de Toilette",
+     "baseEtb": 19950.0
     }
    }
   },
@@ -11148,7 +12383,8 @@ window.catalog = [
      "sourceSKU": "3348901580069",
      "availableAtSource": true,
      "bottleMl": 125,
-     "concentration": "Eau de Toilette"
+     "concentration": "Eau de Toilette",
+     "baseEtb": 26980.0
     }
    }
   },
@@ -11196,7 +12432,8 @@ window.catalog = [
      "sourceSKU": "3614273760164",
      "availableAtSource": true,
      "bottleMl": 90,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 22800.0
     }
    }
   },
@@ -11244,7 +12481,8 @@ window.catalog = [
      "sourceSKU": "3614273069540",
      "availableAtSource": true,
      "bottleMl": 50,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 22610.0
     }
    }
   },
@@ -11292,7 +12530,8 @@ window.catalog = [
      "sourceSKU": "YSL-Y60-EDT",
      "availableAtSource": true,
      "bottleMl": 60,
-     "concentration": "Eau de Toilette"
+     "concentration": "Eau de Toilette",
+     "baseEtb": 12350.0
     }
    }
   },
@@ -11340,7 +12579,8 @@ window.catalog = [
      "sourceSKU": "B004H0YML2-FBM",
      "availableAtSource": true,
      "bottleMl": 100,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 18050.0
     }
    }
   },
@@ -11388,7 +12628,8 @@ window.catalog = [
      "sourceSKU": "888066075138",
      "availableAtSource": true,
      "bottleMl": 50,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 30400.0
     }
    }
   },
@@ -11436,7 +12677,8 @@ window.catalog = [
      "sourceSKU": "TF-CA100",
      "availableAtSource": true,
      "bottleMl": 100,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 30210.0
     }
    }
   },
@@ -11484,7 +12726,8 @@ window.catalog = [
      "sourceSKU": "888066144575",
      "availableAtSource": true,
      "bottleMl": 50,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 36100.0
     }
    }
   },
@@ -11532,7 +12775,8 @@ window.catalog = [
      "sourceSKU": "B09TPWLDC3-FBM",
      "availableAtSource": true,
      "bottleMl": 125,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 12350.0
     }
    }
   },
@@ -11580,7 +12824,8 @@ window.catalog = [
      "sourceSKU": "3614274219579",
      "availableAtSource": true,
      "bottleMl": 100,
-     "concentration": "Parfum"
+     "concentration": "Parfum",
+     "baseEtb": 22800.0
     }
    }
   },
@@ -11628,7 +12873,8 @@ window.catalog = [
      "sourceSKU": "3614272761445",
      "availableAtSource": true,
      "bottleMl": 100,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 29450.0
     }
    }
   },
@@ -11676,7 +12922,8 @@ window.catalog = [
      "sourceSKU": "3614274024807",
      "availableAtSource": true,
      "bottleMl": 100,
-     "concentration": "Eau de Toilette"
+     "concentration": "Eau de Toilette",
+     "baseEtb": 20900.0
     }
    }
   },
@@ -11724,7 +12971,8 @@ window.catalog = [
      "sourceSKU": "3616302022489",
      "availableAtSource": true,
      "bottleMl": 50,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 13300.0
     }
    }
   },
@@ -11772,7 +13020,8 @@ window.catalog = [
      "sourceSKU": "8011003993826",
      "availableAtSource": true,
      "bottleMl": 90,
-     "concentration": "Eau de Toilette"
+     "concentration": "Eau de Toilette",
+     "baseEtb": 11400.0
     }
    }
   },
@@ -11820,7 +13069,8 @@ window.catalog = [
      "sourceSKU": "8411061991909",
      "availableAtSource": true,
      "bottleMl": 50,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 12920.0
     }
    }
   },
@@ -11868,7 +13118,8 @@ window.catalog = [
      "sourceSKU": "PDM-SDE75",
      "availableAtSource": true,
      "bottleMl": 75,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 32110.0
     }
    }
   },
@@ -11922,7 +13173,8 @@ window.catalog = [
      "sourceSKU": "PDM-O30",
      "availableAtSource": true,
      "bottleMl": 30,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 30210.0
     }
    }
   },
@@ -11976,7 +13228,8 @@ window.catalog = [
      "sourceSKU": "IPP-OFG50",
      "availableAtSource": true,
      "bottleMl": 50,
-     "concentration": "Eau de Parfum"
+     "concentration": "Eau de Parfum",
+     "baseEtb": 28310.0
     }
    }
   },
@@ -12007,5516 +13260,5017 @@ window.catalog = [
   ]
  },
  {
-  "id": "facecare-6720892141623",
-  "name": "Naturium Dew-Glow Moisturizer SPF 50",
-  "brand": "Naturium",
-  "department": "Face care",
-  "category": "Sunscreen",
-  "audience": "Unisex",
-  "price": 3762,
-  "tag": "Sunscreen",
-  "description": "Daily face moisturizer with SPF 50.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "Standard - 1.7 fl oz": {
-    "": {
-     "usd": 22.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 3762,
-     "sourceURL": "https://naturium.com/products/dew-glow-moisturizer-spf-50-original?variant=40870872023095",
-     "sourceVariantID": "40870872023095",
-     "sourceSKU": "NATR-10056",
-     "availableAtSource": true,
-     "packageLabel": "Standard - 1.7 fl oz",
-     "sourceVariantTitle": "Standard - 1.7 fl oz"
-    }
-   }
-  },
-  "variants": {
-   "Standard - 1.7 fl oz": [
-    "/images/catalog/e297e859b389380f08.webp"
-   ]
-  },
-  "swatches": {
-   "Standard - 1.7 fl oz": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "Standard - 1.7 fl oz": "https://naturium.com/products/dew-glow-moisturizer-spf-50-original"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Standard - 1.7 fl oz"
-  ],
-  "images": [
-   "/images/catalog/e297e859b389380f08.webp"
-  ]
- },
- {
-  "id": "facecare-7657094611097",
-  "name": "EltaMD UV Clear Broad Spectrum SPF 46",
-  "brand": "EltaMD",
-  "department": "Face care",
-  "category": "Sunscreen",
-  "audience": "Unisex",
-  "price": 7866,
-  "tag": "Sunscreen",
-  "description": "One 1.7 oz bottle. Untinted facial sunscreen with broad-spectrum SPF 46.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "1.7 oz": {
-    "": {
-     "usd": 46.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 7866,
-     "sourceURL": "https://eltamd.com/products/uv-clear-broad-spectrum-spf-46?variant=43130780811417",
-     "sourceVariantID": "43130780811417",
-     "sourceSKU": "02500A-001",
-     "availableAtSource": true,
-     "packageLabel": "1.7 oz",
-     "sourceVariantTitle": "1.7 oz"
-    }
-   }
-  },
-  "variants": {
-   "1.7 oz": [
-    "/images/catalog/d1632e24ac70309e3a.webp"
-   ]
-  },
-  "swatches": {
-   "1.7 oz": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "1.7 oz": "https://eltamd.com/products/uv-clear-broad-spectrum-spf-46"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "1.7 oz"
-  ],
-  "images": [
-   "/images/catalog/d1632e24ac70309e3a.webp"
-  ]
- },
- {
-  "id": "facecare-7269697060962",
-  "name": "Supergoop! Unseen Sunscreen SPF 50",
-  "brand": "Supergoop!",
-  "department": "Face care",
-  "category": "Sunscreen",
-  "audience": "Women",
-  "price": 6498,
-  "tag": "Sunscreen",
-  "description": "Clear facial sunscreen with SPF 50.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "1.7 fl. oz.": {
-    "": {
-     "usd": 38.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 6498,
-     "sourceURL": "https://supergoop.com/products/unseen-sunscreen-spf-50?variant=41610270802018",
-     "sourceVariantID": "41610270802018",
-     "sourceSKU": "8817",
-     "availableAtSource": true,
-     "packageLabel": "1.7 fl. oz.",
-     "sourceVariantTitle": "1.7 fl. oz."
-    }
-   }
-  },
-  "variants": {
-   "1.7 fl. oz.": [
-    "/images/catalog/9278e29d8e6c867d16.webp"
-   ]
-  },
-  "swatches": {
-   "1.7 fl. oz.": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "1.7 fl. oz.": "https://supergoop.com/products/unseen-sunscreen-spf-50"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "1.7 fl. oz."
-  ],
-  "images": [
-   "/images/catalog/9278e29d8e6c867d16.webp"
-  ]
- },
- {
-  "id": "facecare-14990688223604",
-  "name": "Beauty of Joseon Dayscreen Moisturizer SPF 30",
-  "brand": "Beauty of Joseon",
-  "department": "Face care",
-  "category": "Sunscreen",
-  "audience": "Women",
-  "price": 3420,
-  "tag": "Sunscreen",
-  "description": "Daily face moisturizer and sunscreen with SPF 30.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "1-Pack": {
-    "": {
-     "usd": 20.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 3420,
-     "sourceURL": "https://beautyofjoseon.com/products/dayscreen-moisturizer-sunscreen-us?variant=54406320095604",
-     "sourceVariantID": "54406320095604",
-     "sourceSKU": "01BU030",
-     "availableAtSource": true,
-     "packageLabel": "1-Pack",
-     "sourceVariantTitle": "1-Pack"
-    }
-   }
-  },
-  "variants": {
-   "1-Pack": [
-    "/images/catalog/8eb4a46a617811f832.webp"
-   ]
-  },
-  "swatches": {
-   "1-Pack": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "1-Pack": "https://beautyofjoseon.com/products/dayscreen-moisturizer-sunscreen-us"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "1-Pack"
-  ],
-  "images": [
-   "/images/catalog/8eb4a46a617811f832.webp"
-  ]
- },
- {
-  "id": "facecare-7351297310775",
-  "name": "Naturium Multi-Calm Cream Cleanser",
-  "brand": "Naturium",
+  "id": "facecare-8968824651836",
+  "name": "CeraVe Pore Deep Cleansing Gel Foaming Cleanser \u2013 Anti-Imperfections 8oz/236ml",
+  "brand": "CeraVe",
   "department": "Face care",
   "category": "Cleanser",
   "audience": "Unisex",
-  "price": 3420,
+  "price": 3528,
   "tag": "Cleanser",
-  "description": "Cream cleanser with colloidal oatmeal, glycerin and squalane.",
+  "description": "CeraVe Pore Deep Cleansing Gel Foaming Cleanser \u2013 Anti-Imperfections 8oz/236ml. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Standard tube": {
+   "236 ml / 8 oz": {
     "": {
-     "usd": 20.0,
+     "usd": 20.63,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 3420,
-     "sourceURL": "https://naturium.com/products/multi-calm-cream-cleanser-1?variant=41919815680055",
-     "sourceVariantID": "41919815680055",
-     "sourceSKU": "NATR-10143",
+     "baseEtb": 3919.7,
+     "etb": 3528,
+     "sourceURL": "https://shop.simon.com/products/cerave-pore-deep-cleansing-gel-foaming-cleanser-a-anti-imperfections-8oz-236ml?variant=45761209303100",
+     "sourceVariantID": "45761209303100",
+     "sourceSKU": "51f169eb-6ee8-46a7-ad1a-a7f6fbf40602",
+     "sourceVariantTitle": "One Size",
      "availableAtSource": true,
-     "packageLabel": "Standard tube",
-     "sourceVariantTitle": "Default Title"
+     "itemKind": "Face care",
+     "packageLabel": "236 ml / 8 oz"
     }
    }
   },
   "variants": {
-   "Standard tube": [
-    "/images/catalog/fbbeabc50b14594d73.webp"
+   "236 ml / 8 oz": [
+    "/images/catalog/4d006aa86f0754b01a.webp",
+    "/images/catalog/4d006aa86f0754b01a.webp"
    ]
   },
   "swatches": {
-   "Standard tube": "#d4c9b5"
+   "236 ml / 8 oz": "#b5b0a2"
   },
   "sourceURLs": {
-   "Standard tube": "https://naturium.com/products/multi-calm-cream-cleanser-1"
+   "236 ml / 8 oz": "https://shop.simon.com/products/cerave-pore-deep-cleansing-gel-foaming-cleanser-a-anti-imperfections-8oz-236ml"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Standard tube"
+   "236 ml / 8 oz"
   ],
   "images": [
-   "/images/catalog/fbbeabc50b14594d73.webp"
+   "/images/catalog/4d006aa86f0754b01a.webp"
   ]
  },
  {
-  "id": "facecare-7312924803237",
-  "name": "Beauty of Joseon Green Plum Refreshing Cleanser",
-  "brand": "Beauty of Joseon",
+  "id": "facecare-8969329901628",
+  "name": "CeraVe Hydrating Oil Cleanser, Makeup Remover & Cleanser 8oz/236ml",
+  "brand": "CeraVe",
   "department": "Face care",
   "category": "Cleanser",
+  "audience": "Unisex",
+  "price": 3454,
+  "tag": "Cleanser",
+  "description": "CeraVe Hydrating Oil Cleanser, Makeup Remover & Cleanser 8oz/236ml. Choose the listed package.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "236 ml / 8 oz": {
+    "": {
+     "usd": 20.2,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 3838.0,
+     "etb": 3454,
+     "sourceURL": "https://shop.simon.com/products/cerave-hydrating-oil-cleanser-makeup-remover-cleanser-8oz-236ml?variant=45763472130108",
+     "sourceVariantID": "45763472130108",
+     "sourceSKU": "4a143c2c-efa6-4ad5-9448-c09cbe7c3285",
+     "sourceVariantTitle": "One Size",
+     "availableAtSource": true,
+     "itemKind": "Face care",
+     "packageLabel": "236 ml / 8 oz"
+    }
+   }
+  },
+  "variants": {
+   "236 ml / 8 oz": [
+    "/images/catalog/9b63867113607dd1b5.webp",
+    "/images/catalog/9b63867113607dd1b5.webp"
+   ]
+  },
+  "swatches": {
+   "236 ml / 8 oz": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "236 ml / 8 oz": "https://shop.simon.com/products/cerave-hydrating-oil-cleanser-makeup-remover-cleanser-8oz-236ml"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "236 ml / 8 oz"
+  ],
+  "images": [
+   "/images/catalog/9b63867113607dd1b5.webp"
+  ]
+ },
+ {
+  "id": "facecare-8968465645628",
+  "name": "CeraVe Moisturising Cream 12oz/340g",
+  "brand": "CeraVe",
+  "department": "Face care",
+  "category": "Moisturizer",
+  "audience": "Unisex",
+  "price": 4208,
+  "tag": "Moisturizer",
+  "description": "CeraVe Moisturising Cream 12oz/340g. Choose the listed package.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "340 g / 12 oz": {
+    "": {
+     "usd": 24.61,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 4675.9,
+     "etb": 4208,
+     "sourceURL": "https://shop.simon.com/products/cerave-moisturising-cream-12oz-340g?variant=45759445008444",
+     "sourceVariantID": "45759445008444",
+     "sourceSKU": "379dd3ca-ddfd-4a56-8b2f-22e92815e33d",
+     "sourceVariantTitle": "One Size",
+     "availableAtSource": true,
+     "itemKind": "Face care",
+     "packageLabel": "340 g / 12 oz"
+    }
+   }
+  },
+  "variants": {
+   "340 g / 12 oz": [
+    "/images/catalog/a03b52faab853b4893.webp"
+   ]
+  },
+  "swatches": {
+   "340 g / 12 oz": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "340 g / 12 oz": "https://shop.simon.com/products/cerave-moisturising-cream-12oz-340g"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "340 g / 12 oz"
+  ],
+  "images": [
+   "/images/catalog/a03b52faab853b4893.webp"
+  ]
+ },
+ {
+  "id": "facecare-7079038189735",
+  "name": "La Roche-Posay Toleriane Dermallergo Cream",
+  "brand": "La Roche-Posay",
+  "department": "Face care",
+  "category": "Moisturizer",
   "audience": "Women",
-  "price": 3420,
-  "tag": "Cleanser",
-  "description": "Refreshing gel cleanser for your daily face-care routine.",
+  "price": 5301,
+  "tag": "Moisturizer",
+  "description": "La Roche-Posay Toleriane Dermallergo Cream. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "200 ml (6.76 FL. OZ.)": {
+   "40 ml / 1.35 oz": {
     "": {
-     "usd": 20.0,
+     "usd": 31.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 3420,
-     "sourceURL": "https://beautyofjoseon.com/products/green-plum-refreshing-cleanser?variant=53445552210292",
-     "sourceVariantID": "53445552210292",
-     "sourceSKU": "99BC021",
+     "baseEtb": 5890.0,
+     "etb": 5301,
+     "sourceURL": "https://frenchpharmacy.com/products/la-roche-posay-toleriane-dermallergo-cream?variant=41464589615271",
+     "sourceVariantID": "41464589615271",
+     "sourceSKU": "75452211",
+     "sourceVariantTitle": "40 ml / 1.35 oz",
      "availableAtSource": true,
-     "packageLabel": "200 ml (6.76 FL. OZ.)",
-     "sourceVariantTitle": "200 ml (6.76 FL. OZ.)"
+     "itemKind": "Face care",
+     "packageLabel": "40 ml / 1.35 oz"
     }
    }
   },
   "variants": {
-   "200 ml (6.76 FL. OZ.)": [
-    "/images/catalog/64c487e39bfb98271b.webp"
+   "40 ml / 1.35 oz": [
+    "/images/catalog/f1d34d40a2b6200e18.webp"
    ]
   },
   "swatches": {
-   "200 ml (6.76 FL. OZ.)": "#d4c9b5"
+   "40 ml / 1.35 oz": "#b5b0a2"
   },
   "sourceURLs": {
-   "200 ml (6.76 FL. OZ.)": "https://beautyofjoseon.com/products/green-plum-refreshing-cleanser"
+   "40 ml / 1.35 oz": "https://frenchpharmacy.com/products/la-roche-posay-toleriane-dermallergo-cream"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "200 ml (6.76 FL. OZ.)"
+   "40 ml / 1.35 oz"
   ],
   "images": [
-   "/images/catalog/64c487e39bfb98271b.webp"
+   "/images/catalog/f1d34d40a2b6200e18.webp"
   ]
  },
  {
-  "id": "facecare-15172597612912",
-  "name": "First Aid Beauty Ultra Gentle Pure Skin Face Cleanser",
-  "brand": "First Aid Beauty",
+  "id": "facecare-7065894518951",
+  "name": "La Roche-Posay Effaclar MAT Moisturizer",
+  "brand": "La Roche-Posay",
   "department": "Face care",
-  "category": "Cleanser",
+  "category": "Moisturizer",
   "audience": "Women",
-  "price": 4617,
-  "tag": "Cleanser",
-  "description": "A gentle facial cleanser for everyday cleansing.",
+  "price": 4788,
+  "tag": "Moisturizer",
+  "description": "La Roche-Posay Effaclar MAT Moisturizer. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "6 OZ": {
+   "40 ml / 1.3 oz": {
     "": {
-     "usd": 27.0,
+     "usd": 28.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 4617,
-     "sourceURL": "https://www.firstaidbeauty.com/products/ultra-gentle-pure-skin-face-cleanser?variant=54012034318704",
-     "sourceVariantID": "54012034318704",
-     "sourceSKU": "40090",
+     "baseEtb": 5320.0,
+     "etb": 4788,
+     "sourceURL": "https://frenchpharmacy.com/products/la-roche-posay-effaclar-mat-moisturizer?variant=41425968038055",
+     "sourceVariantID": "41425968038055",
+     "sourceSKU": "5456654",
+     "sourceVariantTitle": "40 ml / 1.3 oz",
      "availableAtSource": true,
-     "packageLabel": "6 OZ",
-     "sourceVariantTitle": "6 OZ"
+     "itemKind": "Face care",
+     "packageLabel": "40 ml / 1.3 oz"
     }
    }
   },
   "variants": {
-   "6 OZ": [
-    "/images/catalog/6a93e4950d1c2f3867.webp"
+   "40 ml / 1.3 oz": [
+    "/images/catalog/ab80ddd9c79d0b8851.webp"
    ]
   },
   "swatches": {
-   "6 OZ": "#d4c9b5"
+   "40 ml / 1.3 oz": "#b5b0a2"
   },
   "sourceURLs": {
-   "6 OZ": "https://www.firstaidbeauty.com/products/ultra-gentle-pure-skin-face-cleanser"
+   "40 ml / 1.3 oz": "https://frenchpharmacy.com/products/la-roche-posay-effaclar-mat-moisturizer"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "6 OZ"
+   "40 ml / 1.3 oz"
   ],
   "images": [
-   "/images/catalog/6a93e4950d1c2f3867.webp"
+   "/images/catalog/ab80ddd9c79d0b8851.webp"
   ]
  },
  {
-  "id": "facecare-7037906518085",
-  "name": "Skinfix Gentle Gel Ceramide + Ectoin Cleanser",
-  "brand": "Skinfix",
+  "id": "facecare-9138851021026",
+  "name": "La Roche-Posay Anthelios UVAIR Tinted Serum Sunscreen SPF50+ Deep",
+  "brand": "La Roche-Posay",
   "department": "Face care",
-  "category": "Cleanser",
+  "category": "Sunscreen",
+  "audience": "Women",
+  "price": 9388,
+  "tag": "Sunscreen",
+  "description": "La Roche-Posay Anthelios UVAIR Tinted Serum Sunscreen SPF50+ Deep. Choose the listed package.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "50ml / 1.69 fl oz": {
+    "": {
+     "usd": 54.9,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10431.0,
+     "etb": 9388,
+     "sourceURL": "https://frenchpharmacy.com/products/la-roche-posay-anthelios-uvair-tinted-sun-serum-spf50-dark?variant=47576030511330",
+     "sourceVariantID": "47576030511330",
+     "sourceSKU": "LRP29418418",
+     "sourceVariantTitle": "50ml / 1.69 fl oz",
+     "availableAtSource": true,
+     "itemKind": "Face care",
+     "packageLabel": "50ml / 1.69 fl oz"
+    }
+   }
+  },
+  "variants": {
+   "50ml / 1.69 fl oz": [
+    "/images/catalog/4a9d6bba634cda40a5.webp"
+   ]
+  },
+  "swatches": {
+   "50ml / 1.69 fl oz": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "50ml / 1.69 fl oz": "https://frenchpharmacy.com/products/la-roche-posay-anthelios-uvair-tinted-sun-serum-spf50-dark"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "50ml / 1.69 fl oz"
+  ],
+  "images": [
+   "/images/catalog/4a9d6bba634cda40a5.webp"
+  ]
+ },
+ {
+  "id": "facecare-9192099938530",
+  "name": "La Roche-Posay Anthelios Hydrating Cream SPF50+ and After-Sun Milk",
+  "brand": "La Roche-Posay",
+  "department": "Face care",
+  "category": "Sunscreen",
   "audience": "Women",
   "price": 5130,
-  "tag": "Cleanser",
-  "description": "Gel cleanser with ceramides and ectoin.",
+  "tag": "Sunscreen",
+  "description": "La Roche-Posay Anthelios Hydrating Cream SPF50+ and After-Sun Milk. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "5 oz": {
+   "SPF cream + after-sun milk set": {
     "": {
      "usd": 30.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
+     "baseEtb": 5700.0,
      "etb": 5130,
-     "sourceURL": "https://skinfix.com/products/barrier-ectoin-ceramide-gentle-gel-cleanser?variant=43430404816965",
-     "sourceVariantID": "43430404816965",
-     "sourceSKU": "000468F-01",
+     "sourceURL": "https://frenchpharmacy.com/products/la-roche-posay-anthelios-uvmune-400-fluide-ka-spf50-copy?variant=47778112176354",
+     "sourceVariantID": "47778112176354",
+     "sourceSKU": "LRP1241321",
+     "sourceVariantTitle": "175ml / 5.91 fl oz",
      "availableAtSource": true,
-     "packageLabel": "5 oz",
-     "sourceVariantTitle": "5 oz"
+     "itemKind": "Face care",
+     "packageLabel": "SPF cream + after-sun milk set"
     }
    }
   },
   "variants": {
-   "5 oz": [
-    "/images/catalog/8129e306e5b1e4bd02.webp"
+   "SPF cream + after-sun milk set": [
+    "/images/catalog/3b676d8df296e799d3.webp"
    ]
   },
   "swatches": {
-   "5 oz": "#d4c9b5"
+   "SPF cream + after-sun milk set": "#eee7d3"
   },
   "sourceURLs": {
-   "5 oz": "https://skinfix.com/products/barrier-ectoin-ceramide-gentle-gel-cleanser"
+   "SPF cream + after-sun milk set": "https://frenchpharmacy.com/products/la-roche-posay-anthelios-uvmune-400-fluide-ka-spf50-copy"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "5 oz"
+   "SPF cream + after-sun milk set"
   ],
   "images": [
-   "/images/catalog/8129e306e5b1e4bd02.webp"
+   "/images/catalog/3b676d8df296e799d3.webp"
   ]
  },
  {
-  "id": "facecare-2082272936005",
-  "name": "Skinfix Triple Lipid-Peptide Cream",
-  "brand": "Skinfix",
+  "id": "facecare-7933265379554",
+  "name": "La Roche-Posay Hyalu B5 Suractive Pure Hyaluronic Acid Serum",
+  "brand": "La Roche-Posay",
   "department": "Face care",
-  "category": "Moisturizer",
-  "audience": "Unisex",
-  "price": 9234,
-  "tag": "Moisturizer",
-  "description": "Rich face cream with lipids and peptides.",
+  "category": "Serum",
+  "audience": "Women",
+  "price": 6667,
+  "tag": "Serum",
+  "description": "La Roche-Posay Hyalu B5 Suractive Pure Hyaluronic Acid Serum. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Full 1.7 oz": {
+   "30ml / 1 fl oz": {
     "": {
-     "usd": 54.0,
+     "usd": 38.99,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 9234,
-     "sourceURL": "https://skinfix.com/products/lipid-peptide-cream?variant=19409094115397",
-     "sourceVariantID": "19409094115397",
-     "sourceSKU": "000312F-01",
+     "baseEtb": 7408.1,
+     "etb": 6667,
+     "sourceURL": "https://frenchpharmacy.com/products/la-roche-posay-b5-pure-hyaluronic-acid-serum?variant=43565119242466",
+     "sourceVariantID": "43565119242466",
+     "sourceSKU": "LRP582",
+     "sourceVariantTitle": "30ml / 1 fl oz",
      "availableAtSource": true,
-     "packageLabel": "Full 1.7 oz",
-     "sourceVariantTitle": "Full 1.7 oz"
+     "itemKind": "Face care",
+     "packageLabel": "30ml / 1 fl oz"
     }
    }
   },
   "variants": {
-   "Full 1.7 oz": [
-    "/images/catalog/0a9f46e6fcc60bd843.webp"
+   "30ml / 1 fl oz": [
+    "/images/catalog/e90b9bb68b1344fa67.webp"
    ]
   },
   "swatches": {
-   "Full 1.7 oz": "#d4c9b5"
+   "30ml / 1 fl oz": "#b5b0a2"
   },
   "sourceURLs": {
-   "Full 1.7 oz": "https://skinfix.com/products/lipid-peptide-cream"
+   "30ml / 1 fl oz": "https://frenchpharmacy.com/products/la-roche-posay-b5-pure-hyaluronic-acid-serum"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Full 1.7 oz"
+   "30ml / 1 fl oz"
   ],
   "images": [
-   "/images/catalog/0a9f46e6fcc60bd843.webp"
+   "/images/catalog/e90b9bb68b1344fa67.webp"
   ]
  },
  {
-  "id": "facecare-4579011788855",
-  "name": "Naturium Plant Ceramide Rich Moisture Cream",
-  "brand": "Naturium",
+  "id": "facecare-7608533221602",
+  "name": "La Roche-Posay Cicaplast Balm B5+",
+  "brand": "La Roche-Posay",
   "department": "Face care",
   "category": "Moisturizer",
   "audience": "Women",
-  "price": 4275,
+  "price": 2993,
   "tag": "Moisturizer",
-  "description": "A rich daily face moisturizer with plant-derived ceramides.",
+  "description": "La Roche-Posay Cicaplast Balm B5+. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Standard - 1.7 oz": {
+   "40 ml / 1.35 fl oz": {
     "": {
-     "usd": 25.0,
+     "usd": 17.5,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 4275,
-     "sourceURL": "https://naturium.com/products/plant-ceramide-rich-moisture-cream?variant=40215083974711",
-     "sourceVariantID": "40215083974711",
-     "sourceSKU": "NATR-10017",
+     "baseEtb": 3325.0,
+     "etb": 2993,
+     "sourceURL": "https://frenchpharmacy.com/products/la-roche-posay-cicaplast-balm-b5?variant=42498627502306",
+     "sourceVariantID": "42498627502306",
+     "sourceSKU": "LRP809",
+     "sourceVariantTitle": "40 ml / 1.35 fl oz",
      "availableAtSource": true,
-     "packageLabel": "Standard - 1.7 oz",
-     "sourceVariantTitle": "Standard - 1.7 oz"
+     "itemKind": "Face care",
+     "packageLabel": "40 ml / 1.35 fl oz"
     }
    }
   },
   "variants": {
-   "Standard - 1.7 oz": [
-    "/images/catalog/e5ce2996f805f503c5.webp"
+   "40 ml / 1.35 fl oz": [
+    "/images/catalog/8676b5cd99510043b1.webp",
+    "/images/catalog/fa09101130cf390b41.webp"
    ]
   },
   "swatches": {
-   "Standard - 1.7 oz": "#d4c9b5"
+   "40 ml / 1.35 fl oz": "#b5b0a2"
   },
   "sourceURLs": {
-   "Standard - 1.7 oz": "https://naturium.com/products/plant-ceramide-rich-moisture-cream"
+   "40 ml / 1.35 fl oz": "https://frenchpharmacy.com/products/la-roche-posay-cicaplast-balm-b5"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Standard - 1.7 oz"
+   "40 ml / 1.35 fl oz"
   ],
   "images": [
-   "/images/catalog/e5ce2996f805f503c5.webp"
+   "/images/catalog/8676b5cd99510043b1.webp",
+   "/images/catalog/fa09101130cf390b41.webp"
   ]
  },
  {
-  "id": "facecare-4559300689975",
-  "name": "DRMTLGY Peptide Night Cream",
-  "brand": "DRMTLGY",
+  "id": "facecare-2113858338905",
+  "name": "La Roche-Posay Toleriane Soothing Protective Skincare cream",
+  "brand": "La Roche-Posay",
   "department": "Face care",
   "category": "Moisturizer",
   "audience": "Women",
-  "price": 7866,
+  "price": 3762,
   "tag": "Moisturizer",
-  "description": "A moisturizing night cream with peptides and ceramides.",
+  "description": "La Roche-Posay Toleriane Soothing Protective Skincare cream. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Standard jar": {
+   "1.35 oz / 40 ml": {
     "": {
-     "usd": 46.0,
+     "usd": 22.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 7866,
-     "sourceURL": "https://www.drmtlgy.com/products/peptide-night-cream?variant=32082739724343",
-     "sourceVariantID": "32082739724343",
-     "sourceSKU": "2482",
+     "baseEtb": 4180.0,
+     "etb": 3762,
+     "sourceURL": "https://frenchpharmacy.com/products/la-roche-posay-toleriane-soothing-protective-skincare?variant=21809269407833",
+     "sourceVariantID": "21809269407833",
+     "sourceSKU": "M9052900",
+     "sourceVariantTitle": "1.35 oz / 40 ml",
      "availableAtSource": true,
-     "packageLabel": "Standard jar",
-     "sourceVariantTitle": "Default Title"
+     "itemKind": "Face care",
+     "packageLabel": "1.35 oz / 40 ml"
     }
    }
   },
   "variants": {
-   "Standard jar": [
-    "/images/catalog/9a199ee0c5c4eb55d0.webp"
+   "1.35 oz / 40 ml": [
+    "/images/catalog/80e3021e047818899f.webp"
    ]
   },
   "swatches": {
-   "Standard jar": "#d4c9b5"
+   "1.35 oz / 40 ml": "#b5b0a2"
   },
   "sourceURLs": {
-   "Standard jar": "https://www.drmtlgy.com/products/peptide-night-cream"
+   "1.35 oz / 40 ml": "https://frenchpharmacy.com/products/la-roche-posay-toleriane-soothing-protective-skincare"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Standard jar"
+   "1.35 oz / 40 ml"
   ],
   "images": [
-   "/images/catalog/9a199ee0c5c4eb55d0.webp"
+   "/images/catalog/80e3021e047818899f.webp"
   ]
  },
  {
-  "id": "facecare-14649156501872",
-  "name": "First Aid Beauty Hydrating Dewy Gel Cream Moisturizer with Hyaluronic Acid + Ceramides",
-  "brand": "First Aid Beauty",
+  "id": "facecare-7170490073148",
+  "name": "Bioderma Sensibio H2O Micellar Water Makeup Remover Sensitive Skin 16.7 OZ",
+  "brand": "Bioderma",
+  "department": "Face care",
+  "category": "Cleanser",
+  "audience": "Women",
+  "price": 3181,
+  "tag": "Cleanser",
+  "description": "Bioderma Sensibio H2O Micellar Water Makeup Remover Sensitive Skin 16.7 OZ. Choose the listed package.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "16.7 oz": {
+    "": {
+     "usd": 18.6,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 3534.0,
+     "etb": 3181,
+     "sourceURL": "https://shop.simon.com/products/bioderma-sensibio-h2o-micellar-water-makeup-remover-sensitive-skin-16-7-oz?variant=40744329445436",
+     "sourceVariantID": "40744329445436",
+     "sourceSKU": "7e40bc7d-7a58-4775-9d17-8f2d2ebb06f9",
+     "sourceVariantTitle": "One Size",
+     "availableAtSource": true,
+     "itemKind": "Face care",
+     "packageLabel": "16.7 oz"
+    }
+   }
+  },
+  "variants": {
+   "16.7 oz": [
+    "/images/catalog/6708ec4e390b2c7a33.webp",
+    "/images/catalog/9a66553954144752b6.webp"
+   ]
+  },
+  "swatches": {
+   "16.7 oz": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "16.7 oz": "https://shop.simon.com/products/bioderma-sensibio-h2o-micellar-water-makeup-remover-sensitive-skin-16-7-oz"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "16.7 oz"
+  ],
+  "images": [
+   "/images/catalog/6708ec4e390b2c7a33.webp",
+   "/images/catalog/9a66553954144752b6.webp"
+  ]
+ },
+ {
+  "id": "facecare-7253695430716",
+  "name": "Bioderma Sebium H2O Micelle Solution Combination & Oily Skin 16.91 OZ",
+  "brand": "Bioderma",
+  "department": "Face care",
+  "category": "Cleanser",
+  "audience": "Women",
+  "price": 3013,
+  "tag": "Cleanser",
+  "description": "Bioderma Sebium H2O Micelle Solution Combination & Oily Skin 16.91 OZ. Choose the listed package.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "16.91 oz": {
+    "": {
+     "usd": 17.62,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 3347.8,
+     "etb": 3013,
+     "sourceURL": "https://shop.simon.com/products/bioderma-sebium-h2o-micelle-solution-combination-oily-skin-16-91-oz?variant=40954049495100",
+     "sourceVariantID": "40954049495100",
+     "sourceSKU": "96825ba5-887b-4383-9820-550dc6683af2",
+     "sourceVariantTitle": "One Size",
+     "availableAtSource": true,
+     "itemKind": "Face care",
+     "packageLabel": "16.91 oz"
+    }
+   }
+  },
+  "variants": {
+   "16.91 oz": [
+    "/images/catalog/fa30b4604c79d304b9.webp",
+    "/images/catalog/0fd02905f9231e859d.webp"
+   ]
+  },
+  "swatches": {
+   "16.91 oz": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "16.91 oz": "https://shop.simon.com/products/bioderma-sebium-h2o-micelle-solution-combination-oily-skin-16-91-oz"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "16.91 oz"
+  ],
+  "images": [
+   "/images/catalog/fa30b4604c79d304b9.webp",
+   "/images/catalog/0fd02905f9231e859d.webp"
+  ]
+ },
+ {
+  "id": "facecare-7170491678780",
+  "name": "Bioderma Sebium Hydra Ultra Moisturizing Compensation Care 1.33 OZ Set of 2",
+  "brand": "Bioderma",
+  "department": "Face care",
+  "category": "Moisturizer",
+  "audience": "Women",
+  "price": 6149,
+  "tag": "Moisturizer",
+  "description": "Bioderma Sebium Hydra Ultra Moisturizing Compensation Care 1.33 OZ Set of 2. Choose the listed package.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "2 \u00d7 1.33 oz": {
+    "": {
+     "usd": 35.96,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 6832.4,
+     "etb": 6149,
+     "sourceURL": "https://shop.simon.com/products/bioderma-sebium-hydra-ultra-moisturizing-compensation-care-1-33-oz-set-of-2?variant=40744331182140",
+     "sourceVariantID": "40744331182140",
+     "sourceSKU": "90c4cb78-f218-48d1-b7bc-80781708e6fa",
+     "sourceVariantTitle": "One Size",
+     "availableAtSource": true,
+     "itemKind": "Face care",
+     "packageLabel": "2 \u00d7 1.33 oz"
+    }
+   }
+  },
+  "variants": {
+   "2 \u00d7 1.33 oz": [
+    "/images/catalog/237da0931654cd0aeb.webp",
+    "/images/catalog/9f2b33c16236628996.webp"
+   ]
+  },
+  "swatches": {
+   "2 \u00d7 1.33 oz": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "2 \u00d7 1.33 oz": "https://shop.simon.com/products/bioderma-sebium-hydra-ultra-moisturizing-compensation-care-1-33-oz-set-of-2"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "2 \u00d7 1.33 oz"
+  ],
+  "images": [
+   "/images/catalog/237da0931654cd0aeb.webp",
+   "/images/catalog/9f2b33c16236628996.webp"
+  ]
+ },
+ {
+  "id": "facecare-7170489614396",
+  "name": "Bioderma Cicabio Soothing Repairing Cream 1.33 OZ",
+  "brand": "Bioderma",
+  "department": "Face care",
+  "category": "Moisturizer",
+  "audience": "Women",
+  "price": 2001,
+  "tag": "Moisturizer",
+  "description": "Bioderma Cicabio Soothing Repairing Cream 1.33 OZ. Choose the listed package.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "1.33 oz": {
+    "": {
+     "usd": 11.7,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 2223.0,
+     "etb": 2001,
+     "sourceURL": "https://shop.simon.com/products/bioderma-cicabio-soothing-repairing-cream-1-33-oz?variant=40744328691772",
+     "sourceVariantID": "40744328691772",
+     "sourceSKU": "7fa866c6-5a0c-4068-a218-28013d19fdce",
+     "sourceVariantTitle": "One Size",
+     "availableAtSource": true,
+     "itemKind": "Face care",
+     "packageLabel": "1.33 oz"
+    }
+   }
+  },
+  "variants": {
+   "1.33 oz": [
+    "/images/catalog/6f50b934ee3e5b07b9.webp",
+    "/images/catalog/83b1989f24b43d2ab1.webp"
+   ]
+  },
+  "swatches": {
+   "1.33 oz": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "1.33 oz": "https://shop.simon.com/products/bioderma-cicabio-soothing-repairing-cream-1-33-oz"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "1.33 oz"
+  ],
+  "images": [
+   "/images/catalog/6f50b934ee3e5b07b9.webp",
+   "/images/catalog/83b1989f24b43d2ab1.webp"
+  ]
+ },
+ {
+  "id": "facecare-7936357269730",
+  "name": "Avene Cleanance Cleansing Gel",
+  "brand": "Av\u00e8ne",
+  "department": "Face care",
+  "category": "Cleanser",
+  "audience": "Women",
+  "price": 5814,
+  "tag": "Cleanser",
+  "description": "Avene Cleanance Cleansing Gel. Choose the listed package.",
+  "sizeLabel": "Product size",
+  "sizes": [],
+  "offers": {
+   "400 ml / 13.5 fl oz": {
+    "": {
+     "usd": 34.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 6460.0,
+     "etb": 5814,
+     "sourceURL": "https://frenchpharmacy.com/products/avene-cleanance-cleansing-gel?variant=43575040868578",
+     "sourceVariantID": "43575040868578",
+     "sourceSKU": "P0008285",
+     "sourceVariantTitle": "400 ml / 13.5 fl oz",
+     "availableAtSource": true,
+     "itemKind": "Face care",
+     "packageLabel": "400 ml / 13.5 fl oz"
+    }
+   }
+  },
+  "variants": {
+   "400 ml / 13.5 fl oz": [
+    "/images/catalog/e9656db9e21c791383.webp",
+    "/images/catalog/7bf1dc759be43a749f.webp"
+   ]
+  },
+  "swatches": {
+   "400 ml / 13.5 fl oz": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "400 ml / 13.5 fl oz": "https://frenchpharmacy.com/products/avene-cleanance-cleansing-gel"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "400 ml / 13.5 fl oz"
+  ],
+  "images": [
+   "/images/catalog/e9656db9e21c791383.webp",
+   "/images/catalog/7bf1dc759be43a749f.webp"
+  ]
+ },
+ {
+  "id": "facecare-2167049814105",
+  "name": "Av\u00e8ne Hydrance Aqua-Gel",
+  "brand": "Av\u00e8ne",
   "department": "Face care",
   "category": "Moisturizer",
   "audience": "Women",
   "price": 6498,
   "tag": "Moisturizer",
-  "description": "Lightweight gel-cream with hyaluronic acid and ceramides.",
+  "description": "Av\u00e8ne Hydrance Aqua-Gel. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Standard jar": {
+   "1.6 oz / 50 ml": {
     "": {
      "usd": 38.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
+     "baseEtb": 7220.0,
      "etb": 6498,
-     "sourceURL": "https://www.firstaidbeauty.com/products/hydrating-dewy-gel-cream-moisturizer-with-hyaluronic-acid-ceramides?variant=51729877827952",
-     "sourceVariantID": "51729877827952",
-     "sourceSKU": "36627",
+     "sourceURL": "https://frenchpharmacy.com/products/avene-hydrance-aqua-gel?variant=22124081774681",
+     "sourceVariantID": "22124081774681",
+     "sourceSKU": "6114740",
+     "sourceVariantTitle": "1.6 oz / 50 ml",
      "availableAtSource": true,
-     "packageLabel": "Standard jar",
-     "sourceVariantTitle": "Default Title"
+     "itemKind": "Face care",
+     "packageLabel": "1.6 oz / 50 ml"
     }
    }
   },
   "variants": {
-   "Standard jar": [
-    "/images/catalog/6cdda9f602bd0343ba.webp"
+   "1.6 oz / 50 ml": [
+    "/images/catalog/d04332365dc72eb0a2.webp"
    ]
   },
   "swatches": {
-   "Standard jar": "#d4c9b5"
+   "1.6 oz / 50 ml": "#b5b0a2"
   },
   "sourceURLs": {
-   "Standard jar": "https://www.firstaidbeauty.com/products/hydrating-dewy-gel-cream-moisturizer-with-hyaluronic-acid-ceramides"
+   "1.6 oz / 50 ml": "https://frenchpharmacy.com/products/avene-hydrance-aqua-gel"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Standard jar"
+   "1.6 oz / 50 ml"
   ],
   "images": [
-   "/images/catalog/6cdda9f602bd0343ba.webp"
+   "/images/catalog/d04332365dc72eb0a2.webp"
   ]
  },
  {
-  "id": "facecare-4391311474743",
-  "name": "Naturium Vitamin C Complex Serum",
-  "brand": "Naturium",
+  "id": "facecare-8101129912546",
+  "name": "Avene Hydrance BOOST Concentrated Hydrating Serum",
+  "brand": "Av\u00e8ne",
   "department": "Face care",
   "category": "Serum",
   "audience": "Women",
-  "price": 3591,
+  "price": 6669,
   "tag": "Serum",
-  "description": "Vitamin C facial serum for a brighter-looking complexion.",
+  "description": "Avene Hydrance BOOST Concentrated Hydrating Serum. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Standard - 1.0 fl oz": {
+   "30ml / 1 fl oz": {
     "": {
-     "usd": 21.0,
+     "usd": 39.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 3591,
-     "sourceURL": "https://naturium.com/products/vitamin-c-complex-serum?variant=40215064215607",
-     "sourceVariantID": "40215064215607",
-     "sourceSKU": "NATR-10161",
+     "baseEtb": 7410.0,
+     "etb": 6669,
+     "sourceURL": "https://frenchpharmacy.com/products/avene-hydrance-boost-concentrated-hydrating-serum?variant=44114643517666",
+     "sourceVariantID": "44114643517666",
+     "sourceSKU": "P0007700",
+     "sourceVariantTitle": "30ml / 1 fl oz",
      "availableAtSource": true,
-     "packageLabel": "Standard - 1.0 fl oz",
-     "sourceVariantTitle": "Standard - 1.0 fl oz"
+     "itemKind": "Face care",
+     "packageLabel": "30ml / 1 fl oz"
     }
    }
   },
   "variants": {
-   "Standard - 1.0 fl oz": [
-    "/images/catalog/03d9d384f1a81790df.webp"
+   "30ml / 1 fl oz": [
+    "/images/catalog/624cffba109b3ff950.webp"
    ]
   },
   "swatches": {
-   "Standard - 1.0 fl oz": "#d4c9b5"
+   "30ml / 1 fl oz": "#b5b0a2"
   },
   "sourceURLs": {
-   "Standard - 1.0 fl oz": "https://naturium.com/products/vitamin-c-complex-serum"
+   "30ml / 1 fl oz": "https://frenchpharmacy.com/products/avene-hydrance-boost-concentrated-hydrating-serum"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Standard - 1.0 fl oz"
+   "30ml / 1 fl oz"
   ],
   "images": [
-   "/images/catalog/03d9d384f1a81790df.webp"
+   "/images/catalog/624cffba109b3ff950.webp"
   ]
  },
  {
-  "id": "facecare-6722825683120",
-  "name": "cocokind Ceramide Barrier Serum",
-  "brand": "cocokind",
-  "department": "Face care",
-  "category": "Serum",
-  "audience": "Women",
-  "price": 3762,
-  "tag": "Serum",
-  "description": "A hydrating serum with ceramides and lipids.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "Standard bottle": {
-    "": {
-     "usd": 22.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 3762,
-     "sourceURL": "https://www.cocokind.com/products/ceramide-barrier-serum?variant=43111161168048",
-     "sourceVariantID": "43111161168048",
-     "sourceSKU": "FG60042",
-     "availableAtSource": true,
-     "packageLabel": "Standard bottle",
-     "sourceVariantTitle": "Default Title"
-    }
-   }
-  },
-  "variants": {
-   "Standard bottle": [
-    "/images/catalog/f2d6fae17eb05dd890.webp"
-   ]
-  },
-  "swatches": {
-   "Standard bottle": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "Standard bottle": "https://www.cocokind.com/products/ceramide-barrier-serum"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Standard bottle"
-  ],
-  "images": [
-   "/images/catalog/f2d6fae17eb05dd890.webp"
-  ]
- },
- {
-  "id": "facecare-7773304961",
-  "name": "DRMTLGY Vitamin C E + F",
-  "brand": "DRMTLGY",
-  "department": "Face care",
-  "category": "Serum",
-  "audience": "Women",
-  "price": 11799,
-  "tag": "Serum",
-  "description": "Facial serum combining vitamins C and E with ferulic acid.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "Standard bottle": {
-    "": {
-     "usd": 69.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 11799,
-     "sourceURL": "https://www.drmtlgy.com/products/advanced-c-e-ferulic?variant=25060734273",
-     "sourceVariantID": "25060734273",
-     "sourceSKU": "5522",
-     "availableAtSource": true,
-     "packageLabel": "Standard bottle",
-     "sourceVariantTitle": "Default Title"
-    }
-   }
-  },
-  "variants": {
-   "Standard bottle": [
-    "/images/catalog/934048c3ea3e0cfd6a.webp"
-   ]
-  },
-  "swatches": {
-   "Standard bottle": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "Standard bottle": "https://www.drmtlgy.com/products/advanced-c-e-ferulic"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Standard bottle"
-  ],
-  "images": [
-   "/images/catalog/934048c3ea3e0cfd6a.webp"
-  ]
- },
- {
-  "id": "facecare-6773503230021",
-  "name": "Skinfix Triple Lipid Activating Serum",
-  "brand": "Skinfix",
-  "department": "Face care",
-  "category": "Serum",
-  "audience": "Women",
-  "price": 11799,
-  "tag": "Serum",
-  "description": "A lipid facial serum for your hydration routine.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "Full 1 oz": {
-    "": {
-     "usd": 69.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 11799,
-     "sourceURL": "https://skinfix.com/products/barrier-niacinamide-serum?variant=42769650319429",
-     "sourceVariantID": "42769650319429",
-     "sourceSKU": "000441F-01",
-     "availableAtSource": true,
-     "packageLabel": "Full 1 oz",
-     "sourceVariantTitle": "Full 1 oz"
-    }
-   }
-  },
-  "variants": {
-   "Full 1 oz": [
-    "/images/catalog/b4323d2f5e3f766a59.webp"
-   ]
-  },
-  "swatches": {
-   "Full 1 oz": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "Full 1 oz": "https://skinfix.com/products/barrier-niacinamide-serum"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Full 1 oz"
-  ],
-  "images": [
-   "/images/catalog/b4323d2f5e3f766a59.webp"
-  ]
- },
- {
-  "id": "facecare-1378689679460",
-  "name": "cocokind Rosewater Facial Toner",
-  "brand": "cocokind",
-  "department": "Face care",
-  "category": "Toner",
-  "audience": "Women",
-  "price": 3078,
-  "tag": "Toner",
-  "description": "A rosewater facial toner for a refreshing daily step.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "120 ml / 4 fl oz": {
-    "": {
-     "usd": 18.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 3078,
-     "sourceURL": "https://www.cocokind.com/products/rosewater-toner?variant=40460958171312",
-     "sourceVariantID": "40460958171312",
-     "sourceSKU": "FG05061",
-     "availableAtSource": true,
-     "packageLabel": "120 ml / 4 fl oz",
-     "sourceVariantTitle": "Default Title"
-    }
-   }
-  },
-  "variants": {
-   "120 ml / 4 fl oz": [
-    "/images/catalog/6ab66926a9d2a0b0a0.webp"
-   ]
-  },
-  "swatches": {
-   "120 ml / 4 fl oz": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "120 ml / 4 fl oz": "https://www.cocokind.com/products/rosewater-toner"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "120 ml / 4 fl oz"
-  ],
-  "images": [
-   "/images/catalog/6ab66926a9d2a0b0a0.webp"
-  ]
- },
- {
-  "id": "facecare-7507428016181",
-  "name": "First Aid Beauty Hydrating Toner with Squalane + Oats",
-  "brand": "First Aid Beauty",
-  "department": "Face care",
-  "category": "Toner",
-  "audience": "Women",
-  "price": 4104,
-  "tag": "Toner",
-  "description": "Hydrating facial toner with squalane and oats.",
-  "sizeLabel": "Product size",
-  "sizes": [],
-  "offers": {
-   "Standard bottle": {
-    "": {
-     "usd": 24.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 4104,
-     "sourceURL": "https://www.firstaidbeauty.com/products/hydrating-toner-with-squalane-oats?variant=43383252975669",
-     "sourceVariantID": "43383252975669",
-     "sourceSKU": "36018",
-     "availableAtSource": true,
-     "packageLabel": "Standard bottle",
-     "sourceVariantTitle": "Default Title"
-    }
-   }
-  },
-  "variants": {
-   "Standard bottle": [
-    "/images/catalog/7ed50a1d25e1be48e7.webp"
-   ]
-  },
-  "swatches": {
-   "Standard bottle": "#d4c9b5"
-  },
-  "sourceURLs": {
-   "Standard bottle": "https://www.firstaidbeauty.com/products/hydrating-toner-with-squalane-oats"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Standard bottle"
-  ],
-  "images": [
-   "/images/catalog/7ed50a1d25e1be48e7.webp"
-  ]
- },
- {
-  "id": "facecare-6929400201271",
-  "name": "Naturium Vitamin C Super Eye Cream Plus",
-  "brand": "Naturium",
+  "id": "facecare-9166910554338",
+  "name": "Avene Retrinal Eyes Advanced 3-In-1 Eye Cream",
+  "brand": "Av\u00e8ne",
   "department": "Face care",
   "category": "Eye care",
   "audience": "Women",
-  "price": 3420,
+  "price": 8465,
   "tag": "Eye care",
-  "description": "Eye cream formulated with vitamin C, retinol and hyaluronic acid.",
+  "description": "Avene Retrinal Eyes Advanced 3-In-1 Eye Cream. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Standard tube": {
+   "15ml / 0.5 fl oz": {
     "": {
-     "usd": 20.0,
+     "usd": 49.5,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 3420,
-     "sourceURL": "https://naturium.com/products/vitamin-c-super-eye-cream-plus?variant=40575684149303",
-     "sourceVariantID": "40575684149303",
-     "sourceSKU": "NATR-10093",
+     "baseEtb": 9405.0,
+     "etb": 8465,
+     "sourceURL": "https://frenchpharmacy.com/products/avene-retrinal-eyes-advanced-3-in-1-eye-cream?variant=47680449151202",
+     "sourceVariantID": "47680449151202",
+     "sourceSKU": "P0008228",
+     "sourceVariantTitle": "15ml / 0.5 fl oz",
      "availableAtSource": true,
-     "packageLabel": "Standard tube",
-     "sourceVariantTitle": "Default Title"
+     "itemKind": "Face care",
+     "packageLabel": "15ml / 0.5 fl oz"
     }
    }
   },
   "variants": {
-   "Standard tube": [
-    "/images/catalog/dd0f5f2b20c8fc6f12.webp"
+   "15ml / 0.5 fl oz": [
+    "/images/catalog/5e20f8604162eedf56.webp",
+    "/images/catalog/8b2be20b4e60e4cb05.webp"
    ]
   },
   "swatches": {
-   "Standard tube": "#d4c9b5"
+   "15ml / 0.5 fl oz": "#b5b0a2"
   },
   "sourceURLs": {
-   "Standard tube": "https://naturium.com/products/vitamin-c-super-eye-cream-plus"
+   "15ml / 0.5 fl oz": "https://frenchpharmacy.com/products/avene-retrinal-eyes-advanced-3-in-1-eye-cream"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Standard tube"
+   "15ml / 0.5 fl oz"
   ],
   "images": [
-   "/images/catalog/dd0f5f2b20c8fc6f12.webp"
+   "/images/catalog/5e20f8604162eedf56.webp",
+   "/images/catalog/8b2be20b4e60e4cb05.webp"
   ]
  },
  {
-  "id": "facecare-2082269429829",
-  "name": "Skinfix Triple Lipid-Boost 360\u00b0 Eye",
-  "brand": "Skinfix",
+  "id": "facecare-1944339349593",
+  "name": "Avene Thermal Spring Water Spray",
+  "brand": "Av\u00e8ne",
   "department": "Face care",
-  "category": "Eye care",
+  "category": "Face mist",
   "audience": "Women",
-  "price": 7524,
-  "tag": "Eye care",
-  "description": "A moisturizing eye cream for your daily face-care routine.",
+  "price": 2394,
+  "tag": "Face mist",
+  "description": "Avene Thermal Spring Water Spray. Choose the listed package.",
   "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Full 0.5 oz": {
+   "1.7 oz / 50 ml": {
     "": {
-     "usd": 44.0,
+     "usd": 14.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 7524,
-     "sourceURL": "https://skinfix.com/products/lipid-boost-360-eye?variant=42769724080197",
-     "sourceVariantID": "42769724080197",
-     "sourceSKU": "000314F-01",
+     "baseEtb": 2660.0,
+     "etb": 2394,
+     "sourceURL": "https://frenchpharmacy.com/products/thermal-spring-water-spray?variant=19814785777753",
+     "sourceVariantID": "19814785777753",
+     "sourceSKU": "C72922",
+     "sourceVariantTitle": "1.7 oz / 50 ml",
      "availableAtSource": true,
-     "packageLabel": "Full 0.5 oz",
-     "sourceVariantTitle": "Full 0.5 oz"
+     "itemKind": "Face care",
+     "packageLabel": "1.7 oz / 50 ml"
     }
    }
   },
   "variants": {
-   "Full 0.5 oz": [
-    "/images/catalog/4e7d24632b12b8cb0a.webp"
+   "1.7 oz / 50 ml": [
+    "/images/catalog/14ed693dbd020d25ab.webp",
+    "/images/catalog/e894d9dd4ade41a028.webp"
    ]
   },
   "swatches": {
-   "Full 0.5 oz": "#d4c9b5"
+   "1.7 oz / 50 ml": "#b5b0a2"
   },
   "sourceURLs": {
-   "Full 0.5 oz": "https://skinfix.com/products/lipid-boost-360-eye"
+   "1.7 oz / 50 ml": "https://frenchpharmacy.com/products/thermal-spring-water-spray"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Full 0.5 oz"
+   "1.7 oz / 50 ml"
   ],
   "images": [
-   "/images/catalog/4e7d24632b12b8cb0a.webp"
+   "/images/catalog/14ed693dbd020d25ab.webp",
+   "/images/catalog/e894d9dd4ade41a028.webp"
   ]
  },
  {
-  "id": "bag-9434483491053",
-  "name": "Brahmin Katie",
-  "brand": "Brahmin",
-  "department": "Bags",
-  "category": "Crossbody",
+  "id": "facecare-1944353833049",
+  "name": "Av\u00e8ne Hydrance Light Hydrating Emulsion",
+  "brand": "Av\u00e8ne",
+  "department": "Face care",
+  "category": "Moisturizer",
   "audience": "Women",
-  "price": 33345,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
+  "price": 5985,
+  "tag": "Moisturizer",
+  "description": "Av\u00e8ne Hydrance Light Hydrating Emulsion. Choose the listed package.",
+  "sizeLabel": "Product size",
   "sizes": [],
   "offers": {
-   "Chocolate Melbourne": {
+   "1.3 oz / 40 ml": {
     "": {
-     "usd": 195.0,
+     "usd": 35.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 33345,
-     "sourceURL": "https://brahmin.com/products/katie-chocolate-melbourne-q8615100022?variant=50279830749421",
-     "sourceVariantID": "50279830749421",
-     "sourceSKU": "Q8615100022",
+     "baseEtb": 6650.0,
+     "etb": 5985,
+     "sourceURL": "https://frenchpharmacy.com/products/hydrance-light-hydrating-emulsion?variant=19815034454105",
+     "sourceVariantID": "19815034454105",
+     "sourceSKU": "P0005648",
+     "sourceVariantTitle": "1.3 oz / 40 ml",
      "availableAtSource": true,
-     "sourceVariantTitle": "Chocolate Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Black Melbourne": {
-    "": {
-     "usd": 195.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 33345,
-     "sourceURL": "https://brahmin.com/products/katie-black-melbourne-q8615100001?variant=45921759265005",
-     "sourceVariantID": "45921759265005",
-     "sourceSKU": "Q8615100001",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Black Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Pecan Melbourne": {
-    "": {
-     "usd": 195.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 33345,
-     "sourceURL": "https://brahmin.com/products/katie-pecan-melbourne-q8615100004?variant=45921376174317",
-     "sourceVariantID": "45921376174317",
-     "sourceSKU": "Q8615100004",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Pecan Melbourne",
-     "itemKind": "Bags"
+     "itemKind": "Face care",
+     "packageLabel": "1.3 oz / 40 ml"
     }
    }
   },
   "variants": {
-   "Chocolate Melbourne": [
-    "/images/catalog/0b742911822b6aad43.webp"
-   ],
-   "Black Melbourne": [
-    "/images/catalog/64d86a32b964977031.webp"
-   ],
-   "Pecan Melbourne": [
-    "/images/catalog/40f7f3d86ccb4eed47.webp"
+   "1.3 oz / 40 ml": [
+    "/images/catalog/30529d0291b0a283b6.webp"
    ]
   },
   "swatches": {
-   "Chocolate Melbourne": "#674738",
-   "Black Melbourne": "#222326",
-   "Pecan Melbourne": "#a9a294"
+   "1.3 oz / 40 ml": "#b5b0a2"
   },
   "sourceURLs": {
-   "Chocolate Melbourne": "https://brahmin.com/products/katie-chocolate-melbourne-q8615100022",
-   "Black Melbourne": "https://brahmin.com/products/katie-black-melbourne-q8615100001",
-   "Pecan Melbourne": "https://brahmin.com/products/katie-pecan-melbourne-q8615100004"
+   "1.3 oz / 40 ml": "https://frenchpharmacy.com/products/hydrance-light-hydrating-emulsion"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Chocolate Melbourne",
-   "Black Melbourne",
-   "Pecan Melbourne"
+   "1.3 oz / 40 ml"
   ],
   "images": [
-   "/images/catalog/0b742911822b6aad43.webp",
-   "/images/catalog/64d86a32b964977031.webp",
-   "/images/catalog/40f7f3d86ccb4eed47.webp"
+   "/images/catalog/30529d0291b0a283b6.webp"
   ]
  },
  {
-  "id": "bag-7211727126661",
-  "name": "Steve Madden Autumn",
-  "brand": "Steve Madden",
+  "id": "bag-7781268553788",
+  "name": "Coach Outlet Teri Mini Crossbody Bag In Signature Canvas",
+  "brand": "Coach",
   "department": "Bags",
   "category": "Handbags",
   "audience": "Women",
-  "price": 8548,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "price": 30609,
+  "tag": "Handbags",
+  "description": "A classic Coach handbag. Choose your preferred finish.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "Chocolate": {
+   "silver/sand/taupe": {
     "": {
-     "usd": 49.99,
+     "usd": 179.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 8548,
-     "sourceURL": "https://www.stevemadden.com/products/bautumn-chocolate?variant=41406343446661",
-     "sourceVariantID": "41406343446661",
-     "sourceSKU": "BAUTUMN",
+     "baseEtb": 34010.0,
+     "etb": 30609,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-teri-mini-crossbody-bag-in-signature-canvas?variant=42154313678908",
+     "sourceVariantID": "42154313678908",
+     "sourceSKU": "72a9368c-09d9-4f37-b852-1a8bb8d9538b",
+     "sourceVariantTitle": "One Size / silver/sand/taupe",
      "availableAtSource": true,
-     "sourceVariantTitle": "CHOCOLATE / ONESZ / CHO",
+     "itemKind": "Bags"
+    }
+   },
+   "gold/walnut/black": {
+    "": {
+     "usd": 179.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34010.0,
+     "etb": 30609,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-teri-mini-crossbody-bag-in-signature-canvas?variant=42154313711676",
+     "sourceVariantID": "42154313711676",
+     "sourceSKU": "6323e97f-11bf-4e43-a20d-73563b71506e",
+     "sourceVariantTitle": "One Size / gold/walnut/black",
+     "availableAtSource": true,
      "itemKind": "Bags"
     }
    }
   },
   "variants": {
-   "Chocolate": [
-    "/images/catalog/7ed93d10b88b598275.webp",
-    "/images/catalog/e397bd5fcaca02fb0d.webp",
-    "/images/catalog/fddca266756f618398.webp"
+   "silver/sand/taupe": [
+    "/images/catalog/201b7b6dd204e6bbfc.webp"
+   ],
+   "gold/walnut/black": [
+    "/images/catalog/7144473f7b7add2730.webp"
    ]
   },
   "swatches": {
-   "Chocolate": "#674738"
+   "silver/sand/taupe": "#b4bbc4",
+   "gold/walnut/black": "#222326"
   },
   "sourceURLs": {
-   "Chocolate": "https://www.stevemadden.com/products/bautumn-chocolate"
+   "silver/sand/taupe": "https://shop.simon.com/products/coach-outlet-teri-mini-crossbody-bag-in-signature-canvas",
+   "gold/walnut/black": "https://shop.simon.com/products/coach-outlet-teri-mini-crossbody-bag-in-signature-canvas"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Chocolate"
+   "silver/sand/taupe",
+   "gold/walnut/black"
   ],
   "images": [
-   "/images/catalog/7ed93d10b88b598275.webp",
-   "/images/catalog/e397bd5fcaca02fb0d.webp",
-   "/images/catalog/fddca266756f618398.webp"
+   "/images/catalog/201b7b6dd204e6bbfc.webp",
+   "/images/catalog/7144473f7b7add2730.webp"
   ]
  },
  {
-  "id": "bag-9009686118454",
-  "name": "HOBO Sable Crossbody",
-  "brand": "HOBO",
+  "id": "bag-15413226471484",
+  "name": "Women's Kate Spade New York Bleecker Tote Bag White Leather Crossbody ERK1558",
+  "brand": "Kate Spade",
   "department": "Bags",
-  "category": "Crossbody",
+  "category": "Handbags",
   "audience": "Women",
-  "price": 33345,
-  "tag": "Women\u2019s collection",
-  "description": "Sable Crossbody In Polished Leather - True Red",
+  "price": 33926,
+  "tag": "Handbags",
+  "description": "A classic Kate Spade handbag. Choose your preferred finish.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "True Red": {
+   "white": {
     "": {
-     "usd": 195.0,
+     "usd": 198.4,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 33345,
-     "sourceURL": "https://www.hobobags.com/products/sable-crossbody-in-polished-leather-true-red-vi-36002trrd?variant=46916822040630",
-     "sourceVariantID": "46916822040630",
-     "sourceSKU": "VI-36002TRRD",
+     "baseEtb": 37696.0,
+     "etb": 33926,
+     "sourceURL": "https://shop.simon.com/products/womens-kate-spade-new-york-bleecker-tote-bag-white-leather-crossbody-erk1558?variant=67660839125052",
+     "sourceVariantID": "67660839125052",
+     "sourceSKU": "f767ceca-76b3-42ae-98ed-69d9887763f7",
+     "sourceVariantTitle": "white",
      "availableAtSource": true,
-     "sourceVariantTitle": "True Red",
      "itemKind": "Bags"
     }
    }
   },
   "variants": {
-   "True Red": [
-    "/images/catalog/22d7a996f9333fff54.webp",
-    "/images/catalog/05a8ce9cf3840c5305.webp",
-    "/images/catalog/a2e7fe37164c59858f.webp"
+   "white": [
+    "/images/catalog/2c7a61994b5f9a0e71.webp",
+    "/images/catalog/ffa81dedda328602f3.webp",
+    "/images/catalog/35adc26fa3b9348a47.webp"
    ]
   },
   "swatches": {
-   "True Red": "#a83644"
+   "white": "#f1ede7"
   },
   "sourceURLs": {
-   "True Red": "https://www.hobobags.com/products/sable-crossbody-in-polished-leather-true-red-vi-36002trrd"
+   "white": "https://shop.simon.com/products/womens-kate-spade-new-york-bleecker-tote-bag-white-leather-crossbody-erk1558"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "True Red"
+   "white"
   ],
   "images": [
-   "/images/catalog/22d7a996f9333fff54.webp",
-   "/images/catalog/05a8ce9cf3840c5305.webp",
-   "/images/catalog/a2e7fe37164c59858f.webp"
+   "/images/catalog/2c7a61994b5f9a0e71.webp",
+   "/images/catalog/ffa81dedda328602f3.webp",
+   "/images/catalog/35adc26fa3b9348a47.webp"
   ]
  },
  {
-  "id": "bag-8589402931437",
-  "name": "Brahmin Lorelei",
-  "brand": "Brahmin",
+  "id": "bag-7853089685564",
+  "name": "Michael Kors Brandshaw Medium Color-Block Leather Women's Crossbody Bag",
+  "brand": "Michael Kors",
   "department": "Bags",
-  "category": "Shoulder bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 25804,
+  "tag": "Handbags",
+  "description": "A classic Michael Kors handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "multi": {
+    "": {
+     "usd": 150.9,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 28671.0,
+     "etb": 25804,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-brandshaw-medium-color-block-leather-womens-crossbody-bag?variant=42352919281724",
+     "sourceVariantID": "42352919281724",
+     "sourceSKU": "df00079a-d79a-4bd0-b59a-15438b8ed4fc",
+     "sourceVariantTitle": "multi",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "multi": [
+    "/images/catalog/fbe77933e81888b23d.webp",
+    "/images/catalog/487211a760aa8e8439.webp"
+   ]
+  },
+  "swatches": {
+   "multi": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "multi": "https://shop.simon.com/products/michael-kors-brandshaw-medium-color-block-leather-womens-crossbody-bag"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "multi"
+  ],
+  "images": [
+   "/images/catalog/fbe77933e81888b23d.webp",
+   "/images/catalog/487211a760aa8e8439.webp"
+  ]
+ },
+ {
+  "id": "bag-8998202277948",
+  "name": "Longchamp Le Pliage Energy XS Crossbody",
+  "brand": "Longchamp",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 32487,
+  "tag": "Handbags",
+  "description": "A classic Longchamp handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 189.98,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 36096.2,
+     "etb": 32487,
+     "sourceURL": "https://shop.simon.com/products/longchamp-le-pliage-energy-xs-crossbody?variant=45907825000508",
+     "sourceVariantID": "45907825000508",
+     "sourceSKU": "06bdb2a6-37a1-48ae-ad33-0fe84d23e414",
+     "sourceVariantTitle": "Medium / black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/26d4b65fdb0df2424d.webp",
+    "/images/catalog/1622e7fc19883bb85a.webp",
+    "/images/catalog/0d41615134378e835d.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/longchamp-le-pliage-energy-xs-crossbody"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/26d4b65fdb0df2424d.webp",
+   "/images/catalog/1622e7fc19883bb85a.webp",
+   "/images/catalog/0d41615134378e835d.webp"
+  ]
+ },
+ {
+  "id": "bag-9014016671804",
+  "name": "Marc Jacobs Womens The Small Tote Bag - Black",
+  "brand": "Marc Jacobs",
+  "department": "Bags",
+  "category": "Handbags",
   "audience": "Women",
   "price": 24795,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "tag": "Handbags",
+  "description": "A classic Marc Jacobs handbag. Choose your preferred finish.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "Black Melbourne": {
+   "black": {
     "": {
      "usd": 145.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
+     "baseEtb": 27550.0,
      "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/lorelei-black-melbourne-s1015100001?variant=45921623376109",
-     "sourceVariantID": "45921623376109",
-     "sourceSKU": "S1015100001",
+     "sourceURL": "https://shop.simon.com/products/marc-jacobs-womens-the-small-tote-bag-black-1?variant=45954168225852",
+     "sourceVariantID": "45954168225852",
+     "sourceSKU": "dsco-1305281823",
+     "sourceVariantTitle": "black",
      "availableAtSource": true,
-     "sourceVariantTitle": "Black Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Pecan Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/lorelei-pecan-melbourne-s1015100004?variant=45921831157997",
-     "sourceVariantID": "45921831157997",
-     "sourceSKU": "S1015100004",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Pecan Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Multi Great Falls": {
-    "": {
-     "usd": 195.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 33345,
-     "sourceURL": "https://brahmin.com/products/lorelei-multi-great-falls-s10277900050?variant=50613154939117",
-     "sourceVariantID": "50613154939117",
-     "sourceSKU": "S10277900050",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Multi Great Falls",
      "itemKind": "Bags"
     }
    }
   },
   "variants": {
-   "Black Melbourne": [
-    "/images/catalog/afbadcff70e7a106e2.webp"
-   ],
-   "Pecan Melbourne": [
-    "/images/catalog/009e77a5654e8ff1b4.webp"
-   ],
-   "Multi Great Falls": [
-    "/images/catalog/b70eafa5b5c985ed80.webp"
+   "black": [
+    "/images/catalog/d487131ddfc470936b.webp",
+    "/images/catalog/b43354191ffcac520b.webp",
+    "/images/catalog/bb4cc1098eccdad126.webp"
    ]
   },
   "swatches": {
-   "Black Melbourne": "#222326",
-   "Pecan Melbourne": "#a9a294",
-   "Multi Great Falls": "#a9a294"
+   "black": "#222326"
   },
   "sourceURLs": {
-   "Black Melbourne": "https://brahmin.com/products/lorelei-black-melbourne-s1015100001",
-   "Pecan Melbourne": "https://brahmin.com/products/lorelei-pecan-melbourne-s1015100004",
-   "Multi Great Falls": "https://brahmin.com/products/lorelei-multi-great-falls-s10277900050"
+   "black": "https://shop.simon.com/products/marc-jacobs-womens-the-small-tote-bag-black-1"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Black Melbourne",
-   "Pecan Melbourne",
-   "Multi Great Falls"
+   "black"
   ],
   "images": [
-   "/images/catalog/afbadcff70e7a106e2.webp",
-   "/images/catalog/009e77a5654e8ff1b4.webp",
-   "/images/catalog/b70eafa5b5c985ed80.webp"
+   "/images/catalog/d487131ddfc470936b.webp",
+   "/images/catalog/b43354191ffcac520b.webp",
+   "/images/catalog/bb4cc1098eccdad126.webp"
   ]
  },
  {
-  "id": "bag-7249652023429",
-  "name": "Steve Madden Melodie",
-  "brand": "Steve Madden",
+  "id": "bag-8841556099132",
+  "name": "Tory Burch Leather Emerson Shoulder Bag",
+  "brand": "Tory Burch",
   "department": "Bags",
   "category": "Handbags",
   "audience": "Women",
-  "price": 11628,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "price": 32490,
+  "tag": "Handbags",
+  "description": "A classic Tory Burch handbag. Choose your preferred finish.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "Denim": {
+   "black, blue": {
     "": {
-     "usd": 68.0,
+     "usd": 190.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 11628,
-     "sourceURL": "https://www.stevemadden.com/products/bmelodie-denim?variant=41544209170565",
-     "sourceVariantID": "41544209170565",
-     "sourceSKU": "BMELODIE",
+     "baseEtb": 36100.0,
+     "etb": 32490,
+     "sourceURL": "https://shop.simon.com/products/tory-burch-leather-emerson-shoulder-bag-1?variant=43995950252092",
+     "sourceVariantID": "43995950252092",
+     "sourceSKU": "dsco-1311344225",
+     "sourceVariantTitle": "black, blue",
      "availableAtSource": true,
-     "sourceVariantTitle": "DENIM / ONESZ / DEN",
-     "itemKind": "Bags"
-    }
-   },
-   "Olive": {
-    "": {
-     "usd": 68.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 11628,
-     "sourceURL": "https://www.stevemadden.com/products/bmelodie-olive?variant=41969439932549",
-     "sourceVariantID": "41969439932549",
-     "sourceSKU": "BMELODIE",
-     "availableAtSource": true,
-     "sourceVariantTitle": "OLIVE / ONESZ / OLI",
      "itemKind": "Bags"
     }
    }
   },
   "variants": {
-   "Denim": [
-    "/images/catalog/494d149824c57eb7b8.webp",
-    "/images/catalog/948d5c1a4233b4984f.webp",
-    "/images/catalog/dca8a0476031dfa2cd.webp"
-   ],
-   "Olive": [
-    "/images/catalog/7dcbe8f8555543193b.webp",
-    "/images/catalog/8971989a295340f554.webp",
-    "/images/catalog/76389f18fde5e281bb.webp"
+   "black, blue": [
+    "/images/catalog/b26010cdda627e95a1.webp",
+    "/images/catalog/a38750a95e33020648.webp",
+    "/images/catalog/c99d4ac3f3ff7e8d3e.webp"
    ]
   },
   "swatches": {
-   "Denim": "#6d91ac",
-   "Olive": "#a9a294"
+   "black, blue": "#222326"
   },
   "sourceURLs": {
-   "Denim": "https://www.stevemadden.com/products/bmelodie-denim",
-   "Olive": "https://www.stevemadden.com/products/bmelodie-olive"
+   "black, blue": "https://shop.simon.com/products/tory-burch-leather-emerson-shoulder-bag-1"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Denim",
-   "Olive"
+   "black, blue"
   ],
   "images": [
-   "/images/catalog/494d149824c57eb7b8.webp",
-   "/images/catalog/948d5c1a4233b4984f.webp",
-   "/images/catalog/dca8a0476031dfa2cd.webp",
-   "/images/catalog/7dcbe8f8555543193b.webp",
-   "/images/catalog/8971989a295340f554.webp",
-   "/images/catalog/76389f18fde5e281bb.webp"
+   "/images/catalog/b26010cdda627e95a1.webp",
+   "/images/catalog/a38750a95e33020648.webp",
+   "/images/catalog/c99d4ac3f3ff7e8d3e.webp"
   ]
  },
  {
-  "id": "bag-9009686216758",
-  "name": "HOBO Sable Wristlet",
-  "brand": "HOBO",
-  "department": "Bags",
-  "category": "Wristlets",
-  "audience": "Women",
-  "price": 23598,
-  "tag": "Women\u2019s collection",
-  "description": "Sable Wristlet In Polished Leather - True Red",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "True Red": {
-    "": {
-     "usd": 138.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 23598,
-     "sourceURL": "https://www.hobobags.com/products/sable-wristlet-in-polished-leather-true-red-vi-35036trrd?variant=46916822171702",
-     "sourceVariantID": "46916822171702",
-     "sourceSKU": "VI-35036TRRD",
-     "availableAtSource": true,
-     "sourceVariantTitle": "True Red",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "True Red": [
-    "/images/catalog/85950b2acbd6c0f9ac.webp",
-    "/images/catalog/4952733e794cfeb74b.webp",
-    "/images/catalog/6d553693805a82c32c.webp"
-   ]
-  },
-  "swatches": {
-   "True Red": "#a83644"
-  },
-  "sourceURLs": {
-   "True Red": "https://www.hobobags.com/products/sable-wristlet-in-polished-leather-true-red-vi-35036trrd"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "True Red"
-  ],
-  "images": [
-   "/images/catalog/85950b2acbd6c0f9ac.webp",
-   "/images/catalog/4952733e794cfeb74b.webp",
-   "/images/catalog/6d553693805a82c32c.webp"
-  ]
- },
- {
-  "id": "bag-9292650316013",
-  "name": "Brahmin Mod Lorelei",
-  "brand": "Brahmin",
-  "department": "Bags",
-  "category": "Shoulder bags",
-  "audience": "Women",
-  "price": 30524,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Ultramarine Nile": {
-    "": {
-     "usd": 178.5,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 30524,
-     "sourceURL": "https://brahmin.com/products/mod-lorelei-ultramarine-nile-s25271702135?variant=49440743522541",
-     "sourceVariantID": "49440743522541",
-     "sourceSKU": "S25271702135",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Ultramarine Nile",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Ultramarine Nile": [
-    "/images/catalog/7e68fee42cbba1cf61.webp"
-   ]
-  },
-  "swatches": {
-   "Ultramarine Nile": "#a9a294"
-  },
-  "sourceURLs": {
-   "Ultramarine Nile": "https://brahmin.com/products/mod-lorelei-ultramarine-nile-s25271702135"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Ultramarine Nile"
-  ],
-  "images": [
-   "/images/catalog/7e68fee42cbba1cf61.webp"
-  ]
- },
- {
-  "id": "bag-7319195680901",
-  "name": "Steve Madden Marisol",
-  "brand": "Steve Madden",
+  "id": "bag-8846170980412",
+  "name": "Coach Outlet Carey Crossbody Bag In Signature Canvas",
+  "brand": "Coach",
   "department": "Bags",
   "category": "Handbags",
   "audience": "Women",
-  "price": 9403,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "price": 28899,
+  "tag": "Handbags",
+  "description": "A classic Coach handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "silver/sand/taupe": {
+    "": {
+     "usd": 169.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 32110.0,
+     "etb": 28899,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-carey-crossbody-bag-in-signature-canvas?variant=44016643768380",
+     "sourceVariantID": "44016643768380",
+     "sourceSKU": "527947fc-f15f-4837-b7a1-9dcdb57897d2",
+     "sourceVariantTitle": "Medium / silver/sand/taupe",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   },
+   "gold/walnut/black": {
+    "": {
+     "usd": 169.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 32110.0,
+     "etb": 28899,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-carey-crossbody-bag-in-signature-canvas?variant=44021961654332",
+     "sourceVariantID": "44021961654332",
+     "sourceSKU": "1dba598a-90be-4e69-9010-9a9864338692",
+     "sourceVariantTitle": "Medium / gold/walnut/black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "silver/sand/taupe": [
+    "/images/catalog/fbff07d82e63d3b215.webp"
+   ],
+   "gold/walnut/black": [
+    "/images/catalog/c7b31518b739b9f095.webp"
+   ]
+  },
+  "swatches": {
+   "silver/sand/taupe": "#b4bbc4",
+   "gold/walnut/black": "#222326"
+  },
+  "sourceURLs": {
+   "silver/sand/taupe": "https://shop.simon.com/products/coach-outlet-carey-crossbody-bag-in-signature-canvas",
+   "gold/walnut/black": "https://shop.simon.com/products/coach-outlet-carey-crossbody-bag-in-signature-canvas"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "silver/sand/taupe",
+   "gold/walnut/black"
+  ],
+  "images": [
+   "/images/catalog/fbff07d82e63d3b215.webp",
+   "/images/catalog/c7b31518b739b9f095.webp"
+  ]
+ },
+ {
+  "id": "bag-8688401973308",
+  "name": "Michael Kors Signature Jet Set Crossbody Bag in Coated Canvas and Leather",
+  "brand": "Michael Kors",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 21888,
+  "tag": "Handbags",
+  "description": "A classic Michael Kors handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "brown": {
+    "": {
+     "usd": 128.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 24320.0,
+     "etb": 21888,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-signature-jet-set-crossbody-bag-in-coated-canvas-and-leather?variant=43562043801660",
+     "sourceVariantID": "43562043801660",
+     "sourceSKU": "97e26e38-2796-4e8a-9dc1-867a503f0746",
+     "sourceVariantTitle": "One Size / brown",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "brown": [
+    "/images/catalog/f5ae90d7b0383f5a71.webp",
+    "/images/catalog/86b9f7320c2e4017c3.webp",
+    "/images/catalog/772e9118714ab6bb13.webp"
+   ]
+  },
+  "swatches": {
+   "brown": "#735038"
+  },
+  "sourceURLs": {
+   "brown": "https://shop.simon.com/products/michael-kors-signature-jet-set-crossbody-bag-in-coated-canvas-and-leather"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "brown"
+  ],
+  "images": [
+   "/images/catalog/f5ae90d7b0383f5a71.webp",
+   "/images/catalog/86b9f7320c2e4017c3.webp",
+   "/images/catalog/772e9118714ab6bb13.webp"
+  ]
+ },
+ {
+  "id": "bag-8375901192252",
+  "name": "Longchamp Le Pliage Original Small Canvas Short Handle Handbag",
+  "brand": "Longchamp",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 20517,
+  "tag": "Handbags",
+  "description": "A classic Longchamp handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "brown": {
+    "": {
+     "usd": 119.98,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 22796.2,
+     "etb": 20517,
+     "sourceURL": "https://shop.simon.com/products/longchamp-le-pliage-original-small-canvas-short-handle-handbag-2?variant=42946421194812",
+     "sourceVariantID": "42946421194812",
+     "sourceSKU": "156fde65-7daa-43db-8520-352640314792",
+     "sourceVariantTitle": "Medium / brown",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "brown": [
+    "/images/catalog/3440b40288bd3535a6.webp",
+    "/images/catalog/edf78b954462fde0ee.webp",
+    "/images/catalog/e2e7db6ea5a044db3f.webp"
+   ]
+  },
+  "swatches": {
+   "brown": "#735038"
+  },
+  "sourceURLs": {
+   "brown": "https://shop.simon.com/products/longchamp-le-pliage-original-small-canvas-short-handle-handbag-2"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "brown"
+  ],
+  "images": [
+   "/images/catalog/3440b40288bd3535a6.webp",
+   "/images/catalog/edf78b954462fde0ee.webp",
+   "/images/catalog/e2e7db6ea5a044db3f.webp"
+  ]
+ },
+ {
+  "id": "bag-9013973942332",
+  "name": "Marc Jacobs The Leather Mini Crossbody Bag - Black",
+  "brand": "Marc Jacobs",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 28215,
+  "tag": "Handbags",
+  "description": "A classic Marc Jacobs handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 165.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 31350.0,
+     "etb": 28215,
+     "sourceURL": "https://shop.simon.com/products/marc-jacobs-the-leather-mini-crossbody-bag-black-1?variant=45954057568316",
+     "sourceVariantID": "45954057568316",
+     "sourceSKU": "dsco-1305281405",
+     "sourceVariantTitle": "black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/69915b514d25386162.webp",
+    "/images/catalog/81a64f9cef6fc79fab.webp",
+    "/images/catalog/fe3a9d14464c2aa05b.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/marc-jacobs-the-leather-mini-crossbody-bag-black-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/69915b514d25386162.webp",
+   "/images/catalog/81a64f9cef6fc79fab.webp",
+   "/images/catalog/fe3a9d14464c2aa05b.webp"
+  ]
+ },
+ {
+  "id": "bag-8985914867772",
+  "name": "Tory Burch Leather Perry Triple Compartment Tote",
+  "brand": "Tory Burch",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 29070,
+  "tag": "Handbags",
+  "description": "A classic Tory Burch handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "beige": {
+    "": {
+     "usd": 170.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 32300.0,
+     "etb": 29070,
+     "sourceURL": "https://shop.simon.com/products/tory-burch-leather-perry-triple-compartment-tote-9?variant=45845236219964",
+     "sourceVariantID": "45845236219964",
+     "sourceSKU": "dsco-1311344846",
+     "sourceVariantTitle": "beige",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "beige": [
+    "/images/catalog/59e845022096c058fa.webp",
+    "/images/catalog/91c70c7f8a397ceaf9.webp",
+    "/images/catalog/3a88c2e49e036d6a57.webp"
+   ]
+  },
+  "swatches": {
+   "beige": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "beige": "https://shop.simon.com/products/tory-burch-leather-perry-triple-compartment-tote-9"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "beige"
+  ],
+  "images": [
+   "/images/catalog/59e845022096c058fa.webp",
+   "/images/catalog/91c70c7f8a397ceaf9.webp",
+   "/images/catalog/3a88c2e49e036d6a57.webp"
+  ]
+ },
+ {
+  "id": "bag-7781268258876",
+  "name": "Coach Outlet Teri Mini Crossbody Bag",
+  "brand": "Coach",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 30609,
+  "tag": "Handbags",
+  "description": "A classic Coach handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "gold/chalk": {
+    "": {
+     "usd": 179.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34010.0,
+     "etb": 30609,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-teri-mini-crossbody-bag?variant=42154312958012",
+     "sourceVariantID": "42154312958012",
+     "sourceSKU": "33943820-b555-4f4f-8ec8-cd2c8952ee24",
+     "sourceVariantTitle": "One Size / gold/chalk",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   },
+   "gold/black": {
+    "": {
+     "usd": 179.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34010.0,
+     "etb": 30609,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-teri-mini-crossbody-bag?variant=42389251129404",
+     "sourceVariantID": "42389251129404",
+     "sourceSKU": "fd065ebe-fe0e-4568-8be8-0c50a69340de",
+     "sourceVariantTitle": "One Size / gold/black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "gold/chalk": [
+    "/images/catalog/456375ec89fc241649.webp"
+   ],
+   "gold/black": [
+    "/images/catalog/128cfb26ca53b9aa66.webp"
+   ]
+  },
+  "swatches": {
+   "gold/chalk": "#bda15e",
+   "gold/black": "#222326"
+  },
+  "sourceURLs": {
+   "gold/chalk": "https://shop.simon.com/products/coach-outlet-teri-mini-crossbody-bag",
+   "gold/black": "https://shop.simon.com/products/coach-outlet-teri-mini-crossbody-bag"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "gold/chalk",
+   "gold/black"
+  ],
+  "images": [
+   "/images/catalog/456375ec89fc241649.webp",
+   "/images/catalog/128cfb26ca53b9aa66.webp"
+  ]
+ },
+ {
+  "id": "bag-9028065755196",
+  "name": "Michael Kors Mercer Medium Signature Logo Crossbody Bag in Pink Coated Canvas",
+  "brand": "Michael Kors",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 23940,
+  "tag": "Handbags",
+  "description": "A classic Michael Kors handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "pink": {
+    "": {
+     "usd": 140.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 26600.0,
+     "etb": 23940,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-mercer-medium-signature-logo-crossbody-bag-in-pink-coated-canvas?variant=45978604863548",
+     "sourceVariantID": "45978604863548",
+     "sourceSKU": "f1defd42-0e5c-4f57-a9a8-9df02f951fa9",
+     "sourceVariantTitle": "One Size / pink",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "pink": [
+    "/images/catalog/29b08ca3afdfe90eca.webp",
+    "/images/catalog/df43045d8862de7f57.webp",
+    "/images/catalog/2a521a75c590411617.webp"
+   ]
+  },
+  "swatches": {
+   "pink": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "pink": "https://shop.simon.com/products/michael-kors-mercer-medium-signature-logo-crossbody-bag-in-pink-coated-canvas"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "pink"
+  ],
+  "images": [
+   "/images/catalog/29b08ca3afdfe90eca.webp",
+   "/images/catalog/df43045d8862de7f57.webp",
+   "/images/catalog/2a521a75c590411617.webp"
+  ]
+ },
+ {
+  "id": "bag-8997805523004",
+  "name": "Longchamp Le Pliage One Small Canvas Handbag",
+  "brand": "Longchamp",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 20517,
+  "tag": "Handbags",
+  "description": "A classic Longchamp handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "grey": {
+    "": {
+     "usd": 119.98,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 22796.2,
+     "etb": 20517,
+     "sourceURL": "https://shop.simon.com/products/longchamp-le-pliage-one-small-canvas-handbag-1?variant=45906136629308",
+     "sourceVariantID": "45906136629308",
+     "sourceSKU": "a4ec23bd-fd95-494d-a568-1ff9a69176bf",
+     "sourceVariantTitle": "Large / grey",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "grey": [
+    "/images/catalog/629008c0ea0fccd81e.webp",
+    "/images/catalog/399d5570b36f5fc7af.webp",
+    "/images/catalog/ab47098df1f5351c87.webp"
+   ]
+  },
+  "swatches": {
+   "grey": "#858b90"
+  },
+  "sourceURLs": {
+   "grey": "https://shop.simon.com/products/longchamp-le-pliage-one-small-canvas-handbag-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   "/images/catalog/629008c0ea0fccd81e.webp",
+   "/images/catalog/399d5570b36f5fc7af.webp",
+   "/images/catalog/ab47098df1f5351c87.webp"
+  ]
+ },
+ {
+  "id": "bag-9014012182588",
+  "name": "Marc Jacobs The Denim Chain Mini Bag - Black Wash",
+  "brand": "Marc Jacobs",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 27189,
+  "tag": "Handbags",
+  "description": "A classic Marc Jacobs handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 159.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 30210.0,
+     "etb": 27189,
+     "sourceURL": "https://shop.simon.com/products/marc-jacobs-the-denim-chain-mini-bag-black-wash-1?variant=45954155249724",
+     "sourceVariantID": "45954155249724",
+     "sourceSKU": "dsco-1305283653",
+     "sourceVariantTitle": "black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/a3526ab6e2df3f7687.webp",
+    "/images/catalog/79e361486e52df724c.webp",
+    "/images/catalog/24a5b226ae13292431.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/marc-jacobs-the-denim-chain-mini-bag-black-wash-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/a3526ab6e2df3f7687.webp",
+   "/images/catalog/79e361486e52df724c.webp",
+   "/images/catalog/24a5b226ae13292431.webp"
+  ]
+ },
+ {
+  "id": "bag-8841428828220",
+  "name": "Tory Burch Leather Perry Medium Satchel",
+  "brand": "Tory Burch",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 29070,
+  "tag": "Handbags",
+  "description": "A classic Tory Burch handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "brown": {
+    "": {
+     "usd": 170.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 32300.0,
+     "etb": 29070,
+     "sourceURL": "https://shop.simon.com/products/tory-burch-leather-perry-medium-satchel-1?variant=43995518599228",
+     "sourceVariantID": "43995518599228",
+     "sourceSKU": "dsco-1311347138",
+     "sourceVariantTitle": "brown",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "brown": [
+    "/images/catalog/42b59e20c11d8044b8.webp",
+    "/images/catalog/90fbc1e8cd0455db30.webp",
+    "/images/catalog/47aa86e4479c5ca0a9.webp"
+   ]
+  },
+  "swatches": {
+   "brown": "#735038"
+  },
+  "sourceURLs": {
+   "brown": "https://shop.simon.com/products/tory-burch-leather-perry-medium-satchel-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "brown"
+  ],
+  "images": [
+   "/images/catalog/42b59e20c11d8044b8.webp",
+   "/images/catalog/90fbc1e8cd0455db30.webp",
+   "/images/catalog/47aa86e4479c5ca0a9.webp"
+  ]
+ },
+ {
+  "id": "bag-7913406267452",
+  "name": "Coach Outlet City Tote Bag In Signature Canvas",
+  "brand": "Coach",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 32319,
+  "tag": "Handbags",
+  "description": "A classic Coach handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "gold/sand/chalk": {
+    "": {
+     "usd": 189.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 35910.0,
+     "etb": 32319,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-city-tote-bag-in-signature-canvas?variant=42504336244796",
+     "sourceVariantID": "42504336244796",
+     "sourceSKU": "784be377-fa84-4adc-a486-da33294bb1bb",
+     "sourceVariantTitle": "One Size / gold/sand/chalk",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   },
+   "gold/walnut/black": {
+    "": {
+     "usd": 189.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 35910.0,
+     "etb": 32319,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-city-tote-bag-in-signature-canvas?variant=42504336310332",
+     "sourceVariantID": "42504336310332",
+     "sourceSKU": "f6de2da4-1cee-42d8-9d3d-5482bdff2419",
+     "sourceVariantTitle": "One Size / gold/walnut/black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "gold/sand/chalk": [
+    "/images/catalog/38e7f773c9e6760a15.webp"
+   ],
+   "gold/walnut/black": [
+    "/images/catalog/d1f604ffebcb3af4ee.webp"
+   ]
+  },
+  "swatches": {
+   "gold/sand/chalk": "#bda15e",
+   "gold/walnut/black": "#222326"
+  },
+  "sourceURLs": {
+   "gold/sand/chalk": "https://shop.simon.com/products/coach-outlet-city-tote-bag-in-signature-canvas",
+   "gold/walnut/black": "https://shop.simon.com/products/coach-outlet-city-tote-bag-in-signature-canvas"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "gold/sand/chalk",
+   "gold/walnut/black"
+  ],
+  "images": [
+   "/images/catalog/38e7f773c9e6760a15.webp",
+   "/images/catalog/d1f604ffebcb3af4ee.webp"
+  ]
+ },
+ {
+  "id": "bag-9046182395964",
+  "name": "Michael Kors Mercer Large Logo Accordion Tote Bag in Brown Coated Canvas",
+  "brand": "Michael Kors",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 32832,
+  "tag": "Handbags",
+  "description": "A classic Michael Kors handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "brown": {
+    "": {
+     "usd": 192.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 36480.0,
+     "etb": 32832,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-mercer-large-logo-accordion-tote-bag-in-brown-coated-canvas?variant=46033530978364",
+     "sourceVariantID": "46033530978364",
+     "sourceSKU": "51169e51-4abe-4c5a-bc71-b645b8c84272",
+     "sourceVariantTitle": "One Size / brown",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "brown": [
+    "/images/catalog/2ba59ceac5340bdc16.webp",
+    "/images/catalog/bfae84b1a7cb67c67a.webp",
+    "/images/catalog/fabcd7e4526c2d038b.webp"
+   ]
+  },
+  "swatches": {
+   "brown": "#735038"
+  },
+  "sourceURLs": {
+   "brown": "https://shop.simon.com/products/michael-kors-mercer-large-logo-accordion-tote-bag-in-brown-coated-canvas"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "brown"
+  ],
+  "images": [
+   "/images/catalog/2ba59ceac5340bdc16.webp",
+   "/images/catalog/bfae84b1a7cb67c67a.webp",
+   "/images/catalog/fabcd7e4526c2d038b.webp"
+  ]
+ },
+ {
+  "id": "bag-9042326880316",
+  "name": "Longchamp Le Pliage Original Large Handbag",
+  "brand": "Longchamp",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 23937,
+  "tag": "Handbags",
+  "description": "A classic Longchamp handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "green": {
+    "": {
+     "usd": 139.98,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 26596.2,
+     "etb": 23937,
+     "sourceURL": "https://shop.simon.com/products/longchamp-le-pliage-original-large-handbag-7?variant=46020490330172",
+     "sourceVariantID": "46020490330172",
+     "sourceSKU": "7f6fdb5f-ea66-43b2-82bb-efe4afb36a1e",
+     "sourceVariantTitle": "Large / green",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "green": [
+    "/images/catalog/ddf9e55e1c48d6c27b.webp",
+    "/images/catalog/882c4271d6c465b999.webp",
+    "/images/catalog/a8a7a23680da90d161.webp"
+   ]
+  },
+  "swatches": {
+   "green": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "green": "https://shop.simon.com/products/longchamp-le-pliage-original-large-handbag-7"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "green"
+  ],
+  "images": [
+   "/images/catalog/ddf9e55e1c48d6c27b.webp",
+   "/images/catalog/882c4271d6c465b999.webp",
+   "/images/catalog/a8a7a23680da90d161.webp"
+  ]
+ },
+ {
+  "id": "bag-8846164918332",
+  "name": "Coach Outlet Medium City Tote Bag In Signature Canvas",
+  "brand": "Coach",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 30609,
+  "tag": "Handbags",
+  "description": "A classic Coach handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "gold/walnut/black": {
+    "": {
+     "usd": 179.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34010.0,
+     "etb": 30609,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-medium-city-tote-bag-in-signature-canvas?variant=44016612048956",
+     "sourceVariantID": "44016612048956",
+     "sourceSKU": "9cdfe990-4535-4312-976c-f27884f4cdbb",
+     "sourceVariantTitle": "Medium / gold/walnut/black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   },
+   "gold/white/chalk": {
+    "": {
+     "usd": 179.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34010.0,
+     "etb": 30609,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-medium-city-tote-bag-in-signature-canvas?variant=46151331250236",
+     "sourceVariantID": "46151331250236",
+     "sourceSKU": "3e4b9c34-892b-4cbc-bc21-5da3a50a3bf9",
+     "sourceVariantTitle": "One Size / gold/white/chalk",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "gold/walnut/black": [
+    "/images/catalog/093f4499de301fc9d0.webp"
+   ],
+   "gold/white/chalk": [
+    "/images/catalog/dc0ce70f7af7dc8e81.webp"
+   ]
+  },
+  "swatches": {
+   "gold/walnut/black": "#222326",
+   "gold/white/chalk": "#bda15e"
+  },
+  "sourceURLs": {
+   "gold/walnut/black": "https://shop.simon.com/products/coach-outlet-medium-city-tote-bag-in-signature-canvas",
+   "gold/white/chalk": "https://shop.simon.com/products/coach-outlet-medium-city-tote-bag-in-signature-canvas"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "gold/walnut/black",
+   "gold/white/chalk"
+  ],
+  "images": [
+   "/images/catalog/093f4499de301fc9d0.webp",
+   "/images/catalog/dc0ce70f7af7dc8e81.webp"
+  ]
+ },
+ {
+  "id": "bag-8700527083580",
+  "name": "Michael Kors Signature East/West Crossbody Bag in Beige Coated Canvas",
+  "brand": "Michael Kors",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 19665,
+  "tag": "Handbags",
+  "description": "A classic Michael Kors handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "beige": {
+    "": {
+     "usd": 115.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 21850.0,
+     "etb": 19665,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-signature-east-west-crossbody-bag-in-beige-coated-canvas?variant=43605704376380",
+     "sourceVariantID": "43605704376380",
+     "sourceSKU": "b976cd9a-8452-47e3-a43f-c0c71283e254",
+     "sourceVariantTitle": "One Size / beige",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "beige": [
+    "/images/catalog/9c7a736d4ef31c66ca.webp",
+    "/images/catalog/a95ff68bed33a53d43.webp",
+    "/images/catalog/7fbf404f78b2bdb936.webp"
+   ]
+  },
+  "swatches": {
+   "beige": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "beige": "https://shop.simon.com/products/michael-kors-signature-east-west-crossbody-bag-in-beige-coated-canvas"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "beige"
+  ],
+  "images": [
+   "/images/catalog/9c7a736d4ef31c66ca.webp",
+   "/images/catalog/a95ff68bed33a53d43.webp",
+   "/images/catalog/7fbf404f78b2bdb936.webp"
+  ]
+ },
+ {
+  "id": "bag-8839747403836",
+  "name": "Longchamp Le Pliage Energy Medium Canvas Belt Bag",
+  "brand": "Longchamp",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 34197,
+  "tag": "Handbags",
+  "description": "A classic Longchamp handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "green": {
+    "": {
+     "usd": 199.98,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 37996.2,
+     "etb": 34197,
+     "sourceURL": "https://shop.simon.com/products/longchamp-le-pliage-energy-medium-canvas-belt-bag-3?variant=43989645819964",
+     "sourceVariantID": "43989645819964",
+     "sourceSKU": "d65e9882-e1f1-4bf9-b84c-2a470c4fa7b3",
+     "sourceVariantTitle": "Medium / green",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "green": [
+    "/images/catalog/60e6936ef79ce10a75.webp",
+    "/images/catalog/abd753e8c33cead4f0.webp",
+    "/images/catalog/cfb3ca7be981889ee4.webp"
+   ]
+  },
+  "swatches": {
+   "green": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "green": "https://shop.simon.com/products/longchamp-le-pliage-energy-medium-canvas-belt-bag-3"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "green"
+  ],
+  "images": [
+   "/images/catalog/60e6936ef79ce10a75.webp",
+   "/images/catalog/abd753e8c33cead4f0.webp",
+   "/images/catalog/cfb3ca7be981889ee4.webp"
+  ]
+ },
+ {
+  "id": "bag-7770137690172",
+  "name": "Coach Outlet Klare Crossbody Bag In Signature Canvas",
+  "brand": "Coach",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 34029,
+  "tag": "Handbags",
+  "description": "A classic Coach handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "gold/walnut/black": {
+    "": {
+     "usd": 199.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 37810.0,
+     "etb": 34029,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-klare-crossbody-bag-in-signature-canvas?variant=42197566128188",
+     "sourceVariantID": "42197566128188",
+     "sourceSKU": "c8a21f29-ed82-4f0e-b179-97164c64e9ea",
+     "sourceVariantTitle": "One Size / gold/walnut/black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   },
+   "silver/sand/taupe": {
+    "": {
+     "usd": 199.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 37810.0,
+     "etb": 34029,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-klare-crossbody-bag-in-signature-canvas?variant=42157506363452",
+     "sourceVariantID": "42157506363452",
+     "sourceSKU": "9b293838-a5d4-4877-b1b1-3ca62cf2b3c9",
+     "sourceVariantTitle": "One Size / silver/sand/taupe",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "gold/walnut/black": [
+    "/images/catalog/514e4a142ffb42711e.webp"
+   ],
+   "silver/sand/taupe": [
+    "/images/catalog/b1ff65a03d9fd5f947.webp"
+   ]
+  },
+  "swatches": {
+   "gold/walnut/black": "#222326",
+   "silver/sand/taupe": "#b4bbc4"
+  },
+  "sourceURLs": {
+   "gold/walnut/black": "https://shop.simon.com/products/coach-outlet-klare-crossbody-bag-in-signature-canvas",
+   "silver/sand/taupe": "https://shop.simon.com/products/coach-outlet-klare-crossbody-bag-in-signature-canvas"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "gold/walnut/black",
+   "silver/sand/taupe"
+  ],
+  "images": [
+   "/images/catalog/514e4a142ffb42711e.webp",
+   "/images/catalog/b1ff65a03d9fd5f947.webp"
+  ]
+ },
+ {
+  "id": "bag-8846167015484",
+  "name": "Coach Outlet Mini Payton Bag",
+  "brand": "Coach",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 16929,
+  "tag": "Handbags",
+  "description": "A classic Coach handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "silver/black": {
+    "": {
+     "usd": 99.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18810.0,
+     "etb": 16929,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-mini-payton-bag?variant=44016619552828",
+     "sourceVariantID": "44016619552828",
+     "sourceSKU": "86887395-469a-4d00-936f-4615e90081a0",
+     "sourceVariantTitle": "Mini / silver/black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   },
+   "silver/maple": {
+    "": {
+     "usd": 99.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18810.0,
+     "etb": 16929,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-mini-payton-bag?variant=44016619585596",
+     "sourceVariantID": "44016619585596",
+     "sourceSKU": "ec74b22d-b910-4a09-b2c3-b68b52d6d718",
+     "sourceVariantTitle": "Mini / silver/maple",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "silver/black": [
+    "/images/catalog/c6a690a5ad33815a14.webp"
+   ],
+   "silver/maple": [
+    "/images/catalog/c58b1ce729a2a031a9.webp"
+   ]
+  },
+  "swatches": {
+   "silver/black": "#222326",
+   "silver/maple": "#b4bbc4"
+  },
+  "sourceURLs": {
+   "silver/black": "https://shop.simon.com/products/coach-outlet-mini-payton-bag",
+   "silver/maple": "https://shop.simon.com/products/coach-outlet-mini-payton-bag"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "silver/black",
+   "silver/maple"
+  ],
+  "images": [
+   "/images/catalog/c6a690a5ad33815a14.webp",
+   "/images/catalog/c58b1ce729a2a031a9.webp"
+  ]
+ },
+ {
+  "id": "bag-8901971116092",
+  "name": "Coach Outlet Mini Carey Crossbody Bag In Signature Canvas",
+  "brand": "Coach",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 23769,
+  "tag": "Handbags",
+  "description": "A classic Coach handbag. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "gold/walnut/black": {
+    "": {
+     "usd": 139.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 26410.0,
+     "etb": 23769,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-mini-carey-crossbody-bag-in-signature-canvas-1?variant=44752934207548",
+     "sourceVariantID": "44752934207548",
+     "sourceSKU": "a29b2d8b-bac0-45fb-b3e5-0d328ffeb570",
+     "sourceVariantTitle": "One Size / gold/walnut/black",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   },
+   "gold/tan/brown": {
+    "": {
+     "usd": 139.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 26410.0,
+     "etb": 23769,
+     "sourceURL": "https://shop.simon.com/products/coach-outlet-mini-carey-crossbody-bag-in-signature-canvas-1?variant=45446796312636",
+     "sourceVariantID": "45446796312636",
+     "sourceSKU": "51b5b393-f01b-4983-b022-4551d2ba25cc",
+     "sourceVariantTitle": "One Size / gold/tan/brown",
+     "availableAtSource": true,
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "gold/walnut/black": [
+    "/images/catalog/f7559789fd1be4eb23.webp"
+   ],
+   "gold/tan/brown": [
+    "/images/catalog/6c4f3afe91c72e3857.webp"
+   ]
+  },
+  "swatches": {
+   "gold/walnut/black": "#222326",
+   "gold/tan/brown": "#735038"
+  },
+  "sourceURLs": {
+   "gold/walnut/black": "https://shop.simon.com/products/coach-outlet-mini-carey-crossbody-bag-in-signature-canvas-1",
+   "gold/tan/brown": "https://shop.simon.com/products/coach-outlet-mini-carey-crossbody-bag-in-signature-canvas-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "gold/walnut/black",
+   "gold/tan/brown"
+  ],
+  "images": [
+   "/images/catalog/f7559789fd1be4eb23.webp",
+   "/images/catalog/6c4f3afe91c72e3857.webp"
+  ]
+ },
+ {
+  "id": "watch-9049537249340",
+  "name": "Seiko Men's Series 5 Black Dial Watch",
+  "brand": "Seiko",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 30761,
+  "tag": "Watches",
+  "description": "A Seiko timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 179.89,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34179.1,
+     "etb": 30761,
+     "sourceURL": "https://shop.simon.com/products/seiko-mens-series-5-black-dial-watch-5?variant=46045087105084",
+     "sourceVariantID": "46045087105084",
+     "sourceSKU": "dsco-1296314967",
+     "sourceVariantTitle": "black",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/ff580734ee3b31194f.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/seiko-mens-series-5-black-dial-watch-5"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/ff580734ee3b31194f.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10397912629380",
+  "name": "Ferragamo Men's 62Mm Sunglasses",
+  "brand": "Ferragamo",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 11968,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black": {
+    "": {
+     "usd": 69.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 13298.1,
+     "etb": 11968,
+     "sourceURL": "https://www.bluefly.com/products/10007_1111808082?variant=52509752000644",
+     "sourceVariantID": "52509752000644",
+     "sourceSKU": "10007_11118080820000",
+     "sourceVariantTitle": "Black / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/decd2bedc3f708b9ea.webp",
+    "/images/catalog/932e13e77b47ae38ff.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#222326"
+  },
+  "sourceURLs": {
+   "Black": "https://www.bluefly.com/products/10007_1111808082"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/decd2bedc3f708b9ea.webp",
+   "/images/catalog/932e13e77b47ae38ff.webp"
+  ]
+ },
+ {
+  "id": "watch-9033946267708",
+  "name": "Citizen Eco-Drive Classic Ivory Dial Mens Watch",
+  "brand": "Citizen",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 30667,
+  "tag": "Watches",
+  "description": "A Citizen timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "brown": {
+    "": {
+     "usd": 179.34,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34074.6,
+     "etb": 30667,
+     "sourceURL": "https://shop.simon.com/products/citizen-eco-drive-classic-ivory-dial-mens-watch-1?variant=45991386251324",
+     "sourceVariantID": "45991386251324",
+     "sourceSKU": "dsco-1313232021",
+     "sourceVariantTitle": "brown",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "brown": [
+    "/images/catalog/679a91b05a586fe766.webp",
+    "/images/catalog/017b44b624a0c40dd7.webp"
+   ]
+  },
+  "swatches": {
+   "brown": "#735038"
+  },
+  "sourceURLs": {
+   "brown": "https://shop.simon.com/products/citizen-eco-drive-classic-ivory-dial-mens-watch-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "brown"
+  ],
+  "images": [
+   "/images/catalog/679a91b05a586fe766.webp",
+   "/images/catalog/017b44b624a0c40dd7.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10118810042500",
+  "name": "MCM Dark Ruthenium Rectangle MCM113S 069 Sunglasses",
+  "brand": "MCM",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 16587,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Dark Ruthenium": {
+    "": {
+     "usd": 97.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18430.0,
+     "etb": 16587,
+     "sourceURL": "https://www.bluefly.com/products/10019_mcm91180?variant=51108840702084",
+     "sourceVariantID": "51108840702084",
+     "sourceSKU": "10019_MCM91180",
+     "sourceVariantTitle": "Dark Ruthenium / Default",
+     "availableAtSource": true
+    }
+   }
+  },
+  "variants": {
+   "Dark Ruthenium": [
+    "/images/catalog/eed3165769ec5336f5.webp"
+   ]
+  },
+  "swatches": {
+   "Dark Ruthenium": "#292b2e"
+  },
+  "sourceURLs": {
+   "Dark Ruthenium": "https://www.bluefly.com/products/10019_mcm91180"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Dark Ruthenium"
+  ],
+  "images": [
+   "/images/catalog/eed3165769ec5336f5.webp"
+  ]
+ },
+ {
+  "id": "watch-8910802812988",
+  "name": "Bulova Women's Crystal White Dial Watch",
+  "brand": "Bulova",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 31180,
+  "tag": "Watches",
+  "description": "A Bulova timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "white": {
+    "": {
+     "usd": 182.34,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34644.6,
+     "etb": 31180,
+     "sourceURL": "https://shop.simon.com/products/bulova-womens-crystal-white-dial-watch-1?variant=45025689862204",
+     "sourceVariantID": "45025689862204",
+     "sourceSKU": "dsco-1296322121",
+     "sourceVariantTitle": "white",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "white": [
+    "/images/catalog/40936593ea17d055f2.webp",
+    "/images/catalog/61660d338ac40597f4.webp"
+   ]
+  },
+  "swatches": {
+   "white": "#f1ede7"
+  },
+  "sourceURLs": {
+   "white": "https://shop.simon.com/products/bulova-womens-crystal-white-dial-watch-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "white"
+  ],
+  "images": [
+   "/images/catalog/40936593ea17d055f2.webp",
+   "/images/catalog/61660d338ac40597f4.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-15435468112004",
+  "name": "Roberto Cavalli Women's Src129m 54Mm Sunglasses",
+  "brand": "Roberto Cavalli",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 16414,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Shiny Black": {
+    "": {
+     "usd": 95.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18238.1,
+     "etb": 16414,
+     "sourceURL": "https://www.bluefly.com/products/10007_1111777494?variant=67754813096068",
+     "sourceVariantID": "67754813096068",
+     "sourceSKU": "10007_11117774940000",
+     "sourceVariantTitle": "Shiny Black / Default",
+     "availableAtSource": true
+    }
+   }
+  },
+  "variants": {
+   "Shiny Black": [
+    "/images/catalog/1ec9daae839e3daaa8.webp"
+   ]
+  },
+  "swatches": {
+   "Shiny Black": "#292b2e"
+  },
+  "sourceURLs": {
+   "Shiny Black": "https://www.bluefly.com/products/10007_1111777494"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Shiny Black"
+  ],
+  "images": [
+   "/images/catalog/1ec9daae839e3daaa8.webp"
+  ]
+ },
+ {
+  "id": "watch-8999873413180",
+  "name": "Tissot Men's PRX Digital Black Dial Watch",
+  "brand": "Tissot",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 29082,
+  "tag": "Watches",
+  "description": "A Tissot timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 170.07,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 32313.3,
+     "etb": 29082,
+     "sourceURL": "https://shop.simon.com/products/tissot-mens-prx-digital-black-dial-watch-3?variant=45912613224508",
+     "sourceVariantID": "45912613224508",
+     "sourceSKU": "dsco-1296314179",
+     "sourceVariantTitle": "black",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/4c6cda3e89c1c2df64.webp",
+    "/images/catalog/ff580734ee3b31194f.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/tissot-mens-prx-digital-black-dial-watch-3"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/4c6cda3e89c1c2df64.webp",
+   "/images/catalog/ff580734ee3b31194f.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-15435216355460",
+  "name": "KARL LAGERFELD KL6167S Sunglasses",
+  "brand": "Karl Lagerfeld",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13680,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black": {
+    "": {
+     "usd": 80.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 15200.0,
+     "etb": 13680,
+     "sourceURL": "https://www.bluefly.com/products/10070_604353_ny?variant=67753699082372",
+     "sourceVariantID": "67753699082372",
+     "sourceSKU": "10070_604353_NY",
+     "sourceVariantTitle": "Black / Default",
+     "availableAtSource": true
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/4949a425d35f986d7a.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#292b2e"
+  },
+  "sourceURLs": {
+   "Black": "https://www.bluefly.com/products/10070_604353_ny"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/4949a425d35f986d7a.webp"
+  ]
+ },
+ {
+  "id": "watch-7755584045116",
+  "name": "WENGER Swiss Army Men's 01.1541.117 Attitude Off-White Dial Watch 42mm",
+  "brand": "Wenger",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 23931,
+  "tag": "Watches",
+  "description": "A Wenger timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "white": {
+    "": {
+     "usd": 139.95,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 26590.5,
+     "etb": 23931,
+     "sourceURL": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1541-117-attitude-off-white-dial-watch-42mm?variant=42101562540092",
+     "sourceVariantID": "42101562540092",
+     "sourceSKU": "db32485d-a83f-4fd0-8133-8aec85fc68ea",
+     "sourceVariantTitle": "white",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "white": [
+    "/images/catalog/55210c0d5667dba499.webp",
+    "/images/catalog/4d200b5f9e43d32a76.webp"
+   ]
+  },
+  "swatches": {
+   "white": "#f1ede7"
+  },
+  "sourceURLs": {
+   "white": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1541-117-attitude-off-white-dial-watch-42mm"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "white"
+  ],
+  "images": [
+   "/images/catalog/55210c0d5667dba499.webp",
+   "/images/catalog/4d200b5f9e43d32a76.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10141520822404",
+  "name": "Coach 0HC8279U 512013 Dark Tortoise Rectangle Sunglasses",
+  "brand": "Coach",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 16587,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Dark Tortoise": {
+    "": {
+     "usd": 97.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18430.0,
+     "etb": 16587,
+     "sourceURL": "https://www.bluefly.com/products/10019_chs-st107083?variant=51201949696132",
+     "sourceVariantID": "51201949696132",
+     "sourceSKU": "10019_CHS-ST107083",
+     "sourceVariantTitle": "Dark Tortoise / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Dark Tortoise": [
+    "/images/catalog/d7f6c0980947a1862d.webp",
+    "/images/catalog/49a60095f794f7313e.webp"
+   ]
+  },
+  "swatches": {
+   "Dark Tortoise": "#785a40"
+  },
+  "sourceURLs": {
+   "Dark Tortoise": "https://www.bluefly.com/products/10019_chs-st107083"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Dark Tortoise"
+  ],
+  "images": [
+   "/images/catalog/d7f6c0980947a1862d.webp",
+   "/images/catalog/49a60095f794f7313e.webp"
+  ]
+ },
+ {
+  "id": "watch-8885080621116",
+  "name": "Fossil Men's Flynn 48mm Chronograph, Stainless Steel Watch",
+  "brand": "Fossil",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 17271,
+  "tag": "Watches",
+  "description": "A Fossil timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "brown": {
+    "": {
+     "usd": 101.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 19190.0,
+     "etb": 17271,
+     "sourceURL": "https://shop.simon.com/products/fossil-mens-flynn-chronograph-stainless-steel-watch-1?variant=44199961624636",
+     "sourceVariantID": "44199961624636",
+     "sourceSKU": "dsco-1293895603",
+     "sourceVariantTitle": "brown",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "brown": [
+    "/images/catalog/b47bfe031fc86998b6.webp",
+    "/images/catalog/6ad883fd3236fe3df8.webp"
+   ]
+  },
+  "swatches": {
+   "brown": "#735038"
+  },
+  "sourceURLs": {
+   "brown": "https://shop.simon.com/products/fossil-mens-flynn-chronograph-stainless-steel-watch-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "brown"
+  ],
+  "images": [
+   "/images/catalog/b47bfe031fc86998b6.webp",
+   "/images/catalog/6ad883fd3236fe3df8.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10396811657348",
+  "name": "Kate Spade DIONNA/S Sunglasses",
+  "brand": "Kate Spade",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 16929,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black": {
+    "": {
+     "usd": 99.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18810.0,
+     "etb": 16929,
+     "sourceURL": "https://www.bluefly.com/products/10070_dionnas_ny?variant=52505719275652",
+     "sourceVariantID": "52505719275652",
+     "sourceSKU": "10070_596520_NY",
+     "sourceVariantTitle": "Black / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/b8d0e503f6a340160c.webp",
+    "/images/catalog/b83cbb6e36a2519872.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#222326"
+  },
+  "sourceURLs": {
+   "Black": "https://www.bluefly.com/products/10070_dionnas_ny"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/b8d0e503f6a340160c.webp",
+   "/images/catalog/b83cbb6e36a2519872.webp"
+  ]
+ },
+ {
+  "id": "watch-8897178533948",
+  "name": "Skagen Women's Mellem Lille Gold Dial Watch",
+  "brand": "Skagen",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 22885,
+  "tag": "Watches",
+  "description": "A Skagen timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "gold": {
+    "": {
+     "usd": 133.83,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 25427.7,
+     "etb": 22885,
+     "sourceURL": "https://shop.simon.com/products/skagen-womens-mellem-lille-gold-dial-watch-1?variant=44546411495484",
+     "sourceVariantID": "44546411495484",
+     "sourceSKU": "dsco-1296320639",
+     "sourceVariantTitle": "gold",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "gold": [
+    "/images/catalog/3fa6242bc4e185d3ab.webp"
+   ]
+  },
+  "swatches": {
+   "gold": "#bda15e"
+  },
+  "sourceURLs": {
+   "gold": "https://shop.simon.com/products/skagen-womens-mellem-lille-gold-dial-watch-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "gold"
+  ],
+  "images": [
+   "/images/catalog/3fa6242bc4e185d3ab.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8804106174524",
+  "name": "Michael Kors  MK 2137U 30058G 57mm Womens Square Sunglasses",
+  "brand": "Michael Kors",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 10371,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 60.65,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 11523.5,
+     "etb": 10371,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-mk-2137u-30058g-57mm-womens-square-sunglasses-1?variant=43853001261116",
+     "sourceVariantID": "43853001261116",
+     "sourceSKU": "dsco-1307908986",
+     "sourceVariantTitle": "black",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/cdcc5681d607fa45b9.webp",
+    "/images/catalog/b0d0e6165da8a72915.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/michael-kors-mk-2137u-30058g-57mm-womens-square-sunglasses-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/cdcc5681d607fa45b9.webp",
+   "/images/catalog/b0d0e6165da8a72915.webp"
+  ]
+ },
+ {
+  "id": "watch-15402844520508",
+  "name": "Citizen Men's Eco-Drive Blue Dial Watch",
+  "brand": "Citizen",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 33275,
+  "tag": "Watches",
+  "description": "A Citizen timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "blue": {
+    "": {
+     "usd": 194.59,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 36972.1,
+     "etb": 33275,
+     "sourceURL": "https://shop.simon.com/products/citizen-mens-eco-drive-blue-dial-watch-7?variant=67620087529532",
+     "sourceVariantID": "67620087529532",
+     "sourceSKU": "dsco-1348491031",
+     "sourceVariantTitle": "blue",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "blue": [
+    "/images/catalog/bd583ec4bb46b8c412.webp",
+    "/images/catalog/ff580734ee3b31194f.webp"
+   ]
+  },
+  "swatches": {
+   "blue": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "blue": "https://shop.simon.com/products/citizen-mens-eco-drive-blue-dial-watch-7"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "blue"
+  ],
+  "images": [
+   "/images/catalog/bd583ec4bb46b8c412.webp",
+   "/images/catalog/ff580734ee3b31194f.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8855621763132",
+  "name": "Calvin Klein Grey Gradient Pilot Unisex Sunglasses CK20120S 045 55",
+  "brand": "Calvin Klein",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 7097,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "multi": {
+    "": {
+     "usd": 41.5,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7885.0,
+     "etb": 7097,
+     "sourceURL": "https://shop.simon.com/products/calvin-klein-grey-gradient-pilot-unisex-sunglasses-ck20120s-045-55?variant=44051876216892",
+     "sourceVariantID": "44051876216892",
+     "sourceSKU": "245052c5-9da7-4533-bbe0-766cb484a377",
+     "sourceVariantTitle": "multi",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "multi": [
+    "/images/catalog/2ae8b98e09ccd6b015.webp",
+    "/images/catalog/eac5a1cad1533d8efd.webp"
+   ]
+  },
+  "swatches": {
+   "multi": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "multi": "https://shop.simon.com/products/calvin-klein-grey-gradient-pilot-unisex-sunglasses-ck20120s-045-55"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "multi"
+  ],
+  "images": [
+   "/images/catalog/2ae8b98e09ccd6b015.webp",
+   "/images/catalog/eac5a1cad1533d8efd.webp"
+  ]
+ },
+ {
+  "id": "watch-8796423258172",
+  "name": "Bulova Classic Marc Anthony Blue Dial Leather Strap Men's Watch 96A313",
+  "brand": "Bulova",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 30609,
+  "tag": "Watches",
+  "description": "A Bulova timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "blue": {
+    "": {
+     "usd": 179.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 34010.0,
+     "etb": 30609,
+     "sourceURL": "https://shop.simon.com/products/bulova-classic-marc-anthony-blue-dial-leather-strap-mens-watch-96a313?variant=43828524056636",
+     "sourceVariantID": "43828524056636",
+     "sourceSKU": "943f0dc3-40ab-424f-b194-079428419f52",
+     "sourceVariantTitle": "blue",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "blue": [
+    "/images/catalog/eb7f533fc783134eae.webp",
+    "/images/catalog/32cb472baf85cd1532.webp"
+   ]
+  },
+  "swatches": {
+   "blue": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "blue": "https://shop.simon.com/products/bulova-classic-marc-anthony-blue-dial-leather-strap-mens-watch-96a313"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "blue"
+  ],
+  "images": [
+   "/images/catalog/eb7f533fc783134eae.webp",
+   "/images/catalog/32cb472baf85cd1532.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8804106993724",
+  "name": "Ralph by Ralph Lauren  RA 5138 601/13 58mm Womens Square Sunglasses",
+  "brand": "Ralph Lauren",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13752,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "havana": {
+    "": {
+     "usd": 80.42,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 15279.8,
+     "etb": 13752,
+     "sourceURL": "https://shop.simon.com/products/ralph-by-ralph-lauren-ra-5138-601-13-58mm-womens-square-sunglasses-1?variant=43853002866748",
+     "sourceVariantID": "43853002866748",
+     "sourceSKU": "dsco-1307908809",
+     "sourceVariantTitle": "havana",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "havana": [
+    "/images/catalog/90d53c3a524360c968.webp",
+    "/images/catalog/398e20f1a8ae82b307.webp"
+   ]
+  },
+  "swatches": {
+   "havana": "#7c583d"
+  },
+  "sourceURLs": {
+   "havana": "https://shop.simon.com/products/ralph-by-ralph-lauren-ra-5138-601-13-58mm-womens-square-sunglasses-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "havana"
+  ],
+  "images": [
+   "/images/catalog/90d53c3a524360c968.webp",
+   "/images/catalog/398e20f1a8ae82b307.webp"
+  ]
+ },
+ {
+  "id": "watch-7755624218684",
+  "name": "Wenger Swiss Army Men's 01.1543.113 Attitude Bone Dial Chronograph Watch 44mm",
+  "brand": "Wenger",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 34191,
+  "tag": "Watches",
+  "description": "A Wenger timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "multi": {
+    "": {
+     "usd": 199.95,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 37990.5,
+     "etb": 34191,
+     "sourceURL": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1543-113-attitude-bone-dial-chronograph-watch-44mm?variant=42101658648636",
+     "sourceVariantID": "42101658648636",
+     "sourceSKU": "6cd3bd53-8d1d-4812-a9ef-2817050e13b9",
+     "sourceVariantTitle": "multi",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "multi": [
+    "/images/catalog/56d942c3ff7d95c1f6.webp",
+    "/images/catalog/a0ef74387ae63a90e1.webp"
+   ]
+  },
+  "swatches": {
+   "multi": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "multi": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1543-113-attitude-bone-dial-chronograph-watch-44mm"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "multi"
+  ],
+  "images": [
+   "/images/catalog/56d942c3ff7d95c1f6.webp",
+   "/images/catalog/a0ef74387ae63a90e1.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10405664194692",
+  "name": "Ferragamo Men's 62Mm Sunglasses",
+  "brand": "Ferragamo",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 11968,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Dark Ruthenium": {
+    "": {
+     "usd": 69.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 13298.1,
+     "etb": 11968,
+     "sourceURL": "https://www.bluefly.com/products/10007_1111912322?variant=52533850275972",
+     "sourceVariantID": "52533850275972",
+     "sourceSKU": "10007_11119123220000",
+     "sourceVariantTitle": "Dark Ruthenium / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Dark Ruthenium": [
+    "/images/catalog/136bd7075dbe4c5705.webp",
+    "/images/catalog/0381e4cf121c6d80f5.webp"
+   ]
+  },
+  "swatches": {
+   "Dark Ruthenium": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "Dark Ruthenium": "https://www.bluefly.com/products/10007_1111912322"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Dark Ruthenium"
+  ],
+  "images": [
+   "/images/catalog/136bd7075dbe4c5705.webp",
+   "/images/catalog/0381e4cf121c6d80f5.webp"
+  ]
+ },
+ {
+  "id": "watch-8885066793020",
+  "name": "Fossil Men's Rhett 42mm Multifunction, Black Stainless Steel Watch",
+  "brand": "Fossil",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 18554,
+  "tag": "Watches",
+  "description": "A Fossil timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 108.5,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 20615.0,
+     "etb": 18554,
+     "sourceURL": "https://shop.simon.com/products/fossil-mens-rhett-multifunction-black-stainless-steel-watch-2?variant=44199923122236",
+     "sourceVariantID": "44199923122236",
+     "sourceSKU": "dsco-1293895588",
+     "sourceVariantTitle": "black",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/c2361448183f96d1e3.webp",
+    "/images/catalog/15c71b51e709f8cef6.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/fossil-mens-rhett-multifunction-black-stainless-steel-watch-2"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/c2361448183f96d1e3.webp",
+   "/images/catalog/15c71b51e709f8cef6.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10236391325828",
+  "name": "Coach 0HC7134 934681 Black Round Full Rim Sunglasses",
+  "brand": "Coach",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 16587,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black": {
+    "": {
+     "usd": 97.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18430.0,
+     "etb": 16587,
+     "sourceURL": "https://www.bluefly.com/products/10019_chs110389?variant=51544866259076",
+     "sourceVariantID": "51544866259076",
+     "sourceSKU": "10019_CHS110389",
+     "sourceVariantTitle": "Black / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/e814331dde83446266.webp",
+    "/images/catalog/5dbf6e0a6fd3ded8d9.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#222326"
+  },
+  "sourceURLs": {
+   "Black": "https://www.bluefly.com/products/10019_chs110389"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/e814331dde83446266.webp",
+   "/images/catalog/5dbf6e0a6fd3ded8d9.webp"
+  ]
+ },
+ {
+  "id": "watch-8897108508732",
+  "name": "Skagen Women's Hagen Lille Gold Dial Watch",
+  "brand": "Skagen",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 21912,
+  "tag": "Watches",
+  "description": "A Skagen timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "gold": {
+    "": {
+     "usd": 128.14,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 24346.6,
+     "etb": 21912,
+     "sourceURL": "https://shop.simon.com/products/skagen-womens-hagen-lille-gold-dial-watch-1?variant=44546224062524",
+     "sourceVariantID": "44546224062524",
+     "sourceSKU": "dsco-1296314706",
+     "sourceVariantTitle": "gold",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "gold": [
+    "/images/catalog/cbe81c3aacae14101e.webp"
+   ]
+  },
+  "swatches": {
+   "gold": "#bda15e"
+  },
+  "sourceURLs": {
+   "gold": "https://shop.simon.com/products/skagen-womens-hagen-lille-gold-dial-watch-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "gold"
+  ],
+  "images": [
+   "/images/catalog/cbe81c3aacae14101e.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-15395813752964",
+  "name": "Kate Spade Johanna/S Sunglasses",
+  "brand": "Kate Spade",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 16929,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Brown": {
+    "": {
+     "usd": 99.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18810.0,
+     "etb": 16929,
+     "sourceURL": "https://www.bluefly.com/products/10070_johannas_ny?variant=67583685558404",
+     "sourceVariantID": "67583685558404",
+     "sourceSKU": "10070_409206_NY",
+     "sourceVariantTitle": "Brown / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Brown": [
+    "/images/catalog/902bcb9343ea3499eb.webp",
+    "/images/catalog/96390cc13ec451584a.webp"
+   ]
+  },
+  "swatches": {
+   "Brown": "#735038"
+  },
+  "sourceURLs": {
+   "Brown": "https://www.bluefly.com/products/10070_johannas_ny"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Brown"
+  ],
+  "images": [
+   "/images/catalog/902bcb9343ea3499eb.webp",
+   "/images/catalog/96390cc13ec451584a.webp"
+  ]
+ },
+ {
+  "id": "watch-8897192722492",
+  "name": "Bulova Men's Rhapsody White Dial Watch",
+  "brand": "Bulova",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 30551,
+  "tag": "Watches",
+  "description": "A Bulova timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "white": {
+    "": {
+     "usd": 178.66,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 33945.4,
+     "etb": 30551,
+     "sourceURL": "https://shop.simon.com/products/bulova-mens-rhapsody-white-dial-watch?variant=44546471067708",
+     "sourceVariantID": "44546471067708",
+     "sourceSKU": "dsco-1304758402",
+     "sourceVariantTitle": "white",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "white": [
+    "/images/catalog/f559192d724feaa410.webp"
+   ]
+  },
+  "swatches": {
+   "white": "#f1ede7"
+  },
+  "sourceURLs": {
+   "white": "https://shop.simon.com/products/bulova-mens-rhapsody-white-dial-watch"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "white"
+  ],
+  "images": [
+   "/images/catalog/f559192d724feaa410.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8804135993404",
+  "name": "Michael Kors MONTE CARLO MK 1161 101473 56mm Womens Oval Sunglasses",
+  "brand": "Michael Kors",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 14125,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "light gold": {
+    "": {
+     "usd": 82.6,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 15694.0,
+     "etb": 14125,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-monte-carlo-mk-1161-101473-56mm-womens-oval-sunglasses-1?variant=43853151535164",
+     "sourceVariantID": "43853151535164",
+     "sourceSKU": "dsco-1307909137",
+     "sourceVariantTitle": "light gold",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "light gold": [
+    "/images/catalog/13918a2c59871ddfa0.webp",
+    "/images/catalog/453b9ad4fabad5f224.webp"
+   ]
+  },
+  "swatches": {
+   "light gold": "#bda15e"
+  },
+  "sourceURLs": {
+   "light gold": "https://shop.simon.com/products/michael-kors-monte-carlo-mk-1161-101473-56mm-womens-oval-sunglasses-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "light gold"
+  ],
+  "images": [
+   "/images/catalog/13918a2c59871ddfa0.webp",
+   "/images/catalog/453b9ad4fabad5f224.webp"
+  ]
+ },
+ {
+  "id": "watch-7121794170940",
+  "name": "WENGER SWISS ARMY Men's Urban Classic 42mm Brown Dial Watch 01.1741.131",
+  "brand": "Wenger",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 18468,
+  "tag": "Watches",
+  "description": "A Wenger timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "multi": {
+    "": {
+     "usd": 108.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 20520.0,
+     "etb": 18468,
+     "sourceURL": "https://shop.simon.com/products/wenger-swiss-army-mens-urban-classic-42mm-brown-dial-watch-01-1741-131?variant=40613801459772",
+     "sourceVariantID": "40613801459772",
+     "sourceSKU": "ecb7700b-40dc-4a5a-96e7-9440a7cb4822",
+     "sourceVariantTitle": "multi",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "multi": [
+    "/images/catalog/c127641cfe1ece63b1.webp",
+    "/images/catalog/93f9d0a8173a504fd6.webp"
+   ]
+  },
+  "swatches": {
+   "multi": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "multi": "https://shop.simon.com/products/wenger-swiss-army-mens-urban-classic-42mm-brown-dial-watch-01-1741-131"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "multi"
+  ],
+  "images": [
+   "/images/catalog/c127641cfe1ece63b1.webp",
+   "/images/catalog/93f9d0a8173a504fd6.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8707724804156",
+  "name": "Calvin Klein Grey Pilot Unisex Sunglasses CK19314S 001 60",
+  "brand": "Calvin Klein",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 7097,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "multi": {
+    "": {
+     "usd": 41.5,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 7885.0,
+     "etb": 7097,
+     "sourceURL": "https://shop.simon.com/products/calvin-klein-grey-pilot-unisex-sunglasses-ck19314s-001-60?variant=43631379710012",
+     "sourceVariantID": "43631379710012",
+     "sourceSKU": "f5d2fa9d-6a94-4fcd-bbea-054d4c6ce5e4",
+     "sourceVariantTitle": "multi",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "multi": [
+    "/images/catalog/427887b774e9b65fc2.webp",
+    "/images/catalog/632e98d35fcf7af67c.webp"
+   ]
+  },
+  "swatches": {
+   "multi": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "multi": "https://shop.simon.com/products/calvin-klein-grey-pilot-unisex-sunglasses-ck19314s-001-60"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "multi"
+  ],
+  "images": [
+   "/images/catalog/427887b774e9b65fc2.webp",
+   "/images/catalog/632e98d35fcf7af67c.webp"
+  ]
+ },
+ {
+  "id": "watch-8897134821436",
+  "name": "Fossil Women's Carlie Green Dial Watch",
+  "brand": "Fossil",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 16726,
+  "tag": "Watches",
+  "description": "A Fossil timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "green": {
+    "": {
+     "usd": 97.81,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18583.9,
+     "etb": 16726,
+     "sourceURL": "https://shop.simon.com/products/fossil-womens-carlie-green-dial-watch-1?variant=44546299592764",
+     "sourceVariantID": "44546299592764",
+     "sourceSKU": "dsco-1305848802",
+     "sourceVariantTitle": "green",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "green": [
+    "/images/catalog/dc666cdef46476da21.webp"
+   ]
+  },
+  "swatches": {
+   "green": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "green": "https://shop.simon.com/products/fossil-womens-carlie-green-dial-watch-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "green"
+  ],
+  "images": [
+   "/images/catalog/dc666cdef46476da21.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8804099162172",
+  "name": "Ralph Lauren  RA 5319U 50018G 56mm Womens Square Sunglasses",
+  "brand": "Ralph Lauren",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13877,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "shiny black": {
+    "": {
+     "usd": 81.15,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 15418.5,
+     "etb": 13877,
+     "sourceURL": "https://shop.simon.com/products/ralph-lauren-ra-5319u-50018g-56mm-womens-square-sunglasses-1?variant=43852949061692",
+     "sourceVariantID": "43852949061692",
+     "sourceSKU": "dsco-1307909416",
+     "sourceVariantTitle": "shiny black",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "shiny black": [
+    "/images/catalog/1911d398ae29728539.webp",
+    "/images/catalog/996fa29d9f775149b7.webp"
+   ]
+  },
+  "swatches": {
+   "shiny black": "#222326"
+  },
+  "sourceURLs": {
+   "shiny black": "https://shop.simon.com/products/ralph-lauren-ra-5319u-50018g-56mm-womens-square-sunglasses-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "shiny black"
+  ],
+  "images": [
+   "/images/catalog/1911d398ae29728539.webp",
+   "/images/catalog/996fa29d9f775149b7.webp"
+  ]
+ },
+ {
+  "id": "watch-8897237286972",
+  "name": "Skagen Women's Freja Grey Dial Watch",
+  "brand": "Skagen",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 16151,
+  "tag": "Watches",
+  "description": "A Skagen timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "grey": {
+    "": {
+     "usd": 94.45,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 17945.5,
+     "etb": 16151,
+     "sourceURL": "https://shop.simon.com/products/skagen-womens-freja-grey-dial-watch?variant=44546688581692",
+     "sourceVariantID": "44546688581692",
+     "sourceSKU": "dsco-1296325301",
+     "sourceVariantTitle": "grey",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "grey": [
+    "/images/catalog/3cd91df70284b821bf.webp"
+   ]
+  },
+  "swatches": {
+   "grey": "#858b90"
+  },
+  "sourceURLs": {
+   "grey": "https://shop.simon.com/products/skagen-womens-freja-grey-dial-watch"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   "/images/catalog/3cd91df70284b821bf.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10397914431620",
+  "name": "Ferragamo Men's 48Mm Sunglasses",
+  "brand": "Ferragamo",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 11968,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black": {
+    "": {
+     "usd": 69.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 13298.1,
+     "etb": 11968,
+     "sourceURL": "https://www.bluefly.com/products/10007_1111039303?variant=52509757440132",
+     "sourceVariantID": "52509757440132",
+     "sourceSKU": "10007_11110393030000",
+     "sourceVariantTitle": "Black / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/85e8c35405101a9fbe.webp",
+    "/images/catalog/ef860756b8c05fc389.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#222326"
+  },
+  "sourceURLs": {
+   "Black": "https://www.bluefly.com/products/10007_1111039303"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/85e8c35405101a9fbe.webp",
+   "/images/catalog/ef860756b8c05fc389.webp"
+  ]
+ },
+ {
+  "id": "watch-9088444760124",
+  "name": "Bulova Rose Gold-Tone Diamond Ladies Watch",
+  "brand": "Bulova",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 25599,
+  "tag": "Watches",
+  "description": "A Bulova timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "rose gold": {
+    "": {
+     "usd": 149.7,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 28443.0,
+     "etb": 25599,
+     "sourceURL": "https://shop.simon.com/products/bulova-rose-gold-tone-diamond-ladies-watch-1?variant=46185221849148",
+     "sourceVariantID": "46185221849148",
+     "sourceSKU": "dsco-1305280832",
+     "sourceVariantTitle": "rose gold",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "rose gold": [
+    "/images/catalog/f4f414ece23e9d04c6.webp",
+    "/images/catalog/d518179244d1df5bd9.webp"
+   ]
+  },
+  "swatches": {
+   "rose gold": "#bda15e"
+  },
+  "sourceURLs": {
+   "rose gold": "https://shop.simon.com/products/bulova-rose-gold-tone-diamond-ladies-watch-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "rose gold"
+  ],
+  "images": [
+   "/images/catalog/f4f414ece23e9d04c6.webp",
+   "/images/catalog/d518179244d1df5bd9.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10178851438724",
+  "name": "Coach 0HC7120 93468G Light Gold Square Full Rim Sunglasses",
+  "brand": "Coach",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 16587,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Light Gold": {
+    "": {
+     "usd": 97.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18430.0,
+     "etb": 16587,
+     "sourceURL": "https://www.bluefly.com/products/10019_chs110386?variant=51359138447492",
+     "sourceVariantID": "51359138447492",
+     "sourceSKU": "10019_CHS110386",
+     "sourceVariantTitle": "Light Gold / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Light Gold": [
+    "/images/catalog/7017df327353ecfe19.webp",
+    "/images/catalog/66de89fb6df18f3180.webp"
+   ]
+  },
+  "swatches": {
+   "Light Gold": "#bda15e"
+  },
+  "sourceURLs": {
+   "Light Gold": "https://www.bluefly.com/products/10019_chs110386"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Light Gold"
+  ],
+  "images": [
+   "/images/catalog/7017df327353ecfe19.webp",
+   "/images/catalog/66de89fb6df18f3180.webp"
+  ]
+ },
+ {
+  "id": "watch-7762861555772",
+  "name": "Wenger Swiss Army Men's 01.1641.116 Avenue Black Dial Watch 42 mm",
+  "brand": "Wenger",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 20520,
+  "tag": "Watches",
+  "description": "A Wenger timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 120.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 22800.0,
+     "etb": 20520,
+     "sourceURL": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1641-116-avenue-black-dial-watch-42-mm?variant=42118072729660",
+     "sourceVariantID": "42118072729660",
+     "sourceSKU": "30927be8-77a9-486d-9329-a3949bc93d46",
+     "sourceVariantTitle": "black",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/468661c75da7f57f78.webp",
+    "/images/catalog/a5ffa048c59bbc4c8f.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1641-116-avenue-black-dial-watch-42-mm"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/468661c75da7f57f78.webp",
+   "/images/catalog/a5ffa048c59bbc4c8f.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10356191395972",
+  "name": "Kate Spade ELINA/G/S Sunglasses",
+  "brand": "Kate Spade",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 16929,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black": {
+    "": {
+     "usd": 99.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 18810.0,
+     "etb": 16929,
+     "sourceURL": "https://www.bluefly.com/products/10070_597340_ny?variant=52248223318148",
+     "sourceVariantID": "52248223318148",
+     "sourceSKU": "10070_597340_NY",
+     "sourceVariantTitle": "Black / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/1cf1703fb529300ca4.webp",
+    "/images/catalog/067b98fef81774e1b6.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#222326"
+  },
+  "sourceURLs": {
+   "Black": "https://www.bluefly.com/products/10070_597340_ny"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/1cf1703fb529300ca4.webp",
+   "/images/catalog/067b98fef81774e1b6.webp"
+  ]
+ },
+ {
+  "id": "watch-10321457119292",
+  "name": "Fossil Women's Scarlette Green Dial Watch",
+  "brand": "Fossil",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 19607,
+  "tag": "Watches",
+  "description": "A Fossil timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "green": {
+    "": {
+     "usd": 114.66,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 21785.4,
+     "etb": 19607,
+     "sourceURL": "https://shop.simon.com/products/fossil-womens-scarlette-green-dial-watch-4?variant=50563869245500",
+     "sourceVariantID": "50563869245500",
+     "sourceSKU": "dsco-1296320745",
+     "sourceVariantTitle": "green",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "green": [
+    "/images/catalog/1d3900b1d7e694ef6f.webp",
+    "/images/catalog/ff580734ee3b31194f.webp"
+   ]
+  },
+  "swatches": {
+   "green": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "green": "https://shop.simon.com/products/fossil-womens-scarlette-green-dial-watch-4"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "green"
+  ],
+  "images": [
+   "/images/catalog/1d3900b1d7e694ef6f.webp",
+   "/images/catalog/ff580734ee3b31194f.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8804166893628",
+  "name": "Michael Kors KARLIE MK 2170U 390913 54mm Womens Square Sunglasses",
+  "brand": "Michael Kors",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13658,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "tortoise fade": {
+    "": {
+     "usd": 79.87,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 15175.3,
+     "etb": 13658,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-karlie-mk-2170u-390913-54mm-womens-square-sunglasses-1?variant=43853285687356",
+     "sourceVariantID": "43853285687356",
+     "sourceSKU": "dsco-1307909204",
+     "sourceVariantTitle": "tortoise fade",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "tortoise fade": [
+    "/images/catalog/fd214b9f09360bc7b0.webp",
+    "/images/catalog/eaa90df05a1f298541.webp"
+   ]
+  },
+  "swatches": {
+   "tortoise fade": "#785a40"
+  },
+  "sourceURLs": {
+   "tortoise fade": "https://shop.simon.com/products/michael-kors-karlie-mk-2170u-390913-54mm-womens-square-sunglasses-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "tortoise fade"
+  ],
+  "images": [
+   "/images/catalog/fd214b9f09360bc7b0.webp",
+   "/images/catalog/eaa90df05a1f298541.webp"
+  ]
+ },
+ {
+  "id": "watch-9013953167420",
+  "name": "Bulova Leather Mens Watch",
+  "brand": "Bulova",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 32162,
+  "tag": "Watches",
+  "description": "A Bulova timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "black": {
+    "": {
+     "usd": 188.08,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 35735.2,
+     "etb": 32162,
+     "sourceURL": "https://shop.simon.com/products/bulova-leather-mens-watch-1?variant=45954010873916",
+     "sourceVariantID": "45954010873916",
+     "sourceSKU": "dsco-1305280502",
+     "sourceVariantTitle": "black",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "black": [
+    "/images/catalog/c4ee9e8b681973568d.webp",
+    "/images/catalog/46caa4905c1498c9bd.webp"
+   ]
+  },
+  "swatches": {
+   "black": "#222326"
+  },
+  "sourceURLs": {
+   "black": "https://shop.simon.com/products/bulova-leather-mens-watch-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "black"
+  ],
+  "images": [
+   "/images/catalog/c4ee9e8b681973568d.webp",
+   "/images/catalog/46caa4905c1498c9bd.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8804182196284",
+  "name": "Ralph Lauren  RA 5319U 500313 56mm Womens Square Sunglasses",
+  "brand": "Ralph Lauren",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 16069,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "shiny dark havana": {
+    "": {
+     "usd": 93.97,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 17854.3,
+     "etb": 16069,
+     "sourceURL": "https://shop.simon.com/products/ralph-lauren-ra-5319u-500313-56mm-womens-square-sunglasses-1?variant=43853354500156",
+     "sourceVariantID": "43853354500156",
+     "sourceSKU": "dsco-1307910261",
+     "sourceVariantTitle": "shiny dark havana",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "shiny dark havana": [
+    "/images/catalog/3bf9768bb7e51e7935.webp",
+    "/images/catalog/60d87960b0620dd82f.webp"
+   ]
+  },
+  "swatches": {
+   "shiny dark havana": "#7c583d"
+  },
+  "sourceURLs": {
+   "shiny dark havana": "https://shop.simon.com/products/ralph-lauren-ra-5319u-500313-56mm-womens-square-sunglasses-1"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "shiny dark havana"
+  ],
+  "images": [
+   "/images/catalog/3bf9768bb7e51e7935.webp",
+   "/images/catalog/60d87960b0620dd82f.webp"
+  ]
+ },
+ {
+  "id": "watch-7762866307132",
+  "name": "Wenger Swiss Army Men's 01.1743.111 Urban Metro Chronograph Beige Dial Watch 44 mm",
+  "brand": "Wenger",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 34200,
+  "tag": "Watches",
+  "description": "A Wenger timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "multi": {
+    "": {
+     "usd": 200.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 38000.0,
+     "etb": 34200,
+     "sourceURL": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1743-111-urban-metro-chronograph-beige-dial-watch-44-mm?variant=42118081282108",
+     "sourceVariantID": "42118081282108",
+     "sourceSKU": "696cb8ab-6191-4395-aa63-8bc61d11b278",
+     "sourceVariantTitle": "multi",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "multi": [
+    "/images/catalog/a20ce157d9011c59a2.webp",
+    "/images/catalog/384e07eefbf0f8cdcf.webp"
+   ]
+  },
+  "swatches": {
+   "multi": "#b5b0a2"
+  },
+  "sourceURLs": {
+   "multi": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1743-111-urban-metro-chronograph-beige-dial-watch-44-mm"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "multi"
+  ],
+  "images": [
+   "/images/catalog/a20ce157d9011c59a2.webp",
+   "/images/catalog/384e07eefbf0f8cdcf.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10405663277188",
+  "name": "Ferragamo Men's 61Mm Sunglasses",
+  "brand": "Ferragamo",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 11968,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
    "Gold": {
     "": {
-     "usd": 78.0,
+     "usd": 69.99,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://www.stevemadden.com/products/bmarislc-gold?variant=41819180204165",
-     "sourceVariantID": "41819180204165",
-     "sourceSKU": "BMARISLC",
+     "baseEtb": 13298.1,
+     "etb": 11968,
+     "sourceURL": "https://www.bluefly.com/products/10007_1111762062?variant=52533849292932",
+     "sourceVariantID": "52533849292932",
+     "sourceSKU": "10007_11117620620000",
+     "sourceVariantTitle": "Gold / Default",
      "availableAtSource": true,
-     "sourceVariantTitle": "GOLD / ONESZ / GDL",
-     "itemKind": "Bags"
-    }
-   },
-   "Black": {
-    "": {
-     "usd": 54.99,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9403,
-     "sourceURL": "https://www.stevemadden.com/products/bmarisol-black?variant=41607409827973",
-     "sourceVariantID": "41607409827973",
-     "sourceSKU": "BMARISOL",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLACK / ONESZ / BLK",
-     "itemKind": "Bags"
+     "itemKind": "Sunglasses"
     }
    }
   },
   "variants": {
    "Gold": [
-    "/images/catalog/822c1c0800c1a21ff7.webp",
-    "/images/catalog/de2954135eeef2a8cd.webp",
-    "/images/catalog/bc054da8f79e1b1c49.webp"
-   ],
-   "Black": [
-    "/images/catalog/5cd5f1ddc16a3490fd.webp",
-    "/images/catalog/c7a36130becc6039f4.webp",
-    "/images/catalog/ddea0d13e01f6f4d33.webp"
+    "/images/catalog/7ee1848f7c5c85b73a.webp",
+    "/images/catalog/1879b61823b659784e.webp"
    ]
   },
   "swatches": {
-   "Gold": "#c1a15d",
-   "Black": "#222326"
+   "Gold": "#bda15e"
   },
   "sourceURLs": {
-   "Gold": "https://www.stevemadden.com/products/bmarislc-gold",
-   "Black": "https://www.stevemadden.com/products/bmarisol-black"
+   "Gold": "https://www.bluefly.com/products/10007_1111762062"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Gold",
-   "Black"
+   "Gold"
   ],
   "images": [
-   "/images/catalog/822c1c0800c1a21ff7.webp",
-   "/images/catalog/de2954135eeef2a8cd.webp",
-   "/images/catalog/bc054da8f79e1b1c49.webp",
-   "/images/catalog/5cd5f1ddc16a3490fd.webp",
-   "/images/catalog/c7a36130becc6039f4.webp",
-   "/images/catalog/ddea0d13e01f6f4d33.webp"
+   "/images/catalog/7ee1848f7c5c85b73a.webp",
+   "/images/catalog/1879b61823b659784e.webp"
   ]
  },
  {
-  "id": "bag-9388527976685",
-  "name": "Brahmin Billie",
-  "brand": "Brahmin",
-  "department": "Bags",
-  "category": "Shoulder bags",
-  "audience": "Women",
-  "price": 33345,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Tan Grassland": {
-    "": {
-     "usd": 195.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 33345,
-     "sourceURL": "https://brahmin.com/products/billie-tan-grassland-1069276000233?variant=50060226855149",
-     "sourceVariantID": "50060226855149",
-     "sourceSKU": "1069276000233",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Tan Grassland",
-     "itemKind": "Bags"
-    }
-   },
-   "Chocolate Grassland": {
-    "": {
-     "usd": 195.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 33345,
-     "sourceURL": "https://brahmin.com/products/billie-chocolate-grassland-1069276000022?variant=50060226527469",
-     "sourceVariantID": "50060226527469",
-     "sourceSKU": "1069276000022",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Chocolate Grassland",
-     "itemKind": "Bags"
-    }
-   },
-   "Softgrass Grassland": {
-    "": {
-     "usd": 195.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 33345,
-     "sourceURL": "https://brahmin.com/products/billie-softgrass-grassland-1069276002169?variant=50060226068717",
-     "sourceVariantID": "50060226068717",
-     "sourceSKU": "1069276002169",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Softgrass Grassland",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Tan Grassland": [
-    "/images/catalog/780d8d583b2bffa9cc.webp"
-   ],
-   "Chocolate Grassland": [
-    "/images/catalog/329bcea28d60d1b8b3.webp"
-   ],
-   "Softgrass Grassland": [
-    "/images/catalog/7231fef4c5a7da0c04.webp"
-   ]
-  },
-  "swatches": {
-   "Tan Grassland": "#a9a294",
-   "Chocolate Grassland": "#674738",
-   "Softgrass Grassland": "#a9a294"
-  },
-  "sourceURLs": {
-   "Tan Grassland": "https://brahmin.com/products/billie-tan-grassland-1069276000233",
-   "Chocolate Grassland": "https://brahmin.com/products/billie-chocolate-grassland-1069276000022",
-   "Softgrass Grassland": "https://brahmin.com/products/billie-softgrass-grassland-1069276002169"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Tan Grassland",
-   "Chocolate Grassland",
-   "Softgrass Grassland"
-  ],
-  "images": [
-   "/images/catalog/780d8d583b2bffa9cc.webp",
-   "/images/catalog/329bcea28d60d1b8b3.webp",
-   "/images/catalog/7231fef4c5a7da0c04.webp"
-  ]
- },
- {
-  "id": "bag-7225035849861",
-  "name": "Steve Madden Avant",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 9403,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Pistachio": {
-    "": {
-     "usd": 54.99,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9403,
-     "sourceURL": "https://www.stevemadden.com/products/bavant-pistachio?variant=41463805935749",
-     "sourceVariantID": "41463805935749",
-     "sourceSKU": "BAVANT",
-     "availableAtSource": true,
-     "sourceVariantTitle": "PISTACHIO / ONESZ / 35E",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Pistachio": [
-    "/images/catalog/bfb9f67e8f6b18d910.webp",
-    "/images/catalog/10384e4419b4fb5556.webp",
-    "/images/catalog/b68cfacb1ad3bf8258.webp"
-   ]
-  },
-  "swatches": {
-   "Pistachio": "#a9a294"
-  },
-  "sourceURLs": {
-   "Pistachio": "https://www.stevemadden.com/products/bavant-pistachio"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Pistachio"
-  ],
-  "images": [
-   "/images/catalog/bfb9f67e8f6b18d910.webp",
-   "/images/catalog/10384e4419b4fb5556.webp",
-   "/images/catalog/b68cfacb1ad3bf8258.webp"
-  ]
- },
- {
-  "id": "bag-8589358825709",
-  "name": "Brahmin Skyler",
-  "brand": "Brahmin",
-  "department": "Bags",
-  "category": "Clutches",
-  "audience": "Women",
-  "price": 29925,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Pecan Melbourne": {
-    "": {
-     "usd": 175.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 29925,
-     "sourceURL": "https://brahmin.com/products/skyler-pecan-melbourne-l9415100004?variant=45921343668461",
-     "sourceVariantID": "45921343668461",
-     "sourceSKU": "L9415100004",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Pecan Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Black Melbourne": {
-    "": {
-     "usd": 175.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 29925,
-     "sourceURL": "https://brahmin.com/products/skyler-black-melbourne-l9415100001?variant=45921120747757",
-     "sourceVariantID": "45921120747757",
-     "sourceSKU": "L9415100001",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Black Melbourne",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Pecan Melbourne": [
-    "/images/catalog/626b48fa950eddb958.webp"
-   ],
-   "Black Melbourne": [
-    "/images/catalog/651222815f281db2a1.webp"
-   ]
-  },
-  "swatches": {
-   "Pecan Melbourne": "#a9a294",
-   "Black Melbourne": "#222326"
-  },
-  "sourceURLs": {
-   "Pecan Melbourne": "https://brahmin.com/products/skyler-pecan-melbourne-l9415100004",
-   "Black Melbourne": "https://brahmin.com/products/skyler-black-melbourne-l9415100001"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Pecan Melbourne",
-   "Black Melbourne"
-  ],
-  "images": [
-   "/images/catalog/626b48fa950eddb958.webp",
-   "/images/catalog/651222815f281db2a1.webp"
-  ]
- },
- {
-  "id": "bag-7292088975493",
-  "name": "Steve Madden Leena",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 15048,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Red": {
-    "": {
-     "usd": 88.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 15048,
-     "sourceURL": "https://www.stevemadden.com/products/bleena-red?variant=41703026065541",
-     "sourceVariantID": "41703026065541",
-     "sourceSKU": "BLEENA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "RED / ONESZ / RED",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Red": [
-    "/images/catalog/cd92ba4df26fec8a36.webp",
-    "/images/catalog/60747b154fb4df1549.webp",
-    "/images/catalog/3c86f77bfeb577e360.webp"
-   ]
-  },
-  "swatches": {
-   "Red": "#a83644"
-  },
-  "sourceURLs": {
-   "Red": "https://www.stevemadden.com/products/bleena-red"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Red"
-  ],
-  "images": [
-   "/images/catalog/cd92ba4df26fec8a36.webp",
-   "/images/catalog/60747b154fb4df1549.webp",
-   "/images/catalog/3c86f77bfeb577e360.webp"
-  ]
- },
- {
-  "id": "bag-8589383336173",
-  "name": "Brahmin Daisy",
-  "brand": "Brahmin",
-  "department": "Bags",
-  "category": "Clutches",
-  "audience": "Women",
-  "price": 21375,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Pecan Melbourne": {
-    "": {
-     "usd": 125.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 21375,
-     "sourceURL": "https://brahmin.com/products/daisy-pecan-melbourne-q4515100004?variant=45921488601325",
-     "sourceVariantID": "45921488601325",
-     "sourceSKU": "Q4515100004",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Pecan Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Contour Melbourne": {
-    "": {
-     "usd": 125.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 21375,
-     "sourceURL": "https://brahmin.com/products/daisy-contour-melbourne-q4515100937?variant=45921173012717",
-     "sourceVariantID": "45921173012717",
-     "sourceSKU": "Q4515100937",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Contour Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Ocelot Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/daisy-ocelot-melbourne-q45176002134?variant=50060228329709",
-     "sourceVariantID": "50060228329709",
-     "sourceSKU": "Q45176002134",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Ocelot Melbourne",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Pecan Melbourne": [
-    "/images/catalog/ce3faf900628ec7a7a.webp"
-   ],
-   "Contour Melbourne": [
-    "/images/catalog/c836d0f3925031d7ce.webp"
-   ],
-   "Ocelot Melbourne": [
-    "/images/catalog/4f7b83a9718d791d02.webp"
-   ]
-  },
-  "swatches": {
-   "Pecan Melbourne": "#a9a294",
-   "Contour Melbourne": "#a9a294",
-   "Ocelot Melbourne": "#a9a294"
-  },
-  "sourceURLs": {
-   "Pecan Melbourne": "https://brahmin.com/products/daisy-pecan-melbourne-q4515100004",
-   "Contour Melbourne": "https://brahmin.com/products/daisy-contour-melbourne-q4515100937",
-   "Ocelot Melbourne": "https://brahmin.com/products/daisy-ocelot-melbourne-q45176002134"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Pecan Melbourne",
-   "Contour Melbourne",
-   "Ocelot Melbourne"
-  ],
-  "images": [
-   "/images/catalog/ce3faf900628ec7a7a.webp",
-   "/images/catalog/c836d0f3925031d7ce.webp",
-   "/images/catalog/4f7b83a9718d791d02.webp"
-  ]
- },
- {
-  "id": "bag-7323157397637",
-  "name": "Steve Madden Riggs",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 22059,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Red": {
-    "": {
-     "usd": 129.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 22059,
-     "sourceURL": "https://www.stevemadden.com/products/briggs-red?variant=41832127824005",
-     "sourceVariantID": "41832127824005",
-     "sourceSKU": "BRIGGS",
-     "availableAtSource": true,
-     "sourceVariantTitle": "RED / ONESZ / RED",
-     "itemKind": "Bags"
-    }
-   },
-   "Fuchsia": {
-    "": {
-     "usd": 129.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 22059,
-     "sourceURL": "https://www.stevemadden.com/products/briggs-fuchsia?variant=41832127758469",
-     "sourceVariantID": "41832127758469",
-     "sourceSKU": "BRIGGS",
-     "availableAtSource": true,
-     "sourceVariantTitle": "FUCHSIA / ONESZ / FUS",
-     "itemKind": "Bags"
-    }
-   },
-   "Cobalt": {
-    "": {
-     "usd": 129.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 22059,
-     "sourceURL": "https://www.stevemadden.com/products/briggs-cobalt?variant=41832127725701",
-     "sourceVariantID": "41832127725701",
-     "sourceSKU": "BRIGGS",
-     "availableAtSource": true,
-     "sourceVariantTitle": "COBALT / ONESZ / COA",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Red": [
-    "/images/catalog/4a74bcf19a07f97efe.webp",
-    "/images/catalog/4d1bbf62b62c75c3ef.webp",
-    "/images/catalog/cb5ad41b00bed11b8d.webp"
-   ],
-   "Fuchsia": [
-    "/images/catalog/d29cd76da157ea5acd.webp",
-    "/images/catalog/744f1466ba26aca6c6.webp",
-    "/images/catalog/6fcb9db7a020668e43.webp"
-   ],
-   "Cobalt": [
-    "/images/catalog/c8dd8bb87cc07bce5d.webp",
-    "/images/catalog/b3054c7f2d3f2077c7.webp",
-    "/images/catalog/087212fdab0268041a.webp"
-   ]
-  },
-  "swatches": {
-   "Red": "#a83644",
-   "Fuchsia": "#a9a294",
-   "Cobalt": "#a9a294"
-  },
-  "sourceURLs": {
-   "Red": "https://www.stevemadden.com/products/briggs-red",
-   "Fuchsia": "https://www.stevemadden.com/products/briggs-fuchsia",
-   "Cobalt": "https://www.stevemadden.com/products/briggs-cobalt"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Red",
-   "Fuchsia",
-   "Cobalt"
-  ],
-  "images": [
-   "/images/catalog/4a74bcf19a07f97efe.webp",
-   "/images/catalog/4d1bbf62b62c75c3ef.webp",
-   "/images/catalog/cb5ad41b00bed11b8d.webp",
-   "/images/catalog/d29cd76da157ea5acd.webp",
-   "/images/catalog/744f1466ba26aca6c6.webp",
-   "/images/catalog/6fcb9db7a020668e43.webp",
-   "/images/catalog/c8dd8bb87cc07bce5d.webp",
-   "/images/catalog/b3054c7f2d3f2077c7.webp",
-   "/images/catalog/087212fdab0268041a.webp"
-  ]
- },
- {
-  "id": "bag-9388528599277",
-  "name": "Brahmin Adia",
-  "brand": "Brahmin",
-  "department": "Bags",
-  "category": "Clutches",
-  "audience": "Women",
-  "price": 24795,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Oxblood Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/adia-oxblood-melbourne-009915100197?variant=50060227510509",
-     "sourceVariantID": "50060227510509",
-     "sourceSKU": "009915100197",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Oxblood Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Island Petal Ombre Melbourne": {
-    "": {
-     "usd": 165.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 28215,
-     "sourceURL": "https://brahmin.com/products/adia-island-petal-melbourne-ombre-0099170802149?variant=49440743653613",
-     "sourceVariantID": "49440743653613",
-     "sourceSKU": "0099170802149",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Island Petal Ombre Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Contour Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/adia-contour-melbourne-009915100937?variant=47605889827053",
-     "sourceVariantID": "47605889827053",
-     "sourceSKU": "009915100937",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Contour Melbourne",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Oxblood Melbourne": [
-    "/images/catalog/8db578a69697ed6d81.webp"
-   ],
-   "Island Petal Ombre Melbourne": [
-    "/images/catalog/38179bc42f3a7d1992.webp"
-   ],
-   "Contour Melbourne": [
-    "/images/catalog/7c80bbcf9b9f86d980.webp"
-   ]
-  },
-  "swatches": {
-   "Oxblood Melbourne": "#a9a294",
-   "Island Petal Ombre Melbourne": "#a9a294",
-   "Contour Melbourne": "#a9a294"
-  },
-  "sourceURLs": {
-   "Oxblood Melbourne": "https://brahmin.com/products/adia-oxblood-melbourne-009915100197",
-   "Island Petal Ombre Melbourne": "https://brahmin.com/products/adia-island-petal-melbourne-ombre-0099170802149",
-   "Contour Melbourne": "https://brahmin.com/products/adia-contour-melbourne-009915100937"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Oxblood Melbourne",
-   "Island Petal Ombre Melbourne",
-   "Contour Melbourne"
-  ],
-  "images": [
-   "/images/catalog/8db578a69697ed6d81.webp",
-   "/images/catalog/38179bc42f3a7d1992.webp",
-   "/images/catalog/7c80bbcf9b9f86d980.webp"
-  ]
- },
- {
-  "id": "bag-7308258574469",
-  "name": "Steve Madden Mavi",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 13338,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Plaid": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://www.stevemadden.com/products/bmavi-p-plaid?variant=41776171483269",
-     "sourceVariantID": "41776171483269",
-     "sourceSKU": "BMAVI-P",
-     "availableAtSource": true,
-     "sourceVariantTitle": "PLAID / ONESZ / PLD",
-     "itemKind": "Bags"
-    }
-   },
-   "Chocolate": {
-    "": {
-     "usd": 98.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 16758,
-     "sourceURL": "https://www.stevemadden.com/products/bmavi-chocolate?variant=41776169451653",
-     "sourceVariantID": "41776169451653",
-     "sourceSKU": "BMAVI",
-     "availableAtSource": true,
-     "sourceVariantTitle": "CHOCOLATE / ONESZ / CHO",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Plaid": [
-    "/images/catalog/68a74f4786c551db62.webp",
-    "/images/catalog/d8c0cc923f6032bc42.webp",
-    "/images/catalog/3a9dda28fc4b8d7d6c.webp"
-   ],
-   "Chocolate": [
-    "/images/catalog/56deb1caffe073a48d.webp",
-    "/images/catalog/3a419cc125d9bfa3f8.webp",
-    "/images/catalog/07705bd2ceb9d0ac4f.webp"
-   ]
-  },
-  "swatches": {
-   "Plaid": "#a9a294",
-   "Chocolate": "#674738"
-  },
-  "sourceURLs": {
-   "Plaid": "https://www.stevemadden.com/products/bmavi-p-plaid",
-   "Chocolate": "https://www.stevemadden.com/products/bmavi-chocolate"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Plaid",
-   "Chocolate"
-  ],
-  "images": [
-   "/images/catalog/68a74f4786c551db62.webp",
-   "/images/catalog/d8c0cc923f6032bc42.webp",
-   "/images/catalog/3a9dda28fc4b8d7d6c.webp",
-   "/images/catalog/56deb1caffe073a48d.webp",
-   "/images/catalog/3a419cc125d9bfa3f8.webp",
-   "/images/catalog/07705bd2ceb9d0ac4f.webp"
-  ]
- },
- {
-  "id": "bag-9388531253485",
-  "name": "Brahmin Esther",
-  "brand": "Brahmin",
-  "department": "Bags",
-  "category": "Crossbody",
-  "audience": "Women",
-  "price": 24795,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Oxblood Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/esther-oxblood-melbourne-118715100197?variant=50060230164717",
-     "sourceVariantID": "50060230164717",
-     "sourceSKU": "118715100197",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Oxblood Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Black Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/esther-black-melbourne-118715100001?variant=50279832223981",
-     "sourceVariantID": "50279832223981",
-     "sourceSKU": "118715100001",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Black Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Chocolate Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/esther-chocolate-melbourne-118715100022?variant=50279832191213",
-     "sourceVariantID": "50279832191213",
-     "sourceSKU": "118715100022",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Chocolate Melbourne",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Oxblood Melbourne": [
-    "/images/catalog/86f182724d2ec76e44.webp"
-   ],
-   "Black Melbourne": [
-    "/images/catalog/f6510d0c54cb517596.webp"
-   ],
-   "Chocolate Melbourne": [
-    "/images/catalog/8090e46850cbaee42c.webp"
-   ]
-  },
-  "swatches": {
-   "Oxblood Melbourne": "#a9a294",
-   "Black Melbourne": "#222326",
-   "Chocolate Melbourne": "#674738"
-  },
-  "sourceURLs": {
-   "Oxblood Melbourne": "https://brahmin.com/products/esther-oxblood-melbourne-118715100197",
-   "Black Melbourne": "https://brahmin.com/products/esther-black-melbourne-118715100001",
-   "Chocolate Melbourne": "https://brahmin.com/products/esther-chocolate-melbourne-118715100022"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Oxblood Melbourne",
-   "Black Melbourne",
-   "Chocolate Melbourne"
-  ],
-  "images": [
-   "/images/catalog/86f182724d2ec76e44.webp",
-   "/images/catalog/f6510d0c54cb517596.webp",
-   "/images/catalog/8090e46850cbaee42c.webp"
-  ]
- },
- {
-  "id": "bag-7293971333253",
-  "name": "Steve Madden Calista",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 13338,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://www.stevemadden.com/products/bcalista-black?variant=41718249390213",
-     "sourceVariantID": "41718249390213",
-     "sourceSKU": "BCALISTA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLACK / ONESZ / BLK",
-     "itemKind": "Bags"
-    }
-   },
-   "Brown": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://www.stevemadden.com/products/bcalista-brown?variant=41852020097157",
-     "sourceVariantID": "41852020097157",
-     "sourceSKU": "BCALISTA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BROWN / ONESZ / BRN",
-     "itemKind": "Bags"
-    }
-   },
-   "Blush": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://www.stevemadden.com/products/bcalista-blush?variant=41852020326533",
-     "sourceVariantID": "41852020326533",
-     "sourceSKU": "BCALISTA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLUSH / ONESZ / BSH",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Black": [
-    "/images/catalog/19906b4cc8932fea60.webp",
-    "/images/catalog/f668a2aee2b8e04555.webp",
-    "/images/catalog/68a9797c009b66c398.webp"
-   ],
-   "Brown": [
-    "/images/catalog/c6a67aa3bfbad40dc4.webp",
-    "/images/catalog/eb79a9d06a099e3d65.webp",
-    "/images/catalog/7da4e25f776da0112c.webp"
-   ],
-   "Blush": [
-    "/images/catalog/fefb0f3be5f1bacc59.webp",
-    "/images/catalog/80a4b1cfcafb122828.webp",
-    "/images/catalog/ac2d0b48a386c7dc02.webp"
-   ]
-  },
-  "swatches": {
-   "Black": "#222326",
-   "Brown": "#77533c",
-   "Blush": "#a9a294"
-  },
-  "sourceURLs": {
-   "Black": "https://www.stevemadden.com/products/bcalista-black",
-   "Brown": "https://www.stevemadden.com/products/bcalista-brown",
-   "Blush": "https://www.stevemadden.com/products/bcalista-blush"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black",
-   "Brown",
-   "Blush"
-  ],
-  "images": [
-   "/images/catalog/19906b4cc8932fea60.webp",
-   "/images/catalog/f668a2aee2b8e04555.webp",
-   "/images/catalog/68a9797c009b66c398.webp",
-   "/images/catalog/c6a67aa3bfbad40dc4.webp",
-   "/images/catalog/eb79a9d06a099e3d65.webp",
-   "/images/catalog/7da4e25f776da0112c.webp",
-   "/images/catalog/fefb0f3be5f1bacc59.webp",
-   "/images/catalog/80a4b1cfcafb122828.webp",
-   "/images/catalog/ac2d0b48a386c7dc02.webp"
-  ]
- },
- {
-  "id": "bag-10228988313837",
-  "name": "Brahmin Eris",
-  "brand": "Brahmin",
-  "department": "Bags",
-  "category": "Crossbody",
-  "audience": "Women",
-  "price": 24795,
-  "tag": "Women\u2019s collection",
-  "description": "A Brahmin handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Ruby Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/eris-ruby-melbourne-v8015100082?variant=50721704476909",
-     "sourceVariantID": "50721704476909",
-     "sourceSKU": "V8015100082",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Ruby Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Midnight Blue Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/eris-midnight-blue-melbourne-v8015101401?variant=50721688846573",
-     "sourceVariantID": "50721688846573",
-     "sourceSKU": "V8015101401",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Midnight Blue Melbourne",
-     "itemKind": "Bags"
-    }
-   },
-   "Vintage Gold Melbourne": {
-    "": {
-     "usd": 145.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 24795,
-     "sourceURL": "https://brahmin.com/products/eris-copy?variant=50697134702829",
-     "sourceVariantID": "50697134702829",
-     "sourceSKU": "V8015100810",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Vintage Gold Melbourne",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Ruby Melbourne": [
-    "/images/catalog/242bf341084fbd0d78.webp"
-   ],
-   "Midnight Blue Melbourne": [
-    "/images/catalog/fbab503759b05a7679.webp"
-   ],
-   "Vintage Gold Melbourne": [
-    "/images/catalog/5e9ec511a32112e3fc.webp"
-   ]
-  },
-  "swatches": {
-   "Ruby Melbourne": "#9e264c",
-   "Midnight Blue Melbourne": "#4c7391",
-   "Vintage Gold Melbourne": "#c1a15d"
-  },
-  "sourceURLs": {
-   "Ruby Melbourne": "https://brahmin.com/products/eris-ruby-melbourne-v8015100082",
-   "Midnight Blue Melbourne": "https://brahmin.com/products/eris-midnight-blue-melbourne-v8015101401",
-   "Vintage Gold Melbourne": "https://brahmin.com/products/eris-copy"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Ruby Melbourne",
-   "Midnight Blue Melbourne",
-   "Vintage Gold Melbourne"
-  ],
-  "images": [
-   "/images/catalog/242bf341084fbd0d78.webp",
-   "/images/catalog/fbab503759b05a7679.webp",
-   "/images/catalog/5e9ec511a32112e3fc.webp"
-  ]
- },
- {
-  "id": "bag-7310149288069",
-  "name": "Steve Madden Iconic",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 20349,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Burgundy": {
-    "": {
-     "usd": 119.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 20349,
-     "sourceURL": "https://www.stevemadden.com/products/biconic-burgundy?variant=41783645241477",
-     "sourceVariantID": "41783645241477",
-     "sourceSKU": "BICONIC",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BURGUNDY / ONESZ / BUR",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Burgundy": [
-    "/images/catalog/4dc9e252aae21b9921.webp",
-    "/images/catalog/c5f33365c6b2d86458.webp",
-    "/images/catalog/ece155f0421a369599.webp"
-   ]
-  },
-  "swatches": {
-   "Burgundy": "#a9a294"
-  },
-  "sourceURLs": {
-   "Burgundy": "https://www.stevemadden.com/products/biconic-burgundy"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Burgundy"
-  ],
-  "images": [
-   "/images/catalog/4dc9e252aae21b9921.webp",
-   "/images/catalog/c5f33365c6b2d86458.webp",
-   "/images/catalog/ece155f0421a369599.webp"
-  ]
- },
- {
-  "id": "bag-7328744210565",
-  "name": "Steve Madden Alba",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 25308,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Cream": {
-    "": {
-     "usd": 148.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 25308,
-     "sourceURL": "https://www.stevemadden.com/products/balba-cream?variant=41852705472645",
-     "sourceVariantID": "41852705472645",
-     "sourceSKU": "BALBA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "CREAM / ONESZ / CRM",
-     "itemKind": "Bags"
-    }
-   },
-   "Black": {
-    "": {
-     "usd": 148.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 25308,
-     "sourceURL": "https://www.stevemadden.com/products/balba-black?variant=41852705505413",
-     "sourceVariantID": "41852705505413",
-     "sourceSKU": "BALBA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLACK / ONESZ / BLK",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Cream": [
-    "/images/catalog/0de052cb1dc6d91ea4.webp",
-    "/images/catalog/333f2b694173fa23cb.webp",
-    "/images/catalog/db3abdf62286b90a10.webp"
-   ],
-   "Black": [
-    "/images/catalog/58c070769257d2d326.webp",
-    "/images/catalog/703fd1bafb859986b7.webp",
-    "/images/catalog/e3c9098fa49ed13295.webp"
-   ]
-  },
-  "swatches": {
-   "Cream": "#a9a294",
-   "Black": "#222326"
-  },
-  "sourceURLs": {
-   "Cream": "https://www.stevemadden.com/products/balba-cream",
-   "Black": "https://www.stevemadden.com/products/balba-black"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Cream",
-   "Black"
-  ],
-  "images": [
-   "/images/catalog/0de052cb1dc6d91ea4.webp",
-   "/images/catalog/333f2b694173fa23cb.webp",
-   "/images/catalog/db3abdf62286b90a10.webp",
-   "/images/catalog/58c070769257d2d326.webp",
-   "/images/catalog/703fd1bafb859986b7.webp",
-   "/images/catalog/e3c9098fa49ed13295.webp"
-  ]
- },
- {
-  "id": "bag-7331466543237",
-  "name": "Steve Madden Nymera",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 13338,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://www.stevemadden.com/products/bnymera-black?variant=41865229762693",
-     "sourceVariantID": "41865229762693",
-     "sourceSKU": "BNYMERA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLACK / ONESZ / BLK",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Black": [
-    "/images/catalog/76d385dd9b2bc133a0.webp",
-    "/images/catalog/72109922205825e5e4.webp",
-    "/images/catalog/e9d87b92323b4c8af7.webp"
-   ]
-  },
-  "swatches": {
-   "Black": "#222326"
-  },
-  "sourceURLs": {
-   "Black": "https://www.stevemadden.com/products/bnymera-black"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black"
-  ],
-  "images": [
-   "/images/catalog/76d385dd9b2bc133a0.webp",
-   "/images/catalog/72109922205825e5e4.webp",
-   "/images/catalog/e9d87b92323b4c8af7.webp"
-  ]
- },
- {
-  "id": "bag-7310149222533",
-  "name": "Steve Madden Kenzi",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 22059,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black Tan": {
-    "": {
-     "usd": 129.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 22059,
-     "sourceURL": "https://www.stevemadden.com/products/bkenzi-black-tan?variant=41783644684421",
-     "sourceVariantID": "41783644684421",
-     "sourceSKU": "BKENZI",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLACK TAN / ONESZ / BTN",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Black Tan": [
-    "/images/catalog/2b9f1323b5e9b31c7f.webp",
-    "/images/catalog/fbc5ce437b67da012a.webp",
-    "/images/catalog/4413ce4d71464ba7c1.webp"
-   ]
-  },
-  "swatches": {
-   "Black Tan": "#222326"
-  },
-  "sourceURLs": {
-   "Black Tan": "https://www.stevemadden.com/products/bkenzi-black-tan"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black Tan"
-  ],
-  "images": [
-   "/images/catalog/2b9f1323b5e9b31c7f.webp",
-   "/images/catalog/fbc5ce437b67da012a.webp",
-   "/images/catalog/4413ce4d71464ba7c1.webp"
-  ]
- },
- {
-  "id": "bag-7271262322821",
-  "name": "Steve Madden Scoop",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 12312,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Champagne": {
-    "": {
-     "usd": 72.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 12312,
-     "sourceURL": "https://www.stevemadden.com/products/bscoop-champagne?variant=41621691039877",
-     "sourceVariantID": "41621691039877",
-     "sourceSKU": "BSCOOP",
-     "availableAtSource": true,
-     "sourceVariantTitle": "CHAMPAGNE / ONESZ / CHA",
-     "itemKind": "Bags"
-    }
-   },
-   "Black": {
-    "": {
-     "usd": 72.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 12312,
-     "sourceURL": "https://www.stevemadden.com/products/bscoop-black?variant=41621691007109",
-     "sourceVariantID": "41621691007109",
-     "sourceSKU": "BSCOOP",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLACK / ONESZ / BLK",
-     "itemKind": "Bags"
-    }
-   },
-   "Wine": {
-    "": {
-     "usd": 72.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 12312,
-     "sourceURL": "https://www.stevemadden.com/products/bscoop-wine?variant=41621690974341",
-     "sourceVariantID": "41621690974341",
-     "sourceSKU": "BSCOOP",
-     "availableAtSource": true,
-     "sourceVariantTitle": "WINE / ONESZ / WNE",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Champagne": [
-    "/images/catalog/7a95ccec89fa4f67be.webp",
-    "/images/catalog/bdc004011e5ebcb1dc.webp",
-    "/images/catalog/aafc106209a92670f6.webp"
-   ],
-   "Black": [
-    "/images/catalog/f21e34dc38978e91a7.webp",
-    "/images/catalog/f0ab8b1a8d5081d2fd.webp",
-    "/images/catalog/bbad38a2594296e3c5.webp"
-   ],
-   "Wine": [
-    "/images/catalog/ac0c86e135e303e044.webp",
-    "/images/catalog/ca5e10e548291a5321.webp",
-    "/images/catalog/32c0c700e5368f28ea.webp"
-   ]
-  },
-  "swatches": {
-   "Champagne": "#a9a294",
-   "Black": "#222326",
-   "Wine": "#a9a294"
-  },
-  "sourceURLs": {
-   "Champagne": "https://www.stevemadden.com/products/bscoop-champagne",
-   "Black": "https://www.stevemadden.com/products/bscoop-black",
-   "Wine": "https://www.stevemadden.com/products/bscoop-wine"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Champagne",
-   "Black",
-   "Wine"
-  ],
-  "images": [
-   "/images/catalog/7a95ccec89fa4f67be.webp",
-   "/images/catalog/bdc004011e5ebcb1dc.webp",
-   "/images/catalog/aafc106209a92670f6.webp",
-   "/images/catalog/f21e34dc38978e91a7.webp",
-   "/images/catalog/f0ab8b1a8d5081d2fd.webp",
-   "/images/catalog/bbad38a2594296e3c5.webp",
-   "/images/catalog/ac0c86e135e303e044.webp",
-   "/images/catalog/ca5e10e548291a5321.webp",
-   "/images/catalog/32c0c700e5368f28ea.webp"
-  ]
- },
- {
-  "id": "bag-7262083678341",
-  "name": "Steve Madden Cierra",
-  "brand": "Steve Madden",
-  "department": "Bags",
-  "category": "Handbags",
-  "audience": "Women",
-  "price": 17098,
-  "tag": "Women\u2019s collection",
-  "description": "A Steve Madden handbag from the women\u2019s collection.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Mustard": {
-    "": {
-     "usd": 99.99,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 17098,
-     "sourceURL": "https://www.stevemadden.com/products/bcierra-mustard?variant=41582178926725",
-     "sourceVariantID": "41582178926725",
-     "sourceSKU": "BCIERRA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "MUSTARD / ONESZ / MUS",
-     "itemKind": "Bags"
-    }
-   }
-  },
-  "variants": {
-   "Mustard": [
-    "/images/catalog/84fb37100e9846224e.webp",
-    "/images/catalog/42cb6652484eb1d393.webp",
-    "/images/catalog/8761d837bf89346954.webp"
-   ]
-  },
-  "swatches": {
-   "Mustard": "#a9a294"
-  },
-  "sourceURLs": {
-   "Mustard": "https://www.stevemadden.com/products/bcierra-mustard"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Mustard"
-  ],
-  "images": [
-   "/images/catalog/84fb37100e9846224e.webp",
-   "/images/catalog/42cb6652484eb1d393.webp",
-   "/images/catalog/8761d837bf89346954.webp"
-  ]
- },
- {
-  "id": "watch-7657241968723",
-  "name": "Timex Marlin Quartz 34mm Leather Strap Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Women",
-  "price": 28899,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 169.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 28899,
-     "sourceURL": "https://timex.com/products/marlin-quartz-34mm-leather-strap-watch-tw2y37600?variant=42930103418963",
-     "sourceVariantID": "42930103418963",
-     "sourceSKU": "TW2Y37600VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/29b5db0f39e2dba0a8.webp",
-    "/images/catalog/066aa63ef789d5a222.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/marlin-quartz-34mm-leather-strap-watch-tw2y37600"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/29b5db0f39e2dba0a8.webp",
-   "/images/catalog/066aa63ef789d5a222.webp"
-  ]
- },
- {
-  "id": "sunglasses-10360003658044",
-  "name": "Emporio Armani EA4216U Pillow Sunglasses",
-  "brand": "Emporio Armani",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 9795,
-  "tag": "Sunglasses",
-  "description": "EA4216U PILLOW SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Matte White | Light Brown Mirror Gold": {
-    "": {
-     "usd": 57.28,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9795,
-     "sourceURL": "https://www.shadesdaddy.com/products/ea4216u-emporio-armani?variant=52966218465596",
-     "sourceVariantID": "52966218465596",
-     "sourceSKU": "357306",
-     "availableAtSource": true,
-     "sourceVariantTitle": "MATTE WHITE | LIGHT BROWN MIRROR GOLD / 56-20-145",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Matte White | Light Brown Mirror Gold": [
-    "/images/catalog/cf055bc44f87d88575.webp",
-    "/images/catalog/defa829fd01e9c941c.webp"
-   ]
-  },
-  "swatches": {
-   "Matte White | Light Brown Mirror Gold": "#c1a15d"
-  },
-  "sourceURLs": {
-   "Matte White | Light Brown Mirror Gold": "https://www.shadesdaddy.com/products/ea4216u-emporio-armani"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Matte White | Light Brown Mirror Gold"
-  ],
-  "images": [
-   "/images/catalog/cf055bc44f87d88575.webp",
-   "/images/catalog/defa829fd01e9c941c.webp"
-  ]
- },
- {
-  "id": "watch-7583241142355",
-  "name": "Timex Waterbury Classic 3 Hand 40mm Leather Strap Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Unisex",
-  "price": 16673,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 97.5,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 16673,
-     "sourceURL": "https://timex.com/products/waterbury-classic-3-hand-40mm-leather-strap-watch-tw2y29600?variant=42633640050771",
-     "sourceVariantID": "42633640050771",
-     "sourceSKU": "TW2Y29600VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/a1d506e7fe220d2668.webp",
-    "/images/catalog/706f330eb5c76c141a.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/waterbury-classic-3-hand-40mm-leather-strap-watch-tw2y29600"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/a1d506e7fe220d2668.webp",
-   "/images/catalog/706f330eb5c76c141a.webp"
-  ]
- },
- {
-  "id": "sunglasses-10360010932540",
-  "name": "Arnette FASTBALL Rectangular Sunglasses",
-  "brand": "Arnette",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 7912,
-  "tag": "Sunglasses",
-  "description": "FASTBALL RECTANGULAR SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Rubber Black | Polarized Dark Grey": {
-    "": {
-     "usd": 46.27,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 7912,
-     "sourceURL": "https://www.shadesdaddy.com/products/an4202-arnette?variant=52966245007676",
-     "sourceVariantID": "52966245007676",
-     "sourceSKU": "114938",
-     "availableAtSource": true,
-     "sourceVariantTitle": "RUBBER BLACK | POLARIZED DARK GREY / 62-16-135",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Rubber Black | Polarized Dark Grey": [
-    "/images/catalog/f0f223e489cd8bf320.webp",
-    "/images/catalog/4fb1139621aafe9c93.webp"
-   ]
-  },
-  "swatches": {
-   "Rubber Black | Polarized Dark Grey": "#222326"
-  },
-  "sourceURLs": {
-   "Rubber Black | Polarized Dark Grey": "https://www.shadesdaddy.com/products/an4202-arnette"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Rubber Black | Polarized Dark Grey"
-  ],
-  "images": [
-   "/images/catalog/f0f223e489cd8bf320.webp",
-   "/images/catalog/4fb1139621aafe9c93.webp"
-  ]
- },
- {
-  "id": "watch-6988057182291",
-  "name": "Timex Harborside Coast 43mm Stainless Steel Bracelet Watch",
-  "brand": "Timex",
+  "id": "watch-8885069742140",
+  "name": "Fossil Men's Copeland 42mm Three-Hand, Black Stainless Steel Watch",
+  "brand": "Fossil",
   "department": "Watches & Sunglasses",
   "category": "Watches",
   "audience": "Men",
-  "price": 28899,
+  "price": 22829,
   "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
+  "description": "A Fossil timepiece. Case and strap details are shown in the product name.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "As pictured": {
+   "brown": {
     "": {
-     "usd": 169.0,
+     "usd": 133.5,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 28899,
-     "sourceURL": "https://timex.com/products/harborside-coast-43mm-stainless-steel-bracelet-watch-tw2v91900?variant=40783762161747",
-     "sourceVariantID": "40783762161747",
-     "sourceSKU": "TW2V91900VQ",
+     "baseEtb": 25365.0,
+     "etb": 22829,
+     "sourceURL": "https://shop.simon.com/products/fossil-mens-copeland-42mm-three-hand-black-stainless-steel-watch-1?variant=44199935115324",
+     "sourceVariantID": "44199935115324",
+     "sourceSKU": "dsco-1302011114",
+     "sourceVariantTitle": "brown",
      "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
      "itemKind": "Watches"
     }
    }
   },
   "variants": {
-   "As pictured": [
-    "/images/catalog/8601d503f8add1d1bd.webp",
-    "/images/catalog/ba5bb69d0af690eea3.webp"
+   "brown": [
+    "/images/catalog/44d4514b5db4c0d28f.webp",
+    "/images/catalog/bdeef85e1fdc98ee8d.webp"
    ]
   },
   "swatches": {
-   "As pictured": "#a9a294"
+   "brown": "#735038"
   },
   "sourceURLs": {
-   "As pictured": "https://timex.com/products/harborside-coast-43mm-stainless-steel-bracelet-watch-tw2v91900"
+   "brown": "https://shop.simon.com/products/fossil-mens-copeland-42mm-three-hand-black-stainless-steel-watch-1"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "As pictured"
+   "brown"
   ],
   "images": [
-   "/images/catalog/8601d503f8add1d1bd.webp",
-   "/images/catalog/ba5bb69d0af690eea3.webp"
+   "/images/catalog/44d4514b5db4c0d28f.webp",
+   "/images/catalog/bdeef85e1fdc98ee8d.webp"
   ]
  },
  {
-  "id": "sunglasses-10360012243260",
-  "name": "Costa Del Mar MAYA Phantos Sunglasses",
-  "brand": "Costa Del Mar",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 17100,
-  "tag": "Sunglasses",
-  "description": "MAYA PHANTOS SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Shiny Urchin Crystal / Grey | Grey": {
-    "": {
-     "usd": 100.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 17100,
-     "sourceURL": "https://www.shadesdaddy.com/products/6s9011-costa-del-mar?variant=52966253461820",
-     "sourceVariantID": "52966253461820",
-     "sourceSKU": "294103",
-     "availableAtSource": true,
-     "sourceVariantTitle": "SHINY URCHIN CRYSTAL / GREY | GREY / 55-19-135",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Shiny Urchin Crystal / Grey | Grey": [
-    "/images/catalog/cbea8dfa342277331c.webp",
-    "/images/catalog/ef94b1c9fcdda1e62e.webp"
-   ]
-  },
-  "swatches": {
-   "Shiny Urchin Crystal / Grey | Grey": "#858b90"
-  },
-  "sourceURLs": {
-   "Shiny Urchin Crystal / Grey | Grey": "https://www.shadesdaddy.com/products/6s9011-costa-del-mar"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Shiny Urchin Crystal / Grey | Grey"
-  ],
-  "images": [
-   "/images/catalog/cbea8dfa342277331c.webp",
-   "/images/catalog/ef94b1c9fcdda1e62e.webp"
-  ]
- },
- {
-  "id": "watch-7583242256467",
-  "name": "Timex Legacy 36mm Stainless Steel Bracelet Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Unisex",
-  "price": 20520,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 120.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 20520,
-     "sourceURL": "https://timex.com/products/timex-legacy-36mm-stainless-steel-bracelet-watch-tw2y27900?variant=42633641853011",
-     "sourceVariantID": "42633641853011",
-     "sourceSKU": "TW2Y27900VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/6ab01cae16cf6fca07.webp",
-    "/images/catalog/bbc28a72330e1cbe78.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/timex-legacy-36mm-stainless-steel-bracelet-watch-tw2y27900"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/6ab01cae16cf6fca07.webp",
-   "/images/catalog/bbc28a72330e1cbe78.webp"
-  ]
- },
- {
-  "id": "sunglasses-10359983866172",
-  "name": "Tory Burch TY7169U Rectangular Sunglasses",
-  "brand": "Tory Burch",
+  "id": "sunglasses-10396740518020",
+  "name": "Kate Spade AGLAIA/S Sunglasses",
+  "brand": "Kate Spade",
   "department": "Watches & Sunglasses",
   "category": "Sunglasses",
   "audience": "Women",
-  "price": 12846,
-  "tag": "Sunglasses",
-  "description": "TY7169U RECTANGULAR SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black | Solid Grey": {
-    "": {
-     "usd": 75.12,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 12846,
-     "sourceURL": "https://www.shadesdaddy.com/products/ty7169u-tory-burch?variant=52966108135740",
-     "sourceVariantID": "52966108135740",
-     "sourceSKU": "302236",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLACK | SOLID GREY / 52-17-140",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Black | Solid Grey": [
-    "/images/catalog/6240811b8dc0bcc674.webp",
-    "/images/catalog/2f60209a546722d79e.webp"
-   ]
-  },
-  "swatches": {
-   "Black | Solid Grey": "#222326"
-  },
-  "sourceURLs": {
-   "Black | Solid Grey": "https://www.shadesdaddy.com/products/ty7169u-tory-burch"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black | Solid Grey"
-  ],
-  "images": [
-   "/images/catalog/6240811b8dc0bcc674.webp",
-   "/images/catalog/2f60209a546722d79e.webp"
-  ]
- },
- {
-  "id": "watch-6907551580243",
-  "name": "Timex Legacy Boyfriend 36mm Stainless Steel Bracelet Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Women",
-  "price": 28899,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 169.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 28899,
-     "sourceURL": "https://timex.com/products/timex-legacy-boyfriend-36mm-stainless-steel-bracelet-watch-tw2u78700?variant=40430925021267",
-     "sourceVariantID": "40430925021267",
-     "sourceSKU": "TW2U78700VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/57c54d872af4b75163.webp",
-    "/images/catalog/f2450e2a0a67a1a82b.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/timex-legacy-boyfriend-36mm-stainless-steel-bracelet-watch-tw2u78700"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/57c54d872af4b75163.webp",
-   "/images/catalog/f2450e2a0a67a1a82b.webp"
-  ]
- },
- {
-  "id": "sunglasses-10359984062780",
-  "name": "Tory Burch TY6110 Cat Eye Sunglasses",
-  "brand": "Tory Burch",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Women",
-  "price": 15369,
-  "tag": "Sunglasses",
-  "description": "TY6110 CAT EYE SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Light Gold | Dark Blue": {
-    "": {
-     "usd": 89.88,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 15369,
-     "sourceURL": "https://www.shadesdaddy.com/products/ty6110-tory-burch?variant=52966108823868",
-     "sourceVariantID": "52966108823868",
-     "sourceSKU": "367660",
-     "availableAtSource": true,
-     "sourceVariantTitle": "LIGHT GOLD | DARK BLUE / 56-16-140",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Light Gold | Dark Blue": [
-    "/images/catalog/f152dea85d5a5adae6.webp",
-    "/images/catalog/b30364577231736a1a.webp"
-   ]
-  },
-  "swatches": {
-   "Light Gold | Dark Blue": "#c1a15d"
-  },
-  "sourceURLs": {
-   "Light Gold | Dark Blue": "https://www.shadesdaddy.com/products/ty6110-tory-burch"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Light Gold | Dark Blue"
-  ],
-  "images": [
-   "/images/catalog/f152dea85d5a5adae6.webp",
-   "/images/catalog/b30364577231736a1a.webp"
-  ]
- },
- {
-  "id": "watch-6988049023059",
-  "name": "Timex Legacy Day and Date 41mm Stainless Steel Bracelet Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 32319,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 189.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 32319,
-     "sourceURL": "https://timex.com/products/timex-legacy-day-and-date-41mm-stainless-steel-bracelet-watch-tw2v67800?variant=40783747088467",
-     "sourceVariantID": "40783747088467",
-     "sourceSKU": "TW2V67800VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/3d5d5e5f65ae8d00cb.webp",
-    "/images/catalog/8575a5f54cf585e32d.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/timex-legacy-day-and-date-41mm-stainless-steel-bracelet-watch-tw2v67800"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/3d5d5e5f65ae8d00cb.webp",
-   "/images/catalog/8575a5f54cf585e32d.webp"
-  ]
- },
- {
-  "id": "sunglasses-10359979966780",
-  "name": "Vogue Eyewear VO5509S Phantos Sunglasses",
-  "brand": "Vogue Eyewear",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Women",
-  "price": 5282,
-  "tag": "Sunglasses",
-  "description": "VO5509S PHANTOS SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Pink Horn | Gradient Grey": {
-    "": {
-     "usd": 30.89,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 5282,
-     "sourceURL": "https://www.shadesdaddy.com/products/vo5509s-vogue?variant=52966094373180",
-     "sourceVariantID": "52966094373180",
-     "sourceSKU": "331157",
-     "availableAtSource": true,
-     "sourceVariantTitle": "PINK HORN | GRADIENT GREY / 56-17-145",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Pink Horn | Gradient Grey": [
-    "/images/catalog/6377f87f495ce8682f.webp",
-    "/images/catalog/241a68811acad5daef.webp"
-   ]
-  },
-  "swatches": {
-   "Pink Horn | Gradient Grey": "#858b90"
-  },
-  "sourceURLs": {
-   "Pink Horn | Gradient Grey": "https://www.shadesdaddy.com/products/vo5509s-vogue"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Pink Horn | Gradient Grey"
-  ],
-  "images": [
-   "/images/catalog/6377f87f495ce8682f.webp",
-   "/images/catalog/241a68811acad5daef.webp"
-  ]
- },
- {
-  "id": "watch-8017153687635",
-  "name": "Timex Waterbury Classic Sub-Second 39mm Leather Strap Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 32319,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 189.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 32319,
-     "sourceURL": "https://timex.com/products/waterbury-classic-sub-second-39mm-leather-strap-watch-tw2y92000?variant=45805257359443",
-     "sourceVariantID": "45805257359443",
-     "sourceSKU": "TW2Y92000VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/c9bcc42d8f4545d8ff.webp",
-    "/images/catalog/adfaaeb3cab3fa4530.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/waterbury-classic-sub-second-39mm-leather-strap-watch-tw2y92000"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/c9bcc42d8f4545d8ff.webp",
-   "/images/catalog/adfaaeb3cab3fa4530.webp"
-  ]
- },
- {
-  "id": "sunglasses-10360010670396",
-  "name": "Arnette CATFISH Oval Sunglasses",
-  "brand": "Arnette",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 5015,
-  "tag": "Sunglasses",
-  "description": "CATFISH OVAL SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver": {
-    "": {
-     "usd": 29.33,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 5015,
-     "sourceURL": "https://www.shadesdaddy.com/products/an4302-arnette?variant=52966243991868",
-     "sourceVariantID": "52966243991868",
-     "sourceSKU": "315290",
-     "availableAtSource": true,
-     "sourceVariantTitle": "GREEN GREY GUNMETAL SILVER / LIGHT GREY MIRROR SILVER | LIGHT GREY MIRROR SILVER / 62-16-125",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver": [
-    "/images/catalog/e9b6ee8fae9271067e.webp",
-    "/images/catalog/46eeaf57b8999a9b74.webp"
-   ]
-  },
-  "swatches": {
-   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver": "#b6bec7"
-  },
-  "sourceURLs": {
-   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver": "https://www.shadesdaddy.com/products/an4302-arnette"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver"
-  ],
-  "images": [
-   "/images/catalog/e9b6ee8fae9271067e.webp",
-   "/images/catalog/46eeaf57b8999a9b74.webp"
-  ]
- },
- {
-  "id": "watch-7704399085651",
-  "name": "Timex Q Timex Continental Day and Date 39mm Stainless Steel Bracelet Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 30609,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 179.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 30609,
-     "sourceURL": "https://timex.com/products/q-timex-continental-day-and-date-39mm-stainless-steel-bracelet-watch-tw2y35200?variant=43102897963091",
-     "sourceVariantID": "43102897963091",
-     "sourceSKU": "TW2Y35200VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/071eda1cdcebc1c5cb.webp",
-    "/images/catalog/e6b6f6ebf3c7bebc6c.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/q-timex-continental-day-and-date-39mm-stainless-steel-bracelet-watch-tw2y35200"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/071eda1cdcebc1c5cb.webp",
-   "/images/catalog/e6b6f6ebf3c7bebc6c.webp"
-  ]
- },
- {
-  "id": "sunglasses-10359980196156",
-  "name": "Vogue Eyewear VO5338S Pillow Sunglasses",
-  "brand": "Vogue Eyewear",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Women",
-  "price": 7910,
-  "tag": "Sunglasses",
-  "description": "VO5338S PILLOW SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Yellow Havana | Brown Gradient": {
-    "": {
-     "usd": 46.26,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 7910,
-     "sourceURL": "https://www.shadesdaddy.com/products/vo5338s-vogue?variant=52966095028540",
-     "sourceVariantID": "52966095028540",
-     "sourceSKU": "171691",
-     "availableAtSource": true,
-     "sourceVariantTitle": "YELLOW HAVANA | BROWN GRADIENT / 54-19-140",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Yellow Havana | Brown Gradient": [
-    "/images/catalog/b72ab18b90c3413b51.webp",
-    "/images/catalog/50c1dce145985bb736.webp"
-   ]
-  },
-  "swatches": {
-   "Yellow Havana | Brown Gradient": "#77533c"
-  },
-  "sourceURLs": {
-   "Yellow Havana | Brown Gradient": "https://www.shadesdaddy.com/products/vo5338s-vogue"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Yellow Havana | Brown Gradient"
-  ],
-  "images": [
-   "/images/catalog/b72ab18b90c3413b51.webp",
-   "/images/catalog/50c1dce145985bb736.webp"
-  ]
- },
- {
-  "id": "watch-7657240330323",
-  "name": "Timex Waterbury Ace 41mm Leather Strap Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 32319,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 189.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 32319,
-     "sourceURL": "https://timex.com/products/waterbury-ace-41mm-leather-strap-watch-tw2y18900?variant=42930100404307",
-     "sourceVariantID": "42930100404307",
-     "sourceSKU": "TW2Y18900VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/ce7010779023e7c755.webp",
-    "/images/catalog/011ea61bf12d45c445.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/waterbury-ace-41mm-leather-strap-watch-tw2y18900"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/ce7010779023e7c755.webp",
-   "/images/catalog/011ea61bf12d45c445.webp"
-  ]
- },
- {
-  "id": "sunglasses-10360010604860",
-  "name": "Arnette LITTY Rectangular Sunglasses",
-  "brand": "Arnette",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 9410,
-  "tag": "Sunglasses",
-  "description": "LITTY RECTANGULAR SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black | Dark Grey": {
-    "": {
-     "usd": 55.03,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9410,
-     "sourceURL": "https://www.shadesdaddy.com/products/an4317-arnette?variant=52966243926332",
-     "sourceVariantID": "52966243926332",
-     "sourceSKU": "335653",
-     "availableAtSource": true,
-     "sourceVariantTitle": "BLACK | DARK GREY / 50-19-145",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Black | Dark Grey": [
-    "/images/catalog/25435011b8a849ab57.webp",
-    "/images/catalog/2cf4f7913d02088fd4.webp"
-   ]
-  },
-  "swatches": {
-   "Black | Dark Grey": "#222326"
-  },
-  "sourceURLs": {
-   "Black | Dark Grey": "https://www.shadesdaddy.com/products/an4317-arnette"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black | Dark Grey"
-  ],
-  "images": [
-   "/images/catalog/25435011b8a849ab57.webp",
-   "/images/catalog/2cf4f7913d02088fd4.webp"
-  ]
- },
- {
-  "id": "watch-7537686577235",
-  "name": "Timex Legacy Mini 25mm Stainless Steel Bracelet Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Women",
-  "price": 30609,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 179.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 30609,
-     "sourceURL": "https://timex.com/products/timex-legacy-mini-25mm-stainless-steel-bracelet-watch-tw2w91000?variant=42489737707603",
-     "sourceVariantID": "42489737707603",
-     "sourceSKU": "TW2W91000VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/b4d5476f0eb5be7c7e.webp",
-    "/images/catalog/23a04ff0303d5ee1ad.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/timex-legacy-mini-25mm-stainless-steel-bracelet-watch-tw2w91000"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/b4d5476f0eb5be7c7e.webp",
-   "/images/catalog/23a04ff0303d5ee1ad.webp"
-  ]
- },
- {
-  "id": "sunglasses-10359980261692",
-  "name": "Vogue Eyewear VO4198S Irregular Sunglasses",
-  "brand": "Vogue Eyewear",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Women",
-  "price": 7914,
-  "tag": "Sunglasses",
-  "description": "VO4198S IRREGULAR SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Top Red/Gold | Pink Gradient Dark Grey": {
-    "": {
-     "usd": 46.28,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 7914,
-     "sourceURL": "https://www.shadesdaddy.com/products/vo4198s-vogue?variant=52966095094076",
-     "sourceVariantID": "52966095094076",
-     "sourceSKU": "279805",
-     "availableAtSource": true,
-     "sourceVariantTitle": "TOP RED/GOLD | PINK GRADIENT DARK GREY / 58-16-140",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Top Red/Gold | Pink Gradient Dark Grey": [
-    "/images/catalog/e29645cbf34ceec5ff.webp",
-    "/images/catalog/08268d48a1f8d6e9de.webp"
-   ]
-  },
-  "swatches": {
-   "Top Red/Gold | Pink Gradient Dark Grey": "#c1a15d"
-  },
-  "sourceURLs": {
-   "Top Red/Gold | Pink Gradient Dark Grey": "https://www.shadesdaddy.com/products/vo4198s-vogue"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Top Red/Gold | Pink Gradient Dark Grey"
-  ],
-  "images": [
-   "/images/catalog/e29645cbf34ceec5ff.webp",
-   "/images/catalog/08268d48a1f8d6e9de.webp"
-  ]
- },
- {
-  "id": "watch-7567668150355",
-  "name": "Timex Waterbury Metropolitan Sub-Second 39mm Leather Strap Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 34029,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 199.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 34029,
-     "sourceURL": "https://timex.com/products/waterbury-metropolitan-sub-second-39mm-leather-strap-watch-tw2y23100?variant=42577178886227",
-     "sourceVariantID": "42577178886227",
-     "sourceSKU": "TW2Y23100VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/9c9fc3223acce7fdd7.webp",
-    "/images/catalog/9ec4ac425caf9348ec.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/waterbury-metropolitan-sub-second-39mm-leather-strap-watch-tw2y23100"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/9c9fc3223acce7fdd7.webp",
-   "/images/catalog/9ec4ac425caf9348ec.webp"
-  ]
- },
- {
-  "id": "sunglasses-10360003952956",
-  "name": "Emporio Armani EA4058 Rectangular Sunglasses",
-  "brand": "Emporio Armani",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 13837,
-  "tag": "Sunglasses",
-  "description": "EA4058 RECTANGULAR SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Rubber Black | Grey Polarized": {
-    "": {
-     "usd": 80.92,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13837,
-     "sourceURL": "https://www.shadesdaddy.com/products/ea4058-emporio-armani?variant=52966219448636",
-     "sourceVariantID": "52966219448636",
-     "sourceSKU": "160373",
-     "availableAtSource": true,
-     "sourceVariantTitle": "RUBBER BLACK | GREY POLARIZED / 58-17-140",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Rubber Black | Grey Polarized": [
-    "/images/catalog/148ad7b39e80564819.webp",
-    "/images/catalog/0fac5cdfa0facbdf70.webp"
-   ]
-  },
-  "swatches": {
-   "Rubber Black | Grey Polarized": "#222326"
-  },
-  "sourceURLs": {
-   "Rubber Black | Grey Polarized": "https://www.shadesdaddy.com/products/ea4058-emporio-armani"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Rubber Black | Grey Polarized"
-  ],
-  "images": [
-   "/images/catalog/148ad7b39e80564819.webp",
-   "/images/catalog/0fac5cdfa0facbdf70.webp"
-  ]
- },
- {
-  "id": "watch-7695231909971",
-  "name": "Timex Q Timex 1975 SSQ Digital Reissue 38mm Stainless Steel Bracelet Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 28899,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 169.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 28899,
-     "sourceURL": "https://timex.com/products/q-timex-1975-ssq-digital-reissue-38mm-stainless-steel-bracelet-watch-tw2y06100?variant=43074525659219",
-     "sourceVariantID": "43074525659219",
-     "sourceSKU": "TW2Y06100VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/7af36b92ca7d38fe43.webp",
-    "/images/catalog/17daf3f149b46b0439.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/q-timex-1975-ssq-digital-reissue-38mm-stainless-steel-bracelet-watch-tw2y06100"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/7af36b92ca7d38fe43.webp",
-   "/images/catalog/17daf3f149b46b0439.webp"
-  ]
- },
- {
-  "id": "sunglasses-10359980163388",
-  "name": "Vogue Eyewear VO5380S Pillow Sunglasses",
-  "brand": "Vogue Eyewear",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Women",
-  "price": 5002,
-  "tag": "Sunglasses",
-  "description": "VO5380S PILLOW SUNGLASS",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Yellow Havana | Dark Grey": {
-    "": {
-     "usd": 29.25,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 5002,
-     "sourceURL": "https://www.shadesdaddy.com/products/vo5380s-vogue?variant=52966094995772",
-     "sourceVariantID": "52966094995772",
-     "sourceSKU": "279780",
-     "availableAtSource": true,
-     "sourceVariantTitle": "YELLOW HAVANA | DARK GREY / 50-18-145",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Yellow Havana | Dark Grey": [
-    "/images/catalog/ad88f78d18fd7c0a23.webp",
-    "/images/catalog/6e0cf10ae924e13c70.webp"
-   ]
-  },
-  "swatches": {
-   "Yellow Havana | Dark Grey": "#858b90"
-  },
-  "sourceURLs": {
-   "Yellow Havana | Dark Grey": "https://www.shadesdaddy.com/products/vo5380s-vogue"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Yellow Havana | Dark Grey"
-  ],
-  "images": [
-   "/images/catalog/ad88f78d18fd7c0a23.webp",
-   "/images/catalog/6e0cf10ae924e13c70.webp"
-  ]
- },
- {
-  "id": "watch-7452366143571",
-  "name": "Timex Waterbury Classic Moon Phase 40mm Stainless Steel Bracelet Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 34029,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 199.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 34029,
-     "sourceURL": "https://timex.com/products/waterbury-classic-moon-phase-40mm-stainless-steel-bracelet-watch-tw2w75700?variant=42216876507219",
-     "sourceVariantID": "42216876507219",
-     "sourceSKU": "TW2W75700VQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/1a50d422520c2b4961.webp",
-    "/images/catalog/49c1b18625d12e4973.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/waterbury-classic-moon-phase-40mm-stainless-steel-bracelet-watch-tw2w75700"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/1a50d422520c2b4961.webp",
-   "/images/catalog/49c1b18625d12e4973.webp"
-  ]
- },
- {
-  "id": "sunglasses-8107263754409",
-  "name": "Sunski Fiorella",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 9405,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black Slate": {
-    "": {
-     "usd": 55.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9405,
-     "sourceURL": "https://sunski.com/products/fiorella?variant=44192073547945",
-     "sourceVariantID": "44192073547945",
-     "sourceSKU": "SUN-FI-BSL",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Black Slate",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Copper Terra Fade": {
-    "": {
-     "usd": 55.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9405,
-     "sourceURL": "https://sunski.com/products/fiorella?variant=44192073580713",
-     "sourceVariantID": "44192073580713",
-     "sourceSKU": "SUN-FI-CTE",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Copper Terra Fade",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Black Slate": [
-    "/images/catalog/e4c402270ad8e16264.webp",
-    "/images/catalog/253f82a5885731af4b.webp"
-   ],
-   "Copper Terra Fade": [
-    "/images/catalog/5311d47353d2d6ab42.webp",
-    "/images/catalog/ad39a2591a284079cf.webp"
-   ]
-  },
-  "swatches": {
-   "Black Slate": "#222326",
-   "Copper Terra Fade": "#a9a294"
-  },
-  "sourceURLs": {
-   "Black Slate": "https://sunski.com/products/fiorella",
-   "Copper Terra Fade": "https://sunski.com/products/fiorella"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black Slate",
-   "Copper Terra Fade"
-  ],
-  "images": [
-   "/images/catalog/e4c402270ad8e16264.webp",
-   "/images/catalog/253f82a5885731af4b.webp",
-   "/images/catalog/5311d47353d2d6ab42.webp",
-   "/images/catalog/ad39a2591a284079cf.webp"
-  ]
- },
- {
-  "id": "watch-6907511472211",
-  "name": "Timex Expedition Metal Field 39mm Leather Strap Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 15903,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 93.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 15903,
-     "sourceURL": "https://timex.com/products/expedition-metal-field-39mm-leather-strap-watch-t40051?variant=40430881407059",
-     "sourceVariantID": "40430881407059",
-     "sourceSKU": "T400519J",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/053c4f846a53b80e5f.webp",
-    "/images/catalog/a361ce96507952bcb6.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/expedition-metal-field-39mm-leather-strap-watch-t40051"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/053c4f846a53b80e5f.webp",
-   "/images/catalog/a361ce96507952bcb6.webp"
-  ]
- },
- {
-  "id": "sunglasses-6619668775081",
-  "name": "Sunski Astra",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 14364,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Caramel Midnight": {
-    "": {
-     "usd": 84.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 14364,
-     "sourceURL": "https://sunski.com/products/astra?variant=43417289031849",
-     "sourceVariantID": "43417289031849",
-     "sourceSKU": "SUN-AS-CMI",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Caramel Midnight",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Copper Ruby": {
-    "": {
-     "usd": 84.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 14364,
-     "sourceURL": "https://sunski.com/products/astra?variant=43461744689321",
-     "sourceVariantID": "43461744689321",
-     "sourceSKU": "SUN-AS-CRU",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Copper Ruby",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Caramel Midnight": [
-    "/images/catalog/c8b0df2f657e4c765a.webp"
-   ],
-   "Copper Ruby": [
-    "/images/catalog/30bb3df3459b9fb159.webp"
-   ]
-  },
-  "swatches": {
-   "Caramel Midnight": "#a9a294",
-   "Copper Ruby": "#9e264c"
-  },
-  "sourceURLs": {
-   "Caramel Midnight": "https://sunski.com/products/astra",
-   "Copper Ruby": "https://sunski.com/products/astra"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Caramel Midnight",
-   "Copper Ruby"
-  ],
-  "images": [
-   "/images/catalog/c8b0df2f657e4c765a.webp",
-   "/images/catalog/30bb3df3459b9fb159.webp"
-  ]
- },
- {
-  "id": "watch-7551084691539",
-  "name": "Timex Easy Reader 35mm Leather Strap Watch",
-  "brand": "Timex",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 13167,
-  "tag": "Watches",
-  "description": "A Timex watch. Choose the pictured finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 77.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13167,
-     "sourceURL": "https://timex.com/products/easy-reader-35mm-leather-strap-watch-tw2w95400?variant=42521241780307",
-     "sourceVariantID": "42521241780307",
-     "sourceSKU": "TW2W954009J",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/3726be4e399a85315b.webp",
-    "/images/catalog/fe99b7d4ba4b25b7c4.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://timex.com/products/easy-reader-35mm-leather-strap-watch-tw2w95400"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/3726be4e399a85315b.webp",
-   "/images/catalog/fe99b7d4ba4b25b7c4.webp"
-  ]
- },
- {
-  "id": "sunglasses-8877276004521",
-  "name": "Sunski Targa",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 9918,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Ember Midnight": {
-    "": {
-     "usd": 58.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9918,
-     "sourceURL": "https://sunski.com/products/targa?variant=46846685380777",
-     "sourceVariantID": "46846685380777",
-     "sourceSKU": "SUN-TR-EMI",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Ember Midnight",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Pine Bronze": {
-    "": {
-     "usd": 58.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9918,
-     "sourceURL": "https://sunski.com/products/targa?variant=46846685413545",
-     "sourceVariantID": "46846685413545",
-     "sourceSKU": "SUN-TR-PBR",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Pine Bronze",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Ember Midnight": [
-    "/images/catalog/3687d660b8c880ead1.webp"
-   ],
-   "Pine Bronze": [
-    "/images/catalog/f81f2b6f750ae8f90d.webp"
-   ]
-  },
-  "swatches": {
-   "Ember Midnight": "#a9a294",
-   "Pine Bronze": "#a9a294"
-  },
-  "sourceURLs": {
-   "Ember Midnight": "https://sunski.com/products/targa",
-   "Pine Bronze": "https://sunski.com/products/targa"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Ember Midnight",
-   "Pine Bronze"
-  ],
-  "images": [
-   "/images/catalog/3687d660b8c880ead1.webp",
-   "/images/catalog/f81f2b6f750ae8f90d.webp"
-  ]
- },
- {
-  "id": "watch-6664144715878",
-  "name": "Casio AQ-230A-1DMQ",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 9234,
-  "tag": "Watches",
-  "description": "Casio Men's Black Dial Silver Stainless Steel Band Quartz Watch - AQ-230A-1DMQ",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 54.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9234,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-aq-230a-1dmq?variant=39498573807718",
-     "sourceVariantID": "39498573807718",
-     "sourceSKU": "AQ-230A-1DMQ",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/a63e276daa3e5df990.webp",
-    "/images/catalog/63620776ee2d58298f.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-aq-230a-1dmq"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/a63e276daa3e5df990.webp",
-   "/images/catalog/63620776ee2d58298f.webp"
-  ]
- },
- {
-  "id": "sunglasses-8877232095401",
-  "name": "Sunski Paladino",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 13338,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black Indigo": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/paladino?variant=46846493819049",
-     "sourceVariantID": "46846493819049",
-     "sourceSKU": "SUN-PA-BIN",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Black Indigo",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Tortoise Bronze": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/paladino?variant=46846493884585",
-     "sourceVariantID": "46846493884585",
-     "sourceSKU": "SUN-PA-TBR",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Tortoise Bronze",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Black Indigo": [
-    "/images/catalog/ca27cb703b67c31631.webp"
-   ],
-   "Tortoise Bronze": [
-    "/images/catalog/94cd5c38acef83eb1e.webp"
-   ]
-  },
-  "swatches": {
-   "Black Indigo": "#222326",
-   "Tortoise Bronze": "#a9a294"
-  },
-  "sourceURLs": {
-   "Black Indigo": "https://sunski.com/products/paladino",
-   "Tortoise Bronze": "https://sunski.com/products/paladino"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black Indigo",
-   "Tortoise Bronze"
-  ],
-  "images": [
-   "/images/catalog/ca27cb703b67c31631.webp",
-   "/images/catalog/94cd5c38acef83eb1e.webp"
-  ]
- },
- {
-  "id": "watch-9061307482389",
-  "name": "Casio AE-1200WH-1BVDF",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 5809,
-  "tag": "Watches",
-  "description": "Casio Men's Black dial Black Band Digital Quartz Watch - AE-1200WH-1BVDF",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 33.97,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 5809,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-ae-1200wh-1bvdf?variant=48126145167637",
-     "sourceVariantID": "48126145167637",
-     "sourceSKU": "AE-1200WH-1BVDF",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/7ccbb482e8bd18719b.webp",
-    "/images/catalog/14b0605df6a8e05e0c.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-ae-1200wh-1bvdf"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/7ccbb482e8bd18719b.webp",
-   "/images/catalog/14b0605df6a8e05e0c.webp"
-  ]
- },
- {
-  "id": "sunglasses-8877150109865",
-  "name": "Sunski Minette",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 13338,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Tortoise Slate": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/minette?variant=46846377033897",
-     "sourceVariantID": "46846377033897",
-     "sourceSKU": "SUN-ME-TSL",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Tortoise Slate",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Tortoise Afterglow": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/minette?variant=46846377066665",
-     "sourceVariantID": "46846377066665",
-     "sourceSKU": "SUN-ME-DAG",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Tortoise Afterglow",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Tortoise Slate": [
-    "/images/catalog/04550412f41e688fbf.webp"
-   ],
-   "Tortoise Afterglow": [
-    "/images/catalog/ae75400ff95b0bb0e7.webp"
-   ]
-  },
-  "swatches": {
-   "Tortoise Slate": "#a9a294",
-   "Tortoise Afterglow": "#a9a294"
-  },
-  "sourceURLs": {
-   "Tortoise Slate": "https://sunski.com/products/minette",
-   "Tortoise Afterglow": "https://sunski.com/products/minette"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Tortoise Slate",
-   "Tortoise Afterglow"
-  ],
-  "images": [
-   "/images/catalog/04550412f41e688fbf.webp",
-   "/images/catalog/ae75400ff95b0bb0e7.webp"
-  ]
- },
- {
-  "id": "watch-9359782150421",
-  "name": "Casio MDV-107D-1A2VDF",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 17943,
-  "tag": "Watches",
-  "description": "Casio Men's Black Dial Silver Stainless Steel Band Analog Quartz Watch - MDV-107D-1A2VDF",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 104.93,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 17943,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-mdv-107d-1a2vdf?variant=49046272606485",
-     "sourceVariantID": "49046272606485",
-     "sourceSKU": "MDV-107D-1A2VDF",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/8c3d03f7368331f680.webp",
-    "/images/catalog/7f844e81cbaea4769c.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-mdv-107d-1a2vdf"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/8c3d03f7368331f680.webp",
-   "/images/catalog/7f844e81cbaea4769c.webp"
-  ]
- },
- {
-  "id": "sunglasses-8425980756137",
-  "name": "Sunski Tango",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 13338,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black Slate": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/tango?variant=45427154354345",
-     "sourceVariantID": "45427154354345",
-     "sourceSKU": "SUN-TA-BSL",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Black Slate",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Cider Midnight": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/tango?variant=45735140425897",
-     "sourceVariantID": "45735140425897",
-     "sourceSKU": "SUN-TA-CMI",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Cider Midnight",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Black Slate": [
-    "/images/catalog/d256369758a98f643c.webp"
-   ],
-   "Cider Midnight": [
-    "/images/catalog/6bdff2d0f7db6b7c63.webp"
-   ]
-  },
-  "swatches": {
-   "Black Slate": "#222326",
-   "Cider Midnight": "#a9a294"
-  },
-  "sourceURLs": {
-   "Black Slate": "https://sunski.com/products/tango",
-   "Cider Midnight": "https://sunski.com/products/tango"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black Slate",
-   "Cider Midnight"
-  ],
-  "images": [
-   "/images/catalog/d256369758a98f643c.webp",
-   "/images/catalog/6bdff2d0f7db6b7c63.webp"
-  ]
- },
- {
-  "id": "watch-9086069899541",
-  "name": "Casio MTP-B145D-4AVDF",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 12398,
-  "tag": "Watches",
-  "description": "Casio Men's Pink dial Silver Band Analog Quartz Watch - MTP-B145D-4AVDF",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 72.5,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 12398,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-mtp-b145d-4avdf?variant=48206405370133",
-     "sourceVariantID": "48206405370133",
-     "sourceSKU": "MTP-B145D-4AVDF",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/f3ba95ed148260913e.webp",
-    "/images/catalog/7fb1f7d4ba05161f24.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-mtp-b145d-4avdf"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/f3ba95ed148260913e.webp",
-   "/images/catalog/7fb1f7d4ba05161f24.webp"
-  ]
- },
- {
-  "id": "sunglasses-8107262869673",
-  "name": "Sunski Bianca",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 9405,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Ivory Amber": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/bianca?variant=44192034226345",
-     "sourceVariantID": "44192034226345",
-     "sourceSKU": "SUN-BI-IAM",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Ivory Amber",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Grass Terra Fade": {
-    "": {
-     "usd": 55.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9405,
-     "sourceURL": "https://sunski.com/products/bianca?variant=47104629801129",
-     "sourceVariantID": "47104629801129",
-     "sourceSKU": "SUN-BI-GTE",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Grass Terra Fade",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Ivory Amber": [
-    "/images/catalog/6df67abbdfc3ccae73.webp"
-   ],
-   "Grass Terra Fade": [
-    "/images/catalog/4c4779f9035cea685f.webp"
-   ]
-  },
-  "swatches": {
-   "Ivory Amber": "#eae4d8",
-   "Grass Terra Fade": "#a9a294"
-  },
-  "sourceURLs": {
-   "Ivory Amber": "https://sunski.com/products/bianca",
-   "Grass Terra Fade": "https://sunski.com/products/bianca"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Ivory Amber",
-   "Grass Terra Fade"
-  ],
-  "images": [
-   "/images/catalog/6df67abbdfc3ccae73.webp",
-   "/images/catalog/4c4779f9035cea685f.webp"
-  ]
- },
- {
-  "id": "watch-9465525666069",
-  "name": "Casio MTP-B146D-2AVDF",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 13663,
-  "tag": "Watches",
-  "description": "Casio Men's Blue Dial Silver Stainless Steel Band Analog Japanese Quartz Watch - MTP-B146D-2AVDF",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 79.9,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13663,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-mtp-b146d-2avdf?variant=49719153819925",
-     "sourceVariantID": "49719153819925",
-     "sourceSKU": "MTP-B146D-2AVDF",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/0b773c975a21fe4ca2.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-mtp-b146d-2avdf"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/0b773c975a21fe4ca2.webp"
-  ]
- },
- {
-  "id": "sunglasses-8107264508073",
-  "name": "Sunski Lago",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 13338,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Wire Tort Amber": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/lago?variant=47172566188201",
-     "sourceVariantID": "47172566188201",
-     "sourceSKU": "SUN-LA-WTA",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Wire Tort Amber",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Fog Terra Fade": {
-    "": {
-     "usd": 78.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 13338,
-     "sourceURL": "https://sunski.com/products/lago?variant=45873080729769",
-     "sourceVariantID": "45873080729769",
-     "sourceSKU": "SUN-LA-GTE",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Fog Terra Fade",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Wire Tort Amber": [
-    "/images/catalog/cea8b75c5277077659.webp"
-   ],
-   "Fog Terra Fade": [
-    "/images/catalog/34b3bc8da09ed2e256.webp"
-   ]
-  },
-  "swatches": {
-   "Wire Tort Amber": "#a9a294",
-   "Fog Terra Fade": "#a9a294"
-  },
-  "sourceURLs": {
-   "Wire Tort Amber": "https://sunski.com/products/lago",
-   "Fog Terra Fade": "https://sunski.com/products/lago"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Wire Tort Amber",
-   "Fog Terra Fade"
-  ],
-  "images": [
-   "/images/catalog/cea8b75c5277077659.webp",
-   "/images/catalog/34b3bc8da09ed2e256.webp"
-  ]
- },
- {
-  "id": "watch-6591468601446",
-  "name": "Casio LA680WGA-1BDF",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Women",
-  "price": 11106,
-  "tag": "Watches",
-  "description": "Casio Women's Mid-Size Black Dial Gold Tone Digital Retro Quartz Watch - LA680WGA-1BDF",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 64.95,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 11106,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-la680wga-1bdf?variant=39352628740198",
-     "sourceVariantID": "39352628740198",
-     "sourceSKU": "LA680WGA-1BDF",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/a66c689a4fec2db0fe.webp",
-    "/images/catalog/cce2aaa0d3b5be599b.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-la680wga-1bdf"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/a66c689a4fec2db0fe.webp",
-   "/images/catalog/cce2aaa0d3b5be599b.webp"
-  ]
- },
- {
-  "id": "sunglasses-7925799092393",
-  "name": "Sunski Vallarta",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 9918,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Mellow Yellow Forest": {
-    "": {
-     "usd": 58.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9918,
-     "sourceURL": "https://sunski.com/products/vallarta?variant=43713851556009",
-     "sourceVariantID": "43713851556009",
-     "sourceSKU": "SUN-VT-MYF",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Mellow Yellow Forest",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Mellow Yellow Forest": [
-    "/images/catalog/dc5ad2db76ebacfe6d.webp"
-   ]
-  },
-  "swatches": {
-   "Mellow Yellow Forest": "#a9a294"
-  },
-  "sourceURLs": {
-   "Mellow Yellow Forest": "https://sunski.com/products/vallarta"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Mellow Yellow Forest"
-  ],
-  "images": [
-   "/images/catalog/dc5ad2db76ebacfe6d.webp"
-  ]
- },
- {
-  "id": "watch-6762346872934",
-  "name": "Casio LTP-V007L-7B1UDF",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Women",
-  "price": 5805,
-  "tag": "Watches",
-  "description": "Casio Women's Silver Dial Black Leather Band Japanese quartz Watch - LTP-V007L-7B1UDF",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "As pictured": {
-    "": {
-     "usd": 33.95,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 5805,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-ltp-v007l-7b1udf?variant=39742659100774",
-     "sourceVariantID": "39742659100774",
-     "sourceSKU": "LTP-V007L-7B1UDF",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
-    }
-   }
-  },
-  "variants": {
-   "As pictured": [
-    "/images/catalog/a6c34d3dca74304520.webp"
-   ]
-  },
-  "swatches": {
-   "As pictured": "#a9a294"
-  },
-  "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-ltp-v007l-7b1udf"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "As pictured"
-  ],
-  "images": [
-   "/images/catalog/a6c34d3dca74304520.webp"
-  ]
- },
- {
-  "id": "sunglasses-7531985535145",
-  "name": "Sunski Tera",
-  "brand": "Sunski",
-  "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
-  "price": 16758,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Tortoise Forest": {
-    "": {
-     "usd": 98.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 16758,
-     "sourceURL": "https://sunski.com/products/tera?variant=43087789359273",
-     "sourceVariantID": "43087789359273",
-     "sourceSKU": "SUN-TE-TFOP",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Tortoise Forest",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Black Gold": {
-    "": {
-     "usd": 98.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 16758,
-     "sourceURL": "https://sunski.com/products/tera?variant=42369954119849",
-     "sourceVariantID": "42369954119849",
-     "sourceSKU": "SUN-TE-BKGP",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Black Gold",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Tortoise Forest": [
-    "/images/catalog/b4d5d0bfac681e2119.webp"
-   ],
-   "Black Gold": [
-    "/images/catalog/9eb1244ab9152e50b6.webp"
-   ]
-  },
-  "swatches": {
-   "Tortoise Forest": "#a9a294",
-   "Black Gold": "#222326"
-  },
-  "sourceURLs": {
-   "Tortoise Forest": "https://sunski.com/products/tera",
-   "Black Gold": "https://sunski.com/products/tera"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Tortoise Forest",
-   "Black Gold"
-  ],
-  "images": [
-   "/images/catalog/b4d5d0bfac681e2119.webp",
-   "/images/catalog/9eb1244ab9152e50b6.webp"
-  ]
- },
- {
-  "id": "watch-9471543050517",
-  "name": "Casio A168WEGB-1BDF",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Unisex",
   "price": 16929,
-  "tag": "Watches",
-  "description": "Casio Unisex Black Dial Black Stainless Steel Band Digital Quartz Watch - A168WEGB-1BDF",
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "As pictured": {
+   "Mauve": {
     "": {
      "usd": 99.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
+     "baseEtb": 18810.0,
      "etb": 16929,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-a168wegb-1bdf?variant=49757650288917",
-     "sourceVariantID": "49757650288917",
-     "sourceSKU": "A168WEGB-1BDF",
+     "sourceURL": "https://www.bluefly.com/products/10070_aglaias_ny?variant=52505599705220",
+     "sourceVariantID": "52505599705220",
+     "sourceSKU": "10070_590118_NY",
+     "sourceVariantTitle": "Mauve / Default",
      "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
-     "itemKind": "Watches"
+     "itemKind": "Sunglasses"
     }
    }
   },
   "variants": {
-   "As pictured": [
-    "/images/catalog/a96850a3f11b22e544.webp",
-    "/images/catalog/b151e25b4de4f3b900.webp"
+   "Mauve": [
+    "/images/catalog/4534805bd6fd19c0f0.webp",
+    "/images/catalog/61d38976ce6edb6c4f.webp"
    ]
   },
   "swatches": {
-   "As pictured": "#a9a294"
+   "Mauve": "#b5b0a2"
   },
   "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-a168wegb-1bdf"
+   "Mauve": "https://www.bluefly.com/products/10070_aglaias_ny"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "As pictured"
+   "Mauve"
   ],
   "images": [
-   "/images/catalog/a96850a3f11b22e544.webp",
-   "/images/catalog/b151e25b4de4f3b900.webp"
+   "/images/catalog/4534805bd6fd19c0f0.webp",
+   "/images/catalog/61d38976ce6edb6c4f.webp"
   ]
  },
  {
-  "id": "sunglasses-6619670020265",
-  "name": "Sunski Couloir",
-  "brand": "Sunski",
+  "id": "watch-7121793974332",
+  "name": "WENGER SWISS ARMY Men's Urban Metro 42mm Bracelet Watch 01.1741.134",
+  "brand": "Wenger",
   "department": "Watches & Sunglasses",
-  "category": "Sunglasses",
-  "audience": "Unisex",
+  "category": "Watches",
+  "audience": "Men",
   "price": 16758,
-  "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
-  "sizeLabel": "One size",
-  "sizes": [],
-  "offers": {
-   "Black Forest": {
-    "": {
-     "usd": 98.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 16758,
-     "sourceURL": "https://sunski.com/products/couloir?variant=39485588734121",
-     "sourceVariantID": "39485588734121",
-     "sourceSKU": "SUN-CO-BFOP",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Black Forest",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Storm Silver Cat 4": {
-    "": {
-     "usd": 98.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 16758,
-     "sourceURL": "https://sunski.com/products/couloir?variant=45839376089257",
-     "sourceVariantID": "45839376089257",
-     "sourceSKU": "SUN-CO-SSIP",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Storm Silver Cat 4",
-     "itemKind": "Sunglasses"
-    }
-   }
-  },
-  "variants": {
-   "Black Forest": [
-    "/images/catalog/b0e4bedf97aa6f60f1.webp"
-   ],
-   "Storm Silver Cat 4": [
-    "/images/catalog/522fab24e7144a32ca.webp"
-   ]
-  },
-  "swatches": {
-   "Black Forest": "#222326",
-   "Storm Silver Cat 4": "#b6bec7"
-  },
-  "sourceURLs": {
-   "Black Forest": "https://sunski.com/products/couloir",
-   "Storm Silver Cat 4": "https://sunski.com/products/couloir"
-  },
-  "ratings": {},
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black Forest",
-   "Storm Silver Cat 4"
-  ],
-  "images": [
-   "/images/catalog/b0e4bedf97aa6f60f1.webp",
-   "/images/catalog/522fab24e7144a32ca.webp"
-  ]
- },
- {
-  "id": "watch-9474022998293",
-  "name": "Casio CA-53WF-3BDF",
-  "brand": "Casio",
-  "department": "Watches & Sunglasses",
-  "category": "Watches",
-  "audience": "Men",
-  "price": 6635,
   "tag": "Watches",
-  "description": "Casio Men's Black Dial Green Resin Band Digital Quartz Watch - CA-53WF-3BDF",
+  "description": "A Wenger timepiece. Case and strap details are shown in the product name.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "As pictured": {
+   "multi": {
     "": {
-     "usd": 38.8,
+     "usd": 98.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 6635,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-ca-53wf-3bdf?variant=49763053764885",
-     "sourceVariantID": "49763053764885",
-     "sourceSKU": "CA-53WF-3BDF(2)",
+     "baseEtb": 18620.0,
+     "etb": 16758,
+     "sourceURL": "https://shop.simon.com/products/wenger-swiss-army-mens-urban-metro-42mm-bracelet-watch-01-1741-134?variant=40613801230396",
+     "sourceVariantID": "40613801230396",
+     "sourceSKU": "086c5e15-0c9c-4ef3-93e2-7a933cf364d7",
+     "sourceVariantTitle": "multi",
      "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
      "itemKind": "Watches"
     }
    }
   },
   "variants": {
-   "As pictured": [
-    "/images/catalog/d1b77eb04f21824faa.webp",
-    "/images/catalog/b2c5100fa1c3caa63f.webp"
+   "multi": [
+    "/images/catalog/cad153fce299198b12.webp",
+    "/images/catalog/02b0dc54629b947197.webp"
    ]
   },
   "swatches": {
-   "As pictured": "#a9a294"
+   "multi": "#b5b0a2"
   },
   "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-ca-53wf-3bdf"
+   "multi": "https://shop.simon.com/products/wenger-swiss-army-mens-urban-metro-42mm-bracelet-watch-01-1741-134"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "As pictured"
+   "multi"
   ],
   "images": [
-   "/images/catalog/d1b77eb04f21824faa.webp",
-   "/images/catalog/b2c5100fa1c3caa63f.webp"
+   "/images/catalog/cad153fce299198b12.webp",
+   "/images/catalog/02b0dc54629b947197.webp"
   ]
  },
  {
-  "id": "sunglasses-9851453009",
-  "name": "Sunski Avila",
-  "brand": "Sunski",
+  "id": "sunglasses-8709407637564",
+  "name": "Michael Kors Women's Manhasset Sunglasses MK2140 30058G Black 55mm",
+  "brand": "Michael Kors",
   "department": "Watches & Sunglasses",
   "category": "Sunglasses",
   "audience": "Unisex",
-  "price": 11628,
+  "price": 15219,
   "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "description": "Classic designer sunglasses for a polished everyday look.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "Black Slate": {
+   "30058g": {
     "": {
-     "usd": 68.0,
+     "usd": 89.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 11628,
-     "sourceURL": "https://sunski.com/products/avila?variant=37123983633",
-     "sourceVariantID": "37123983633",
-     "sourceSKU": "SUN-AV-BKS",
+     "baseEtb": 16910.0,
+     "etb": 15219,
+     "sourceURL": "https://shop.simon.com/products/michael-kors-womens-manhasset-sunglasses-mk2140-30058g-black-55mm?variant=43638138208316",
+     "sourceVariantID": "43638138208316",
+     "sourceSKU": "3c4eb8af-5eb8-4243-b4b9-fc7d28c915a6",
+     "sourceVariantTitle": "30058g",
      "availableAtSource": true,
-     "sourceVariantTitle": "Black Slate",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Tortoise Amber": {
-    "": {
-     "usd": 68.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 11628,
-     "sourceURL": "https://sunski.com/products/avila?variant=31681093763138",
-     "sourceVariantID": "31681093763138",
-     "sourceSKU": "SUN-AV-TAM",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Tortoise Amber",
      "itemKind": "Sunglasses"
     }
    }
   },
   "variants": {
-   "Black Slate": [
-    "/images/catalog/a0bb1d59f2c0487eed.webp"
-   ],
-   "Tortoise Amber": [
-    "/images/catalog/c2c48ce598a4d27517.webp"
+   "30058g": [
+    "/images/catalog/2c32937ea21e102115.webp",
+    "/images/catalog/26c1e65a5019c48e49.webp"
    ]
   },
   "swatches": {
-   "Black Slate": "#222326",
-   "Tortoise Amber": "#a9a294"
+   "30058g": "#b5b0a2"
   },
   "sourceURLs": {
-   "Black Slate": "https://sunski.com/products/avila",
-   "Tortoise Amber": "https://sunski.com/products/avila"
+   "30058g": "https://shop.simon.com/products/michael-kors-womens-manhasset-sunglasses-mk2140-30058g-black-55mm"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Black Slate",
-   "Tortoise Amber"
+   "30058g"
   ],
   "images": [
-   "/images/catalog/a0bb1d59f2c0487eed.webp",
-   "/images/catalog/c2c48ce598a4d27517.webp"
+   "/images/catalog/2c32937ea21e102115.webp",
+   "/images/catalog/26c1e65a5019c48e49.webp"
   ]
  },
  {
-  "id": "watch-9464661868821",
-  "name": "Casio MTP-1374D-1AVDF",
-  "brand": "Casio",
+  "id": "watch-7762862833724",
+  "name": "Wenger Swiss Army Men's 01.1743.112 Urban Metropolitan Chronograph Black Dial Watch 44 mm",
+  "brand": "Wenger",
   "department": "Watches & Sunglasses",
   "category": "Watches",
   "audience": "Men",
-  "price": 13158,
+  "price": 34200,
   "tag": "Watches",
-  "description": "Casio Men's Black Dial Silver Stainless Steel Band Analog Quartz Watch - MTP-1374D-1AVDF",
+  "description": "A Wenger timepiece. Case and strap details are shown in the product name.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "As pictured": {
+   "black": {
     "": {
-     "usd": 76.95,
+     "usd": 200.0,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 13158,
-     "sourceURL": "https://www.watchco.com/products/casio-watch-mtp-1374d-1avdf?variant=49715964510485",
-     "sourceVariantID": "49715964510485",
-     "sourceSKU": "MTP-1374D-1AVDF",
+     "baseEtb": 38000.0,
+     "etb": 34200,
+     "sourceURL": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1743-112-urban-metropolitan-chronograph-black-dial-watch-44-mm?variant=42118076235836",
+     "sourceVariantID": "42118076235836",
+     "sourceSKU": "a27e2b9d-5040-4044-99d6-deefb1e33090",
+     "sourceVariantTitle": "black",
      "availableAtSource": true,
-     "sourceVariantTitle": "Default Title",
      "itemKind": "Watches"
     }
    }
   },
   "variants": {
-   "As pictured": [
-    "/images/catalog/830018eac493540001.webp"
+   "black": [
+    "/images/catalog/61c1cc4718521e7967.webp",
+    "/images/catalog/59c85f073894a778f0.webp"
    ]
   },
   "swatches": {
-   "As pictured": "#a9a294"
+   "black": "#222326"
   },
   "sourceURLs": {
-   "As pictured": "https://www.watchco.com/products/casio-watch-mtp-1374d-1avdf"
+   "black": "https://shop.simon.com/products/wenger-swiss-army-mens-01-1743-112-urban-metropolitan-chronograph-black-dial-watch-44-mm"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "As pictured"
+   "black"
   ],
   "images": [
-   "/images/catalog/830018eac493540001.webp"
+   "/images/catalog/61c1cc4718521e7967.webp",
+   "/images/catalog/59c85f073894a778f0.webp"
   ]
  },
  {
-  "id": "sunglasses-8893235025",
-  "name": "Sunski Headland",
-  "brand": "Sunski",
+  "id": "sunglasses-10405662556292",
+  "name": "Ferragamo Men's 59Mm Sunglasses",
+  "brand": "Ferragamo",
   "department": "Watches & Sunglasses",
   "category": "Sunglasses",
   "audience": "Unisex",
-  "price": 9918,
+  "price": 11968,
   "tag": "Sunglasses",
-  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "description": "Classic designer sunglasses for a polished everyday look.",
   "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "Black Forest": {
+   "Matte Black": {
     "": {
-     "usd": 58.0,
+     "usd": 69.99,
      "usdEtbRate": 190,
      "discountPercent": 10,
-     "etb": 9918,
-     "sourceURL": "https://sunski.com/products/headland?variant=40791776264361",
-     "sourceVariantID": "40791776264361",
-     "sourceSKU": "SUN-HL-BKF",
+     "baseEtb": 13298.1,
+     "etb": 11968,
+     "sourceURL": "https://www.bluefly.com/products/10007_1111004243?variant=52533848146052",
+     "sourceVariantID": "52533848146052",
+     "sourceSKU": "10007_11110042430000",
+     "sourceVariantTitle": "Matte Black / Default",
      "availableAtSource": true,
-     "sourceVariantTitle": "Black Forest",
-     "itemKind": "Sunglasses"
-    }
-   },
-   "Blue": {
-    "": {
-     "usd": 58.0,
-     "usdEtbRate": 190,
-     "discountPercent": 10,
-     "etb": 9918,
-     "sourceURL": "https://sunski.com/products/headland?variant=46075065958569",
-     "sourceVariantID": "46075065958569",
-     "sourceSKU": "SUN-HL-BL",
-     "availableAtSource": true,
-     "sourceVariantTitle": "Blue",
      "itemKind": "Sunglasses"
     }
    }
   },
   "variants": {
-   "Black Forest": [
-    "/images/catalog/1bb6b3833edf6ed989.webp"
-   ],
-   "Blue": [
-    "/images/catalog/95894c23fdb926bb20.webp"
+   "Matte Black": [
+    "/images/catalog/11d351a2dc85253271.webp",
+    "/images/catalog/b9866ea29cc89aaf77.webp"
    ]
   },
   "swatches": {
-   "Black Forest": "#222326",
-   "Blue": "#4c7391"
+   "Matte Black": "#222326"
   },
   "sourceURLs": {
-   "Black Forest": "https://sunski.com/products/headland",
-   "Blue": "https://sunski.com/products/headland"
+   "Matte Black": "https://www.bluefly.com/products/10007_1111004243"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Black Forest",
-   "Blue"
+   "Matte Black"
   ],
   "images": [
-   "/images/catalog/1bb6b3833edf6ed989.webp",
-   "/images/catalog/95894c23fdb926bb20.webp"
+   "/images/catalog/11d351a2dc85253271.webp",
+   "/images/catalog/b9866ea29cc89aaf77.webp"
+  ]
+ },
+ {
+  "id": "watch-7894690398268",
+  "name": "Wenger Women's 34mm Quartz Watch",
+  "brand": "Wenger",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 9403,
+  "tag": "Watches",
+  "description": "A Wenger timepiece. Case and strap details are shown in the product name.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "gold": {
+    "": {
+     "usd": 54.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 10448.1,
+     "etb": 9403,
+     "sourceURL": "https://shop.simon.com/products/wenger-womens-34mm-quartz-watch?variant=42447882059836",
+     "sourceVariantID": "42447882059836",
+     "sourceSKU": "a90b790f-57b7-42a1-a8c3-c3ed5dec02f5",
+     "sourceVariantTitle": "gold",
+     "availableAtSource": true,
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "gold": [
+    "/images/catalog/00ef2525dd98c7a811.webp",
+    "/images/catalog/80dc5a3d03f30966f7.webp"
+   ]
+  },
+  "swatches": {
+   "gold": "#bda15e"
+  },
+  "sourceURLs": {
+   "gold": "https://shop.simon.com/products/wenger-womens-34mm-quartz-watch"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "gold"
+  ],
+  "images": [
+   "/images/catalog/00ef2525dd98c7a811.webp",
+   "/images/catalog/80dc5a3d03f30966f7.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10405661704324",
+  "name": "Ferragamo Men's 52Mm Sunglasses",
+  "brand": "Ferragamo",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 11968,
+  "tag": "Sunglasses",
+  "description": "Classic designer sunglasses for a polished everyday look.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Dark Tortoise": {
+    "": {
+     "usd": 69.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "baseEtb": 13298.1,
+     "etb": 11968,
+     "sourceURL": "https://www.bluefly.com/products/10007_1111402489?variant=52533846900868",
+     "sourceVariantID": "52533846900868",
+     "sourceSKU": "10007_11114024890000",
+     "sourceVariantTitle": "Dark Tortoise / Default",
+     "availableAtSource": true,
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Dark Tortoise": [
+    "/images/catalog/e3492df1b918b4a791.webp",
+    "/images/catalog/6993791749ec6d8245.webp"
+   ]
+  },
+  "swatches": {
+   "Dark Tortoise": "#785a40"
+  },
+  "sourceURLs": {
+   "Dark Tortoise": "https://www.bluefly.com/products/10007_1111402489"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Dark Tortoise"
+  ],
+  "images": [
+   "/images/catalog/e3492df1b918b4a791.webp",
+   "/images/catalog/6993791749ec6d8245.webp"
   ]
  }
 ];

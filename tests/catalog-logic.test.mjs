@@ -1,3 +1,4 @@
+import {discountedUsdPriceEtb} from '../public/retail-pricing.mjs';
 import {accessoryPriceEtb} from '../public/accessory-pricing.mjs';
 import {faceCarePriceEtb} from '../public/face-care-pricing.mjs';
 import test from 'node:test';
@@ -44,18 +45,13 @@ test('all categories and at least fifteen men’s and fifteen women’s shoes ha
    assert.ok(p.variants[color].length>0,p.id+' '+color);
    assert.ok(p.swatches[color]);
    for(const [size,offer] of Object.entries(p.offers[color])){
-    const min=p.department==='Bags'?3420:p.department==='Watches & Sunglasses'?1:p.department==='Face care'?3000:p.department==='Fragrances'?10000:p.department==='Shoes'?4000:p.department==='Clothes'&&p.audience==='Men'?2125:2500;
-    const max=p.department==='Bags'?34200:p.department==='Watches & Sunglasses'?(p.category==='Sunglasses'?17100:34200):p.department==='Face care'?20000:p.department==='Fragrances'?45000:p.department==='Shoes'?10000:7000;
-    assert.ok(offer.etb>=min&&offer.etb<=max,p.id);
-    const amount=offer.amount ?? offer.usd;
-    const rate=offer.currency?audit.fx.etbPerCurrency[offer.currency]:audit.fx.USD_ETB;
-    const base=Math.round(amount*rate);
-    if(p.department==='Bags'||p.department==='Watches & Sunglasses'){assert.equal(offer.etb,accessoryPriceEtb(p.department==='Bags'?'Bags':p.category,offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
-    else if(p.department==='Face care'){assert.equal(offer.etb,faceCarePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
-    else if(p.department==='Fragrances'){assert.equal(offer.etb,fragrancePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
-    else if(p.department==='Clothes'&&p.audience==='Men'){assert.equal(offer.discountPercent,15);assert.equal(offer.baseEtb,base);assert.equal(offer.etb,Math.round(base*.85));}
-    else if(p.department==='Clothes'&&p.audience==='Women'){assert.equal(offer.etb,Math.max(base,offer.merchantPriceFloorEtb||0));}
-    else assert.equal(offer.etb,base);
+    assert.ok(offer.etb>0,p.id);
+    assert.equal(offer.etb,discountedUsdPriceEtb(offer.usd));
+    assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);
+    assert.equal(offer.merchantPriceFloorEtb,undefined);
+    if(p.department==='Bags'||p.department==='Watches & Sunglasses')assert.equal(offer.etb,accessoryPriceEtb(p.department==='Bags'?'Bags':p.category,offer.usd));
+    if(p.department==='Face care')assert.equal(offer.etb,faceCarePriceEtb(offer.usd));
+    if(p.department==='Fragrances')assert.equal(offer.etb,fragrancePriceEtb(offer.usd));
     assert.equal(offer.sourceURL.startsWith(record.sourceHost+'/products/'),true);
     assert.equal(new URL(offer.sourceURL).searchParams.get('variant'),offer.sourceVariantID);
     assert.deepEqual(offer,record.offers[color][size]);
@@ -74,8 +70,8 @@ test('every catalog photograph matches the recorded downloaded brand image',()=>
  }
 });
 
-test('only a few shoe models reach the upper price band',()=>{
- const high=catalog.filter(p=>p.department==='Shoes'&&Object.values(p.offers).some(sizes=>Object.values(sizes).some(offer=>offer.etb>=9500)));
+test('only a few shoe models reach 10,000 ETB under the uniform pricing rule',()=>{
+ const high=catalog.filter(p=>p.department==='Shoes'&&Object.values(p.offers).some(sizes=>Object.values(sizes).some(offer=>offer.etb>=10000)));
  assert.ok(high.length<=3,high.map(p=>p.id).join(', '));
 });
 
@@ -94,7 +90,7 @@ test('fashion edits remove all clothing T-shirts and keep at least 85% of women�
  const women=clothes.filter(p=>p.audience==='Women');
  assert.ok(women.filter(p=>['Dresses','Skirts'].includes(p.category)).length/women.length>=.85);
  assert.ok(clothes.filter(p=>p.audience==='Men').every(p=>['Jackets','Hoodies','Pants'].includes(p.category)));
- assert.ok(women.every(p=>p.price>=6000&&p.price<=7000));
+ assert.ok(clothes.every(p=>p.tag!=='15% off'));
 });
 
 test('twenty branded fragrances have full-bottle volume, concentration and traceable available offers',()=>{
@@ -120,7 +116,7 @@ test('merchant EU sizes are enabled for every shoe color without inventing sourc
    const reference=record.priceReferences[color];assert.ok(reference.offer.sourceVariantID);assert.ok(record.sourceOffers[color][reference.sourceSize]);
    for(const size of expected){
     const offer=selectedOffer(shoe,color,size);assert.equal(offer.stockBasis,'merchant');assert.equal(offer.sourceVariantID,null);
-    assert.equal(offer.etb,reference.offer.etb);assert.equal(displaySize(shoe,size),size);
+    assert.equal(offer.etb,discountedUsdPriceEtb(offer.usd));assert.equal(displaySize(shoe,size),size);
     assert.equal(selectionIsAvailable(shoe,{color,size}),true);
    }
   }
@@ -131,7 +127,7 @@ test('Face care replaces Makeup with a complete mostly-women’s skincare edit',
  assert.ok(catalog.every(p=>p.department!=='Makeup'));
  const products=catalog.filter(p=>p.department==='Face care');assert.equal(products.length,20);
  assert.ok(products.filter(p=>p.audience==='Women').length/products.length>=.75);
- for(const category of ['Sunscreen','Moisturizer','Cleanser','Serum','Toner','Eye care'])assert.ok(products.some(p=>p.category===category));
+ for(const category of ['Sunscreen','Moisturizer','Cleanser','Serum','Face mist','Eye care'])assert.ok(products.some(p=>p.category===category));
  for(const p of products)for(const color of p.colors){const offer=selectedOffer(p,color);assert.equal(offer.availableAtSource,true);assert.ok(offer.sourceVariantTitle);assert.equal(offer.etb,faceCarePriceEtb(offer.usd));}
 });
 
@@ -144,5 +140,20 @@ test('twenty-five women’s bags and fifty alternating watches/sunglasses have t
   const offer=selectedOffer(p,color);assert.equal(offer.availableAtSource,true);assert.equal(offer.etb,accessoryPriceEtb(p.department==='Bags'?'Bags':p.category,offer.usd));
   if(p.department==='Bags')assert.ok(offer.usd>=20&&offer.usd<=200);
   else assert.ok(offer.usd<=(p.category==='Watches'?200:100));
+ }
+});
+
+test('replacements use famous varied brands and universal pricing without the previous clothing adjustments',()=>{
+ const bags=catalog.filter(p=>p.department==='Bags');assert.ok(new Set(bags.map(p=>p.brand)).size>=5);
+ assert.ok(bags.every(p=>!['Steve Madden','Brahmin','HOBO'].includes(p.brand)));
+ const watches=catalog.filter(p=>p.category==='Watches');assert.ok(new Set(watches.map(p=>p.brand)).size>=5);
+ assert.ok(watches.every(p=>!['Timex','Casio','Rolex'].includes(p.brand)));
+ for(const p of watches.filter(p=>p.brand==='Tissot')){assert.match(p.name,/PRX/);assert.doesNotMatch(p.name,/Mathey|Mathy/i);}
+ const skin=catalog.filter(p=>p.department==='Face care');assert.ok(skin.some(p=>p.brand==='CeraVe'));
+ assert.ok(skin.every(p=>['CeraVe','La Roche-Posay','Bioderma','Avène'].includes(p.brand)));
+ assert.equal(audit.storePricing.effectiveEtbPerUsd,171);
+ for(const p of catalog)for(const offers of Object.values(p.offers))for(const o of Object.values(offers)){
+  assert.equal(o.etb,discountedUsdPriceEtb(o.usd));
+  if(o.sourceCurrency==='EUR')assert.equal(o.usd,Math.round(o.sourceAmount/audit.fx.USD_EUR*100)/100);
  }
 });

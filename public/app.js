@@ -1,8 +1,9 @@
+import {departments,interleaveDepartments} from './catalog-order.mjs';
 import {deliveryFeeText,returnPolicyFor} from './checkout-policies.mjs';
 import { getDeliveryDates, formatDeliveryDate, isAllowedDeliveryDate } from './delivery-date.mjs';
 import { displaySize, sizeSystemText } from './shoe-sizing.mjs';
 import { availableSizes, selectedOffer, priceRange, selectionIsAvailable } from './catalog-logic.mjs';
-const categories = ['All finds', 'Shoes', 'Clothes', 'Fragrances', 'Face care', 'Bags', 'Accessories'];
+const categories = ['All finds', ...departments];
 let category = 'All finds', current = null, selection = {}, gallery = [], activeImage = 0, deliveryDetails = null, deliveryTransition = 0, requestedDeliveryDate = null;
 const $ = selector => document.querySelector(selector);
 const money = number => new Intl.NumberFormat('en-ET').format(number) + ' ETB';
@@ -38,7 +39,8 @@ function render(){
  $('#brand').innerHTML='<option value="">All brands</option>'+[...new Set(scoped.map(product=>product.brand))].sort().map(brand=>`<option>${escapeHTML(brand)}</option>`).join('');
  if([...$('#brand').options].some(option=>option.value===previousBrand))$('#brand').value=previousBrand;
  const brand = $('#brand').value;
- const products = scoped.filter(product=>(!brand||product.brand===brand)&&[product.name,product.category,product.brand,product.audience,...product.colors].join(' ').toLowerCase().includes(query));
+ let products = scoped.filter(product=>(!brand||product.brand===brand)&&[product.name,product.category,product.brand,product.audience,...product.colors].join(' ').toLowerCase().includes(query));
+ if(category==='All finds')products=interleaveDepartments(products);
  $('#products').innerHTML = products.map(product=>`<article class="product-card"><button class="product-open" data-product="${product.id}" aria-label="View ${escapeHTML(product.name)}"><div class="card-image"><img src="${product.images[0]}" alt="${escapeHTML(product.name)}" loading="lazy" width="600" height="600"><span class="product-label">${escapeHTML(product.brand)}</span><span class="card-arrow" aria-hidden="true"><svg class="arrow-icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 19 19 5M5 5h14v14"/></svg></span>${product.colors.length>1?`<span class="photo-count">${product.colors.length} ${packageProduct(product)?'sizes':'colors'}</span>`:''}</div><div class="card-info"><span class="product-category">${escapeHTML(product.audience)} / ${escapeHTML(product.category)}</span><h3>${escapeHTML(product.name)}</h3><strong class="card-price">${priceText(product)}</strong></div></button><div class="card-bottom"><div class="card-swatches" aria-label="${escapeHTML(product.name)} ${packageProduct(product)?'sizes':'colors'}">${colorButtons(product,'card')}</div><span>${escapeHTML(product.tag)}</span></div></article>`).join('');
  $('#products').querySelectorAll('.card-swatches').forEach(group=>group.querySelector('.swatch').setAttribute('aria-pressed','true'));
  $('#empty').hidden = products.length>0;

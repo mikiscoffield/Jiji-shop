@@ -1,8 +1,8 @@
 # Jiji Shop
 
-English-only dark storefront for Ethiopia and Telegram Mini App @jijietbot. Prices are in ETB. No cart, database, analytics or server-side customer-data storage. All six departments remain: Shoes, Clothes, Fragrances, Face care, Bags and Accessories.
+English-only dark storefront for Ethiopia and Telegram Mini App @jijietbot. Prices are in ETB. No cart, database, analytics or server-side customer-data storage. All six departments remain: Shoes, Clothes, Fragrances, Face care, Bags and Watches & Sunglasses.
 
-The catalog contains 135 products: 30 shoes (15 men’s and 15 women’s), 60 clothing styles (30 per audience), 20 fragrances, 20 face-care products, two bags and three accessories. Clothing styles alternate men/women. Women: 26 dresses or skirts (86.7%), two fashion tops, one tailored pant and one blazer. Men: nine jackets, eleven hoodies and ten pants styles. No clothing T-shirts remain. The owner confirms S/M/L/XL from their own stock; source retailer availability is recorded separately where captured.
+The catalog contains 205 products: 30 shoes (15 men’s and 15 women’s), 60 clothing styles (30 per audience), 20 fragrances, 20 face-care products, 25 women’s bags and 50 watches/sunglasses (25 of each). Clothing styles alternate men/women. Women: 26 dresses or skirts (86.7%), two fashion tops, one tailored pant and one blazer. Men: nine jackets, eleven hoodies and ten pants styles. No clothing T-shirts remain. The owner confirms S/M/L/XL from their own stock; source retailer availability is recorded separately where captured.
 
 ## Development
 
@@ -38,7 +38,7 @@ BotFather: /setmenubutton → @jijietbot → Open shop → the Render HTTPS URL.
 
 ## Validation and usage
 
-`npm test` runs 28 checks including catalog/source-photo hashes, exact prices and discount calculations, clothing counts/size coverage, no T-shirts, the women’s dress/skirt proportion, European labels and calendar boundaries. Browser checks cover galleries, import CTA, universal refund notice, delivery/payment and mobile layout. See IMAGE-SOURCES.md for provenance and SITE-USAGE.md for storage/transfer distinctions. Public site measurements cannot reveal the workspace’s actual monthly Render billing totals.
+`npm test` runs 32 checks including catalog/source-photo hashes, exact prices and discount calculations, clothing counts/size coverage, no T-shirts, the women’s dress/skirt proportion, European labels and calendar boundaries. Browser checks cover galleries, import CTA, universal refund notice, delivery/payment and mobile layout. See IMAGE-SOURCES.md for provenance and SITE-USAGE.md for storage/transfer distinctions. Public site measurements cannot reveal the workspace’s actual monthly Render billing totals.
 
 ## Fragrances and homepage
 
@@ -51,3 +51,13 @@ The homepage introduction is text only: the shoe picture, “A fresh point of vi
 Face care replaces Makeup, with 20 official-brand products: four sunscreens, four cleansers, four moisturizers, four serums, two toners and two eye-care products. Sixteen are in the women’s edit and four are unisex; audience labels describe merchandising, not women-only formulas. Sources are Naturium, EltaMD, Supergoop!, Beauty of Joseon, Skinfix, First Aid Beauty, cocokind and DRMTLGY.
 
 Every SKU price is checked in USD and priced with the same merchant rule as fragrances: USD ×190 ×0.90 = USD ×171, rounded once at the end, constrained to 3,000–20,000 ETB. The selected prices are 3,078–11,799 ETB. Shared math lives in public/retail-pricing.mjs; public/face-care-pricing.mjs enforces the face-care band. FACE-CARE-SOURCES.md records source prices and selected package sizes. Exact package labels are used where supplied; default-title source units are labeled standard containers without inventing a volume. Photos are original manufacturer images. No efficacy guarantees or fabricated ratings are added. Other catalog departments are unchanged.
+
+## Mixed feed, bags, watches and sunglasses
+
+All finds uses public/catalog-order.mjs to show one item from each category in order: Shoes → Clothes → Fragrances → Face care → Bags → Watches & Sunglasses, then repeats with the next item in each category. Empty/exhausted categories are skipped. Brand, audience and text filters run before interleaving so filtered feeds stay balanced without duplicates or omissions. Individual category order is preserved.
+
+Bags has 25 women’s designs from Brahmin, Steve Madden and HOBO, with brand variety mixed within the category. Source-available colors and original product views are retained where verified. Bags cost $20–$200 at source.
+
+The old Accessories department is replaced by Watches & Sunglasses, with 25 adult Timex/Casio watches and 25 adult sunglasses from Emporio Armani, Tory Burch, Costa Del Mar, Vogue Eyewear, Arnette and Sunski. Default category order is strictly watch, sunglasses, watch, sunglasses until all 50 are shown. Filtering can remove one type; it never adds unrelated products just to force alternation. Watches cost at most $200 USD; sunglasses at most $100 USD. Replacement lenses, optical frames, straps, clocks, kids’ products and jewelry are not in the active selection.
+
+All new offers use source USD ×190 ×0.90 = USD ×171, rounded once at the end. Caps are inclusive for bags, watches and sunglasses; fragrances keep their existing stricter below-$200 rule. public/accessory-pricing.mjs enforces these price rules using the shared retail-pricing module. ACCESSORY-SOURCES.md records every selected color, source price and SKU. Existing shoes, clothes, fragrances and Face care records remain unchanged. Free delivery and category-specific return policies still apply.

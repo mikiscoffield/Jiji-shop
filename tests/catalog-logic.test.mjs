@@ -1,3 +1,4 @@
+import {accessoryPriceEtb} from '../public/accessory-pricing.mjs';
 import {faceCarePriceEtb} from '../public/face-care-pricing.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
@@ -33,7 +34,7 @@ vm.runInNewContext(fs.readFileSync(new URL('../public/catalog.js',import.meta.ur
 const catalog=JSON.parse(JSON.stringify(context.window.catalog));
 const audit=JSON.parse(fs.readFileSync(new URL('../CATALOG-SOURCES.json',import.meta.url),'utf8'));
 test('all categories and at least fifteen men’s and fifteen women’s shoes have traceable branded offers',()=>{
- for(const department of ['Shoes','Clothes','Fragrances','Face care','Bags','Accessories'])assert.ok(catalog.some(p=>p.department===department));
+ for(const department of ['Shoes','Clothes','Fragrances','Face care','Bags','Watches & Sunglasses'])assert.ok(catalog.some(p=>p.department===department));
  for(const audience of ['Men','Women'])assert.ok(catalog.filter(p=>p.department==='Shoes'&&p.audience===audience).length>=15);
  assert.equal(new Set(catalog.map(p=>p.id)).size,catalog.length);
  for(const p of catalog){
@@ -43,11 +44,14 @@ test('all categories and at least fifteen men’s and fifteen women’s shoes ha
    assert.ok(p.variants[color].length>0,p.id+' '+color);
    assert.ok(p.swatches[color]);
    for(const [size,offer] of Object.entries(p.offers[color])){
-    assert.ok(offer.etb>=(p.department==='Face care'?3000:p.department==='Fragrances'?10000:p.department==='Shoes'?4000:p.department==='Clothes'?(p.audience==='Men'?2125:2500):3500)&&offer.etb<=(p.department==='Face care'?20000:p.department==='Fragrances'?45000:p.department==='Shoes'?10000:p.department==='Clothes'?7000:8000));
+    const min=p.department==='Bags'?3420:p.department==='Watches & Sunglasses'?1:p.department==='Face care'?3000:p.department==='Fragrances'?10000:p.department==='Shoes'?4000:p.department==='Clothes'&&p.audience==='Men'?2125:2500;
+    const max=p.department==='Bags'?34200:p.department==='Watches & Sunglasses'?(p.category==='Sunglasses'?17100:34200):p.department==='Face care'?20000:p.department==='Fragrances'?45000:p.department==='Shoes'?10000:7000;
+    assert.ok(offer.etb>=min&&offer.etb<=max,p.id);
     const amount=offer.amount ?? offer.usd;
     const rate=offer.currency?audit.fx.etbPerCurrency[offer.currency]:audit.fx.USD_ETB;
     const base=Math.round(amount*rate);
-    if(p.department==='Face care'){assert.equal(offer.etb,faceCarePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
+    if(p.department==='Bags'||p.department==='Watches & Sunglasses'){assert.equal(offer.etb,accessoryPriceEtb(p.department==='Bags'?'Bags':p.category,offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
+    else if(p.department==='Face care'){assert.equal(offer.etb,faceCarePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
     else if(p.department==='Fragrances'){assert.equal(offer.etb,fragrancePriceEtb(offer.usd));assert.equal(offer.usdEtbRate,190);assert.equal(offer.discountPercent,10);}
     else if(p.department==='Clothes'&&p.audience==='Men'){assert.equal(offer.discountPercent,15);assert.equal(offer.baseEtb,base);assert.equal(offer.etb,Math.round(base*.85));}
     else if(p.department==='Clothes'&&p.audience==='Women'){assert.equal(offer.etb,Math.max(base,offer.merchantPriceFloorEtb||0));}
@@ -129,4 +133,16 @@ test('Face care replaces Makeup with a complete mostly-women’s skincare edit',
  assert.ok(products.filter(p=>p.audience==='Women').length/products.length>=.75);
  for(const category of ['Sunscreen','Moisturizer','Cleanser','Serum','Toner','Eye care'])assert.ok(products.some(p=>p.category===category));
  for(const p of products)for(const color of p.colors){const offer=selectedOffer(p,color);assert.equal(offer.availableAtSource,true);assert.ok(offer.sourceVariantTitle);assert.equal(offer.etb,faceCarePriceEtb(offer.usd));}
+});
+
+test('twenty-five women’s bags and fifty alternating watches/sunglasses have the requested price caps',()=>{
+ const bags=catalog.filter(p=>p.department==='Bags');assert.equal(bags.length,25);assert.ok(bags.every(p=>p.audience==='Women'));
+ const accessories=catalog.filter(p=>p.department==='Watches & Sunglasses');assert.equal(accessories.length,50);
+ accessories.forEach((p,i)=>assert.equal(p.category,i%2?'Sunglasses':'Watches'));
+ assert.ok(catalog.every(p=>p.department!=='Accessories'));
+ for(const p of [...bags,...accessories])for(const color of p.colors){
+  const offer=selectedOffer(p,color);assert.equal(offer.availableAtSource,true);assert.equal(offer.etb,accessoryPriceEtb(p.department==='Bags'?'Bags':p.category,offer.usd));
+  if(p.department==='Bags')assert.ok(offer.usd>=20&&offer.usd<=200);
+  else assert.ok(offer.usd<=(p.category==='Watches'?200:100));
+ }
 });

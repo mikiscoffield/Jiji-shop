@@ -1,4 +1,4 @@
-// Source snapshots and merchant stock/pricing policies: CATALOG-SOURCES.json.
+// Dated source snapshots and merchant stock/pricing rules: CATALOG-SOURCES.json.
 window.catalog = [
  {
   "id": "jordan-flight-court",
@@ -12967,158 +12967,1873 @@ window.catalog = [
   ]
  },
  {
-  "id": "herschel-heritage",
-  "name": "Herschel Heritage\u2122 Crossbody Twill",
-  "brand": "Herschel",
+  "id": "bag-9434483491053",
+  "name": "Brahmin Katie",
+  "brand": "Brahmin",
   "department": "Bags",
   "category": "Crossbody",
-  "audience": "Unisex",
-  "price": 7284,
-  "tag": "Brand-store selection",
-  "description": "Hands-free for every journey.",
-  "sizeLabel": "Clothing size",
+  "audience": "Women",
+  "price": 33345,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "Black/Grey": {
+   "Chocolate Melbourne": {
     "": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://herschel.com/products/herschel-heritage-crossbody-twill?variant=51309247529212",
-     "sourceVariantID": "51309247529212",
-     "sourceSKU": "11868-05711-OS"
+     "usd": 195.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 33345,
+     "sourceURL": "https://brahmin.com/products/katie-chocolate-melbourne-q8615100022?variant=50279830749421",
+     "sourceVariantID": "50279830749421",
+     "sourceSKU": "Q8615100022",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Chocolate Melbourne",
+     "itemKind": "Bags"
     }
    },
-   "Navy Tonal": {
+   "Black Melbourne": {
     "": {
-     "usd": 45,
-     "etb": 7284,
-     "sourceURL": "https://herschel.com/products/herschel-heritage-crossbody-twill?variant=51309247594748",
-     "sourceVariantID": "51309247594748",
-     "sourceSKU": "11868-08540-OS"
+     "usd": 195.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 33345,
+     "sourceURL": "https://brahmin.com/products/katie-black-melbourne-q8615100001?variant=45921759265005",
+     "sourceVariantID": "45921759265005",
+     "sourceSKU": "Q8615100001",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Pecan Melbourne": {
+    "": {
+     "usd": 195.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 33345,
+     "sourceURL": "https://brahmin.com/products/katie-pecan-melbourne-q8615100004?variant=45921376174317",
+     "sourceVariantID": "45921376174317",
+     "sourceSKU": "Q8615100004",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Pecan Melbourne",
+     "itemKind": "Bags"
     }
    }
   },
   "variants": {
-   "Black/Grey": [
-    "/images/catalog/86eff2d9259f0c314d.jpg"
+   "Chocolate Melbourne": [
+    "/images/catalog/0b742911822b6aad43.webp"
    ],
-   "Navy Tonal": [
-    "/images/catalog/948940ad24229e30f4.jpg"
+   "Black Melbourne": [
+    "/images/catalog/64d86a32b964977031.webp"
+   ],
+   "Pecan Melbourne": [
+    "/images/catalog/40f7f3d86ccb4eed47.webp"
    ]
   },
   "swatches": {
-   "Black/Grey": "#242629",
-   "Navy Tonal": "#3d6387"
+   "Chocolate Melbourne": "#674738",
+   "Black Melbourne": "#222326",
+   "Pecan Melbourne": "#a9a294"
   },
   "sourceURLs": {
-   "Black/Grey": "https://herschel.com/products/herschel-heritage-crossbody-twill",
-   "Navy Tonal": "https://herschel.com/products/herschel-heritage-crossbody-twill"
+   "Chocolate Melbourne": "https://brahmin.com/products/katie-chocolate-melbourne-q8615100022",
+   "Black Melbourne": "https://brahmin.com/products/katie-black-melbourne-q8615100001",
+   "Pecan Melbourne": "https://brahmin.com/products/katie-pecan-melbourne-q8615100004"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Black/Grey",
-   "Navy Tonal"
+   "Chocolate Melbourne",
+   "Black Melbourne",
+   "Pecan Melbourne"
   ],
   "images": [
-   "/images/catalog/86eff2d9259f0c314d.jpg",
-   "/images/catalog/948940ad24229e30f4.jpg"
+   "/images/catalog/0b742911822b6aad43.webp",
+   "/images/catalog/64d86a32b964977031.webp",
+   "/images/catalog/40f7f3d86ccb4eed47.webp"
   ]
  },
  {
-  "id": "stevemadden-tiki",
-  "name": "Steve Madden Tiki Bag Natural",
+  "id": "bag-7211727126661",
+  "name": "Steve Madden Autumn",
   "brand": "Steve Madden",
   "department": "Bags",
-  "category": "Shoulder bags",
+  "category": "Handbags",
   "audience": "Women",
-  "price": 7283,
-  "tag": "Brand-store selection",
-  "description": "BOHO + FRESH + CUTE The TIKI wristlet features a slouchy construction with round beads individually stitched to the exterior in an allover design for a unique beachy nature-inspired look.",
-  "sizeLabel": "Clothing size",
+  "price": 8548,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "Natural": {
+   "Chocolate": {
     "": {
-     "usd": 44.99,
-     "etb": 7283,
-     "sourceURL": "https://www.stevemadden.com/products/btiki-natural?variant=40293115134085",
-     "sourceVariantID": "40293115134085",
-     "sourceSKU": "BTIKI"
+     "usd": 49.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 8548,
+     "sourceURL": "https://www.stevemadden.com/products/bautumn-chocolate?variant=41406343446661",
+     "sourceVariantID": "41406343446661",
+     "sourceSKU": "BAUTUMN",
+     "availableAtSource": true,
+     "sourceVariantTitle": "CHOCOLATE / ONESZ / CHO",
+     "itemKind": "Bags"
     }
    }
   },
   "variants": {
-   "Natural": [
-    "/images/catalog/c502f6e2a04b66d4e4.jpg",
-    "/images/catalog/f07af6ab5e3f10341f.jpg",
-    "/images/catalog/ea3505f49a93842f39.jpg",
-    "/images/catalog/0be9fd252b11f64861.jpg",
-    "/images/catalog/1a558f4a9c50c50a4d.jpg"
+   "Chocolate": [
+    "/images/catalog/7ed93d10b88b598275.webp",
+    "/images/catalog/e397bd5fcaca02fb0d.webp",
+    "/images/catalog/fddca266756f618398.webp"
    ]
   },
   "swatches": {
-   "Natural": "#c7aa77"
+   "Chocolate": "#674738"
   },
   "sourceURLs": {
-   "Natural": "https://www.stevemadden.com/products/btiki-natural"
+   "Chocolate": "https://www.stevemadden.com/products/bautumn-chocolate"
   },
-  "ratings": {
-   "Natural": {
-    "value": 5,
-    "count": 1,
-    "sourceURL": "https://www.stevemadden.com/products/btiki-natural"
-   }
-  },
+  "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Natural"
+   "Chocolate"
   ],
   "images": [
-   "/images/catalog/c502f6e2a04b66d4e4.jpg",
-   "/images/catalog/f07af6ab5e3f10341f.jpg",
-   "/images/catalog/ea3505f49a93842f39.jpg",
-   "/images/catalog/0be9fd252b11f64861.jpg",
-   "/images/catalog/1a558f4a9c50c50a4d.jpg"
+   "/images/catalog/7ed93d10b88b598275.webp",
+   "/images/catalog/e397bd5fcaca02fb0d.webp",
+   "/images/catalog/fddca266756f618398.webp"
   ]
  },
  {
-  "id": "timex-digital",
-  "name": "Timex Digital 33mm Resin Strap Watch",
+  "id": "bag-9009686118454",
+  "name": "HOBO Sable Crossbody",
+  "brand": "HOBO",
+  "department": "Bags",
+  "category": "Crossbody",
+  "audience": "Women",
+  "price": 33345,
+  "tag": "Women\u2019s collection",
+  "description": "Sable Crossbody In Polished Leather - True Red",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "True Red": {
+    "": {
+     "usd": 195.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 33345,
+     "sourceURL": "https://www.hobobags.com/products/sable-crossbody-in-polished-leather-true-red-vi-36002trrd?variant=46916822040630",
+     "sourceVariantID": "46916822040630",
+     "sourceSKU": "VI-36002TRRD",
+     "availableAtSource": true,
+     "sourceVariantTitle": "True Red",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "True Red": [
+    "/images/catalog/22d7a996f9333fff54.webp",
+    "/images/catalog/05a8ce9cf3840c5305.webp",
+    "/images/catalog/a2e7fe37164c59858f.webp"
+   ]
+  },
+  "swatches": {
+   "True Red": "#a83644"
+  },
+  "sourceURLs": {
+   "True Red": "https://www.hobobags.com/products/sable-crossbody-in-polished-leather-true-red-vi-36002trrd"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "True Red"
+  ],
+  "images": [
+   "/images/catalog/22d7a996f9333fff54.webp",
+   "/images/catalog/05a8ce9cf3840c5305.webp",
+   "/images/catalog/a2e7fe37164c59858f.webp"
+  ]
+ },
+ {
+  "id": "bag-8589402931437",
+  "name": "Brahmin Lorelei",
+  "brand": "Brahmin",
+  "department": "Bags",
+  "category": "Shoulder bags",
+  "audience": "Women",
+  "price": 24795,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/lorelei-black-melbourne-s1015100001?variant=45921623376109",
+     "sourceVariantID": "45921623376109",
+     "sourceSKU": "S1015100001",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Pecan Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/lorelei-pecan-melbourne-s1015100004?variant=45921831157997",
+     "sourceVariantID": "45921831157997",
+     "sourceSKU": "S1015100004",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Pecan Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Multi Great Falls": {
+    "": {
+     "usd": 195.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 33345,
+     "sourceURL": "https://brahmin.com/products/lorelei-multi-great-falls-s10277900050?variant=50613154939117",
+     "sourceVariantID": "50613154939117",
+     "sourceSKU": "S10277900050",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Multi Great Falls",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Black Melbourne": [
+    "/images/catalog/afbadcff70e7a106e2.webp"
+   ],
+   "Pecan Melbourne": [
+    "/images/catalog/009e77a5654e8ff1b4.webp"
+   ],
+   "Multi Great Falls": [
+    "/images/catalog/b70eafa5b5c985ed80.webp"
+   ]
+  },
+  "swatches": {
+   "Black Melbourne": "#222326",
+   "Pecan Melbourne": "#a9a294",
+   "Multi Great Falls": "#a9a294"
+  },
+  "sourceURLs": {
+   "Black Melbourne": "https://brahmin.com/products/lorelei-black-melbourne-s1015100001",
+   "Pecan Melbourne": "https://brahmin.com/products/lorelei-pecan-melbourne-s1015100004",
+   "Multi Great Falls": "https://brahmin.com/products/lorelei-multi-great-falls-s10277900050"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black Melbourne",
+   "Pecan Melbourne",
+   "Multi Great Falls"
+  ],
+  "images": [
+   "/images/catalog/afbadcff70e7a106e2.webp",
+   "/images/catalog/009e77a5654e8ff1b4.webp",
+   "/images/catalog/b70eafa5b5c985ed80.webp"
+  ]
+ },
+ {
+  "id": "bag-7249652023429",
+  "name": "Steve Madden Melodie",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 11628,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Denim": {
+    "": {
+     "usd": 68.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 11628,
+     "sourceURL": "https://www.stevemadden.com/products/bmelodie-denim?variant=41544209170565",
+     "sourceVariantID": "41544209170565",
+     "sourceSKU": "BMELODIE",
+     "availableAtSource": true,
+     "sourceVariantTitle": "DENIM / ONESZ / DEN",
+     "itemKind": "Bags"
+    }
+   },
+   "Olive": {
+    "": {
+     "usd": 68.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 11628,
+     "sourceURL": "https://www.stevemadden.com/products/bmelodie-olive?variant=41969439932549",
+     "sourceVariantID": "41969439932549",
+     "sourceSKU": "BMELODIE",
+     "availableAtSource": true,
+     "sourceVariantTitle": "OLIVE / ONESZ / OLI",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Denim": [
+    "/images/catalog/494d149824c57eb7b8.webp",
+    "/images/catalog/948d5c1a4233b4984f.webp",
+    "/images/catalog/dca8a0476031dfa2cd.webp"
+   ],
+   "Olive": [
+    "/images/catalog/7dcbe8f8555543193b.webp",
+    "/images/catalog/8971989a295340f554.webp",
+    "/images/catalog/76389f18fde5e281bb.webp"
+   ]
+  },
+  "swatches": {
+   "Denim": "#6d91ac",
+   "Olive": "#a9a294"
+  },
+  "sourceURLs": {
+   "Denim": "https://www.stevemadden.com/products/bmelodie-denim",
+   "Olive": "https://www.stevemadden.com/products/bmelodie-olive"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Denim",
+   "Olive"
+  ],
+  "images": [
+   "/images/catalog/494d149824c57eb7b8.webp",
+   "/images/catalog/948d5c1a4233b4984f.webp",
+   "/images/catalog/dca8a0476031dfa2cd.webp",
+   "/images/catalog/7dcbe8f8555543193b.webp",
+   "/images/catalog/8971989a295340f554.webp",
+   "/images/catalog/76389f18fde5e281bb.webp"
+  ]
+ },
+ {
+  "id": "bag-9009686216758",
+  "name": "HOBO Sable Wristlet",
+  "brand": "HOBO",
+  "department": "Bags",
+  "category": "Wristlets",
+  "audience": "Women",
+  "price": 23598,
+  "tag": "Women\u2019s collection",
+  "description": "Sable Wristlet In Polished Leather - True Red",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "True Red": {
+    "": {
+     "usd": 138.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 23598,
+     "sourceURL": "https://www.hobobags.com/products/sable-wristlet-in-polished-leather-true-red-vi-35036trrd?variant=46916822171702",
+     "sourceVariantID": "46916822171702",
+     "sourceSKU": "VI-35036TRRD",
+     "availableAtSource": true,
+     "sourceVariantTitle": "True Red",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "True Red": [
+    "/images/catalog/85950b2acbd6c0f9ac.webp",
+    "/images/catalog/4952733e794cfeb74b.webp",
+    "/images/catalog/6d553693805a82c32c.webp"
+   ]
+  },
+  "swatches": {
+   "True Red": "#a83644"
+  },
+  "sourceURLs": {
+   "True Red": "https://www.hobobags.com/products/sable-wristlet-in-polished-leather-true-red-vi-35036trrd"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "True Red"
+  ],
+  "images": [
+   "/images/catalog/85950b2acbd6c0f9ac.webp",
+   "/images/catalog/4952733e794cfeb74b.webp",
+   "/images/catalog/6d553693805a82c32c.webp"
+  ]
+ },
+ {
+  "id": "bag-9292650316013",
+  "name": "Brahmin Mod Lorelei",
+  "brand": "Brahmin",
+  "department": "Bags",
+  "category": "Shoulder bags",
+  "audience": "Women",
+  "price": 30524,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Ultramarine Nile": {
+    "": {
+     "usd": 178.5,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 30524,
+     "sourceURL": "https://brahmin.com/products/mod-lorelei-ultramarine-nile-s25271702135?variant=49440743522541",
+     "sourceVariantID": "49440743522541",
+     "sourceSKU": "S25271702135",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Ultramarine Nile",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Ultramarine Nile": [
+    "/images/catalog/7e68fee42cbba1cf61.webp"
+   ]
+  },
+  "swatches": {
+   "Ultramarine Nile": "#a9a294"
+  },
+  "sourceURLs": {
+   "Ultramarine Nile": "https://brahmin.com/products/mod-lorelei-ultramarine-nile-s25271702135"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Ultramarine Nile"
+  ],
+  "images": [
+   "/images/catalog/7e68fee42cbba1cf61.webp"
+  ]
+ },
+ {
+  "id": "bag-7319195680901",
+  "name": "Steve Madden Marisol",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 9403,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Gold": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://www.stevemadden.com/products/bmarislc-gold?variant=41819180204165",
+     "sourceVariantID": "41819180204165",
+     "sourceSKU": "BMARISLC",
+     "availableAtSource": true,
+     "sourceVariantTitle": "GOLD / ONESZ / GDL",
+     "itemKind": "Bags"
+    }
+   },
+   "Black": {
+    "": {
+     "usd": 54.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9403,
+     "sourceURL": "https://www.stevemadden.com/products/bmarisol-black?variant=41607409827973",
+     "sourceVariantID": "41607409827973",
+     "sourceSKU": "BMARISOL",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLACK / ONESZ / BLK",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Gold": [
+    "/images/catalog/822c1c0800c1a21ff7.webp",
+    "/images/catalog/de2954135eeef2a8cd.webp",
+    "/images/catalog/bc054da8f79e1b1c49.webp"
+   ],
+   "Black": [
+    "/images/catalog/5cd5f1ddc16a3490fd.webp",
+    "/images/catalog/c7a36130becc6039f4.webp",
+    "/images/catalog/ddea0d13e01f6f4d33.webp"
+   ]
+  },
+  "swatches": {
+   "Gold": "#c1a15d",
+   "Black": "#222326"
+  },
+  "sourceURLs": {
+   "Gold": "https://www.stevemadden.com/products/bmarislc-gold",
+   "Black": "https://www.stevemadden.com/products/bmarisol-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Gold",
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/822c1c0800c1a21ff7.webp",
+   "/images/catalog/de2954135eeef2a8cd.webp",
+   "/images/catalog/bc054da8f79e1b1c49.webp",
+   "/images/catalog/5cd5f1ddc16a3490fd.webp",
+   "/images/catalog/c7a36130becc6039f4.webp",
+   "/images/catalog/ddea0d13e01f6f4d33.webp"
+  ]
+ },
+ {
+  "id": "bag-9388527976685",
+  "name": "Brahmin Billie",
+  "brand": "Brahmin",
+  "department": "Bags",
+  "category": "Shoulder bags",
+  "audience": "Women",
+  "price": 33345,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Tan Grassland": {
+    "": {
+     "usd": 195.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 33345,
+     "sourceURL": "https://brahmin.com/products/billie-tan-grassland-1069276000233?variant=50060226855149",
+     "sourceVariantID": "50060226855149",
+     "sourceSKU": "1069276000233",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Tan Grassland",
+     "itemKind": "Bags"
+    }
+   },
+   "Chocolate Grassland": {
+    "": {
+     "usd": 195.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 33345,
+     "sourceURL": "https://brahmin.com/products/billie-chocolate-grassland-1069276000022?variant=50060226527469",
+     "sourceVariantID": "50060226527469",
+     "sourceSKU": "1069276000022",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Chocolate Grassland",
+     "itemKind": "Bags"
+    }
+   },
+   "Softgrass Grassland": {
+    "": {
+     "usd": 195.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 33345,
+     "sourceURL": "https://brahmin.com/products/billie-softgrass-grassland-1069276002169?variant=50060226068717",
+     "sourceVariantID": "50060226068717",
+     "sourceSKU": "1069276002169",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Softgrass Grassland",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Tan Grassland": [
+    "/images/catalog/780d8d583b2bffa9cc.webp"
+   ],
+   "Chocolate Grassland": [
+    "/images/catalog/329bcea28d60d1b8b3.webp"
+   ],
+   "Softgrass Grassland": [
+    "/images/catalog/7231fef4c5a7da0c04.webp"
+   ]
+  },
+  "swatches": {
+   "Tan Grassland": "#a9a294",
+   "Chocolate Grassland": "#674738",
+   "Softgrass Grassland": "#a9a294"
+  },
+  "sourceURLs": {
+   "Tan Grassland": "https://brahmin.com/products/billie-tan-grassland-1069276000233",
+   "Chocolate Grassland": "https://brahmin.com/products/billie-chocolate-grassland-1069276000022",
+   "Softgrass Grassland": "https://brahmin.com/products/billie-softgrass-grassland-1069276002169"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Tan Grassland",
+   "Chocolate Grassland",
+   "Softgrass Grassland"
+  ],
+  "images": [
+   "/images/catalog/780d8d583b2bffa9cc.webp",
+   "/images/catalog/329bcea28d60d1b8b3.webp",
+   "/images/catalog/7231fef4c5a7da0c04.webp"
+  ]
+ },
+ {
+  "id": "bag-7225035849861",
+  "name": "Steve Madden Avant",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 9403,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Pistachio": {
+    "": {
+     "usd": 54.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9403,
+     "sourceURL": "https://www.stevemadden.com/products/bavant-pistachio?variant=41463805935749",
+     "sourceVariantID": "41463805935749",
+     "sourceSKU": "BAVANT",
+     "availableAtSource": true,
+     "sourceVariantTitle": "PISTACHIO / ONESZ / 35E",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Pistachio": [
+    "/images/catalog/bfb9f67e8f6b18d910.webp",
+    "/images/catalog/10384e4419b4fb5556.webp",
+    "/images/catalog/b68cfacb1ad3bf8258.webp"
+   ]
+  },
+  "swatches": {
+   "Pistachio": "#a9a294"
+  },
+  "sourceURLs": {
+   "Pistachio": "https://www.stevemadden.com/products/bavant-pistachio"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Pistachio"
+  ],
+  "images": [
+   "/images/catalog/bfb9f67e8f6b18d910.webp",
+   "/images/catalog/10384e4419b4fb5556.webp",
+   "/images/catalog/b68cfacb1ad3bf8258.webp"
+  ]
+ },
+ {
+  "id": "bag-8589358825709",
+  "name": "Brahmin Skyler",
+  "brand": "Brahmin",
+  "department": "Bags",
+  "category": "Clutches",
+  "audience": "Women",
+  "price": 29925,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Pecan Melbourne": {
+    "": {
+     "usd": 175.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 29925,
+     "sourceURL": "https://brahmin.com/products/skyler-pecan-melbourne-l9415100004?variant=45921343668461",
+     "sourceVariantID": "45921343668461",
+     "sourceSKU": "L9415100004",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Pecan Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Black Melbourne": {
+    "": {
+     "usd": 175.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 29925,
+     "sourceURL": "https://brahmin.com/products/skyler-black-melbourne-l9415100001?variant=45921120747757",
+     "sourceVariantID": "45921120747757",
+     "sourceSKU": "L9415100001",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Melbourne",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Pecan Melbourne": [
+    "/images/catalog/626b48fa950eddb958.webp"
+   ],
+   "Black Melbourne": [
+    "/images/catalog/651222815f281db2a1.webp"
+   ]
+  },
+  "swatches": {
+   "Pecan Melbourne": "#a9a294",
+   "Black Melbourne": "#222326"
+  },
+  "sourceURLs": {
+   "Pecan Melbourne": "https://brahmin.com/products/skyler-pecan-melbourne-l9415100004",
+   "Black Melbourne": "https://brahmin.com/products/skyler-black-melbourne-l9415100001"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Pecan Melbourne",
+   "Black Melbourne"
+  ],
+  "images": [
+   "/images/catalog/626b48fa950eddb958.webp",
+   "/images/catalog/651222815f281db2a1.webp"
+  ]
+ },
+ {
+  "id": "bag-7292088975493",
+  "name": "Steve Madden Leena",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 15048,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Red": {
+    "": {
+     "usd": 88.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 15048,
+     "sourceURL": "https://www.stevemadden.com/products/bleena-red?variant=41703026065541",
+     "sourceVariantID": "41703026065541",
+     "sourceSKU": "BLEENA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "RED / ONESZ / RED",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Red": [
+    "/images/catalog/cd92ba4df26fec8a36.webp",
+    "/images/catalog/60747b154fb4df1549.webp",
+    "/images/catalog/3c86f77bfeb577e360.webp"
+   ]
+  },
+  "swatches": {
+   "Red": "#a83644"
+  },
+  "sourceURLs": {
+   "Red": "https://www.stevemadden.com/products/bleena-red"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Red"
+  ],
+  "images": [
+   "/images/catalog/cd92ba4df26fec8a36.webp",
+   "/images/catalog/60747b154fb4df1549.webp",
+   "/images/catalog/3c86f77bfeb577e360.webp"
+  ]
+ },
+ {
+  "id": "bag-8589383336173",
+  "name": "Brahmin Daisy",
+  "brand": "Brahmin",
+  "department": "Bags",
+  "category": "Clutches",
+  "audience": "Women",
+  "price": 21375,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Pecan Melbourne": {
+    "": {
+     "usd": 125.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 21375,
+     "sourceURL": "https://brahmin.com/products/daisy-pecan-melbourne-q4515100004?variant=45921488601325",
+     "sourceVariantID": "45921488601325",
+     "sourceSKU": "Q4515100004",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Pecan Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Contour Melbourne": {
+    "": {
+     "usd": 125.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 21375,
+     "sourceURL": "https://brahmin.com/products/daisy-contour-melbourne-q4515100937?variant=45921173012717",
+     "sourceVariantID": "45921173012717",
+     "sourceSKU": "Q4515100937",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Contour Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Ocelot Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/daisy-ocelot-melbourne-q45176002134?variant=50060228329709",
+     "sourceVariantID": "50060228329709",
+     "sourceSKU": "Q45176002134",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Ocelot Melbourne",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Pecan Melbourne": [
+    "/images/catalog/ce3faf900628ec7a7a.webp"
+   ],
+   "Contour Melbourne": [
+    "/images/catalog/c836d0f3925031d7ce.webp"
+   ],
+   "Ocelot Melbourne": [
+    "/images/catalog/4f7b83a9718d791d02.webp"
+   ]
+  },
+  "swatches": {
+   "Pecan Melbourne": "#a9a294",
+   "Contour Melbourne": "#a9a294",
+   "Ocelot Melbourne": "#a9a294"
+  },
+  "sourceURLs": {
+   "Pecan Melbourne": "https://brahmin.com/products/daisy-pecan-melbourne-q4515100004",
+   "Contour Melbourne": "https://brahmin.com/products/daisy-contour-melbourne-q4515100937",
+   "Ocelot Melbourne": "https://brahmin.com/products/daisy-ocelot-melbourne-q45176002134"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Pecan Melbourne",
+   "Contour Melbourne",
+   "Ocelot Melbourne"
+  ],
+  "images": [
+   "/images/catalog/ce3faf900628ec7a7a.webp",
+   "/images/catalog/c836d0f3925031d7ce.webp",
+   "/images/catalog/4f7b83a9718d791d02.webp"
+  ]
+ },
+ {
+  "id": "bag-7323157397637",
+  "name": "Steve Madden Riggs",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 22059,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Red": {
+    "": {
+     "usd": 129.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 22059,
+     "sourceURL": "https://www.stevemadden.com/products/briggs-red?variant=41832127824005",
+     "sourceVariantID": "41832127824005",
+     "sourceSKU": "BRIGGS",
+     "availableAtSource": true,
+     "sourceVariantTitle": "RED / ONESZ / RED",
+     "itemKind": "Bags"
+    }
+   },
+   "Fuchsia": {
+    "": {
+     "usd": 129.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 22059,
+     "sourceURL": "https://www.stevemadden.com/products/briggs-fuchsia?variant=41832127758469",
+     "sourceVariantID": "41832127758469",
+     "sourceSKU": "BRIGGS",
+     "availableAtSource": true,
+     "sourceVariantTitle": "FUCHSIA / ONESZ / FUS",
+     "itemKind": "Bags"
+    }
+   },
+   "Cobalt": {
+    "": {
+     "usd": 129.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 22059,
+     "sourceURL": "https://www.stevemadden.com/products/briggs-cobalt?variant=41832127725701",
+     "sourceVariantID": "41832127725701",
+     "sourceSKU": "BRIGGS",
+     "availableAtSource": true,
+     "sourceVariantTitle": "COBALT / ONESZ / COA",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Red": [
+    "/images/catalog/4a74bcf19a07f97efe.webp",
+    "/images/catalog/4d1bbf62b62c75c3ef.webp",
+    "/images/catalog/cb5ad41b00bed11b8d.webp"
+   ],
+   "Fuchsia": [
+    "/images/catalog/d29cd76da157ea5acd.webp",
+    "/images/catalog/744f1466ba26aca6c6.webp",
+    "/images/catalog/6fcb9db7a020668e43.webp"
+   ],
+   "Cobalt": [
+    "/images/catalog/c8dd8bb87cc07bce5d.webp",
+    "/images/catalog/b3054c7f2d3f2077c7.webp",
+    "/images/catalog/087212fdab0268041a.webp"
+   ]
+  },
+  "swatches": {
+   "Red": "#a83644",
+   "Fuchsia": "#a9a294",
+   "Cobalt": "#a9a294"
+  },
+  "sourceURLs": {
+   "Red": "https://www.stevemadden.com/products/briggs-red",
+   "Fuchsia": "https://www.stevemadden.com/products/briggs-fuchsia",
+   "Cobalt": "https://www.stevemadden.com/products/briggs-cobalt"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Red",
+   "Fuchsia",
+   "Cobalt"
+  ],
+  "images": [
+   "/images/catalog/4a74bcf19a07f97efe.webp",
+   "/images/catalog/4d1bbf62b62c75c3ef.webp",
+   "/images/catalog/cb5ad41b00bed11b8d.webp",
+   "/images/catalog/d29cd76da157ea5acd.webp",
+   "/images/catalog/744f1466ba26aca6c6.webp",
+   "/images/catalog/6fcb9db7a020668e43.webp",
+   "/images/catalog/c8dd8bb87cc07bce5d.webp",
+   "/images/catalog/b3054c7f2d3f2077c7.webp",
+   "/images/catalog/087212fdab0268041a.webp"
+  ]
+ },
+ {
+  "id": "bag-9388528599277",
+  "name": "Brahmin Adia",
+  "brand": "Brahmin",
+  "department": "Bags",
+  "category": "Clutches",
+  "audience": "Women",
+  "price": 24795,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Oxblood Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/adia-oxblood-melbourne-009915100197?variant=50060227510509",
+     "sourceVariantID": "50060227510509",
+     "sourceSKU": "009915100197",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Oxblood Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Island Petal Ombre Melbourne": {
+    "": {
+     "usd": 165.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 28215,
+     "sourceURL": "https://brahmin.com/products/adia-island-petal-melbourne-ombre-0099170802149?variant=49440743653613",
+     "sourceVariantID": "49440743653613",
+     "sourceSKU": "0099170802149",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Island Petal Ombre Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Contour Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/adia-contour-melbourne-009915100937?variant=47605889827053",
+     "sourceVariantID": "47605889827053",
+     "sourceSKU": "009915100937",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Contour Melbourne",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Oxblood Melbourne": [
+    "/images/catalog/8db578a69697ed6d81.webp"
+   ],
+   "Island Petal Ombre Melbourne": [
+    "/images/catalog/38179bc42f3a7d1992.webp"
+   ],
+   "Contour Melbourne": [
+    "/images/catalog/7c80bbcf9b9f86d980.webp"
+   ]
+  },
+  "swatches": {
+   "Oxblood Melbourne": "#a9a294",
+   "Island Petal Ombre Melbourne": "#a9a294",
+   "Contour Melbourne": "#a9a294"
+  },
+  "sourceURLs": {
+   "Oxblood Melbourne": "https://brahmin.com/products/adia-oxblood-melbourne-009915100197",
+   "Island Petal Ombre Melbourne": "https://brahmin.com/products/adia-island-petal-melbourne-ombre-0099170802149",
+   "Contour Melbourne": "https://brahmin.com/products/adia-contour-melbourne-009915100937"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Oxblood Melbourne",
+   "Island Petal Ombre Melbourne",
+   "Contour Melbourne"
+  ],
+  "images": [
+   "/images/catalog/8db578a69697ed6d81.webp",
+   "/images/catalog/38179bc42f3a7d1992.webp",
+   "/images/catalog/7c80bbcf9b9f86d980.webp"
+  ]
+ },
+ {
+  "id": "bag-7308258574469",
+  "name": "Steve Madden Mavi",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 13338,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Plaid": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://www.stevemadden.com/products/bmavi-p-plaid?variant=41776171483269",
+     "sourceVariantID": "41776171483269",
+     "sourceSKU": "BMAVI-P",
+     "availableAtSource": true,
+     "sourceVariantTitle": "PLAID / ONESZ / PLD",
+     "itemKind": "Bags"
+    }
+   },
+   "Chocolate": {
+    "": {
+     "usd": 98.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 16758,
+     "sourceURL": "https://www.stevemadden.com/products/bmavi-chocolate?variant=41776169451653",
+     "sourceVariantID": "41776169451653",
+     "sourceSKU": "BMAVI",
+     "availableAtSource": true,
+     "sourceVariantTitle": "CHOCOLATE / ONESZ / CHO",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Plaid": [
+    "/images/catalog/68a74f4786c551db62.webp",
+    "/images/catalog/d8c0cc923f6032bc42.webp",
+    "/images/catalog/3a9dda28fc4b8d7d6c.webp"
+   ],
+   "Chocolate": [
+    "/images/catalog/56deb1caffe073a48d.webp",
+    "/images/catalog/3a419cc125d9bfa3f8.webp",
+    "/images/catalog/07705bd2ceb9d0ac4f.webp"
+   ]
+  },
+  "swatches": {
+   "Plaid": "#a9a294",
+   "Chocolate": "#674738"
+  },
+  "sourceURLs": {
+   "Plaid": "https://www.stevemadden.com/products/bmavi-p-plaid",
+   "Chocolate": "https://www.stevemadden.com/products/bmavi-chocolate"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Plaid",
+   "Chocolate"
+  ],
+  "images": [
+   "/images/catalog/68a74f4786c551db62.webp",
+   "/images/catalog/d8c0cc923f6032bc42.webp",
+   "/images/catalog/3a9dda28fc4b8d7d6c.webp",
+   "/images/catalog/56deb1caffe073a48d.webp",
+   "/images/catalog/3a419cc125d9bfa3f8.webp",
+   "/images/catalog/07705bd2ceb9d0ac4f.webp"
+  ]
+ },
+ {
+  "id": "bag-9388531253485",
+  "name": "Brahmin Esther",
+  "brand": "Brahmin",
+  "department": "Bags",
+  "category": "Crossbody",
+  "audience": "Women",
+  "price": 24795,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Oxblood Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/esther-oxblood-melbourne-118715100197?variant=50060230164717",
+     "sourceVariantID": "50060230164717",
+     "sourceSKU": "118715100197",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Oxblood Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Black Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/esther-black-melbourne-118715100001?variant=50279832223981",
+     "sourceVariantID": "50279832223981",
+     "sourceSKU": "118715100001",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Chocolate Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/esther-chocolate-melbourne-118715100022?variant=50279832191213",
+     "sourceVariantID": "50279832191213",
+     "sourceSKU": "118715100022",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Chocolate Melbourne",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Oxblood Melbourne": [
+    "/images/catalog/86f182724d2ec76e44.webp"
+   ],
+   "Black Melbourne": [
+    "/images/catalog/f6510d0c54cb517596.webp"
+   ],
+   "Chocolate Melbourne": [
+    "/images/catalog/8090e46850cbaee42c.webp"
+   ]
+  },
+  "swatches": {
+   "Oxblood Melbourne": "#a9a294",
+   "Black Melbourne": "#222326",
+   "Chocolate Melbourne": "#674738"
+  },
+  "sourceURLs": {
+   "Oxblood Melbourne": "https://brahmin.com/products/esther-oxblood-melbourne-118715100197",
+   "Black Melbourne": "https://brahmin.com/products/esther-black-melbourne-118715100001",
+   "Chocolate Melbourne": "https://brahmin.com/products/esther-chocolate-melbourne-118715100022"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Oxblood Melbourne",
+   "Black Melbourne",
+   "Chocolate Melbourne"
+  ],
+  "images": [
+   "/images/catalog/86f182724d2ec76e44.webp",
+   "/images/catalog/f6510d0c54cb517596.webp",
+   "/images/catalog/8090e46850cbaee42c.webp"
+  ]
+ },
+ {
+  "id": "bag-7293971333253",
+  "name": "Steve Madden Calista",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 13338,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://www.stevemadden.com/products/bcalista-black?variant=41718249390213",
+     "sourceVariantID": "41718249390213",
+     "sourceSKU": "BCALISTA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLACK / ONESZ / BLK",
+     "itemKind": "Bags"
+    }
+   },
+   "Brown": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://www.stevemadden.com/products/bcalista-brown?variant=41852020097157",
+     "sourceVariantID": "41852020097157",
+     "sourceSKU": "BCALISTA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BROWN / ONESZ / BRN",
+     "itemKind": "Bags"
+    }
+   },
+   "Blush": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://www.stevemadden.com/products/bcalista-blush?variant=41852020326533",
+     "sourceVariantID": "41852020326533",
+     "sourceSKU": "BCALISTA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLUSH / ONESZ / BSH",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/19906b4cc8932fea60.webp",
+    "/images/catalog/f668a2aee2b8e04555.webp",
+    "/images/catalog/68a9797c009b66c398.webp"
+   ],
+   "Brown": [
+    "/images/catalog/c6a67aa3bfbad40dc4.webp",
+    "/images/catalog/eb79a9d06a099e3d65.webp",
+    "/images/catalog/7da4e25f776da0112c.webp"
+   ],
+   "Blush": [
+    "/images/catalog/fefb0f3be5f1bacc59.webp",
+    "/images/catalog/80a4b1cfcafb122828.webp",
+    "/images/catalog/ac2d0b48a386c7dc02.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#222326",
+   "Brown": "#77533c",
+   "Blush": "#a9a294"
+  },
+  "sourceURLs": {
+   "Black": "https://www.stevemadden.com/products/bcalista-black",
+   "Brown": "https://www.stevemadden.com/products/bcalista-brown",
+   "Blush": "https://www.stevemadden.com/products/bcalista-blush"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black",
+   "Brown",
+   "Blush"
+  ],
+  "images": [
+   "/images/catalog/19906b4cc8932fea60.webp",
+   "/images/catalog/f668a2aee2b8e04555.webp",
+   "/images/catalog/68a9797c009b66c398.webp",
+   "/images/catalog/c6a67aa3bfbad40dc4.webp",
+   "/images/catalog/eb79a9d06a099e3d65.webp",
+   "/images/catalog/7da4e25f776da0112c.webp",
+   "/images/catalog/fefb0f3be5f1bacc59.webp",
+   "/images/catalog/80a4b1cfcafb122828.webp",
+   "/images/catalog/ac2d0b48a386c7dc02.webp"
+  ]
+ },
+ {
+  "id": "bag-10228988313837",
+  "name": "Brahmin Eris",
+  "brand": "Brahmin",
+  "department": "Bags",
+  "category": "Crossbody",
+  "audience": "Women",
+  "price": 24795,
+  "tag": "Women\u2019s collection",
+  "description": "A Brahmin handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Ruby Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/eris-ruby-melbourne-v8015100082?variant=50721704476909",
+     "sourceVariantID": "50721704476909",
+     "sourceSKU": "V8015100082",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Ruby Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Midnight Blue Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/eris-midnight-blue-melbourne-v8015101401?variant=50721688846573",
+     "sourceVariantID": "50721688846573",
+     "sourceSKU": "V8015101401",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Midnight Blue Melbourne",
+     "itemKind": "Bags"
+    }
+   },
+   "Vintage Gold Melbourne": {
+    "": {
+     "usd": 145.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 24795,
+     "sourceURL": "https://brahmin.com/products/eris-copy?variant=50697134702829",
+     "sourceVariantID": "50697134702829",
+     "sourceSKU": "V8015100810",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Vintage Gold Melbourne",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Ruby Melbourne": [
+    "/images/catalog/242bf341084fbd0d78.webp"
+   ],
+   "Midnight Blue Melbourne": [
+    "/images/catalog/fbab503759b05a7679.webp"
+   ],
+   "Vintage Gold Melbourne": [
+    "/images/catalog/5e9ec511a32112e3fc.webp"
+   ]
+  },
+  "swatches": {
+   "Ruby Melbourne": "#9e264c",
+   "Midnight Blue Melbourne": "#4c7391",
+   "Vintage Gold Melbourne": "#c1a15d"
+  },
+  "sourceURLs": {
+   "Ruby Melbourne": "https://brahmin.com/products/eris-ruby-melbourne-v8015100082",
+   "Midnight Blue Melbourne": "https://brahmin.com/products/eris-midnight-blue-melbourne-v8015101401",
+   "Vintage Gold Melbourne": "https://brahmin.com/products/eris-copy"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Ruby Melbourne",
+   "Midnight Blue Melbourne",
+   "Vintage Gold Melbourne"
+  ],
+  "images": [
+   "/images/catalog/242bf341084fbd0d78.webp",
+   "/images/catalog/fbab503759b05a7679.webp",
+   "/images/catalog/5e9ec511a32112e3fc.webp"
+  ]
+ },
+ {
+  "id": "bag-7310149288069",
+  "name": "Steve Madden Iconic",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 20349,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Burgundy": {
+    "": {
+     "usd": 119.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 20349,
+     "sourceURL": "https://www.stevemadden.com/products/biconic-burgundy?variant=41783645241477",
+     "sourceVariantID": "41783645241477",
+     "sourceSKU": "BICONIC",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BURGUNDY / ONESZ / BUR",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Burgundy": [
+    "/images/catalog/4dc9e252aae21b9921.webp",
+    "/images/catalog/c5f33365c6b2d86458.webp",
+    "/images/catalog/ece155f0421a369599.webp"
+   ]
+  },
+  "swatches": {
+   "Burgundy": "#a9a294"
+  },
+  "sourceURLs": {
+   "Burgundy": "https://www.stevemadden.com/products/biconic-burgundy"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Burgundy"
+  ],
+  "images": [
+   "/images/catalog/4dc9e252aae21b9921.webp",
+   "/images/catalog/c5f33365c6b2d86458.webp",
+   "/images/catalog/ece155f0421a369599.webp"
+  ]
+ },
+ {
+  "id": "bag-7328744210565",
+  "name": "Steve Madden Alba",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 25308,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Cream": {
+    "": {
+     "usd": 148.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 25308,
+     "sourceURL": "https://www.stevemadden.com/products/balba-cream?variant=41852705472645",
+     "sourceVariantID": "41852705472645",
+     "sourceSKU": "BALBA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "CREAM / ONESZ / CRM",
+     "itemKind": "Bags"
+    }
+   },
+   "Black": {
+    "": {
+     "usd": 148.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 25308,
+     "sourceURL": "https://www.stevemadden.com/products/balba-black?variant=41852705505413",
+     "sourceVariantID": "41852705505413",
+     "sourceSKU": "BALBA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLACK / ONESZ / BLK",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Cream": [
+    "/images/catalog/0de052cb1dc6d91ea4.webp",
+    "/images/catalog/333f2b694173fa23cb.webp",
+    "/images/catalog/db3abdf62286b90a10.webp"
+   ],
+   "Black": [
+    "/images/catalog/58c070769257d2d326.webp",
+    "/images/catalog/703fd1bafb859986b7.webp",
+    "/images/catalog/e3c9098fa49ed13295.webp"
+   ]
+  },
+  "swatches": {
+   "Cream": "#a9a294",
+   "Black": "#222326"
+  },
+  "sourceURLs": {
+   "Cream": "https://www.stevemadden.com/products/balba-cream",
+   "Black": "https://www.stevemadden.com/products/balba-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Cream",
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/0de052cb1dc6d91ea4.webp",
+   "/images/catalog/333f2b694173fa23cb.webp",
+   "/images/catalog/db3abdf62286b90a10.webp",
+   "/images/catalog/58c070769257d2d326.webp",
+   "/images/catalog/703fd1bafb859986b7.webp",
+   "/images/catalog/e3c9098fa49ed13295.webp"
+  ]
+ },
+ {
+  "id": "bag-7331466543237",
+  "name": "Steve Madden Nymera",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 13338,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://www.stevemadden.com/products/bnymera-black?variant=41865229762693",
+     "sourceVariantID": "41865229762693",
+     "sourceSKU": "BNYMERA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLACK / ONESZ / BLK",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Black": [
+    "/images/catalog/76d385dd9b2bc133a0.webp",
+    "/images/catalog/72109922205825e5e4.webp",
+    "/images/catalog/e9d87b92323b4c8af7.webp"
+   ]
+  },
+  "swatches": {
+   "Black": "#222326"
+  },
+  "sourceURLs": {
+   "Black": "https://www.stevemadden.com/products/bnymera-black"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black"
+  ],
+  "images": [
+   "/images/catalog/76d385dd9b2bc133a0.webp",
+   "/images/catalog/72109922205825e5e4.webp",
+   "/images/catalog/e9d87b92323b4c8af7.webp"
+  ]
+ },
+ {
+  "id": "bag-7310149222533",
+  "name": "Steve Madden Kenzi",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 22059,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black Tan": {
+    "": {
+     "usd": 129.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 22059,
+     "sourceURL": "https://www.stevemadden.com/products/bkenzi-black-tan?variant=41783644684421",
+     "sourceVariantID": "41783644684421",
+     "sourceSKU": "BKENZI",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLACK TAN / ONESZ / BTN",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Black Tan": [
+    "/images/catalog/2b9f1323b5e9b31c7f.webp",
+    "/images/catalog/fbc5ce437b67da012a.webp",
+    "/images/catalog/4413ce4d71464ba7c1.webp"
+   ]
+  },
+  "swatches": {
+   "Black Tan": "#222326"
+  },
+  "sourceURLs": {
+   "Black Tan": "https://www.stevemadden.com/products/bkenzi-black-tan"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black Tan"
+  ],
+  "images": [
+   "/images/catalog/2b9f1323b5e9b31c7f.webp",
+   "/images/catalog/fbc5ce437b67da012a.webp",
+   "/images/catalog/4413ce4d71464ba7c1.webp"
+  ]
+ },
+ {
+  "id": "bag-7271262322821",
+  "name": "Steve Madden Scoop",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 12312,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Champagne": {
+    "": {
+     "usd": 72.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 12312,
+     "sourceURL": "https://www.stevemadden.com/products/bscoop-champagne?variant=41621691039877",
+     "sourceVariantID": "41621691039877",
+     "sourceSKU": "BSCOOP",
+     "availableAtSource": true,
+     "sourceVariantTitle": "CHAMPAGNE / ONESZ / CHA",
+     "itemKind": "Bags"
+    }
+   },
+   "Black": {
+    "": {
+     "usd": 72.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 12312,
+     "sourceURL": "https://www.stevemadden.com/products/bscoop-black?variant=41621691007109",
+     "sourceVariantID": "41621691007109",
+     "sourceSKU": "BSCOOP",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLACK / ONESZ / BLK",
+     "itemKind": "Bags"
+    }
+   },
+   "Wine": {
+    "": {
+     "usd": 72.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 12312,
+     "sourceURL": "https://www.stevemadden.com/products/bscoop-wine?variant=41621690974341",
+     "sourceVariantID": "41621690974341",
+     "sourceSKU": "BSCOOP",
+     "availableAtSource": true,
+     "sourceVariantTitle": "WINE / ONESZ / WNE",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Champagne": [
+    "/images/catalog/7a95ccec89fa4f67be.webp",
+    "/images/catalog/bdc004011e5ebcb1dc.webp",
+    "/images/catalog/aafc106209a92670f6.webp"
+   ],
+   "Black": [
+    "/images/catalog/f21e34dc38978e91a7.webp",
+    "/images/catalog/f0ab8b1a8d5081d2fd.webp",
+    "/images/catalog/bbad38a2594296e3c5.webp"
+   ],
+   "Wine": [
+    "/images/catalog/ac0c86e135e303e044.webp",
+    "/images/catalog/ca5e10e548291a5321.webp",
+    "/images/catalog/32c0c700e5368f28ea.webp"
+   ]
+  },
+  "swatches": {
+   "Champagne": "#a9a294",
+   "Black": "#222326",
+   "Wine": "#a9a294"
+  },
+  "sourceURLs": {
+   "Champagne": "https://www.stevemadden.com/products/bscoop-champagne",
+   "Black": "https://www.stevemadden.com/products/bscoop-black",
+   "Wine": "https://www.stevemadden.com/products/bscoop-wine"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Champagne",
+   "Black",
+   "Wine"
+  ],
+  "images": [
+   "/images/catalog/7a95ccec89fa4f67be.webp",
+   "/images/catalog/bdc004011e5ebcb1dc.webp",
+   "/images/catalog/aafc106209a92670f6.webp",
+   "/images/catalog/f21e34dc38978e91a7.webp",
+   "/images/catalog/f0ab8b1a8d5081d2fd.webp",
+   "/images/catalog/bbad38a2594296e3c5.webp",
+   "/images/catalog/ac0c86e135e303e044.webp",
+   "/images/catalog/ca5e10e548291a5321.webp",
+   "/images/catalog/32c0c700e5368f28ea.webp"
+  ]
+ },
+ {
+  "id": "bag-7262083678341",
+  "name": "Steve Madden Cierra",
+  "brand": "Steve Madden",
+  "department": "Bags",
+  "category": "Handbags",
+  "audience": "Women",
+  "price": 17098,
+  "tag": "Women\u2019s collection",
+  "description": "A Steve Madden handbag from the women\u2019s collection.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Mustard": {
+    "": {
+     "usd": 99.99,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 17098,
+     "sourceURL": "https://www.stevemadden.com/products/bcierra-mustard?variant=41582178926725",
+     "sourceVariantID": "41582178926725",
+     "sourceSKU": "BCIERRA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "MUSTARD / ONESZ / MUS",
+     "itemKind": "Bags"
+    }
+   }
+  },
+  "variants": {
+   "Mustard": [
+    "/images/catalog/84fb37100e9846224e.webp",
+    "/images/catalog/42cb6652484eb1d393.webp",
+    "/images/catalog/8761d837bf89346954.webp"
+   ]
+  },
+  "swatches": {
+   "Mustard": "#a9a294"
+  },
+  "sourceURLs": {
+   "Mustard": "https://www.stevemadden.com/products/bcierra-mustard"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Mustard"
+  ],
+  "images": [
+   "/images/catalog/84fb37100e9846224e.webp",
+   "/images/catalog/42cb6652484eb1d393.webp",
+   "/images/catalog/8761d837bf89346954.webp"
+  ]
+ },
+ {
+  "id": "watch-7657241968723",
+  "name": "Timex Marlin Quartz 34mm Leather Strap Watch",
   "brand": "Timex",
-  "department": "Accessories",
+  "department": "Watches & Sunglasses",
   "category": "Watches",
-  "audience": "Unisex",
-  "price": 5585,
-  "tag": "Brand-store selection",
-  "description": "If you\u2019re looking for a simple digital sports watch, you\u2019ve found it.",
-  "sizeLabel": "Clothing size",
+  "audience": "Women",
+  "price": 28899,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
   "sizes": [],
   "offers": {
    "As pictured": {
     "": {
-     "usd": 34.5,
-     "etb": 5585,
-     "sourceURL": "https://timex.com/products/timex-digital-33mm-resin-strap-watch-tw5m61400?variant=41797666046035",
-     "sourceVariantID": "41797666046035",
-     "sourceSKU": "TW5M614009J"
+     "usd": 169.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 28899,
+     "sourceURL": "https://timex.com/products/marlin-quartz-34mm-leather-strap-watch-tw2y37600?variant=42930103418963",
+     "sourceVariantID": "42930103418963",
+     "sourceSKU": "TW2Y37600VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
     }
    }
   },
   "variants": {
    "As pictured": [
-    "/images/catalog/74b2daaf60bf0830a2.png",
-    "/images/catalog/4e78f7bab4caa146a9.png",
-    "/images/catalog/249ccdc4781ece2dde.png",
-    "/images/catalog/b57d92700586b750e9.png",
-    "/images/catalog/7e31e39859d4f051b1.png"
+    "/images/catalog/29b5db0f39e2dba0a8.webp",
+    "/images/catalog/066aa63ef789d5a222.webp"
    ]
   },
   "swatches": {
-   "As pictured": "#ad3140"
+   "As pictured": "#a9a294"
   },
   "sourceURLs": {
-   "As pictured": "https://timex.com/products/timex-digital-33mm-resin-strap-watch-tw5m61400"
+   "As pictured": "https://timex.com/products/marlin-quartz-34mm-leather-strap-watch-tw2y37600"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
@@ -13126,113 +14841,2682 @@ window.catalog = [
    "As pictured"
   ],
   "images": [
-   "/images/catalog/74b2daaf60bf0830a2.png",
-   "/images/catalog/4e78f7bab4caa146a9.png",
-   "/images/catalog/249ccdc4781ece2dde.png",
-   "/images/catalog/b57d92700586b750e9.png",
-   "/images/catalog/7e31e39859d4f051b1.png"
+   "/images/catalog/29b5db0f39e2dba0a8.webp",
+   "/images/catalog/066aa63ef789d5a222.webp"
   ]
  },
  {
-  "id": "stevemadden-demson",
-  "name": "Steve Madden Demson Sunglasses Black",
-  "brand": "Steve Madden",
-  "department": "Accessories",
+  "id": "sunglasses-10360003658044",
+  "name": "Emporio Armani EA4216U Pillow Sunglasses",
+  "brand": "Emporio Armani",
+  "department": "Watches & Sunglasses",
   "category": "Sunglasses",
   "audience": "Unisex",
-  "price": 4855,
-  "tag": "Brand-store selection",
-  "description": "The DEMSON SUNGLASSES BLACK are classic aviators designed for timeless style and versatile wear.",
-  "sizeLabel": "Clothing size",
+  "price": 9795,
+  "tag": "Sunglasses",
+  "description": "EA4216U PILLOW SUNGLASS",
+  "sizeLabel": "One size",
   "sizes": [],
   "offers": {
-   "Black": {
+   "Matte White | Light Brown Mirror Gold": {
     "": {
-     "usd": 29.99,
-     "etb": 4855,
-     "sourceURL": "https://www.stevemadden.com/products/x17906-black?variant=41547292541061",
-     "sourceVariantID": "41547292541061",
-     "sourceSKU": "X17906"
+     "usd": 57.28,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9795,
+     "sourceURL": "https://www.shadesdaddy.com/products/ea4216u-emporio-armani?variant=52966218465596",
+     "sourceVariantID": "52966218465596",
+     "sourceSKU": "357306",
+     "availableAtSource": true,
+     "sourceVariantTitle": "MATTE WHITE | LIGHT BROWN MIRROR GOLD / 56-20-145",
+     "itemKind": "Sunglasses"
     }
    }
   },
   "variants": {
-   "Black": [
-    "/images/catalog/b5a58346b2d0916469.jpg",
-    "/images/catalog/e49ee36a2b8e1a334b.jpg",
-    "/images/catalog/6f00966d04314a0a74.jpg",
-    "/images/catalog/fcac5cfba60a295677.jpg"
+   "Matte White | Light Brown Mirror Gold": [
+    "/images/catalog/cf055bc44f87d88575.webp",
+    "/images/catalog/defa829fd01e9c941c.webp"
    ]
   },
   "swatches": {
-   "Black": "#242629"
+   "Matte White | Light Brown Mirror Gold": "#c1a15d"
   },
   "sourceURLs": {
-   "Black": "https://www.stevemadden.com/products/x17906-black"
-  },
-  "ratings": {
-   "Black": {
-    "value": 5,
-    "count": 2,
-    "sourceURL": "https://www.stevemadden.com/products/x17906-black"
-   }
-  },
-  "checkedAt": "2026-10-25",
-  "colors": [
-   "Black"
-  ],
-  "images": [
-   "/images/catalog/b5a58346b2d0916469.jpg",
-   "/images/catalog/e49ee36a2b8e1a334b.jpg",
-   "/images/catalog/6f00966d04314a0a74.jpg",
-   "/images/catalog/fcac5cfba60a295677.jpg"
-  ]
- },
- {
-  "id": "stevemadden-hoops",
-  "name": "Steve Madden Textured Hoop Earrings Gold",
-  "brand": "Steve Madden",
-  "department": "Accessories",
-  "category": "Jewelry",
-  "audience": "Women",
-  "price": 4047,
-  "tag": "Brand-store selection",
-  "description": "The TEXTURED HOOP EARRINGS GOLD add dimension and visual interest to any look.",
-  "sizeLabel": "Clothing size",
-  "sizes": [],
-  "offers": {
-   "Gold": {
-    "": {
-     "usd": 25,
-     "etb": 4047,
-     "sourceURL": "https://www.stevemadden.com/products/602161-gold?variant=41716817690757",
-     "sourceVariantID": "41716817690757",
-     "sourceSKU": "602161"
-    }
-   }
-  },
-  "variants": {
-   "Gold": [
-    "/images/catalog/733ffc7fd2955efc24.jpg",
-    "/images/catalog/ac91ad323896feefd2.jpg",
-    "/images/catalog/85e1d18f24d5e5ead3.jpg"
-   ]
-  },
-  "swatches": {
-   "Gold": "#c7aa77"
-  },
-  "sourceURLs": {
-   "Gold": "https://www.stevemadden.com/products/602161-gold"
+   "Matte White | Light Brown Mirror Gold": "https://www.shadesdaddy.com/products/ea4216u-emporio-armani"
   },
   "ratings": {},
   "checkedAt": "2026-10-25",
   "colors": [
-   "Gold"
+   "Matte White | Light Brown Mirror Gold"
   ],
   "images": [
-   "/images/catalog/733ffc7fd2955efc24.jpg",
-   "/images/catalog/ac91ad323896feefd2.jpg",
-   "/images/catalog/85e1d18f24d5e5ead3.jpg"
+   "/images/catalog/cf055bc44f87d88575.webp",
+   "/images/catalog/defa829fd01e9c941c.webp"
+  ]
+ },
+ {
+  "id": "watch-7583241142355",
+  "name": "Timex Waterbury Classic 3 Hand 40mm Leather Strap Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Unisex",
+  "price": 16673,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 97.5,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 16673,
+     "sourceURL": "https://timex.com/products/waterbury-classic-3-hand-40mm-leather-strap-watch-tw2y29600?variant=42633640050771",
+     "sourceVariantID": "42633640050771",
+     "sourceSKU": "TW2Y29600VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/a1d506e7fe220d2668.webp",
+    "/images/catalog/706f330eb5c76c141a.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/waterbury-classic-3-hand-40mm-leather-strap-watch-tw2y29600"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/a1d506e7fe220d2668.webp",
+   "/images/catalog/706f330eb5c76c141a.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10360010932540",
+  "name": "Arnette FASTBALL Rectangular Sunglasses",
+  "brand": "Arnette",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 7912,
+  "tag": "Sunglasses",
+  "description": "FASTBALL RECTANGULAR SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Rubber Black | Polarized Dark Grey": {
+    "": {
+     "usd": 46.27,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 7912,
+     "sourceURL": "https://www.shadesdaddy.com/products/an4202-arnette?variant=52966245007676",
+     "sourceVariantID": "52966245007676",
+     "sourceSKU": "114938",
+     "availableAtSource": true,
+     "sourceVariantTitle": "RUBBER BLACK | POLARIZED DARK GREY / 62-16-135",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Rubber Black | Polarized Dark Grey": [
+    "/images/catalog/f0f223e489cd8bf320.webp",
+    "/images/catalog/4fb1139621aafe9c93.webp"
+   ]
+  },
+  "swatches": {
+   "Rubber Black | Polarized Dark Grey": "#222326"
+  },
+  "sourceURLs": {
+   "Rubber Black | Polarized Dark Grey": "https://www.shadesdaddy.com/products/an4202-arnette"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Rubber Black | Polarized Dark Grey"
+  ],
+  "images": [
+   "/images/catalog/f0f223e489cd8bf320.webp",
+   "/images/catalog/4fb1139621aafe9c93.webp"
+  ]
+ },
+ {
+  "id": "watch-6988057182291",
+  "name": "Timex Harborside Coast 43mm Stainless Steel Bracelet Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 28899,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 169.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 28899,
+     "sourceURL": "https://timex.com/products/harborside-coast-43mm-stainless-steel-bracelet-watch-tw2v91900?variant=40783762161747",
+     "sourceVariantID": "40783762161747",
+     "sourceSKU": "TW2V91900VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/8601d503f8add1d1bd.webp",
+    "/images/catalog/ba5bb69d0af690eea3.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/harborside-coast-43mm-stainless-steel-bracelet-watch-tw2v91900"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/8601d503f8add1d1bd.webp",
+   "/images/catalog/ba5bb69d0af690eea3.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10360012243260",
+  "name": "Costa Del Mar MAYA Phantos Sunglasses",
+  "brand": "Costa Del Mar",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 17100,
+  "tag": "Sunglasses",
+  "description": "MAYA PHANTOS SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Shiny Urchin Crystal / Grey | Grey": {
+    "": {
+     "usd": 100.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 17100,
+     "sourceURL": "https://www.shadesdaddy.com/products/6s9011-costa-del-mar?variant=52966253461820",
+     "sourceVariantID": "52966253461820",
+     "sourceSKU": "294103",
+     "availableAtSource": true,
+     "sourceVariantTitle": "SHINY URCHIN CRYSTAL / GREY | GREY / 55-19-135",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Shiny Urchin Crystal / Grey | Grey": [
+    "/images/catalog/cbea8dfa342277331c.webp",
+    "/images/catalog/ef94b1c9fcdda1e62e.webp"
+   ]
+  },
+  "swatches": {
+   "Shiny Urchin Crystal / Grey | Grey": "#858b90"
+  },
+  "sourceURLs": {
+   "Shiny Urchin Crystal / Grey | Grey": "https://www.shadesdaddy.com/products/6s9011-costa-del-mar"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Shiny Urchin Crystal / Grey | Grey"
+  ],
+  "images": [
+   "/images/catalog/cbea8dfa342277331c.webp",
+   "/images/catalog/ef94b1c9fcdda1e62e.webp"
+  ]
+ },
+ {
+  "id": "watch-7583242256467",
+  "name": "Timex Legacy 36mm Stainless Steel Bracelet Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Unisex",
+  "price": 20520,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 120.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 20520,
+     "sourceURL": "https://timex.com/products/timex-legacy-36mm-stainless-steel-bracelet-watch-tw2y27900?variant=42633641853011",
+     "sourceVariantID": "42633641853011",
+     "sourceSKU": "TW2Y27900VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/6ab01cae16cf6fca07.webp",
+    "/images/catalog/bbc28a72330e1cbe78.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/timex-legacy-36mm-stainless-steel-bracelet-watch-tw2y27900"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/6ab01cae16cf6fca07.webp",
+   "/images/catalog/bbc28a72330e1cbe78.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10359983866172",
+  "name": "Tory Burch TY7169U Rectangular Sunglasses",
+  "brand": "Tory Burch",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 12846,
+  "tag": "Sunglasses",
+  "description": "TY7169U RECTANGULAR SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black | Solid Grey": {
+    "": {
+     "usd": 75.12,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 12846,
+     "sourceURL": "https://www.shadesdaddy.com/products/ty7169u-tory-burch?variant=52966108135740",
+     "sourceVariantID": "52966108135740",
+     "sourceSKU": "302236",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLACK | SOLID GREY / 52-17-140",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black | Solid Grey": [
+    "/images/catalog/6240811b8dc0bcc674.webp",
+    "/images/catalog/2f60209a546722d79e.webp"
+   ]
+  },
+  "swatches": {
+   "Black | Solid Grey": "#222326"
+  },
+  "sourceURLs": {
+   "Black | Solid Grey": "https://www.shadesdaddy.com/products/ty7169u-tory-burch"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black | Solid Grey"
+  ],
+  "images": [
+   "/images/catalog/6240811b8dc0bcc674.webp",
+   "/images/catalog/2f60209a546722d79e.webp"
+  ]
+ },
+ {
+  "id": "watch-6907551580243",
+  "name": "Timex Legacy Boyfriend 36mm Stainless Steel Bracelet Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 28899,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 169.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 28899,
+     "sourceURL": "https://timex.com/products/timex-legacy-boyfriend-36mm-stainless-steel-bracelet-watch-tw2u78700?variant=40430925021267",
+     "sourceVariantID": "40430925021267",
+     "sourceSKU": "TW2U78700VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/57c54d872af4b75163.webp",
+    "/images/catalog/f2450e2a0a67a1a82b.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/timex-legacy-boyfriend-36mm-stainless-steel-bracelet-watch-tw2u78700"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/57c54d872af4b75163.webp",
+   "/images/catalog/f2450e2a0a67a1a82b.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10359984062780",
+  "name": "Tory Burch TY6110 Cat Eye Sunglasses",
+  "brand": "Tory Burch",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 15369,
+  "tag": "Sunglasses",
+  "description": "TY6110 CAT EYE SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Light Gold | Dark Blue": {
+    "": {
+     "usd": 89.88,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 15369,
+     "sourceURL": "https://www.shadesdaddy.com/products/ty6110-tory-burch?variant=52966108823868",
+     "sourceVariantID": "52966108823868",
+     "sourceSKU": "367660",
+     "availableAtSource": true,
+     "sourceVariantTitle": "LIGHT GOLD | DARK BLUE / 56-16-140",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Light Gold | Dark Blue": [
+    "/images/catalog/f152dea85d5a5adae6.webp",
+    "/images/catalog/b30364577231736a1a.webp"
+   ]
+  },
+  "swatches": {
+   "Light Gold | Dark Blue": "#c1a15d"
+  },
+  "sourceURLs": {
+   "Light Gold | Dark Blue": "https://www.shadesdaddy.com/products/ty6110-tory-burch"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Light Gold | Dark Blue"
+  ],
+  "images": [
+   "/images/catalog/f152dea85d5a5adae6.webp",
+   "/images/catalog/b30364577231736a1a.webp"
+  ]
+ },
+ {
+  "id": "watch-6988049023059",
+  "name": "Timex Legacy Day and Date 41mm Stainless Steel Bracelet Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 32319,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 189.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 32319,
+     "sourceURL": "https://timex.com/products/timex-legacy-day-and-date-41mm-stainless-steel-bracelet-watch-tw2v67800?variant=40783747088467",
+     "sourceVariantID": "40783747088467",
+     "sourceSKU": "TW2V67800VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/3d5d5e5f65ae8d00cb.webp",
+    "/images/catalog/8575a5f54cf585e32d.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/timex-legacy-day-and-date-41mm-stainless-steel-bracelet-watch-tw2v67800"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/3d5d5e5f65ae8d00cb.webp",
+   "/images/catalog/8575a5f54cf585e32d.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10359979966780",
+  "name": "Vogue Eyewear VO5509S Phantos Sunglasses",
+  "brand": "Vogue Eyewear",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 5282,
+  "tag": "Sunglasses",
+  "description": "VO5509S PHANTOS SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Pink Horn | Gradient Grey": {
+    "": {
+     "usd": 30.89,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 5282,
+     "sourceURL": "https://www.shadesdaddy.com/products/vo5509s-vogue?variant=52966094373180",
+     "sourceVariantID": "52966094373180",
+     "sourceSKU": "331157",
+     "availableAtSource": true,
+     "sourceVariantTitle": "PINK HORN | GRADIENT GREY / 56-17-145",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Pink Horn | Gradient Grey": [
+    "/images/catalog/6377f87f495ce8682f.webp",
+    "/images/catalog/241a68811acad5daef.webp"
+   ]
+  },
+  "swatches": {
+   "Pink Horn | Gradient Grey": "#858b90"
+  },
+  "sourceURLs": {
+   "Pink Horn | Gradient Grey": "https://www.shadesdaddy.com/products/vo5509s-vogue"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Pink Horn | Gradient Grey"
+  ],
+  "images": [
+   "/images/catalog/6377f87f495ce8682f.webp",
+   "/images/catalog/241a68811acad5daef.webp"
+  ]
+ },
+ {
+  "id": "watch-8017153687635",
+  "name": "Timex Waterbury Classic Sub-Second 39mm Leather Strap Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 32319,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 189.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 32319,
+     "sourceURL": "https://timex.com/products/waterbury-classic-sub-second-39mm-leather-strap-watch-tw2y92000?variant=45805257359443",
+     "sourceVariantID": "45805257359443",
+     "sourceSKU": "TW2Y92000VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/c9bcc42d8f4545d8ff.webp",
+    "/images/catalog/adfaaeb3cab3fa4530.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/waterbury-classic-sub-second-39mm-leather-strap-watch-tw2y92000"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/c9bcc42d8f4545d8ff.webp",
+   "/images/catalog/adfaaeb3cab3fa4530.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10360010670396",
+  "name": "Arnette CATFISH Oval Sunglasses",
+  "brand": "Arnette",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 5015,
+  "tag": "Sunglasses",
+  "description": "CATFISH OVAL SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver": {
+    "": {
+     "usd": 29.33,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 5015,
+     "sourceURL": "https://www.shadesdaddy.com/products/an4302-arnette?variant=52966243991868",
+     "sourceVariantID": "52966243991868",
+     "sourceSKU": "315290",
+     "availableAtSource": true,
+     "sourceVariantTitle": "GREEN GREY GUNMETAL SILVER / LIGHT GREY MIRROR SILVER | LIGHT GREY MIRROR SILVER / 62-16-125",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver": [
+    "/images/catalog/e9b6ee8fae9271067e.webp",
+    "/images/catalog/46eeaf57b8999a9b74.webp"
+   ]
+  },
+  "swatches": {
+   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver": "#b6bec7"
+  },
+  "sourceURLs": {
+   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver": "https://www.shadesdaddy.com/products/an4302-arnette"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Green Grey Gunmetal Silver / Light Grey Mirror Silver | Light Grey Mirror Silver"
+  ],
+  "images": [
+   "/images/catalog/e9b6ee8fae9271067e.webp",
+   "/images/catalog/46eeaf57b8999a9b74.webp"
+  ]
+ },
+ {
+  "id": "watch-7704399085651",
+  "name": "Timex Q Timex Continental Day and Date 39mm Stainless Steel Bracelet Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 30609,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 179.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 30609,
+     "sourceURL": "https://timex.com/products/q-timex-continental-day-and-date-39mm-stainless-steel-bracelet-watch-tw2y35200?variant=43102897963091",
+     "sourceVariantID": "43102897963091",
+     "sourceSKU": "TW2Y35200VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/071eda1cdcebc1c5cb.webp",
+    "/images/catalog/e6b6f6ebf3c7bebc6c.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/q-timex-continental-day-and-date-39mm-stainless-steel-bracelet-watch-tw2y35200"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/071eda1cdcebc1c5cb.webp",
+   "/images/catalog/e6b6f6ebf3c7bebc6c.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10359980196156",
+  "name": "Vogue Eyewear VO5338S Pillow Sunglasses",
+  "brand": "Vogue Eyewear",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 7910,
+  "tag": "Sunglasses",
+  "description": "VO5338S PILLOW SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Yellow Havana | Brown Gradient": {
+    "": {
+     "usd": 46.26,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 7910,
+     "sourceURL": "https://www.shadesdaddy.com/products/vo5338s-vogue?variant=52966095028540",
+     "sourceVariantID": "52966095028540",
+     "sourceSKU": "171691",
+     "availableAtSource": true,
+     "sourceVariantTitle": "YELLOW HAVANA | BROWN GRADIENT / 54-19-140",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Yellow Havana | Brown Gradient": [
+    "/images/catalog/b72ab18b90c3413b51.webp",
+    "/images/catalog/50c1dce145985bb736.webp"
+   ]
+  },
+  "swatches": {
+   "Yellow Havana | Brown Gradient": "#77533c"
+  },
+  "sourceURLs": {
+   "Yellow Havana | Brown Gradient": "https://www.shadesdaddy.com/products/vo5338s-vogue"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Yellow Havana | Brown Gradient"
+  ],
+  "images": [
+   "/images/catalog/b72ab18b90c3413b51.webp",
+   "/images/catalog/50c1dce145985bb736.webp"
+  ]
+ },
+ {
+  "id": "watch-7657240330323",
+  "name": "Timex Waterbury Ace 41mm Leather Strap Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 32319,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 189.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 32319,
+     "sourceURL": "https://timex.com/products/waterbury-ace-41mm-leather-strap-watch-tw2y18900?variant=42930100404307",
+     "sourceVariantID": "42930100404307",
+     "sourceSKU": "TW2Y18900VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/ce7010779023e7c755.webp",
+    "/images/catalog/011ea61bf12d45c445.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/waterbury-ace-41mm-leather-strap-watch-tw2y18900"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/ce7010779023e7c755.webp",
+   "/images/catalog/011ea61bf12d45c445.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10360010604860",
+  "name": "Arnette LITTY Rectangular Sunglasses",
+  "brand": "Arnette",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 9410,
+  "tag": "Sunglasses",
+  "description": "LITTY RECTANGULAR SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black | Dark Grey": {
+    "": {
+     "usd": 55.03,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9410,
+     "sourceURL": "https://www.shadesdaddy.com/products/an4317-arnette?variant=52966243926332",
+     "sourceVariantID": "52966243926332",
+     "sourceSKU": "335653",
+     "availableAtSource": true,
+     "sourceVariantTitle": "BLACK | DARK GREY / 50-19-145",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black | Dark Grey": [
+    "/images/catalog/25435011b8a849ab57.webp",
+    "/images/catalog/2cf4f7913d02088fd4.webp"
+   ]
+  },
+  "swatches": {
+   "Black | Dark Grey": "#222326"
+  },
+  "sourceURLs": {
+   "Black | Dark Grey": "https://www.shadesdaddy.com/products/an4317-arnette"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black | Dark Grey"
+  ],
+  "images": [
+   "/images/catalog/25435011b8a849ab57.webp",
+   "/images/catalog/2cf4f7913d02088fd4.webp"
+  ]
+ },
+ {
+  "id": "watch-7537686577235",
+  "name": "Timex Legacy Mini 25mm Stainless Steel Bracelet Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 30609,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 179.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 30609,
+     "sourceURL": "https://timex.com/products/timex-legacy-mini-25mm-stainless-steel-bracelet-watch-tw2w91000?variant=42489737707603",
+     "sourceVariantID": "42489737707603",
+     "sourceSKU": "TW2W91000VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/b4d5476f0eb5be7c7e.webp",
+    "/images/catalog/23a04ff0303d5ee1ad.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/timex-legacy-mini-25mm-stainless-steel-bracelet-watch-tw2w91000"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/b4d5476f0eb5be7c7e.webp",
+   "/images/catalog/23a04ff0303d5ee1ad.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10359980261692",
+  "name": "Vogue Eyewear VO4198S Irregular Sunglasses",
+  "brand": "Vogue Eyewear",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 7914,
+  "tag": "Sunglasses",
+  "description": "VO4198S IRREGULAR SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Top Red/Gold | Pink Gradient Dark Grey": {
+    "": {
+     "usd": 46.28,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 7914,
+     "sourceURL": "https://www.shadesdaddy.com/products/vo4198s-vogue?variant=52966095094076",
+     "sourceVariantID": "52966095094076",
+     "sourceSKU": "279805",
+     "availableAtSource": true,
+     "sourceVariantTitle": "TOP RED/GOLD | PINK GRADIENT DARK GREY / 58-16-140",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Top Red/Gold | Pink Gradient Dark Grey": [
+    "/images/catalog/e29645cbf34ceec5ff.webp",
+    "/images/catalog/08268d48a1f8d6e9de.webp"
+   ]
+  },
+  "swatches": {
+   "Top Red/Gold | Pink Gradient Dark Grey": "#c1a15d"
+  },
+  "sourceURLs": {
+   "Top Red/Gold | Pink Gradient Dark Grey": "https://www.shadesdaddy.com/products/vo4198s-vogue"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Top Red/Gold | Pink Gradient Dark Grey"
+  ],
+  "images": [
+   "/images/catalog/e29645cbf34ceec5ff.webp",
+   "/images/catalog/08268d48a1f8d6e9de.webp"
+  ]
+ },
+ {
+  "id": "watch-7567668150355",
+  "name": "Timex Waterbury Metropolitan Sub-Second 39mm Leather Strap Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 34029,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 199.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 34029,
+     "sourceURL": "https://timex.com/products/waterbury-metropolitan-sub-second-39mm-leather-strap-watch-tw2y23100?variant=42577178886227",
+     "sourceVariantID": "42577178886227",
+     "sourceSKU": "TW2Y23100VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/9c9fc3223acce7fdd7.webp",
+    "/images/catalog/9ec4ac425caf9348ec.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/waterbury-metropolitan-sub-second-39mm-leather-strap-watch-tw2y23100"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/9c9fc3223acce7fdd7.webp",
+   "/images/catalog/9ec4ac425caf9348ec.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10360003952956",
+  "name": "Emporio Armani EA4058 Rectangular Sunglasses",
+  "brand": "Emporio Armani",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13837,
+  "tag": "Sunglasses",
+  "description": "EA4058 RECTANGULAR SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Rubber Black | Grey Polarized": {
+    "": {
+     "usd": 80.92,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13837,
+     "sourceURL": "https://www.shadesdaddy.com/products/ea4058-emporio-armani?variant=52966219448636",
+     "sourceVariantID": "52966219448636",
+     "sourceSKU": "160373",
+     "availableAtSource": true,
+     "sourceVariantTitle": "RUBBER BLACK | GREY POLARIZED / 58-17-140",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Rubber Black | Grey Polarized": [
+    "/images/catalog/148ad7b39e80564819.webp",
+    "/images/catalog/0fac5cdfa0facbdf70.webp"
+   ]
+  },
+  "swatches": {
+   "Rubber Black | Grey Polarized": "#222326"
+  },
+  "sourceURLs": {
+   "Rubber Black | Grey Polarized": "https://www.shadesdaddy.com/products/ea4058-emporio-armani"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Rubber Black | Grey Polarized"
+  ],
+  "images": [
+   "/images/catalog/148ad7b39e80564819.webp",
+   "/images/catalog/0fac5cdfa0facbdf70.webp"
+  ]
+ },
+ {
+  "id": "watch-7695231909971",
+  "name": "Timex Q Timex 1975 SSQ Digital Reissue 38mm Stainless Steel Bracelet Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 28899,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 169.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 28899,
+     "sourceURL": "https://timex.com/products/q-timex-1975-ssq-digital-reissue-38mm-stainless-steel-bracelet-watch-tw2y06100?variant=43074525659219",
+     "sourceVariantID": "43074525659219",
+     "sourceSKU": "TW2Y06100VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/7af36b92ca7d38fe43.webp",
+    "/images/catalog/17daf3f149b46b0439.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/q-timex-1975-ssq-digital-reissue-38mm-stainless-steel-bracelet-watch-tw2y06100"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/7af36b92ca7d38fe43.webp",
+   "/images/catalog/17daf3f149b46b0439.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-10359980163388",
+  "name": "Vogue Eyewear VO5380S Pillow Sunglasses",
+  "brand": "Vogue Eyewear",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Women",
+  "price": 5002,
+  "tag": "Sunglasses",
+  "description": "VO5380S PILLOW SUNGLASS",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Yellow Havana | Dark Grey": {
+    "": {
+     "usd": 29.25,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 5002,
+     "sourceURL": "https://www.shadesdaddy.com/products/vo5380s-vogue?variant=52966094995772",
+     "sourceVariantID": "52966094995772",
+     "sourceSKU": "279780",
+     "availableAtSource": true,
+     "sourceVariantTitle": "YELLOW HAVANA | DARK GREY / 50-18-145",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Yellow Havana | Dark Grey": [
+    "/images/catalog/ad88f78d18fd7c0a23.webp",
+    "/images/catalog/6e0cf10ae924e13c70.webp"
+   ]
+  },
+  "swatches": {
+   "Yellow Havana | Dark Grey": "#858b90"
+  },
+  "sourceURLs": {
+   "Yellow Havana | Dark Grey": "https://www.shadesdaddy.com/products/vo5380s-vogue"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Yellow Havana | Dark Grey"
+  ],
+  "images": [
+   "/images/catalog/ad88f78d18fd7c0a23.webp",
+   "/images/catalog/6e0cf10ae924e13c70.webp"
+  ]
+ },
+ {
+  "id": "watch-7452366143571",
+  "name": "Timex Waterbury Classic Moon Phase 40mm Stainless Steel Bracelet Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 34029,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 199.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 34029,
+     "sourceURL": "https://timex.com/products/waterbury-classic-moon-phase-40mm-stainless-steel-bracelet-watch-tw2w75700?variant=42216876507219",
+     "sourceVariantID": "42216876507219",
+     "sourceSKU": "TW2W75700VQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/1a50d422520c2b4961.webp",
+    "/images/catalog/49c1b18625d12e4973.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/waterbury-classic-moon-phase-40mm-stainless-steel-bracelet-watch-tw2w75700"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/1a50d422520c2b4961.webp",
+   "/images/catalog/49c1b18625d12e4973.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8107263754409",
+  "name": "Sunski Fiorella",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 9405,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black Slate": {
+    "": {
+     "usd": 55.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9405,
+     "sourceURL": "https://sunski.com/products/fiorella?variant=44192073547945",
+     "sourceVariantID": "44192073547945",
+     "sourceSKU": "SUN-FI-BSL",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Slate",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Copper Terra Fade": {
+    "": {
+     "usd": 55.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9405,
+     "sourceURL": "https://sunski.com/products/fiorella?variant=44192073580713",
+     "sourceVariantID": "44192073580713",
+     "sourceSKU": "SUN-FI-CTE",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Copper Terra Fade",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black Slate": [
+    "/images/catalog/e4c402270ad8e16264.webp",
+    "/images/catalog/253f82a5885731af4b.webp"
+   ],
+   "Copper Terra Fade": [
+    "/images/catalog/5311d47353d2d6ab42.webp",
+    "/images/catalog/ad39a2591a284079cf.webp"
+   ]
+  },
+  "swatches": {
+   "Black Slate": "#222326",
+   "Copper Terra Fade": "#a9a294"
+  },
+  "sourceURLs": {
+   "Black Slate": "https://sunski.com/products/fiorella",
+   "Copper Terra Fade": "https://sunski.com/products/fiorella"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black Slate",
+   "Copper Terra Fade"
+  ],
+  "images": [
+   "/images/catalog/e4c402270ad8e16264.webp",
+   "/images/catalog/253f82a5885731af4b.webp",
+   "/images/catalog/5311d47353d2d6ab42.webp",
+   "/images/catalog/ad39a2591a284079cf.webp"
+  ]
+ },
+ {
+  "id": "watch-6907511472211",
+  "name": "Timex Expedition Metal Field 39mm Leather Strap Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 15903,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 93.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 15903,
+     "sourceURL": "https://timex.com/products/expedition-metal-field-39mm-leather-strap-watch-t40051?variant=40430881407059",
+     "sourceVariantID": "40430881407059",
+     "sourceSKU": "T400519J",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/053c4f846a53b80e5f.webp",
+    "/images/catalog/a361ce96507952bcb6.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/expedition-metal-field-39mm-leather-strap-watch-t40051"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/053c4f846a53b80e5f.webp",
+   "/images/catalog/a361ce96507952bcb6.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-6619668775081",
+  "name": "Sunski Astra",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 14364,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Caramel Midnight": {
+    "": {
+     "usd": 84.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 14364,
+     "sourceURL": "https://sunski.com/products/astra?variant=43417289031849",
+     "sourceVariantID": "43417289031849",
+     "sourceSKU": "SUN-AS-CMI",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Caramel Midnight",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Copper Ruby": {
+    "": {
+     "usd": 84.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 14364,
+     "sourceURL": "https://sunski.com/products/astra?variant=43461744689321",
+     "sourceVariantID": "43461744689321",
+     "sourceSKU": "SUN-AS-CRU",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Copper Ruby",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Caramel Midnight": [
+    "/images/catalog/c8b0df2f657e4c765a.webp"
+   ],
+   "Copper Ruby": [
+    "/images/catalog/30bb3df3459b9fb159.webp"
+   ]
+  },
+  "swatches": {
+   "Caramel Midnight": "#a9a294",
+   "Copper Ruby": "#9e264c"
+  },
+  "sourceURLs": {
+   "Caramel Midnight": "https://sunski.com/products/astra",
+   "Copper Ruby": "https://sunski.com/products/astra"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Caramel Midnight",
+   "Copper Ruby"
+  ],
+  "images": [
+   "/images/catalog/c8b0df2f657e4c765a.webp",
+   "/images/catalog/30bb3df3459b9fb159.webp"
+  ]
+ },
+ {
+  "id": "watch-7551084691539",
+  "name": "Timex Easy Reader 35mm Leather Strap Watch",
+  "brand": "Timex",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 13167,
+  "tag": "Watches",
+  "description": "A Timex watch. Choose the pictured finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 77.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13167,
+     "sourceURL": "https://timex.com/products/easy-reader-35mm-leather-strap-watch-tw2w95400?variant=42521241780307",
+     "sourceVariantID": "42521241780307",
+     "sourceSKU": "TW2W954009J",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/3726be4e399a85315b.webp",
+    "/images/catalog/fe99b7d4ba4b25b7c4.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://timex.com/products/easy-reader-35mm-leather-strap-watch-tw2w95400"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/3726be4e399a85315b.webp",
+   "/images/catalog/fe99b7d4ba4b25b7c4.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8877276004521",
+  "name": "Sunski Targa",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 9918,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Ember Midnight": {
+    "": {
+     "usd": 58.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9918,
+     "sourceURL": "https://sunski.com/products/targa?variant=46846685380777",
+     "sourceVariantID": "46846685380777",
+     "sourceSKU": "SUN-TR-EMI",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Ember Midnight",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Pine Bronze": {
+    "": {
+     "usd": 58.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9918,
+     "sourceURL": "https://sunski.com/products/targa?variant=46846685413545",
+     "sourceVariantID": "46846685413545",
+     "sourceSKU": "SUN-TR-PBR",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Pine Bronze",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Ember Midnight": [
+    "/images/catalog/3687d660b8c880ead1.webp"
+   ],
+   "Pine Bronze": [
+    "/images/catalog/f81f2b6f750ae8f90d.webp"
+   ]
+  },
+  "swatches": {
+   "Ember Midnight": "#a9a294",
+   "Pine Bronze": "#a9a294"
+  },
+  "sourceURLs": {
+   "Ember Midnight": "https://sunski.com/products/targa",
+   "Pine Bronze": "https://sunski.com/products/targa"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Ember Midnight",
+   "Pine Bronze"
+  ],
+  "images": [
+   "/images/catalog/3687d660b8c880ead1.webp",
+   "/images/catalog/f81f2b6f750ae8f90d.webp"
+  ]
+ },
+ {
+  "id": "watch-6664144715878",
+  "name": "Casio AQ-230A-1DMQ",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 9234,
+  "tag": "Watches",
+  "description": "Casio Men's Black Dial Silver Stainless Steel Band Quartz Watch - AQ-230A-1DMQ",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 54.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9234,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-aq-230a-1dmq?variant=39498573807718",
+     "sourceVariantID": "39498573807718",
+     "sourceSKU": "AQ-230A-1DMQ",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/a63e276daa3e5df990.webp",
+    "/images/catalog/63620776ee2d58298f.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-aq-230a-1dmq"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/a63e276daa3e5df990.webp",
+   "/images/catalog/63620776ee2d58298f.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8877232095401",
+  "name": "Sunski Paladino",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13338,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black Indigo": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/paladino?variant=46846493819049",
+     "sourceVariantID": "46846493819049",
+     "sourceSKU": "SUN-PA-BIN",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Indigo",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Tortoise Bronze": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/paladino?variant=46846493884585",
+     "sourceVariantID": "46846493884585",
+     "sourceSKU": "SUN-PA-TBR",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Tortoise Bronze",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black Indigo": [
+    "/images/catalog/ca27cb703b67c31631.webp"
+   ],
+   "Tortoise Bronze": [
+    "/images/catalog/94cd5c38acef83eb1e.webp"
+   ]
+  },
+  "swatches": {
+   "Black Indigo": "#222326",
+   "Tortoise Bronze": "#a9a294"
+  },
+  "sourceURLs": {
+   "Black Indigo": "https://sunski.com/products/paladino",
+   "Tortoise Bronze": "https://sunski.com/products/paladino"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black Indigo",
+   "Tortoise Bronze"
+  ],
+  "images": [
+   "/images/catalog/ca27cb703b67c31631.webp",
+   "/images/catalog/94cd5c38acef83eb1e.webp"
+  ]
+ },
+ {
+  "id": "watch-9061307482389",
+  "name": "Casio AE-1200WH-1BVDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 5809,
+  "tag": "Watches",
+  "description": "Casio Men's Black dial Black Band Digital Quartz Watch - AE-1200WH-1BVDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 33.97,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 5809,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-ae-1200wh-1bvdf?variant=48126145167637",
+     "sourceVariantID": "48126145167637",
+     "sourceSKU": "AE-1200WH-1BVDF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/7ccbb482e8bd18719b.webp",
+    "/images/catalog/14b0605df6a8e05e0c.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-ae-1200wh-1bvdf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/7ccbb482e8bd18719b.webp",
+   "/images/catalog/14b0605df6a8e05e0c.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8877150109865",
+  "name": "Sunski Minette",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13338,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Tortoise Slate": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/minette?variant=46846377033897",
+     "sourceVariantID": "46846377033897",
+     "sourceSKU": "SUN-ME-TSL",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Tortoise Slate",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Tortoise Afterglow": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/minette?variant=46846377066665",
+     "sourceVariantID": "46846377066665",
+     "sourceSKU": "SUN-ME-DAG",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Tortoise Afterglow",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Tortoise Slate": [
+    "/images/catalog/04550412f41e688fbf.webp"
+   ],
+   "Tortoise Afterglow": [
+    "/images/catalog/ae75400ff95b0bb0e7.webp"
+   ]
+  },
+  "swatches": {
+   "Tortoise Slate": "#a9a294",
+   "Tortoise Afterglow": "#a9a294"
+  },
+  "sourceURLs": {
+   "Tortoise Slate": "https://sunski.com/products/minette",
+   "Tortoise Afterglow": "https://sunski.com/products/minette"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Tortoise Slate",
+   "Tortoise Afterglow"
+  ],
+  "images": [
+   "/images/catalog/04550412f41e688fbf.webp",
+   "/images/catalog/ae75400ff95b0bb0e7.webp"
+  ]
+ },
+ {
+  "id": "watch-9359782150421",
+  "name": "Casio MDV-107D-1A2VDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 17943,
+  "tag": "Watches",
+  "description": "Casio Men's Black Dial Silver Stainless Steel Band Analog Quartz Watch - MDV-107D-1A2VDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 104.93,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 17943,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-mdv-107d-1a2vdf?variant=49046272606485",
+     "sourceVariantID": "49046272606485",
+     "sourceSKU": "MDV-107D-1A2VDF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/8c3d03f7368331f680.webp",
+    "/images/catalog/7f844e81cbaea4769c.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-mdv-107d-1a2vdf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/8c3d03f7368331f680.webp",
+   "/images/catalog/7f844e81cbaea4769c.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8425980756137",
+  "name": "Sunski Tango",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13338,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black Slate": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/tango?variant=45427154354345",
+     "sourceVariantID": "45427154354345",
+     "sourceSKU": "SUN-TA-BSL",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Slate",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Cider Midnight": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/tango?variant=45735140425897",
+     "sourceVariantID": "45735140425897",
+     "sourceSKU": "SUN-TA-CMI",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Cider Midnight",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black Slate": [
+    "/images/catalog/d256369758a98f643c.webp"
+   ],
+   "Cider Midnight": [
+    "/images/catalog/6bdff2d0f7db6b7c63.webp"
+   ]
+  },
+  "swatches": {
+   "Black Slate": "#222326",
+   "Cider Midnight": "#a9a294"
+  },
+  "sourceURLs": {
+   "Black Slate": "https://sunski.com/products/tango",
+   "Cider Midnight": "https://sunski.com/products/tango"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black Slate",
+   "Cider Midnight"
+  ],
+  "images": [
+   "/images/catalog/d256369758a98f643c.webp",
+   "/images/catalog/6bdff2d0f7db6b7c63.webp"
+  ]
+ },
+ {
+  "id": "watch-9086069899541",
+  "name": "Casio MTP-B145D-4AVDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 12398,
+  "tag": "Watches",
+  "description": "Casio Men's Pink dial Silver Band Analog Quartz Watch - MTP-B145D-4AVDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 72.5,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 12398,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-mtp-b145d-4avdf?variant=48206405370133",
+     "sourceVariantID": "48206405370133",
+     "sourceSKU": "MTP-B145D-4AVDF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/f3ba95ed148260913e.webp",
+    "/images/catalog/7fb1f7d4ba05161f24.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-mtp-b145d-4avdf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/f3ba95ed148260913e.webp",
+   "/images/catalog/7fb1f7d4ba05161f24.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8107262869673",
+  "name": "Sunski Bianca",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 9405,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Ivory Amber": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/bianca?variant=44192034226345",
+     "sourceVariantID": "44192034226345",
+     "sourceSKU": "SUN-BI-IAM",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Ivory Amber",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Grass Terra Fade": {
+    "": {
+     "usd": 55.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9405,
+     "sourceURL": "https://sunski.com/products/bianca?variant=47104629801129",
+     "sourceVariantID": "47104629801129",
+     "sourceSKU": "SUN-BI-GTE",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Grass Terra Fade",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Ivory Amber": [
+    "/images/catalog/6df67abbdfc3ccae73.webp"
+   ],
+   "Grass Terra Fade": [
+    "/images/catalog/4c4779f9035cea685f.webp"
+   ]
+  },
+  "swatches": {
+   "Ivory Amber": "#eae4d8",
+   "Grass Terra Fade": "#a9a294"
+  },
+  "sourceURLs": {
+   "Ivory Amber": "https://sunski.com/products/bianca",
+   "Grass Terra Fade": "https://sunski.com/products/bianca"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Ivory Amber",
+   "Grass Terra Fade"
+  ],
+  "images": [
+   "/images/catalog/6df67abbdfc3ccae73.webp",
+   "/images/catalog/4c4779f9035cea685f.webp"
+  ]
+ },
+ {
+  "id": "watch-9465525666069",
+  "name": "Casio MTP-B146D-2AVDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 13663,
+  "tag": "Watches",
+  "description": "Casio Men's Blue Dial Silver Stainless Steel Band Analog Japanese Quartz Watch - MTP-B146D-2AVDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 79.9,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13663,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-mtp-b146d-2avdf?variant=49719153819925",
+     "sourceVariantID": "49719153819925",
+     "sourceSKU": "MTP-B146D-2AVDF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/0b773c975a21fe4ca2.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-mtp-b146d-2avdf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/0b773c975a21fe4ca2.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8107264508073",
+  "name": "Sunski Lago",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 13338,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Wire Tort Amber": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/lago?variant=47172566188201",
+     "sourceVariantID": "47172566188201",
+     "sourceSKU": "SUN-LA-WTA",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Wire Tort Amber",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Fog Terra Fade": {
+    "": {
+     "usd": 78.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13338,
+     "sourceURL": "https://sunski.com/products/lago?variant=45873080729769",
+     "sourceVariantID": "45873080729769",
+     "sourceSKU": "SUN-LA-GTE",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Fog Terra Fade",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Wire Tort Amber": [
+    "/images/catalog/cea8b75c5277077659.webp"
+   ],
+   "Fog Terra Fade": [
+    "/images/catalog/34b3bc8da09ed2e256.webp"
+   ]
+  },
+  "swatches": {
+   "Wire Tort Amber": "#a9a294",
+   "Fog Terra Fade": "#a9a294"
+  },
+  "sourceURLs": {
+   "Wire Tort Amber": "https://sunski.com/products/lago",
+   "Fog Terra Fade": "https://sunski.com/products/lago"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Wire Tort Amber",
+   "Fog Terra Fade"
+  ],
+  "images": [
+   "/images/catalog/cea8b75c5277077659.webp",
+   "/images/catalog/34b3bc8da09ed2e256.webp"
+  ]
+ },
+ {
+  "id": "watch-6591468601446",
+  "name": "Casio LA680WGA-1BDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 11106,
+  "tag": "Watches",
+  "description": "Casio Women's Mid-Size Black Dial Gold Tone Digital Retro Quartz Watch - LA680WGA-1BDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 64.95,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 11106,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-la680wga-1bdf?variant=39352628740198",
+     "sourceVariantID": "39352628740198",
+     "sourceSKU": "LA680WGA-1BDF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/a66c689a4fec2db0fe.webp",
+    "/images/catalog/cce2aaa0d3b5be599b.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-la680wga-1bdf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/a66c689a4fec2db0fe.webp",
+   "/images/catalog/cce2aaa0d3b5be599b.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-7925799092393",
+  "name": "Sunski Vallarta",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 9918,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Mellow Yellow Forest": {
+    "": {
+     "usd": 58.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9918,
+     "sourceURL": "https://sunski.com/products/vallarta?variant=43713851556009",
+     "sourceVariantID": "43713851556009",
+     "sourceSKU": "SUN-VT-MYF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Mellow Yellow Forest",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Mellow Yellow Forest": [
+    "/images/catalog/dc5ad2db76ebacfe6d.webp"
+   ]
+  },
+  "swatches": {
+   "Mellow Yellow Forest": "#a9a294"
+  },
+  "sourceURLs": {
+   "Mellow Yellow Forest": "https://sunski.com/products/vallarta"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Mellow Yellow Forest"
+  ],
+  "images": [
+   "/images/catalog/dc5ad2db76ebacfe6d.webp"
+  ]
+ },
+ {
+  "id": "watch-6762346872934",
+  "name": "Casio LTP-V007L-7B1UDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Women",
+  "price": 5805,
+  "tag": "Watches",
+  "description": "Casio Women's Silver Dial Black Leather Band Japanese quartz Watch - LTP-V007L-7B1UDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 33.95,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 5805,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-ltp-v007l-7b1udf?variant=39742659100774",
+     "sourceVariantID": "39742659100774",
+     "sourceSKU": "LTP-V007L-7B1UDF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/a6c34d3dca74304520.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-ltp-v007l-7b1udf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/a6c34d3dca74304520.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-7531985535145",
+  "name": "Sunski Tera",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 16758,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Tortoise Forest": {
+    "": {
+     "usd": 98.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 16758,
+     "sourceURL": "https://sunski.com/products/tera?variant=43087789359273",
+     "sourceVariantID": "43087789359273",
+     "sourceSKU": "SUN-TE-TFOP",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Tortoise Forest",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Black Gold": {
+    "": {
+     "usd": 98.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 16758,
+     "sourceURL": "https://sunski.com/products/tera?variant=42369954119849",
+     "sourceVariantID": "42369954119849",
+     "sourceSKU": "SUN-TE-BKGP",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Gold",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Tortoise Forest": [
+    "/images/catalog/b4d5d0bfac681e2119.webp"
+   ],
+   "Black Gold": [
+    "/images/catalog/9eb1244ab9152e50b6.webp"
+   ]
+  },
+  "swatches": {
+   "Tortoise Forest": "#a9a294",
+   "Black Gold": "#222326"
+  },
+  "sourceURLs": {
+   "Tortoise Forest": "https://sunski.com/products/tera",
+   "Black Gold": "https://sunski.com/products/tera"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Tortoise Forest",
+   "Black Gold"
+  ],
+  "images": [
+   "/images/catalog/b4d5d0bfac681e2119.webp",
+   "/images/catalog/9eb1244ab9152e50b6.webp"
+  ]
+ },
+ {
+  "id": "watch-9471543050517",
+  "name": "Casio A168WEGB-1BDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Unisex",
+  "price": 16929,
+  "tag": "Watches",
+  "description": "Casio Unisex Black Dial Black Stainless Steel Band Digital Quartz Watch - A168WEGB-1BDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 99.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 16929,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-a168wegb-1bdf?variant=49757650288917",
+     "sourceVariantID": "49757650288917",
+     "sourceSKU": "A168WEGB-1BDF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/a96850a3f11b22e544.webp",
+    "/images/catalog/b151e25b4de4f3b900.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-a168wegb-1bdf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/a96850a3f11b22e544.webp",
+   "/images/catalog/b151e25b4de4f3b900.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-6619670020265",
+  "name": "Sunski Couloir",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 16758,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black Forest": {
+    "": {
+     "usd": 98.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 16758,
+     "sourceURL": "https://sunski.com/products/couloir?variant=39485588734121",
+     "sourceVariantID": "39485588734121",
+     "sourceSKU": "SUN-CO-BFOP",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Forest",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Storm Silver Cat 4": {
+    "": {
+     "usd": 98.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 16758,
+     "sourceURL": "https://sunski.com/products/couloir?variant=45839376089257",
+     "sourceVariantID": "45839376089257",
+     "sourceSKU": "SUN-CO-SSIP",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Storm Silver Cat 4",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black Forest": [
+    "/images/catalog/b0e4bedf97aa6f60f1.webp"
+   ],
+   "Storm Silver Cat 4": [
+    "/images/catalog/522fab24e7144a32ca.webp"
+   ]
+  },
+  "swatches": {
+   "Black Forest": "#222326",
+   "Storm Silver Cat 4": "#b6bec7"
+  },
+  "sourceURLs": {
+   "Black Forest": "https://sunski.com/products/couloir",
+   "Storm Silver Cat 4": "https://sunski.com/products/couloir"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black Forest",
+   "Storm Silver Cat 4"
+  ],
+  "images": [
+   "/images/catalog/b0e4bedf97aa6f60f1.webp",
+   "/images/catalog/522fab24e7144a32ca.webp"
+  ]
+ },
+ {
+  "id": "watch-9474022998293",
+  "name": "Casio CA-53WF-3BDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 6635,
+  "tag": "Watches",
+  "description": "Casio Men's Black Dial Green Resin Band Digital Quartz Watch - CA-53WF-3BDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 38.8,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 6635,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-ca-53wf-3bdf?variant=49763053764885",
+     "sourceVariantID": "49763053764885",
+     "sourceSKU": "CA-53WF-3BDF(2)",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/d1b77eb04f21824faa.webp",
+    "/images/catalog/b2c5100fa1c3caa63f.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-ca-53wf-3bdf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/d1b77eb04f21824faa.webp",
+   "/images/catalog/b2c5100fa1c3caa63f.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-9851453009",
+  "name": "Sunski Avila",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 11628,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black Slate": {
+    "": {
+     "usd": 68.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 11628,
+     "sourceURL": "https://sunski.com/products/avila?variant=37123983633",
+     "sourceVariantID": "37123983633",
+     "sourceSKU": "SUN-AV-BKS",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Slate",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Tortoise Amber": {
+    "": {
+     "usd": 68.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 11628,
+     "sourceURL": "https://sunski.com/products/avila?variant=31681093763138",
+     "sourceVariantID": "31681093763138",
+     "sourceSKU": "SUN-AV-TAM",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Tortoise Amber",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black Slate": [
+    "/images/catalog/a0bb1d59f2c0487eed.webp"
+   ],
+   "Tortoise Amber": [
+    "/images/catalog/c2c48ce598a4d27517.webp"
+   ]
+  },
+  "swatches": {
+   "Black Slate": "#222326",
+   "Tortoise Amber": "#a9a294"
+  },
+  "sourceURLs": {
+   "Black Slate": "https://sunski.com/products/avila",
+   "Tortoise Amber": "https://sunski.com/products/avila"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black Slate",
+   "Tortoise Amber"
+  ],
+  "images": [
+   "/images/catalog/a0bb1d59f2c0487eed.webp",
+   "/images/catalog/c2c48ce598a4d27517.webp"
+  ]
+ },
+ {
+  "id": "watch-9464661868821",
+  "name": "Casio MTP-1374D-1AVDF",
+  "brand": "Casio",
+  "department": "Watches & Sunglasses",
+  "category": "Watches",
+  "audience": "Men",
+  "price": 13158,
+  "tag": "Watches",
+  "description": "Casio Men's Black Dial Silver Stainless Steel Band Analog Quartz Watch - MTP-1374D-1AVDF",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "As pictured": {
+    "": {
+     "usd": 76.95,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 13158,
+     "sourceURL": "https://www.watchco.com/products/casio-watch-mtp-1374d-1avdf?variant=49715964510485",
+     "sourceVariantID": "49715964510485",
+     "sourceSKU": "MTP-1374D-1AVDF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Default Title",
+     "itemKind": "Watches"
+    }
+   }
+  },
+  "variants": {
+   "As pictured": [
+    "/images/catalog/830018eac493540001.webp"
+   ]
+  },
+  "swatches": {
+   "As pictured": "#a9a294"
+  },
+  "sourceURLs": {
+   "As pictured": "https://www.watchco.com/products/casio-watch-mtp-1374d-1avdf"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "As pictured"
+  ],
+  "images": [
+   "/images/catalog/830018eac493540001.webp"
+  ]
+ },
+ {
+  "id": "sunglasses-8893235025",
+  "name": "Sunski Headland",
+  "brand": "Sunski",
+  "department": "Watches & Sunglasses",
+  "category": "Sunglasses",
+  "audience": "Unisex",
+  "price": 9918,
+  "tag": "Sunglasses",
+  "description": "A Sunski sunglass frame. Choose your preferred finish.",
+  "sizeLabel": "One size",
+  "sizes": [],
+  "offers": {
+   "Black Forest": {
+    "": {
+     "usd": 58.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9918,
+     "sourceURL": "https://sunski.com/products/headland?variant=40791776264361",
+     "sourceVariantID": "40791776264361",
+     "sourceSKU": "SUN-HL-BKF",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Black Forest",
+     "itemKind": "Sunglasses"
+    }
+   },
+   "Blue": {
+    "": {
+     "usd": 58.0,
+     "usdEtbRate": 190,
+     "discountPercent": 10,
+     "etb": 9918,
+     "sourceURL": "https://sunski.com/products/headland?variant=46075065958569",
+     "sourceVariantID": "46075065958569",
+     "sourceSKU": "SUN-HL-BL",
+     "availableAtSource": true,
+     "sourceVariantTitle": "Blue",
+     "itemKind": "Sunglasses"
+    }
+   }
+  },
+  "variants": {
+   "Black Forest": [
+    "/images/catalog/1bb6b3833edf6ed989.webp"
+   ],
+   "Blue": [
+    "/images/catalog/95894c23fdb926bb20.webp"
+   ]
+  },
+  "swatches": {
+   "Black Forest": "#222326",
+   "Blue": "#4c7391"
+  },
+  "sourceURLs": {
+   "Black Forest": "https://sunski.com/products/headland",
+   "Blue": "https://sunski.com/products/headland"
+  },
+  "ratings": {},
+  "checkedAt": "2026-10-25",
+  "colors": [
+   "Black Forest",
+   "Blue"
+  ],
+  "images": [
+   "/images/catalog/1bb6b3833edf6ed989.webp",
+   "/images/catalog/95894c23fdb926bb20.webp"
   ]
  }
 ];
